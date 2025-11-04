@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+381517026,381517026,2500.0,2500.0,2016-01-02T20:00:25,535.84,alibaba.com,US,US,09,01,online_retail,11/2022,2015-10-12,2015-10-12,897,897,4432,PURCHASE,,0.0,,,,False,,,False,False
+381517026,381517026,2500.0,1964.16,2016-01-09T15:45:31,57.0,Hardee's #794138,US,US,09,08,fastfood,09/2027,2015-10-12,2015-10-12,897,897,4432,PURCHASE,,535.84,,,,True,,,False,False
+381517026,381517026,2500.0,1932.16,2016-05-04T13:01:32,919.07,gap.com,US,US,09,01,online_retail,05/2032,2015-10-12,2015-10-12,897,897,4432,PURCHASE,,567.84,,,,False,,,False,False
+381517026,381517026,2500.0,1038.0900000000001,2016-07-07T10:17:53,187.63,LES Pizza,US,US,05,01,food,07/2032,2015-10-12,2015-10-12,897,897,4432,PURCHASE,,1461.91,,,,True,,,False,False
+381517026,381517026,2500.0,850.46,2016-07-17T02:39:26,147.83,Burger King #821700,US,US,02,01,fastfood,07/2027,2015-10-12,2015-10-12,897,897,4432,PURCHASE,,1649.54,,,,True,,,False,False
+381517026,381517026,2500.0,727.63,2016-08-30T02:39:39,158.27,apple.com,US,US,02,01,online_retail,11/2027,2015-10-12,2015-10-12,897,897,4432,PURCHASE,,1772.37,,,,False,,,False,False
+381517026,381517026,2500.0,594.36,2016-09-29T18:05:55,67.86,oldnavy.com,US,US,05,01,online_retail,06/2026,2015-10-12,2015-10-12,897,897,4432,PURCHASE,,1905.64,,,,False,,,False,False
+381517026,381517026,2500.0,551.5,2016-10-04T14:52:32,4.48,cheapfast.com,US,US,09,08,online_retail,03/2025,2015-10-12,2015-10-12,897,897,4432,PURCHASE,,1948.5,,,,False,,,False,False
+381517026,381517026,2500.0,547.02,2016-10-11T00:38:54,23.83,discount.com,US,US,,01,online_retail,09/2031,2015-10-12,2015-10-12,897,897,4432,PURCHASE,,1952.98,,,,False,,,False,False

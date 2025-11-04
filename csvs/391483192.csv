@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+391483192,391483192,5000.0,5000.0,2016-03-04T16:50:03,361.08,Auntie Anne's #09926,US,US,02,01,fastfood,True,12/2032,2015-01-03,2015-01-03,866,866,719,PURCHASE,,0.0,,,,,,False,False
+391483192,391483192,5000.0,5000.0,2016-04-08T13:40:49,6.57,Domino's Pizza #718921,US,US,90,01,fastfood,True,05/2033,2015-01-03,2015-01-03,866,866,719,PURCHASE,,0.0,,,,,,False,False
+391483192,391483192,5000.0,5000.0,2016-06-15T08:20:18,129.8,Taco Bell #311677,US,US,05,01,fastfood,True,02/2022,2015-01-03,2015-01-03,866,866,719,PURCHASE,,0.0,,,,,,False,False
+391483192,391483192,5000.0,5000.0,2016-09-30T18:20:07,152.69,Five Guys #525896,US,US,05,01,fastfood,True,10/2029,2015-01-03,2015-01-03,866,866,719,PURCHASE,,0.0,,,,,,False,False
+391483192,391483192,5000.0,5000.0,2016-11-28T13:11:20,63.51,Boost Mobile #144555,US,US,05,01,cable/phone,False,04/2032,2015-01-03,2015-01-03,866,866,719,PURCHASE,,0.0,,,,,,False,False
+391483192,391483192,5000.0,4936.49,2016-11-29T19:46:03,26.96,Popeyes #477125,US,US,05,08,fastfood,True,04/2020,2015-01-03,2015-01-03,866,866,719,PURCHASE,,63.51,,,,,,False,False
+391483192,391483192,5000.0,5000.0,2016-12-11T15:45:29,213.7,Subway #568254,US,US,09,01,fastfood,True,10/2024,2015-01-03,2015-01-03,866,866,719,PURCHASE,,0.0,,,,,,False,False
+391483192,391483192,5000.0,4786.3,2016-12-28T09:36:03,71.68,Boost Mobile #144555,US,US,05,01,cable/phone,False,04/2032,2015-01-03,2015-01-03,866,866,719,PURCHASE,,213.7,,,,,,False,False

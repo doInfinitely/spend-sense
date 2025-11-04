@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+416480602,416480602,20000.0,20000.0,2016-06-03T21:57:02,137.3,Subway #755936,US,US,09,01,fastfood,True,11/2020,2013-05-27,2013-05-27,605,605,2832,PURCHASE,,0.0,,,,,,False,False
+416480602,416480602,20000.0,19862.7,2016-06-04T06:11:38,0.0,abc.com,US,US,02,01,online_subscriptions,False,06/2028,2013-05-27,2013-05-27,605,605,2832,PURCHASE,,137.3,,,,,,False,False
+416480602,416480602,20000.0,19887.7,2016-07-04T18:15:41,212.01,Wendys #37511,US,US,05,01,fastfood,True,07/2020,2013-05-27,2013-05-27,605,605,2832,PURCHASE,,112.3,,,,,,False,False
+416480602,416480602,20000.0,19675.69,2016-07-04T19:03:23,0.0,abc.com,US,US,02,01,online_subscriptions,False,06/2028,2013-05-27,2013-05-27,605,605,2832,PURCHASE,,324.31,,,,,,False,False
+416480602,416480602,20000.0,19700.69,2016-08-04T09:15:12,0.0,abc.com,US,US,02,01,online_subscriptions,False,06/2028,2013-05-27,2013-05-27,605,605,2832,PURCHASE,,299.31,,,,,,False,False
+416480602,416480602,20000.0,19725.69,2016-09-04T02:44:00,0.0,abc.com,US,US,02,01,online_subscriptions,False,06/2028,2013-05-27,2013-05-27,605,605,2832,PURCHASE,,274.31,,,,,,False,False
+416480602,416480602,20000.0,19750.69,2016-10-05T21:02:41,0.0,abc.com,US,US,02,01,online_subscriptions,False,06/2028,2013-05-27,2013-05-27,605,605,2832,PURCHASE,,249.31,,,,,,False,False
+416480602,416480602,20000.0,19775.69,2016-11-06T06:05:51,0.0,abc.com,US,US,02,01,online_subscriptions,False,06/2028,2013-05-27,2013-05-27,605,605,2832,PURCHASE,,224.31,,,,,,False,False
+416480602,416480602,20000.0,19800.69,2016-12-07T10:06:24,0.0,abc.com,US,US,02,01,online_subscriptions,False,06/2028,2013-05-27,2013-05-27,605,605,2832,PURCHASE,,199.31,,,,,,False,False

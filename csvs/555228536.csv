@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+555228536,555228536,50000.0,50000.0,2016-01-13T09:10:41,278.86,apple.com,US,US,09,01,online_retail,07/2031,2015-09-24,2015-09-24,164,164,708,PURCHASE,,0.0,,,,False,,,False,False
+555228536,555228536,50000.0,49746.14,2016-05-06T23:06:28,27.77,sears.com,US,US,05,01,online_retail,06/2026,2015-09-24,2015-09-24,723,723,4119,PURCHASE,,253.86,,,,False,,,False,False
+555228536,555228536,50000.0,49743.37,2016-06-30T10:09:42,110.83,walmart.com,US,US,09,01,online_retail,12/2030,2015-09-24,2015-09-24,594,594,3687,PURCHASE,,256.63,,,,False,,,False,False

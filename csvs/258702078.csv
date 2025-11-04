@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+258702078,258702078,50000.0,50000.0,2016-11-14T06:38:57,27.55,Curves #319027,US,US,09,08,gym,10/2025,2015-07-27,2015-07-27,437,437,9738,PURCHASE,,0.0,,,,False,,,False,False
+258702078,258702078,50000.0,49972.45,2016-11-27T16:04:03,27.55,Curves #319027,US,US,09,08,gym,10/2025,2015-07-27,2015-07-27,437,437,9738,PURCHASE,,27.55,,,,False,,,False,False
+258702078,258702078,50000.0,49969.9,2016-12-11T05:19:03,27.55,Curves #319027,US,US,09,08,gym,10/2025,2015-07-27,2015-07-27,437,437,9738,PURCHASE,,30.1,,,,False,,,False,False
+258702078,258702078,50000.0,49942.35,2016-12-25T04:09:51,27.55,Curves #319027,US,US,09,08,gym,10/2025,2015-07-27,2015-07-27,437,437,9738,PURCHASE,,57.65,,,,False,,,False,False

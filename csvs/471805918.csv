@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+471805918,471805918,20000.0,20000.0,2016-01-20T14:50:09,224.91,Auntie Anne's #423223,US,US,05,01,fastfood,True,08/2022,2013-10-27,2013-10-27,307,307,7576,PURCHASE,,0.0,,,,,,False,False
+471805918,471805918,20000.0,19800.09,2016-04-05T15:31:23,116.73,Wendys #802245,US,US,05,01,fastfood,True,02/2026,2013-10-27,2013-10-27,307,307,7576,PURCHASE,,199.91,,,,,,False,False
+471805918,471805918,20000.0,19708.36,2016-06-06T17:17:32,15.57,netflix.com,US,US,02,01,online_subscriptions,False,02/2030,2013-10-27,2013-10-27,307,307,7576,PURCHASE,,291.64,,,,,,False,False
+471805918,471805918,20000.0,19717.79,2016-07-08T00:15:07,15.57,netflix.com,US,US,02,01,online_subscriptions,False,02/2030,2013-10-27,2013-10-27,307,307,7576,PURCHASE,,282.21,,,,,,False,False
+471805918,471805918,20000.0,19727.22,2016-08-08T15:50:14,15.57,netflix.com,US,US,02,01,online_subscriptions,False,02/2030,2013-10-27,2013-10-27,307,307,7576,PURCHASE,,272.78,,,,,,False,False
+471805918,471805918,20000.0,19736.65,2016-09-07T22:02:47,15.57,netflix.com,US,US,02,01,online_subscriptions,False,02/2030,2013-10-27,2013-10-27,307,307,7576,PURCHASE,,263.35,,,,,,False,False
+471805918,471805918,20000.0,19746.08,2016-10-08T01:00:03,15.57,netflix.com,US,US,02,01,online_subscriptions,False,02/2030,2013-10-27,2013-10-27,307,307,7576,PURCHASE,,253.92,,,,,,False,False
+471805918,471805918,20000.0,19755.51,2016-11-07T18:30:37,15.57,netflix.com,US,US,02,01,online_subscriptions,False,02/2030,2013-10-27,2013-10-27,307,307,7576,PURCHASE,,244.49,,,,,,False,False
+471805918,471805918,20000.0,19764.94,2016-12-08T15:30:10,15.57,netflix.com,US,US,02,01,online_subscriptions,False,02/2030,2013-10-27,2013-10-27,307,307,7576,PURCHASE,,235.06,,,,,,False,False

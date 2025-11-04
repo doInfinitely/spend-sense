@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+693598294,693598294,10000.0,10000.0,2016-03-20T10:55:08,7.51,Play Store,US,US,05,01,mobileapps,11/2022,2015-05-28,2015-05-28,517,517,8584,PURCHASE,,0.0,,,,False,,,False,False
+693598294,693598294,10000.0,10000.0,2016-04-21T07:30:27,7.51,Play Store,US,US,05,01,mobileapps,11/2022,2015-05-28,2015-05-28,517,517,8584,PURCHASE,,0.0,,,,False,,,False,False
+693598294,693598294,10000.0,10000.0,2016-05-21T20:03:22,7.51,Play Store,US,US,05,01,mobileapps,11/2022,2015-05-28,2015-05-28,517,517,8584,PURCHASE,,0.0,,,,False,,,False,False
+693598294,693598294,10000.0,10000.0,2016-06-21T22:45:26,7.51,Play Store,US,US,05,01,mobileapps,11/2022,2015-05-28,2015-05-28,517,517,8584,PURCHASE,,0.0,,,,False,,,False,False
+693598294,693598294,10000.0,10000.0,2016-07-22T19:55:02,7.51,Play Store,US,US,05,01,mobileapps,11/2022,2015-05-28,2015-05-28,517,517,8584,PURCHASE,,0.0,,,,False,,,False,False
+693598294,693598294,10000.0,10000.0,2016-08-21T22:58:37,7.51,Play Store,US,US,05,01,mobileapps,11/2022,2015-05-28,2015-05-28,517,517,8584,PURCHASE,,0.0,,,,False,,,False,False
+693598294,693598294,10000.0,10000.0,2016-09-22T10:16:14,7.51,Play Store,US,US,05,01,mobileapps,11/2022,2015-05-28,2015-05-28,517,517,8584,PURCHASE,,0.0,,,,False,,,False,False
+693598294,693598294,10000.0,10000.0,2016-10-22T22:23:28,7.51,Play Store,US,US,05,01,mobileapps,11/2022,2015-05-28,2015-05-28,517,517,8584,PURCHASE,,0.0,,,,False,,,False,False
+693598294,693598294,10000.0,10000.0,2016-11-22T23:48:59,7.51,Play Store,US,US,05,01,mobileapps,11/2022,2015-05-28,2015-05-28,517,517,8584,PURCHASE,,0.0,,,,False,,,False,False
+693598294,693598294,10000.0,10000.0,2016-12-24T15:25:22,7.51,Play Store,US,US,05,01,mobileapps,11/2022,2015-05-28,2015-05-28,517,517,8584,PURCHASE,,0.0,,,,False,,,False,False

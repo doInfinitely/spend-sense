@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+324189278,324189278,250.0,250.0,2016-10-14T16:57:04,22.11,Spotify,US,US,02,01,online_subscriptions,05/2021,2014-03-04,2014-03-04,390,390,5327,PURCHASE,,0.0,,,,False,,,False,False
+324189278,324189278,250.0,250.0,2016-11-07T20:44:15,24.55,Texas Gas #523608,US,US,05,08,fuel,11/2025,2014-03-04,2014-03-04,390,390,5327,PURCHASE,,0.0,,,,True,,,False,False
+324189278,324189278,250.0,225.45,2016-11-13T18:41:15,22.11,Spotify,US,US,02,01,online_subscriptions,05/2021,2014-03-04,2014-03-04,390,390,5327,PURCHASE,,24.55,,,,False,,,False,False
+324189278,324189278,250.0,203.34,2016-11-21T09:23:44,30.37,Texas Gas #523608,US,US,05,08,fuel,11/2025,2014-03-04,2014-03-04,390,390,5327,PURCHASE,,46.66,,,,True,,,False,False
+324189278,324189278,250.0,250.0,2016-12-04T11:27:36,26.66,Texas Gas #523608,US,US,05,08,fuel,11/2025,2014-03-04,2014-03-04,390,390,5327,PURCHASE,,0.0,,,,True,,,False,False
+324189278,324189278,250.0,223.34,2016-12-14T07:22:23,22.11,Spotify,US,US,02,01,online_subscriptions,05/2021,2014-03-04,2014-03-04,390,390,5327,PURCHASE,,26.66,,,,False,,,False,False
+324189278,324189278,250.0,201.23,2016-12-19T00:09:38,29.19,Texas Gas #523608,US,US,05,08,fuel,11/2025,2014-03-04,2014-03-04,390,390,5327,PURCHASE,,48.77,,,,True,,,False,False

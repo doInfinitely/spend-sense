@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+817482848,817482848,250.0,250.0,2016-07-04T23:24:02,129.59,Shell Repair,US,US,09,01,auto,True,05/2029,2013-09-23,2013-09-23,403,403,155,PURCHASE,,0.0,,,,,,False,False
+817482848,817482848,250.0,250.0,2016-08-30T01:33:54,4.93,Eazy Repair,US,US,05,01,auto,True,01/2031,2013-09-23,2013-09-23,403,403,155,PURCHASE,,0.0,,,,,,False,False
+817482848,817482848,250.0,250.0,2016-10-17T14:01:44,49.46,Ricks Auto Body,US,US,05,08,auto,True,07/2026,2013-09-23,2013-09-23,403,403,155,PURCHASE,,0.0,,,,,,False,False
+817482848,817482848,250.0,250.0,2016-11-12T21:59:00,10.17,netflix.com,US,US,05,01,online_subscriptions,False,11/2032,2013-09-23,2013-09-23,403,403,155,PURCHASE,,0.0,,,,,,False,False
+817482848,817482848,250.0,250.0,2016-12-14T00:33:04,10.17,netflix.com,US,US,05,01,online_subscriptions,False,11/2032,2013-09-23,2013-09-23,403,403,155,PURCHASE,,0.0,,,,,,False,False

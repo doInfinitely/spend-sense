@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+216495958,216495958,15000.0,15000.0,2016-02-21T15:56:52,32.52,EZ Putt Putt #755869,US,US,05,01,entertainment,01/2027,2014-10-17,2014-10-17,566,566,942,PURCHASE,,0.0,,,,False,,,False,False
+216495958,216495958,15000.0,14992.48,2016-03-19T08:02:19,533.39,AMC #79863,US,US,05,01,entertainment,02/2031,2014-10-17,2014-10-17,566,566,942,PURCHASE,,7.52,,,,True,,,False,False
+216495958,216495958,15000.0,14484.09,2016-04-30T07:02:47,91.93,AMC #706324,US,US,02,01,entertainment,02/2031,2014-10-17,2014-10-17,566,566,942,PURCHASE,,515.91,,,,True,,,False,False
+216495958,216495958,15000.0,14417.16,2016-06-01T03:18:05,131.52,AMC #74121,US,US,05,01,entertainment,02/2028,2014-10-17,2014-10-17,566,566,942,PURCHASE,,582.84,,,,True,,,False,False
+216495958,216495958,15000.0,14310.64,2016-07-18T07:01:11,36.4,34th BBQ #214431,US,US,90,01,food,01/2032,2014-10-17,2014-10-17,566,566,942,PURCHASE,,689.36,,,,True,,,False,False
+216495958,216495958,15000.0,14274.24,2016-07-26T19:42:43,0.58,AMC #606218,US,US,05,01,entertainment,06/2025,2014-10-17,2014-10-17,566,566,942,PURCHASE,,725.76,,,,False,,,False,False
+216495958,216495958,15000.0,14298.66,2016-09-15T15:53:45,48.56,EZ Putt Putt #982199,US,US,09,01,entertainment,02/2029,2014-10-17,2014-10-17,566,566,942,PURCHASE,,701.34,,,,True,,,False,False
+216495958,216495958,15000.0,14275.1,2016-11-07T19:56:31,53.17,Regal Cinemas #729464,US,US,09,01,entertainment,01/2030,2014-10-17,2014-10-17,566,566,942,PURCHASE,,724.9,,,,True,,,False,False

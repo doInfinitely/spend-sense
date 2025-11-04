@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posEntryMode,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+725069261,725069261,15000.0,15000.0,2016-01-07T23:21:09,32.09,staples.com,US,US,01,online_retail,12/2027,2014-10-18,2014-10-18,130,130,6797,PURCHASE,,0.0,,,,,False,,,False,False
+725069261,725069261,15000.0,15000.0,2016-02-17T02:59:26,31.2,target.com,US,US,01,online_retail,09/2030,2014-10-18,2014-10-18,507,507,4462,PURCHASE,,0.0,,,,02,False,,,False,False
+725069261,725069261,15000.0,14968.8,2016-02-18T23:34:26,8.57,alibaba.com,US,US,01,online_retail,08/2022,2014-10-18,2014-10-18,130,130,6797,PURCHASE,,31.2,,,,09,False,,,False,False
+725069261,725069261,15000.0,15000.0,2016-07-07T11:34:24,73.32,discount.com,US,US,01,online_retail,12/2020,2014-10-18,2014-10-18,507,507,4462,PURCHASE,,0.0,,,,09,False,,,False,False
+725069261,725069261,15000.0,15000.0,2016-08-07T11:45:29,256.6,staples.com,US,US,08,online_retail,01/2033,2014-10-18,2014-10-18,507,507,4462,PURCHASE,,0.0,,,,02,False,,,False,False
+725069261,725069261,15000.0,14743.4,2016-08-21T14:58:24,5.5,discount.com,US,US,01,online_retail,03/2030,2014-10-18,2014-10-18,130,130,6797,PURCHASE,,256.6,,,,09,False,,,False,False
+725069261,725069261,15000.0,15000.0,2016-11-17T12:03:12,60.48,discount.com,US,US,01,online_retail,03/2020,2014-10-18,2014-10-18,130,130,6797,PURCHASE,,0.0,,,,09,False,,,False,False

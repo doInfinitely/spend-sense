@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+627144937,627144937,5000.0,5000.0,2016-03-21T21:04:21,9.14,Domino's Pizza #112007,US,US,09,08,fastfood,True,01/2025,2012-08-11,2012-08-11,230,230,1019,PURCHASE,,0.0,,,,,,False,False
+627144937,627144937,5000.0,5000.0,2016-07-20T17:47:37,227.41,In-N-Out #969690,US,US,02,01,fastfood,True,08/2032,2012-08-11,2012-08-11,230,230,1019,PURCHASE,,0.0,,,,,,False,False
+627144937,627144937,5000.0,4797.59,2016-08-18T04:03:57,200.39,Hardee's #533765,US,US,09,01,fastfood,True,03/2027,2012-08-11,2012-08-11,230,230,1019,PURCHASE,,202.41,,,,,,False,False

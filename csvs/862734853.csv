@@ -1,0 +1,13 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+862734853,862734853,7500.0,7500.0,2016-02-14T06:28:14,96.6,Dunkin' Donuts #232976,US,US,02,08,fastfood,True,01/2024,2015-06-14,2015-06-14,225,225,2431,PURCHASE,,0.0,,,,,,False,False
+862734853,862734853,7500.0,7428.4,2016-05-13T18:14:50,80.61,American Airlines,US,US,05,08,airline,False,01/2022,2015-06-14,2015-06-14,225,225,2431,PURCHASE,,71.6,,,,,,False,False
+862734853,862734853,7500.0,7372.79,2016-07-07T21:40:45,118.08,alibaba.com,US,US,02,01,online_retail,False,09/2023,2015-06-14,2015-06-14,225,225,2431,PURCHASE,,127.21,,,,,,False,False
+862734853,862734853,7500.0,7279.71,2016-09-29T23:50:04,19.16,netflix.com,US,US,02,01,online_subscriptions,False,04/2030,2015-06-14,2015-06-14,225,225,2431,PURCHASE,,220.29,,,,,,False,False
+862734853,862734853,7500.0,7285.55,2016-10-04T11:13:34,170.88,ebay.com,US,US,02,01,online_retail,False,12/2029,2015-06-14,2015-06-14,225,225,2431,PURCHASE,,214.45,,,,,,False,False
+862734853,862734853,7500.0,7114.67,2016-10-11T17:53:31,73.03,ebay.com,US,US,,01,online_retail,False,02/2025,2015-06-14,2015-06-14,225,225,2431,PURCHASE,,385.33,,,,,,False,False
+862734853,862734853,7500.0,7041.64,2016-10-30T03:56:32,19.16,netflix.com,US,US,02,01,online_subscriptions,False,04/2030,2015-06-14,2015-06-14,225,225,2431,PURCHASE,,458.36,,,,,,False,False
+862734853,862734853,7500.0,7047.48,2016-11-03T15:08:50,3.4,Play Store,US,US,02,01,mobileapps,False,05/2031,2015-06-14,2015-06-14,225,225,2431,PURCHASE,,452.52,,,,,,False,False
+862734853,862734853,7500.0,7044.08,2016-11-29T04:29:12,19.16,netflix.com,US,US,02,01,online_subscriptions,False,04/2030,2015-06-14,2015-06-14,225,225,2431,PURCHASE,,455.92,,,,,,False,False
+862734853,862734853,7500.0,7049.92,2016-12-05T07:13:04,3.4,Play Store,US,US,02,01,mobileapps,False,05/2031,2015-06-14,2015-06-14,225,225,2431,PURCHASE,,450.08,,,,,,False,False
+862734853,862734853,7500.0,7046.52,2016-12-27T01:11:00,61.46,Shell Gas #477124,US,US,05,01,fuel,True,07/2026,2015-06-14,2015-06-14,225,225,2431,PURCHASE,,453.48,,,,,,False,False
+862734853,862734853,7500.0,6985.06,2016-12-30T09:46:20,19.16,netflix.com,US,US,02,01,online_subscriptions,False,04/2030,2015-06-14,2015-06-14,225,225,2431,PURCHASE,,514.94,,,,,,False,False

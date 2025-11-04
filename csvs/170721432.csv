@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+170721432,170721432,20000.0,20000.0,2016-02-02T05:00:33,68.78,Lyft,US,US,05,01,rideshare,05/2023,2011-07-26,2011-07-26,346,346,2179,PURCHASE,,0.0,,,,False,,,False,False
+170721432,170721432,20000.0,19956.22,2016-11-14T15:36:44,5.73,Apple iTunes,US,US,02,08,mobileapps,04/2021,2011-07-26,2011-07-26,346,346,2179,PURCHASE,,43.78,,,,False,,,False,False
+170721432,170721432,20000.0,19950.49,2016-11-19T02:57:39,612.03,Icelandic Airlines,US,US,09,01,airline,08/2020,2011-07-26,2011-07-26,466,466,9331,PURCHASE,,49.51,,,,False,,,False,False
+170721432,170721432,20000.0,19363.46,2016-12-15T07:53:11,5.73,Apple iTunes,US,US,02,08,mobileapps,04/2021,2011-07-26,2011-07-26,346,346,2179,PURCHASE,,636.54,,,,False,,,False,False

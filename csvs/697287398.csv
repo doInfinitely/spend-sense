@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+697287398,697287398,250.0,250.0,2016-01-06T08:11:30,77.62,oldnavy.com,US,US,05,01,online_retail,03/2022,2015-06-08,2015-06-08,744,744,6131,PURCHASE,,0.0,,,,False,,,False,False
+697287398,697287398,250.0,250.0,2016-02-04T23:48:47,33.22,staples.com,US,US,05,08,online_retail,06/2026,2015-06-08,2015-06-08,744,744,6131,PURCHASE,,0.0,,,,False,,,False,False
+697287398,697287398,250.0,216.78,2016-02-29T18:30:39,44.21,oldnavy.com,US,US,05,01,online_retail,09/2023,2015-06-08,2015-06-08,744,744,6131,PURCHASE,,33.22,,,,False,,,False,False
+697287398,697287398,250.0,250.0,2016-08-27T18:59:01,110.1,discount.com,US,US,09,01,online_retail,01/2024,2015-06-08,2015-06-08,744,744,6131,PURCHASE,,0.0,,,,False,,,False,False
+697287398,697287398,250.0,139.9,2016-08-28T19:18:53,535.21,target.com,US,US,02,01,online_retail,02/2023,2015-06-08,2015-06-08,744,744,6131,PURCHASE,,110.1,,,,False,,,False,False
+697287398,697287398,250.0,250.0,2016-09-19T03:06:00,42.89,oldnavy.com,,US,02,01,online_retail,10/2024,2015-06-08,2015-06-08,744,744,6131,PURCHASE,,0.0,,,,False,,,False,False
+697287398,697287398,250.0,250.0,2016-11-12T00:01:04,31.12,discount.com,US,US,80,08,online_retail,05/2020,2015-06-08,2015-06-08,744,744,6131,PURCHASE,,0.0,,,,False,,,False,False
+697287398,697287398,250.0,218.88,2016-11-29T05:28:22,31.12,discount.com,US,US,80,08,online_retail,05/2020,2015-06-08,2015-06-08,744,744,6131,REVERSAL,,31.12,,,,False,,,False,False
+697287398,697287398,250.0,250.0,2016-11-29T15:50:55,82.37,ebay.com,US,US,09,08,online_retail,07/2032,2015-06-08,2015-06-08,744,744,6131,PURCHASE,,0.0,,,,False,,,False,False
+697287398,697287398,250.0,250.0,2016-12-08T01:32:08,0.0,target.com,US,US,09,08,online_retail,06/2029,2015-06-08,2015-06-08,744,744,6131,ADDRESS_VERIFICATION,,0.0,,,,False,,,False,False

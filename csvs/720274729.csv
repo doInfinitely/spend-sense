@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+720274729,720274729,20000.0,20000.0,2016-04-12T21:53:55,52.69,gap.com,US,US,09,01,online_retail,03/2033,2015-05-21,2015-05-21,444,444,4399,PURCHASE,,0.0,,,,False,,,False,False
+720274729,720274729,20000.0,20000.0,2016-07-03T00:41:49,177.19,alibaba.com,US,US,09,01,online_retail,02/2020,2015-05-21,2015-05-21,444,444,4399,PURCHASE,,0.0,,,,False,,,False,False
+720274729,720274729,20000.0,19822.81,2016-07-18T05:25:05,272.01,cheapfast.com,US,US,05,08,online_retail,06/2026,2015-05-21,2015-05-21,444,444,4399,PURCHASE,,177.19,,,,False,,,False,False
+720274729,720274729,20000.0,19550.8,2016-07-23T13:51:44,62.39,gap.com,US,US,09,01,online_retail,12/2020,2015-05-21,2015-05-21,444,444,4399,PURCHASE,,449.2,,,,False,,,False,False
+720274729,720274729,20000.0,20000.0,2016-08-24T05:02:34,263.44,walmart.com,US,US,09,01,online_retail,05/2024,2015-05-21,2015-05-21,444,444,4399,PURCHASE,,0.0,,,,False,,,False,False

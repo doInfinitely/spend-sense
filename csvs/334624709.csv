@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+334624709,334624709,7500.0,7500.0,2016-04-05T19:23:55,40.93,amazon.com,US,US,02,01,online_retail,10/2031,2015-12-15,2015-12-15,986,986,7102,PURCHASE,,0.0,,,,False,,,False,False
+334624709,334624709,7500.0,7459.07,2016-04-07T15:19:35,67.12,walmart.com,US,US,80,01,online_retail,06/2028,2015-12-15,2015-12-15,986,986,7102,PURCHASE,,40.93,,,,False,,,False,False
+334624709,334624709,7500.0,7500.0,2016-07-03T05:48:19,4.41,ebay.com,US,US,09,01,online_retail,10/2028,2015-12-15,2015-12-15,986,986,7102,PURCHASE,,0.0,,,,False,,,False,False
+334624709,334624709,7500.0,7500.0,2016-09-10T11:26:39,170.07,target.com,US,US,05,01,online_retail,02/2031,2015-12-15,2015-12-15,986,786,7102,PURCHASE,,0.0,,,,False,,,False,False
+334624709,334624709,7500.0,7500.0,2016-12-06T23:16:35,176.49,sears.com,US,US,02,08,online_retail,06/2029,2015-12-15,2015-12-15,986,986,7102,PURCHASE,,0.0,,,,False,,,False,False
+334624709,334624709,7500.0,7323.51,2016-12-14T01:44:40,6.17,Play Store,US,US,09,01,mobileapps,11/2029,2015-12-15,2015-12-15,986,986,7102,PURCHASE,,176.49,,,,False,,,False,False
+334624709,334624709,7500.0,7317.34,2016-12-19T04:33:43,13.59,hulu.com,US,US,05,01,online_subscriptions,03/2031,2015-12-15,2015-12-15,986,986,7102,PURCHASE,,182.66,,,,False,,,False,False

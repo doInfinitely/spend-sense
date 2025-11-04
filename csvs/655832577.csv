@@ -1,0 +1,12 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+655832577,655832577,7500.0,7500.0,2016-01-23T17:15:33,11.82,Dinosaur Drive in,US,US,02,01,food,True,03/2031,2013-10-05,2013-10-05,362,362,5042,PURCHASE,,0.0,,,,,,False,False
+655832577,655832577,7500.0,7500.0,2016-04-07T11:27:28,1.4,Boston Fries,US,US,09,01,food,True,07/2027,2013-10-05,2013-10-05,130,130,7061,PURCHASE,,0.0,,,,,,False,False
+655832577,655832577,7500.0,7500.0,2016-05-31T06:28:32,210.17,Renaissance Hotel #845122,US,US,09,01,hotels,True,12/2024,2013-10-05,2013-10-05,362,362,5042,PURCHASE,,0.0,,,,,,False,False
+655832577,655832577,7500.0,7314.83,2016-06-23T21:30:40,189.03,Hilton Hotels #698635,US,US,09,01,hotels,True,06/2023,2013-10-05,2013-10-05,130,130,7061,PURCHASE,,185.17,,,,,,False,False
+655832577,655832577,7500.0,7150.8,2016-09-01T10:41:30,10.19,Downtown Sandwitch Bar,US,US,02,01,food,True,10/2026,2013-10-05,2013-10-05,362,362,5042,PURCHASE,,349.2,,,,,,False,False
+655832577,655832577,7500.0,7165.61,2016-10-18T21:25:36,278.9,Dinosaur Fries,US,US,05,01,food,True,09/2024,2013-10-05,2013-10-05,130,130,7061,PURCHASE,,334.39,,,,,,False,False
+655832577,655832577,7500.0,6886.71,2016-10-29T14:07:11,7.83,Apple iTunes,US,US,02,01,mobileapps,False,06/2032,2013-10-05,2013-10-05,362,362,5042,PURCHASE,,613.29,,,,,,False,False
+655832577,655832577,7500.0,6903.88,2016-11-11T19:20:11,13.94,hulu.com,US,US,09,08,online_subscriptions,False,05/2026,2013-10-05,2013-10-05,362,362,5042,PURCHASE,,596.12,,,,,,False,False
+655832577,655832577,7500.0,6889.94,2016-11-29T10:16:51,7.83,Apple iTunes,US,US,02,01,mobileapps,False,06/2032,2013-10-05,2013-10-05,362,362,5042,PURCHASE,,610.06,,,,,,False,False
+655832577,655832577,7500.0,6907.11,2016-12-13T18:48:43,13.94,hulu.com,US,US,09,08,online_subscriptions,False,05/2026,2013-10-05,2013-10-05,362,362,5042,PURCHASE,,592.89,,,,,,False,False
+655832577,655832577,7500.0,6893.17,2016-12-29T21:50:24,7.83,Apple iTunes,US,US,02,01,mobileapps,False,06/2032,2013-10-05,2013-10-05,362,362,5042,PURCHASE,,606.83,,,,,,False,False

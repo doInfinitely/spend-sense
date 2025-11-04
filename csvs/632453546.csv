@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,transactionAmount,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+632453546,632453546,5000.0,5000.0,2016-02-26T12:10:53,discount.com,US,US,05,01,online_retail,10/2020,2010-07-19,2010-07-19,204,204,2768,ADDRESS_VERIFICATION,,0.0,0.0,,,,False,,,False,False
+632453546,632453546,5000.0,5000.0,2016-08-12T18:23:43,amazon.com,US,US,09,08,online_retail,09/2031,2010-07-19,2010-07-19,204,204,2768,PURCHASE,,0.0,121.38,,,,False,,,False,True
+632453546,632453546,5000.0,4903.62,2016-10-24T17:32:07,Play Store,US,US,05,01,mobileapps,07/2029,2010-07-19,2010-07-19,204,204,2768,PURCHASE,,96.38,5.85,,,,False,,,False,False
+632453546,632453546,5000.0,4922.77,2016-11-24T23:26:17,Play Store,US,US,05,01,mobileapps,07/2029,2010-07-19,2010-07-19,204,204,2768,PURCHASE,,77.23,5.85,,,,False,,,False,False
+632453546,632453546,5000.0,4941.92,2016-12-14T19:50:07,target.com,US,US,05,01,online_retail,03/2031,2010-07-19,2010-07-19,204,204,2768,PURCHASE,,58.08,43.01,,,,False,,,False,False
+632453546,632453546,5000.0,4898.91,2016-12-14T19:50:16,target.com,US,US,05,01,online_retail,03/2031,2010-07-19,2010-07-19,204,204,2768,PURCHASE,,101.09,43.01,,,,False,,,False,False
+632453546,632453546,5000.0,4855.9,2016-12-25T22:37:03,Play Store,US,US,05,01,mobileapps,07/2029,2010-07-19,2010-07-19,204,204,2768,PURCHASE,,144.1,5.85,,,,False,,,False,False

@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+117476941,117476941,5000.0,5000.0,2016-07-15T09:48:50,104.41,Best Pub,US,US,05,01,food,True,08/2028,2014-03-07,2014-03-07,315,315,1539,PURCHASE,,0.0,,,,,,False,False
+117476941,117476941,5000.0,4920.59,2016-12-07T10:36:31,3.66,Franks Pub #829873,US,US,05,01,food,True,05/2033,2014-03-07,2014-03-07,315,315,1539,PURCHASE,,79.41,,,,,,False,False
+117476941,117476941,5000.0,4916.93,2016-12-19T19:53:01,3.64,Play Store,US,US,02,01,mobileapps,False,05/2021,2014-03-07,2014-03-07,315,315,1539,PURCHASE,,83.07,,,,,,False,False

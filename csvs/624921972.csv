@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+624921972,624921972,20000.0,20000.0,2016-02-02T23:59:25,25.08,Domino's Pizza #822153,US,US,05,01,fastfood,True,12/2029,2013-02-02,2013-02-02,930,930,4458,PURCHASE,,0.0,,,,,,False,False
+624921972,624921972,20000.0,20000.0,2016-07-10T21:07:30,14.0,WSC #406674,US,US,09,01,health,False,08/2032,2013-02-02,2013-02-02,930,930,4458,PURCHASE,,0.0,,,,,,False,False
+624921972,624921972,20000.0,20000.0,2016-10-08T21:26:40,15.17,Spotify,US,US,09,01,online_subscriptions,False,09/2022,2013-02-02,2013-02-02,930,930,4458,PURCHASE,,0.0,,,,,,False,False
+624921972,624921972,20000.0,19984.83,2016-10-17T00:12:44,60.64,staples.com,US,US,80,01,online_retail,False,03/2026,2013-02-02,2013-02-02,930,930,4458,PURCHASE,,15.17,,,,,,False,True
+624921972,624921972,20000.0,20000.0,2016-11-08T17:52:33,15.17,Spotify,US,US,09,01,online_subscriptions,False,09/2022,2013-02-02,2013-02-02,930,930,4458,PURCHASE,,0.0,,,,,,False,False
+624921972,624921972,20000.0,20000.0,2016-12-09T13:24:36,15.17,Spotify,US,US,09,01,online_subscriptions,False,09/2022,2013-02-02,2013-02-02,930,930,4458,PURCHASE,,0.0,,,,,,False,False

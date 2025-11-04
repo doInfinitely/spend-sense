@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+135678301,135678301,20000.0,20000.0,2016-04-13T10:54:36,146.33,South Steakhouse #481929,US,US,02,01,food,True,11/2032,2015-04-20,2015-04-20,228,228,1559,PURCHASE,,0.0,,,,,,False,False
+135678301,135678301,20000.0,19878.67,2016-08-22T10:54:59,141.22,1st Sandwitch Bar #941288,US,US,05,01,food,True,09/2028,2015-04-20,2015-04-20,228,228,1559,PURCHASE,,121.33,,,,,,False,False
+135678301,135678301,20000.0,19762.45,2016-10-22T22:15:33,268.4,Domino's Pizza #660134,US,US,09,08,fastfood,True,11/2025,2015-04-20,2015-04-20,228,228,1559,PURCHASE,,237.55,,,,,,False,False
+135678301,135678301,20000.0,19519.05,2016-12-22T16:58:28,318.35,walmart.com,US,US,09,01,online_retail,False,09/2031,2015-04-20,2015-04-20,228,228,1559,PURCHASE,,480.95,,,,,,False,False

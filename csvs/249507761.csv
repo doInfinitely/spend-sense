@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posConditionCode,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+249507761,249507761,2500.0,2500.0,2016-04-29T00:48:24,8.92,Apple iTunes,US,US,90,mobileapps,10/2027,2014-03-31,2014-03-31,669,669,5720,PURCHASE,,0.0,,,,,False,,,False,False
+249507761,249507761,2500.0,2500.0,2016-05-29T10:58:47,8.92,Apple iTunes,US,US,90,mobileapps,10/2027,2014-03-31,2014-03-31,669,669,5720,PURCHASE,,0.0,,,,,False,,,False,False
+249507761,249507761,2500.0,2500.0,2016-06-30T04:58:39,8.92,Apple iTunes,US,US,90,mobileapps,10/2027,2014-03-31,2014-03-31,669,669,5720,PURCHASE,,0.0,,,,,False,,,False,False
+249507761,249507761,2500.0,2500.0,2016-07-14T11:00:27,433.3,Downtown Sandwitch Bar,US,US,09,food,08/2026,2014-03-31,2014-03-31,669,669,5720,PURCHASE,,0.0,,,,01,True,,,False,False
+249507761,249507761,2500.0,2066.7,2016-07-31T17:47:02,8.92,Apple iTunes,US,US,90,mobileapps,10/2027,2014-03-31,2014-03-31,669,669,5720,PURCHASE,,433.3,,,,,False,,,False,False
+249507761,249507761,2500.0,2082.78,2016-09-01T01:57:41,8.92,Apple iTunes,US,US,90,mobileapps,10/2027,2014-03-31,2014-03-31,669,669,5720,PURCHASE,,417.22,,,,,False,,,False,False
+249507761,249507761,2500.0,2098.86,2016-10-02T15:57:58,8.92,Apple iTunes,US,US,90,mobileapps,10/2027,2014-03-31,2014-03-31,669,669,5720,PURCHASE,,401.14,,,,,False,,,False,False
+249507761,249507761,2500.0,2114.94,2016-11-02T22:57:55,8.92,Apple iTunes,US,US,90,mobileapps,10/2027,2014-03-31,2014-03-31,669,669,5720,PURCHASE,,385.06,,,,,False,,,False,False
+249507761,249507761,2500.0,2131.02,2016-12-03T02:31:56,8.92,Apple iTunes,US,US,90,mobileapps,10/2027,2014-03-31,2014-03-31,669,669,5720,PURCHASE,,368.98,,,,,False,,,False,False

@@ -1,0 +1,14 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+102038975,102038975,5000.0,5000.0,2016-02-05T19:38:13,13.02,abc.com,US,US,02,01,online_subscriptions,04/2032,2015-09-21,2015-09-21,310,310,3258,PURCHASE,,0.0,,,,False,,,False,False
+102038975,102038975,5000.0,5000.0,2016-03-07T17:16:47,13.02,abc.com,US,US,02,01,online_subscriptions,04/2032,2015-09-21,2015-09-21,310,310,3258,PURCHASE,,0.0,,,,False,,,False,False
+102038975,102038975,5000.0,5000.0,2016-04-07T15:07:26,13.02,abc.com,US,US,02,01,online_subscriptions,04/2032,2015-09-21,2015-09-21,310,310,3258,PURCHASE,,0.0,,,,False,,,False,False
+102038975,102038975,5000.0,5000.0,2016-05-07T17:12:43,13.02,abc.com,US,US,02,01,online_subscriptions,04/2032,2015-09-21,2015-09-21,310,310,3258,PURCHASE,,0.0,,,,False,,,False,False
+102038975,102038975,5000.0,4986.98,2016-05-09T02:48:23,117.0,KFC #304124,US,US,05,01,fastfood,01/2027,2015-09-21,2015-09-21,310,310,3258,PURCHASE,,13.02,,,,True,,,False,False
+102038975,102038975,5000.0,4869.98,2016-05-09T02:49:00,117.0,KFC #304124,US,US,05,01,fastfood,01/2027,2015-09-21,2015-09-21,310,310,3258,PURCHASE,,130.02,,,,True,,,False,False
+102038975,102038975,5000.0,4777.98,2016-06-07T04:32:37,13.02,abc.com,US,US,02,01,online_subscriptions,04/2032,2015-09-21,2015-09-21,310,310,3258,PURCHASE,,222.02,,,,False,,,False,False
+102038975,102038975,5000.0,4789.96,2016-07-08T03:07:31,13.02,abc.com,US,US,02,01,online_subscriptions,04/2032,2015-09-21,2015-09-21,310,310,3258,PURCHASE,,210.04,,,,False,,,False,False
+102038975,102038975,5000.0,4801.94,2016-08-07T21:34:22,13.02,abc.com,US,US,02,01,online_subscriptions,04/2032,2015-09-21,2015-09-21,310,310,3258,PURCHASE,,198.06,,,,False,,,False,False
+102038975,102038975,5000.0,4813.92,2016-09-08T08:08:20,13.02,abc.com,US,US,02,01,online_subscriptions,04/2032,2015-09-21,2015-09-21,310,310,3258,PURCHASE,,186.08,,,,False,,,False,False
+102038975,102038975,5000.0,4825.9,2016-10-09T02:44:05,13.02,abc.com,US,US,02,01,online_subscriptions,04/2032,2015-09-21,2015-09-21,310,310,3258,PURCHASE,,174.1,,,,False,,,False,False
+102038975,102038975,5000.0,4837.88,2016-11-08T14:28:21,13.02,abc.com,US,US,02,01,online_subscriptions,04/2032,2015-09-21,2015-09-21,310,310,3258,PURCHASE,,162.12,,,,False,,,False,False
+102038975,102038975,5000.0,4849.86,2016-12-08T23:03:34,13.02,abc.com,US,US,02,01,online_subscriptions,04/2032,2015-09-21,2015-09-21,310,310,3258,PURCHASE,,150.14,,,,False,,,False,False

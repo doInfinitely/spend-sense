@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+882417982,882417982,15000.0,15000.0,2016-01-03T08:38:11,303.21,Fresh Online Services,US,US,02,99,online_gifts,05/2024,2010-09-26,2010-09-26,340,340,5347,PURCHASE,,0.0,,,,False,,,False,False
+882417982,882417982,15000.0,14696.79,2016-01-10T14:52:38,57.68,Fresh Flowers,US,US,09,08,online_gifts,05/2020,2010-09-26,2010-09-26,340,340,5347,PURCHASE,,303.21,,,,False,,,False,False
+882417982,882417982,15000.0,14639.11,2016-01-11T20:52:33,51.61,Fresh Flowers,US,US,09,01,online_gifts,01/2025,2010-09-26,2010-09-26,340,340,5347,PURCHASE,,360.89,,,,False,,,False,False
+882417982,882417982,15000.0,15000.0,2016-02-16T01:38:34,369.25,Uber,US,US,09,08,rideshare,05/2026,2010-09-26,2010-09-26,340,340,5347,PURCHASE,,0.0,,,,False,,,False,False
+882417982,882417982,15000.0,15000.0,2016-06-27T09:04:21,69.71,Fresh Flowers,US,US,05,01,online_gifts,02/2027,2010-09-26,2010-09-26,340,340,5347,PURCHASE,,0.0,,,,False,,,False,False
+882417982,882417982,15000.0,15000.0,2016-08-20T21:47:17,118.74,Blue Mountain Online Services,US,US,05,01,online_gifts,11/2031,2010-09-26,2010-09-26,340,340,5347,PURCHASE,,0.0,,,,False,,,False,False
+882417982,882417982,15000.0,15000.0,2016-10-07T03:45:19,0.0,Fresh Online Services,US,US,09,01,online_gifts,07/2027,2010-09-26,2010-09-26,340,340,5347,ADDRESS_VERIFICATION,,0.0,,,,False,,,False,False
+882417982,882417982,15000.0,15000.0,2016-10-14T01:12:55,9.15,Next Day eCards,US,US,05,01,online_gifts,08/2031,2010-09-26,2010-09-26,340,340,5347,PURCHASE,,0.0,,,,False,,,False,False
+882417982,882417982,15000.0,14990.85,2016-10-17T14:16:54,27.56,Next Day Online Services,US,US,09,08,online_gifts,02/2026,2010-09-26,2010-09-26,340,340,5347,PURCHASE,,9.15,,,,False,,,False,False
+882417982,882417982,15000.0,14963.29,2016-10-29T04:19:47,94.07,Blue Mountain eCards,US,US,05,01,online_gifts,10/2027,2010-09-26,2010-09-26,340,340,5347,PURCHASE,,36.71,,,,False,,,False,False

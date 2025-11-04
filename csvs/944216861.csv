@@ -1,0 +1,13 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+944216861,944216861,20000.0,20000.0,2016-02-19T01:07:18,14.05,hulu.com,US,US,05,99,online_subscriptions,01/2033,2015-01-29,2015-01-29,129,129,7441,PURCHASE,,0.0,,,,False,,,False,False
+944216861,944216861,20000.0,20000.0,2016-03-05T00:44:49,33.48,Wendys #489748,US,US,09,01,fastfood,10/2026,2015-01-29,2015-01-29,460,460,8281,PURCHASE,,0.0,,,,True,,,False,False
+944216861,944216861,20000.0,19966.52,2016-03-20T07:55:58,14.05,hulu.com,US,US,05,99,online_subscriptions,01/2033,2015-01-29,2015-01-29,129,129,7441,PURCHASE,,33.48,,,,False,,,False,False
+944216861,944216861,20000.0,19977.47,2016-04-20T04:07:19,14.05,hulu.com,US,US,05,99,online_subscriptions,01/2033,2015-01-29,2015-01-29,129,129,7441,PURCHASE,,22.53,,,,False,,,False,False
+944216861,944216861,20000.0,19988.42,2016-05-20T20:50:40,14.05,hulu.com,US,US,05,99,online_subscriptions,01/2033,2015-01-29,2015-01-29,129,129,7441,PURCHASE,,11.58,,,,False,,,False,False
+944216861,944216861,20000.0,19999.37,2016-06-20T20:23:18,14.05,hulu.com,US,US,05,99,online_subscriptions,01/2033,2015-01-29,2015-01-29,129,129,7441,PURCHASE,,0.63,,,,False,,,False,False
+944216861,944216861,20000.0,20000.0,2016-07-20T23:18:22,14.05,hulu.com,US,US,05,99,online_subscriptions,01/2033,2015-01-29,2015-01-29,129,129,7441,PURCHASE,,0.0,,,,False,,,False,False
+944216861,944216861,20000.0,20000.0,2016-08-20T06:19:40,14.05,hulu.com,US,US,05,99,online_subscriptions,01/2033,2015-01-29,2015-01-29,129,129,7441,PURCHASE,,0.0,,,,False,,,False,False
+944216861,944216861,20000.0,20000.0,2016-09-20T10:43:26,14.05,hulu.com,US,US,05,99,online_subscriptions,01/2033,2015-01-29,2015-01-29,129,129,7441,PURCHASE,,0.0,,,,False,,,False,False
+944216861,944216861,20000.0,20000.0,2016-10-22T06:32:42,14.05,hulu.com,US,US,05,99,online_subscriptions,01/2033,2015-01-29,2015-01-29,129,129,7441,PURCHASE,,0.0,,,,False,,,False,False
+944216861,944216861,20000.0,20000.0,2016-11-22T16:54:00,14.05,hulu.com,US,US,05,99,online_subscriptions,01/2033,2015-01-29,2015-01-29,129,129,7441,PURCHASE,,0.0,,,,False,,,False,False
+944216861,944216861,20000.0,20000.0,2016-12-24T01:56:25,14.05,hulu.com,US,US,05,99,online_subscriptions,01/2033,2015-01-29,2015-01-29,129,129,7441,PURCHASE,,0.0,,,,False,,,False,False

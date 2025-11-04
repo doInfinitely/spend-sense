@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+226792761,226792761,5000.0,5000.0,2016-01-26T06:18:48,121.51,Walgreens #853025,US,US,05,01,health,03/2027,2014-11-26,2014-11-26,505,505,816,PURCHASE,,0.0,,,,False,,,False,False
+226792761,226792761,5000.0,4903.49,2016-04-21T05:49:07,45.48,Fresh Online Services,US,US,05,01,online_gifts,03/2026,2014-11-26,2014-11-26,614,614,5618,PURCHASE,,96.51,,,,False,,,False,False
+226792761,226792761,5000.0,4883.01,2016-09-14T13:02:39,55.35,Next Day Online Services,US,US,05,01,online_gifts,04/2030,2014-11-26,2014-11-26,580,580,8677,PURCHASE,,116.99,,,,False,,,False,False
+226792761,226792761,5000.0,4827.66,2016-09-26T05:44:08,19.35,netflix.com,US,US,80,01,online_subscriptions,08/2031,2014-11-26,2014-11-26,614,614,5618,PURCHASE,,172.34,,,,False,,,False,False
+226792761,226792761,5000.0,4833.31,2016-10-03T08:28:34,0.0,Blue Mountain eCards,US,US,09,01,online_gifts,10/2020,2014-11-26,2014-11-26,505,505,816,ADDRESS_VERIFICATION,,166.69,,,,False,,,False,False
+226792761,226792761,5000.0,4833.31,2016-10-28T03:45:44,19.35,netflix.com,US,US,80,01,online_subscriptions,08/2031,2014-11-26,2014-11-26,614,614,5618,PURCHASE,,166.69,,,,False,,,False,False
+226792761,226792761,5000.0,4838.96,2016-11-27T16:48:44,19.35,netflix.com,US,US,80,01,online_subscriptions,08/2031,2014-11-26,2014-11-26,614,614,5618,PURCHASE,,161.04,,,,False,,,False,False
+226792761,226792761,5000.0,4844.61,2016-12-05T13:33:29,62.98,Sunoco Gas #623266,US,US,02,01,fuel,01/2020,2014-11-26,2014-11-26,614,614,5618,PURCHASE,,155.39,,,,True,,,False,False
+226792761,226792761,5000.0,4781.63,2016-12-18T22:11:07,54.3,Sunoco Gas #623266,US,US,02,01,fuel,01/2020,2014-11-26,2014-11-26,614,614,5618,PURCHASE,,218.37,,,,True,,,False,False
+226792761,226792761,5000.0,4727.33,2016-12-28T19:21:08,19.35,netflix.com,US,US,80,01,online_subscriptions,08/2031,2014-11-26,2014-11-26,614,614,5618,PURCHASE,,272.67,,,,False,,,False,False

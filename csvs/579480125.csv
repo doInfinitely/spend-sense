@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+579480125,579480125,5000.0,5000.0,2016-01-02T15:13:54,128.2,Fresh Online Services,US,US,09,01,online_gifts,10/2024,2010-06-13,2010-06-13,770,770,671,PURCHASE,,0.0,,,,False,,,False,False
+579480125,579480125,5000.0,5000.0,2016-02-28T02:05:07,102.48,Mobile eCards,US,US,05,08,online_gifts,01/2032,2010-06-13,2010-06-13,770,770,671,PURCHASE,,0.0,,,,False,,,False,False
+579480125,579480125,5000.0,5000.0,2016-03-08T09:23:13,181.76,Mobile eCards,US,US,05,01,online_gifts,08/2028,2010-06-13,2010-06-13,770,770,671,PURCHASE,,0.0,,,,False,,,False,False
+579480125,579480125,5000.0,5000.0,2016-05-17T07:18:35,47.92,Blue Mountain eCards,US,US,05,01,online_gifts,08/2031,2010-06-13,2010-06-13,770,770,671,PURCHASE,,0.0,,,,False,,,False,False
+579480125,579480125,5000.0,5000.0,2016-08-03T06:44:14,24.37,Blue Mountain eCards,US,US,05,01,online_gifts,09/2023,2010-06-13,2010-06-13,770,770,671,PURCHASE,,0.0,,,,False,,,False,False
+579480125,579480125,5000.0,5000.0,2016-11-20T14:26:21,139.57,Regal Cinemas #05791,US,US,05,01,entertainment,03/2032,2010-06-13,2010-06-13,770,770,671,PURCHASE,,0.0,,,,True,,,False,False

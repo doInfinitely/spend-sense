@@ -1,0 +1,13 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+116858596,116858596,15000.0,15000.0,2016-01-03T08:52:07,29.74,Dinosaur Sandwitch Bar #249717,US,US,90,01,food,True,11/2022,2014-07-05,2014-07-05,374,374,3073,PURCHASE,,0.0,,,,,,False,False
+116858596,116858596,15000.0,15000.0,2016-02-22T11:09:43,14.03,hulu.com,US,US,09,08,online_subscriptions,False,09/2025,2014-07-05,2014-07-05,374,374,3073,PURCHASE,,0.0,,,,,,False,False
+116858596,116858596,15000.0,15000.0,2016-03-25T01:36:24,14.03,hulu.com,US,US,09,08,online_subscriptions,False,09/2025,2014-07-05,2014-07-05,374,374,3073,PURCHASE,,0.0,,,,,,False,False
+116858596,116858596,15000.0,15000.0,2016-04-24T09:21:18,14.03,hulu.com,US,US,09,08,online_subscriptions,False,09/2025,2014-07-05,2014-07-05,374,374,3073,PURCHASE,,0.0,,,,,,False,False
+116858596,116858596,15000.0,15000.0,2016-05-24T15:18:46,14.03,hulu.com,US,US,09,08,online_subscriptions,False,09/2025,2014-07-05,2014-07-05,374,374,3073,PURCHASE,,0.0,,,,,,False,False
+116858596,116858596,15000.0,15000.0,2016-06-25T11:12:57,14.03,hulu.com,US,US,09,08,online_subscriptions,False,09/2025,2014-07-05,2014-07-05,374,374,3073,PURCHASE,,0.0,,,,,,False,False
+116858596,116858596,15000.0,15000.0,2016-07-25T17:10:22,14.03,hulu.com,US,US,09,08,online_subscriptions,False,09/2025,2014-07-05,2014-07-05,374,374,3073,PURCHASE,,0.0,,,,,,False,False
+116858596,116858596,15000.0,15000.0,2016-08-25T17:39:06,14.03,hulu.com,US,US,09,08,online_subscriptions,False,09/2025,2014-07-05,2014-07-05,374,374,3073,PURCHASE,,0.0,,,,,,False,False
+116858596,116858596,15000.0,15000.0,2016-09-25T17:56:52,14.03,hulu.com,US,US,09,08,online_subscriptions,False,09/2025,2014-07-05,2014-07-05,374,374,3073,PURCHASE,,0.0,,,,,,False,False
+116858596,116858596,15000.0,15000.0,2016-10-26T18:09:22,14.03,hulu.com,US,US,09,08,online_subscriptions,False,09/2025,2014-07-05,2014-07-05,374,374,3073,PURCHASE,,0.0,,,,,,False,False
+116858596,116858596,15000.0,15000.0,2016-11-26T14:03:21,14.03,hulu.com,US,US,09,08,online_subscriptions,False,09/2025,2014-07-05,2014-07-05,374,374,3073,PURCHASE,,0.0,,,,,,False,False
+116858596,116858596,15000.0,15000.0,2016-12-28T11:07:38,14.03,hulu.com,US,US,09,08,online_subscriptions,False,09/2025,2014-07-05,2014-07-05,374,374,3073,PURCHASE,,0.0,,,,,,False,False

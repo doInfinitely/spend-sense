@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+703525522,703525522,7500.0,7500.0,2016-04-08T11:12:38,5.27,AMC #145832,US,US,05,01,entertainment,True,10/2029,2014-11-25,2014-11-25,190,190,629,PURCHASE,,0.0,,,,,,False,False
+703525522,703525522,7500.0,7500.0,2016-11-18T06:16:03,21.74,hulu.com,US,US,05,01,online_subscriptions,False,09/2022,2014-11-25,2014-11-25,190,190,629,PURCHASE,,0.0,,,,,,False,False
+703525522,703525522,7500.0,7500.0,2016-12-18T12:36:55,21.74,hulu.com,US,US,05,01,online_subscriptions,False,09/2022,2014-11-25,2014-11-25,190,190,629,PURCHASE,,0.0,,,,,,False,False

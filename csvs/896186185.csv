@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+896186185,896186185,2500.0,2500.0,2016-06-10T19:14:11,157.16,Next Day Online Services,US,US,09,08,online_gifts,03/2023,2013-01-29,2013-01-29,499,499,8400,PURCHASE,,0.0,,,,False,,,False,False
+896186185,896186185,2500.0,2367.84,2016-07-06T06:11:11,8.84,Play Store,US,US,02,01,mobileapps,09/2022,2013-01-29,2013-01-29,499,499,8400,PURCHASE,,132.16,,,,False,,,False,False
+896186185,896186185,2500.0,2384.0,2016-08-05T06:19:01,8.84,Play Store,US,US,02,01,mobileapps,09/2022,2013-01-29,2013-01-29,499,499,8400,PURCHASE,,116.0,,,,False,,,False,False
+896186185,896186185,2500.0,2400.16,2016-09-06T01:29:19,8.84,Play Store,US,US,02,01,mobileapps,09/2022,2013-01-29,2013-01-29,499,499,8400,PURCHASE,,99.84,,,,False,,,False,False
+896186185,896186185,2500.0,2391.32,2016-09-22T01:40:53,364.43,cheapfast.com,US,US,02,08,online_retail,10/2031,2013-01-29,2013-01-29,499,499,8400,PURCHASE,,108.68,,,,False,,,False,False
+896186185,896186185,2500.0,2051.8900000000003,2016-10-07T02:57:52,8.84,Play Store,US,US,02,01,mobileapps,09/2022,2013-01-29,2013-01-29,499,499,8400,PURCHASE,,448.11,,,,False,,,False,False
+896186185,896186185,2500.0,2043.05,2016-10-23T17:59:32,120.91,gap.com,US,US,05,01,online_retail,08/2028,2013-01-29,2013-01-29,499,419,8400,PURCHASE,,456.95,,,,False,,,False,False
+896186185,896186185,2500.0,1947.14,2016-11-07T14:32:52,8.84,Play Store,US,US,02,01,mobileapps,09/2022,2013-01-29,2013-01-29,499,499,8400,PURCHASE,,552.86,,,,False,,,False,False
+896186185,896186185,2500.0,1963.3,2016-12-08T05:27:26,8.84,Play Store,US,US,02,01,mobileapps,09/2022,2013-01-29,2013-01-29,499,499,8400,PURCHASE,,536.7,,,,False,,,False,False

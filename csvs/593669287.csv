@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,isFraud,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch
+593669287,593669287,10000.0,10000.0,2016-05-29T19:31:51,164.98,South Restaurant,US,US,80,01,food,True,10/2026,2012-11-10,2012-11-10,146,146,4455,PURCHASE,True,,0.0,,,,,,False
+593669287,593669287,10000.0,9835.02,2016-05-30T22:42:08,101.48,cheapfast.com,US,US,05,01,online_retail,False,12/2030,2012-11-10,2012-11-10,146,146,4455,PURCHASE,False,,164.98,,,,,,False
+593669287,593669287,10000.0,10000.0,2016-08-18T11:28:03,22.86,South Steakhouse #335249,US,US,05,08,food,True,01/2033,2012-11-10,2012-11-10,146,146,4455,PURCHASE,False,,0.0,,,,,,False
+593669287,593669287,10000.0,10000.0,2016-09-05T08:48:27,12.23,abc.com,US,US,02,01,online_subscriptions,False,08/2028,2012-11-10,2012-11-10,146,146,4455,PURCHASE,False,,0.0,,,,,,False
+593669287,593669287,10000.0,9987.77,2016-09-10T06:19:22,277.4,1st Pub,US,US,05,01,food,True,05/2020,2012-11-10,2012-11-10,146,146,4455,PURCHASE,False,,12.23,,,,,,False
+593669287,593669287,10000.0,10000.0,2016-10-05T19:18:13,12.23,abc.com,US,US,02,01,online_subscriptions,False,08/2028,2012-11-10,2012-11-10,146,146,4455,PURCHASE,False,,0.0,,,,,,False
+593669287,593669287,10000.0,10000.0,2016-11-04T23:51:01,12.23,abc.com,US,US,02,01,online_subscriptions,False,08/2028,2012-11-10,2012-11-10,146,146,4455,PURCHASE,False,,0.0,,,,,,False
+593669287,593669287,10000.0,10000.0,2016-12-04T20:37:25,385.89,gap.com,US,US,02,01,online_retail,False,07/2026,2012-11-10,2012-11-10,146,146,4455,PURCHASE,False,,0.0,,,,,,False
+593669287,593669287,10000.0,9614.11,2016-12-06T07:02:13,12.23,abc.com,US,US,02,01,online_subscriptions,False,08/2028,2012-11-10,2012-11-10,146,146,4455,PURCHASE,False,,385.89,,,,,,False
+593669287,593669287,10000.0,9601.88,2016-12-26T18:49:16,165.98,Franks Pub #680641,US,US,05,08,food,True,01/2027,2012-11-10,2012-11-10,146,146,4455,PURCHASE,False,,398.12,,,,,,False

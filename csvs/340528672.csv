@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+340528672,340528672,10000.0,10000.0,2016-03-27T22:55:28,86.37,Wendys #689974,US,US,09,08,fastfood,True,01/2028,2015-08-07,2015-08-07,260,260,8875,PURCHASE,,0.0,,,,,,False,False
+340528672,340528672,10000.0,10000.0,2016-06-03T01:33:50,157.68,Popeyes #656126,US,US,05,01,fastfood,True,03/2031,2015-08-07,2015-08-07,260,260,8875,PURCHASE,,0.0,,,,,,False,False
+340528672,340528672,10000.0,10000.0,2016-08-02T01:25:12,345.14,Popeyes #220449,US,US,05,01,fastfood,True,07/2025,2015-08-07,2015-08-07,426,426,6722,PURCHASE,,0.0,,,,,,False,False
+340528672,340528672,10000.0,9654.86,2016-08-30T22:39:32,161.43,Arbys #46046,US,US,09,01,fastfood,True,10/2021,2015-08-07,2015-08-07,507,507,4313,PURCHASE,,345.14,,,,,,False,False
+340528672,340528672,10000.0,10000.0,2016-09-01T10:11:27,91.47,Wendys #511873,US,US,09,08,fastfood,True,01/2021,2015-08-07,2015-08-07,260,260,8875,PURCHASE,,0.0,,,,,,False,False
+340528672,340528672,10000.0,10000.0,2016-10-26T11:13:38,211.35,Taco Bell #58110,US,US,09,08,fastfood,True,01/2033,2015-08-07,2015-08-07,507,507,4313,PURCHASE,,0.0,,,,,,False,False

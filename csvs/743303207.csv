@@ -1,0 +1,13 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+743303207,743303207,10000.0,10000.0,2016-01-04T06:16:06,7.2,Apple iTunes,US,US,09,08,mobileapps,11/2030,2015-08-25,2015-08-25,831,831,8488,PURCHASE,,0.0,,,,False,,,False,False
+743303207,743303207,10000.0,10000.0,2016-02-04T23:58:14,7.2,Apple iTunes,US,US,09,08,mobileapps,11/2030,2015-08-25,2015-08-25,831,831,8488,PURCHASE,,0.0,,,,False,,,False,False
+743303207,743303207,10000.0,10000.0,2016-03-07T09:10:21,7.2,Apple iTunes,US,US,09,08,mobileapps,11/2030,2015-08-25,2015-08-25,831,831,8488,PURCHASE,,0.0,,,,False,,,False,False
+743303207,743303207,10000.0,10000.0,2016-04-07T19:35:09,7.2,Apple iTunes,US,US,09,08,mobileapps,11/2030,2015-08-25,2015-08-25,831,831,8488,PURCHASE,,0.0,,,,False,,,False,False
+743303207,743303207,10000.0,10000.0,2016-05-07T21:02:22,7.2,Apple iTunes,US,US,09,08,mobileapps,11/2030,2015-08-25,2015-08-25,831,831,8488,PURCHASE,,0.0,,,,False,,,False,False
+743303207,743303207,10000.0,10000.0,2016-06-08T14:53:39,7.2,Apple iTunes,US,US,09,08,mobileapps,11/2030,2015-08-25,2015-08-25,831,831,8488,PURCHASE,,0.0,,,,False,,,False,False
+743303207,743303207,10000.0,10000.0,2016-07-09T13:31:29,7.2,Apple iTunes,US,US,09,08,mobileapps,11/2030,2015-08-25,2015-08-25,831,831,8488,PURCHASE,,0.0,,,,False,,,False,False
+743303207,743303207,10000.0,10000.0,2016-08-09T03:20:44,7.2,Apple iTunes,US,US,09,08,mobileapps,11/2030,2015-08-25,2015-08-25,831,831,8488,PURCHASE,,0.0,,,,False,,,False,False
+743303207,743303207,10000.0,10000.0,2016-09-08T05:14:49,7.2,Apple iTunes,US,US,09,08,mobileapps,11/2030,2015-08-25,2015-08-25,831,831,8488,PURCHASE,,0.0,,,,False,,,False,False
+743303207,743303207,10000.0,10000.0,2016-10-10T01:49:33,7.2,Apple iTunes,US,US,09,08,mobileapps,11/2030,2015-08-25,2015-08-25,831,831,8488,PURCHASE,,0.0,,,,False,,,False,False
+743303207,743303207,10000.0,10000.0,2016-11-10T10:57:16,7.2,Apple iTunes,US,US,09,08,mobileapps,11/2030,2015-08-25,2015-08-25,831,831,8488,PURCHASE,,0.0,,,,False,,,False,False
+743303207,743303207,10000.0,10000.0,2016-12-11T23:28:03,7.2,Apple iTunes,US,US,09,08,mobileapps,11/2030,2015-08-25,2015-08-25,831,831,8488,PURCHASE,,0.0,,,,False,,,False,False

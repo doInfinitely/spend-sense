@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+452887735,452887735,500.0,500.0,2016-02-13T23:44:16,367.7,Krispy Kreme #651724,US,US,02,01,fastfood,True,03/2031,2015-02-04,2015-02-04,239,239,9017,PURCHASE,,0.0,,,,,,False,False
+452887735,452887735,500.0,157.3,2016-03-17T13:17:52,0.0,Rodeway Inn #981618,US,US,09,01,hotels,False,06/2029,2015-02-04,2015-02-04,239,239,9017,ADDRESS_VERIFICATION,,342.7,,,,,,False,False
+452887735,452887735,500.0,157.3,2016-03-17T13:19:30,0.0,Rodeway Inn #981618,US,US,09,01,hotels,False,06/2029,2015-02-04,2015-02-04,239,239,9017,REVERSAL,,342.7,,,,,,False,False
+452887735,452887735,500.0,157.3,2016-03-20T22:34:38,466.99,South Steakhouse #879581,US,US,02,01,food,True,06/2025,2015-02-04,2015-02-04,239,239,9017,PURCHASE,,342.7,,,,,,False,False
+452887735,452887735,500.0,-60.0,2016-03-28T03:05:06,144.03,Best Deli #109276,US,US,09,01,food,True,11/2032,2015-02-04,2015-02-04,239,239,9017,PURCHASE,,560.0,,,,,,False,False
+452887735,452887735,500.0,141.9,2016-04-26T18:51:40,123.06,KFC #469873,US,US,02,01,fastfood,True,02/2029,2015-02-04,2015-02-04,777,777,2686,PURCHASE,,358.1,,,,,,False,False
+452887735,452887735,500.0,500.0,2016-06-03T07:41:15,68.26,Franks Pub #87366,US,US,05,01,food,True,11/2022,2015-02-04,2015-02-04,777,077,2686,PURCHASE,,0.0,,,,,,False,False
+452887735,452887735,500.0,456.74,2016-08-22T07:18:09,27.0,South Cafe,US,US,05,08,food,True,06/2028,2015-02-04,2015-02-04,777,777,2686,PURCHASE,,43.26,,,,,,False,False
+452887735,452887735,500.0,454.74,2016-11-18T09:59:18,391.16,oldnavy.com,US,US,05,01,online_retail,False,09/2028,2015-02-04,2015-02-04,239,239,9017,PURCHASE,,45.26,,,,,,False,False

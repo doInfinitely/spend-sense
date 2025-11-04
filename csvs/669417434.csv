@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+669417434,669417434,2500.0,2500.0,2016-07-10T04:48:54,4.38,Play Store,US,US,05,01,mobileapps,10/2020,2010-07-12,2010-07-12,639,639,9903,PURCHASE,,0.0,,,,False,,,False,False
+669417434,669417434,2500.0,2500.0,2016-08-10T05:53:05,4.38,Play Store,US,US,05,01,mobileapps,10/2020,2010-07-12,2010-07-12,639,639,9903,PURCHASE,,0.0,,,,False,,,False,False
+669417434,669417434,2500.0,2500.0,2016-09-10T01:38:56,4.38,Play Store,US,US,05,01,mobileapps,10/2020,2010-07-12,2010-07-12,639,639,9903,PURCHASE,,0.0,,,,False,,,False,False
+669417434,669417434,2500.0,2500.0,2016-10-10T18:27:40,4.38,Play Store,US,US,05,01,mobileapps,10/2020,2010-07-12,2010-07-12,639,639,9903,PURCHASE,,0.0,,,,False,,,False,False
+669417434,669417434,2500.0,2495.62,2016-10-17T14:46:52,16.89,hulu.com,CAN,CAN,05,08,online_subscriptions,11/2025,2010-07-12,2010-07-12,633,633,5851,PURCHASE,,4.38,,,,False,,,False,False
+669417434,669417434,2500.0,2500.0,2016-11-10T22:51:31,4.38,Play Store,US,US,05,01,mobileapps,10/2020,2010-07-12,2010-07-12,639,639,9903,PURCHASE,,0.0,,,,False,,,False,False
+669417434,669417434,2500.0,2495.62,2016-11-17T18:53:54,16.89,hulu.com,CAN,CAN,05,08,online_subscriptions,11/2025,2010-07-12,2010-07-12,633,633,5851,PURCHASE,,4.38,,,,False,,,False,False
+669417434,669417434,2500.0,2500.0,2016-12-12T15:58:41,4.38,Play Store,US,US,05,01,mobileapps,10/2020,2010-07-12,2010-07-12,639,639,9903,PURCHASE,,0.0,,,,False,,,False,False
+669417434,669417434,2500.0,2495.62,2016-12-19T11:07:58,16.89,hulu.com,CAN,CAN,05,08,online_subscriptions,11/2025,2010-07-12,2010-07-12,633,633,5851,PURCHASE,,4.38,,,,False,,,False,False

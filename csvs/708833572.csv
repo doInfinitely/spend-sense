@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+708833572,708833572,10000.0,10000.0,2016-02-28T08:25:31,131.87,walmart.com,US,US,02,08,online_retail,08/2026,2014-12-29,2014-12-29,412,412,9072,PURCHASE,,0.0,,,,False,,,False,False
+708833572,708833572,10000.0,9868.13,2016-02-28T08:25:40,131.87,walmart.com,US,US,02,08,online_retail,08/2026,2014-12-29,2014-12-29,412,412,9072,PURCHASE,,131.87,,,,False,,,False,False
+708833572,708833572,10000.0,9761.26,2016-06-13T06:36:28,173.45,AMC #79863,US,US,80,01,entertainment,02/2028,2014-12-29,2014-12-29,412,412,9072,PURCHASE,,238.74,,,,True,,,False,False
+708833572,708833572,10000.0,9587.81,2016-06-24T14:18:25,48.24,amazon.com,,US,05,01,online_retail,08/2032,2014-12-29,2014-12-29,412,412,9072,PURCHASE,,412.19,,,,False,,,False,False
+708833572,708833572,10000.0,9564.57,2016-07-25T22:31:19,167.66,EZ Putt Putt #804489,US,US,05,01,entertainment,02/2024,2014-12-29,2014-12-29,412,412,9072,PURCHASE,,435.43,,,,True,,,False,False
+708833572,708833572,10000.0,9421.91,2016-11-01T11:10:41,14.15,Spotify,US,US,02,01,online_subscriptions,06/2026,2014-12-29,2014-12-29,412,412,9072,PURCHASE,,578.09,,,,False,,,False,False
+708833572,708833572,10000.0,9407.76,2016-11-02T00:03:50,31.89,alibaba.com,US,US,09,01,online_retail,09/2027,2014-12-29,2014-12-29,412,412,9072,PURCHASE,,592.24,,,,False,,,False,False
+708833572,708833572,10000.0,9400.87,2016-12-01T16:42:39,14.15,Spotify,US,US,02,01,online_subscriptions,06/2026,2014-12-29,2014-12-29,412,412,9072,PURCHASE,,599.13,,,,False,,,False,False

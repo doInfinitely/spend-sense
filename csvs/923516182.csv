@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+923516182,923516182,2500.0,2500.0,2016-01-01T16:19:09,89.44,Uber,US,US,02,01,rideshare,07/2025,2015-11-14,2015-11-14,176,176,9329,PURCHASE,,0.0,,,,False,,,False,False
+923516182,923516182,2500.0,2500.0,2016-02-28T06:03:41,316.12,Uber,US,US,02,01,rideshare,09/2023,2015-11-14,2015-11-14,176,176,9329,PURCHASE,,0.0,,,,False,,,False,False
+923516182,923516182,2500.0,2500.0,2016-04-21T08:27:31,601.96,Uber,US,US,09,01,rideshare,06/2033,2015-11-14,2015-11-14,176,176,9329,PURCHASE,,0.0,,,,False,,,False,False
+923516182,923516182,2500.0,2500.0,2016-05-11T20:30:27,78.12,Lyft,US,US,09,01,rideshare,06/2023,2015-11-14,2015-11-14,176,176,9329,PURCHASE,,0.0,,,,False,,,False,False
+923516182,923516182,2500.0,2421.88,2016-05-29T23:21:16,4.89,Lyft,US,US,02,01,rideshare,10/2024,2015-11-14,2015-11-14,176,176,9329,PURCHASE,,78.12,,,,False,,,False,False
+923516182,923516182,2500.0,2500.0,2016-09-03T03:23:25,9.97,Uber,US,US,09,01,rideshare,01/2028,2015-11-14,2015-11-14,176,176,9329,PURCHASE,,0.0,,,,False,,,False,False
+923516182,923516182,2500.0,2490.03,2016-09-08T05:58:00,418.47,Uber,US,US,05,01,rideshare,12/2031,2015-11-14,2015-11-14,176,176,9329,PURCHASE,,9.97,,,,False,,,False,False
+923516182,923516182,2500.0,2071.56,2016-09-12T06:29:59,143.86,Lyft,US,US,09,01,rideshare,05/2026,2015-11-14,2015-11-14,176,176,9329,PURCHASE,,428.44,,,,False,,,False,False

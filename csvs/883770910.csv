@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+883770910,883770910,2500.0,2500.0,2016-08-01T11:52:37,12.67,hulu.com,US,US,09,01,online_subscriptions,09/2027,2013-01-28,2013-01-28,848,848,3943,PURCHASE,,0.0,,,,False,,,False,False
+883770910,883770910,2500.0,2487.33,2016-08-31T14:46:45,12.67,hulu.com,US,US,09,01,online_subscriptions,09/2027,2013-01-28,2013-01-28,848,848,3943,PURCHASE,,12.67,,,,False,,,False,False
+883770910,883770910,2500.0,2499.66,2016-09-06T01:19:25,252.5,1st Sandwitch Bar #396252,US,US,02,01,food,09/2030,2013-01-28,2013-01-28,848,848,3943,PURCHASE,,0.34,,,,True,,,False,False
+883770910,883770910,2500.0,2272.16,2016-10-02T07:05:27,12.67,hulu.com,US,US,09,01,online_subscriptions,09/2027,2013-01-28,2013-01-28,848,848,3943,PURCHASE,,227.84,,,,False,,,False,False
+883770910,883770910,2500.0,2259.49,2016-10-07T21:55:01,21.55,Boston Diner,US,US,09,01,food,09/2031,2013-01-28,2013-01-28,848,848,3943,PURCHASE,,240.51,,,,True,,,False,False
+883770910,883770910,2500.0,2262.94,2016-11-02T07:59:37,12.67,hulu.com,US,US,09,01,online_subscriptions,09/2027,2013-01-28,2013-01-28,848,848,3943,PURCHASE,,237.06,,,,False,,,False,False
+883770910,883770910,2500.0,2275.27,2016-12-03T14:38:48,12.67,hulu.com,US,US,09,01,online_subscriptions,09/2027,2013-01-28,2013-01-28,848,848,3943,PURCHASE,,224.73,,,,False,,,False,False

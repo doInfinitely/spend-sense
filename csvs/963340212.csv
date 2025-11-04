@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+963340212,963340212,5000.0,5000.0,2016-02-29T03:24:08,59.63,Lyft,US,US,09,01,rideshare,03/2025,2014-02-07,2014-02-07,342,342,3053,PURCHASE,,0.0,,,,False,,,False,False
+963340212,963340212,5000.0,4965.37,2016-05-04T23:29:15,101.54,Best Fries,US,US,05,01,food,02/2032,2014-02-07,2014-02-07,342,342,3053,PURCHASE,,34.63,,,,True,,,False,False
+963340212,963340212,5000.0,4863.83,2016-05-15T13:24:58,211.58,34th BBQ #207369,US,US,05,01,food,09/2022,2014-02-07,2014-02-07,102,102,2160,PURCHASE,,136.17,,,,True,,,False,False
+963340212,963340212,5000.0,4677.25,2016-07-07T22:01:43,282.53,Franks Pub #680641,US,US,05,01,food,09/2028,2014-02-07,2014-02-07,102,102,2160,PURCHASE,,322.75,,,,True,,,False,False
+963340212,963340212,5000.0,4419.72,2016-11-07T07:28:35,19.83,South Steakhouse #73819,US,US,09,01,food,11/2030,2014-02-07,2014-02-07,102,102,2160,PURCHASE,,580.28,,,,True,,,False,False
+963340212,963340212,5000.0,4399.89,2016-11-07T07:29:04,19.83,South Steakhouse #73819,US,US,09,01,food,11/2030,2014-02-07,2014-02-07,102,102,2160,REVERSAL,,600.11,,,,True,,,False,False
+963340212,963340212,5000.0,4419.72,2016-11-14T13:53:43,491.73,Uptown Steakhouse,US,US,05,01,food,11/2032,2014-02-07,2014-02-07,102,102,2160,PURCHASE,,580.28,,,,True,,,False,False

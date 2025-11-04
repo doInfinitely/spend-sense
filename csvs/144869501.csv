@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+144869501,144869501,20000.0,20000.0,2016-04-01T11:04:11,14.21,Spotify,US,US,05,01,online_subscriptions,12/2026,2014-10-05,2014-10-05,247,247,2523,PURCHASE,,0.0,,,,False,,,False,False
+144869501,144869501,20000.0,19985.79,2016-04-06T19:34:05,215.98,West End Beauty #691674,US,US,05,01,personal care,09/2026,2014-10-05,2014-10-05,247,247,2523,PURCHASE,,14.21,,,,True,,,False,False
+144869501,144869501,20000.0,20000.0,2016-05-01T22:37:10,14.21,Spotify,US,US,05,01,online_subscriptions,12/2026,2014-10-05,2014-10-05,247,247,2523,PURCHASE,,0.0,,,,False,,,False,False
+144869501,144869501,20000.0,20000.0,2016-06-01T00:28:26,14.21,Spotify,US,US,05,01,online_subscriptions,12/2026,2014-10-05,2014-10-05,247,247,2523,PURCHASE,,0.0,,,,False,,,False,False
+144869501,144869501,20000.0,20000.0,2016-07-02T07:24:39,14.21,Spotify,US,US,05,01,online_subscriptions,12/2026,2014-10-05,2014-10-05,247,247,2523,PURCHASE,,0.0,,,,False,,,False,False
+144869501,144869501,20000.0,20000.0,2016-08-02T23:32:33,14.21,Spotify,US,US,05,01,online_subscriptions,12/2026,2014-10-05,2014-10-05,247,247,2523,PURCHASE,,0.0,,,,False,,,False,False
+144869501,144869501,20000.0,20000.0,2016-09-03T09:38:56,14.21,Spotify,US,US,05,01,online_subscriptions,12/2026,2014-10-05,2014-10-05,247,247,2523,PURCHASE,,0.0,,,,False,,,False,False
+144869501,144869501,20000.0,20000.0,2016-10-03T17:14:24,14.21,Spotify,US,US,05,01,online_subscriptions,12/2026,2014-10-05,2014-10-05,247,247,2523,PURCHASE,,0.0,,,,False,,,False,False
+144869501,144869501,20000.0,20000.0,2016-11-03T23:06:18,14.21,Spotify,US,US,05,01,online_subscriptions,12/2026,2014-10-05,2014-10-05,247,247,2523,PURCHASE,,0.0,,,,False,,,False,False
+144869501,144869501,20000.0,20000.0,2016-12-05T18:11:37,14.21,Spotify,US,US,05,01,online_subscriptions,12/2026,2014-10-05,2014-10-05,247,247,2523,PURCHASE,,0.0,,,,False,,,False,False

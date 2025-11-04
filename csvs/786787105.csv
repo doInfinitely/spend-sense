@@ -1,0 +1,12 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+786787105,786787105,7500.0,7500.0,2016-03-27T00:55:15,334.26,gap.com,US,US,02,08,online_retail,01/2029,2015-12-30,2015-12-30,779,779,2026,PURCHASE,,0.0,,,,False,,,False,False
+786787105,786787105,7500.0,7165.74,2016-03-31T09:18:44,3.93,apple.com,US,US,02,08,online_retail,06/2029,2015-12-30,2015-12-30,779,779,2026,PURCHASE,,334.26,,,,False,,,False,False
+786787105,786787105,7500.0,7186.81,2016-05-09T03:56:21,120.59,Mobile eCards,US,US,05,01,online_gifts,11/2024,2015-12-30,2015-12-30,779,779,2026,PURCHASE,,313.19,,,,False,,,False,False
+786787105,786787105,7500.0,7091.22,2016-06-20T11:38:25,214.89,discount.com,US,US,05,01,online_retail,05/2033,2015-12-30,2015-12-30,779,779,2026,PURCHASE,,408.78,,,,False,,,False,False
+786787105,786787105,7500.0,6901.33,2016-07-15T23:47:55,296.46,walmart.com,US,US,02,01,online_retail,05/2021,2015-12-30,2015-12-30,779,779,2026,PURCHASE,,598.67,,,,False,,,False,False
+786787105,786787105,7500.0,6629.87,2016-08-07T06:42:40,4.72,Play Store,US,US,09,08,mobileapps,05/2031,2015-12-30,2015-12-30,779,779,2026,PURCHASE,,870.13,,,,False,,,False,False
+786787105,786787105,7500.0,6625.15,2016-08-14T13:19:10,5.49,Next Day Online Services,US,US,02,01,online_gifts,07/2024,2015-12-30,2015-12-30,779,779,2026,PURCHASE,,874.85,,,,False,,,False,False
+786787105,786787105,7500.0,6644.66,2016-09-06T18:04:03,4.72,Play Store,US,US,09,08,mobileapps,05/2031,2015-12-30,2015-12-30,779,779,2026,PURCHASE,,855.34,,,,False,,,False,False
+786787105,786787105,7500.0,6664.94,2016-10-07T15:00:13,4.72,Play Store,US,US,09,08,mobileapps,05/2031,2015-12-30,2015-12-30,779,779,2026,PURCHASE,,835.06,,,,False,,,False,False
+786787105,786787105,7500.0,6685.22,2016-11-08T13:04:22,4.72,Play Store,US,US,09,08,mobileapps,05/2031,2015-12-30,2015-12-30,779,779,2026,PURCHASE,,814.78,,,,False,,,False,False
+786787105,786787105,7500.0,6705.5,2016-12-08T19:23:08,4.72,Play Store,US,US,09,08,mobileapps,05/2031,2015-12-30,2015-12-30,779,779,2026,PURCHASE,,794.5,,,,False,,,False,False

@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+194702249,194702249,15000.0,15000.0,2016-03-17T15:13:54,188.61,South Steakhouse #481929,US,US,09,01,food,True,11/2023,2015-07-09,2015-07-09,943,943,9947,PURCHASE,,0.0,,,,,,False,False
+194702249,194702249,15000.0,14836.39,2016-06-30T01:21:50,131.36,AMC #128743,US,US,05,01,entertainment,True,06/2024,2015-07-09,2015-07-09,943,943,9947,PURCHASE,,163.61,,,,,,False,False
+194702249,194702249,15000.0,14730.03,2016-07-17T20:32:08,7.17,Play Store,US,US,02,01,mobileapps,False,08/2030,2015-07-09,2015-07-09,943,943,9947,PURCHASE,,269.97,,,,,,False,False
+194702249,194702249,15000.0,14747.86,2016-08-17T10:46:35,7.17,Play Store,US,US,02,01,mobileapps,False,08/2030,2015-07-09,2015-07-09,943,943,9947,PURCHASE,,252.14,,,,,,False,False
+194702249,194702249,15000.0,14740.69,2016-08-30T18:31:04,20.47,EZ Putt Putt #40513,US,US,02,01,entertainment,True,06/2030,2015-07-09,2015-07-09,943,943,9947,PURCHASE,,259.31,,,,,,False,False
+194702249,194702249,15000.0,14745.22,2016-09-16T14:15:45,7.17,Play Store,US,US,02,01,mobileapps,False,08/2030,2015-07-09,2015-07-09,943,943,9947,PURCHASE,,254.78,,,,,,False,False
+194702249,194702249,15000.0,14763.05,2016-10-17T01:53:12,7.17,Play Store,US,US,02,01,mobileapps,False,08/2030,2015-07-09,2015-07-09,943,943,9947,PURCHASE,,236.95,,,,,,False,False
+194702249,194702249,15000.0,14780.88,2016-11-17T22:40:21,7.17,Play Store,US,US,02,01,mobileapps,False,08/2030,2015-07-09,2015-07-09,943,943,9947,PURCHASE,,219.12,,,,,,False,False
+194702249,194702249,15000.0,14798.71,2016-12-18T04:44:13,7.17,Play Store,US,US,02,01,mobileapps,False,08/2030,2015-07-09,2015-07-09,943,943,9947,PURCHASE,,201.29,,,,,,False,False

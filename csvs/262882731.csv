@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+262882731,262882731,50000.0,50000.0,2016-06-19T14:27:35,160.69,Lyft,US,US,05,01,rideshare,03/2029,2014-11-02,2014-11-02,544,544,4846,PURCHASE,,0.0,,,,False,,,False,False
+262882731,262882731,50000.0,49864.31,2016-10-26T20:57:04,57.2,Mobil Gas #982285,US,US,09,01,fuel,01/2032,2014-11-02,2014-11-02,544,544,4846,PURCHASE,,135.69,,,,True,,,False,False
+262882731,262882731,50000.0,49832.11,2016-11-10T08:49:28,57.2,Mobil Gas #982285,US,US,09,01,fuel,01/2032,2014-11-02,2014-11-02,544,544,4846,PURCHASE,,167.89,,,,True,,,False,False
+262882731,262882731,50000.0,49774.91,2016-11-24T08:03:15,68.17,Mobil Gas #982285,US,US,09,01,fuel,01/2032,2014-11-02,2014-11-02,544,544,4846,PURCHASE,,225.09,,,,True,,,False,False
+262882731,262882731,50000.0,49731.74,2016-12-08T05:18:30,69.14,Mobil Gas #982285,US,US,09,01,fuel,01/2032,2014-11-02,2014-11-02,544,544,4846,PURCHASE,,268.26,,,,True,,,False,False
+262882731,262882731,50000.0,49662.6,2016-12-21T23:01:53,57.2,Mobil Gas #982285,US,US,09,01,fuel,01/2032,2014-11-02,2014-11-02,544,544,4846,PURCHASE,,337.4,,,,True,,,False,False

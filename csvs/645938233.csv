@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+645938233,645938233,250.0,250.0,2016-01-15T12:03:50,95.9,walmart.com,US,US,02,01,online_retail,10/2025,2014-12-28,2014-12-28,759,759,8457,PURCHASE,,0.0,,,,False,,,False,False
+645938233,645938233,250.0,179.1,2016-03-30T17:39:05,186.71,target.com,US,US,05,01,online_retail,06/2022,2014-12-28,2014-12-28,759,759,8457,PURCHASE,,70.9,,,,False,,,False,False
+645938233,645938233,250.0,180.06,2016-04-21T02:42:04,6.47,Seattle News,US,US,05,01,subscriptions,02/2021,2014-12-28,2014-12-28,759,759,8457,PURCHASE,,69.94,,,,False,,,False,False
+645938233,645938233,250.0,198.59,2016-08-30T09:26:36,160.61,walmart.com,US,US,05,01,online_retail,06/2021,2014-12-28,2014-12-28,759,759,8457,PURCHASE,,51.41,,,,False,,,False,False
+645938233,645938233,250.0,62.98,2016-11-22T16:33:41,220.27,sears.com,US,US,05,01,online_retail,01/2030,2014-12-28,2014-12-28,759,759,8457,PURCHASE,,187.02,,,,False,,,False,False

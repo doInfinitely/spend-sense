@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+113058963,113058963,15000.0,15000.0,2016-01-13T05:08:53,57.2,NYSC #244615,US,US,09,01,health,02/2028,2013-12-13,2013-12-13,209,209,2695,PURCHASE,,0.0,,,,False,,,False,False
+113058963,113058963,15000.0,14967.8,2016-04-15T14:22:42,141.05,Planet Fitness #903325,US,US,09,08,health,03/2031,2013-12-13,2013-12-13,209,209,2695,PURCHASE,,32.2,,,,False,,,False,False
+113058963,113058963,15000.0,14851.75,2016-11-22T00:41:50,11.8,Spotify,US,US,02,01,online_subscriptions,05/2031,2013-12-13,2013-12-13,209,209,2695,PURCHASE,,148.25,,,,False,,,False,False
+113058963,113058963,15000.0,14864.95,2016-12-22T15:16:53,11.8,Spotify,US,US,02,01,online_subscriptions,05/2031,2013-12-13,2013-12-13,209,209,2695,PURCHASE,,135.05,,,,False,,,False,False

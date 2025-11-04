@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+537667688,537667688,10000.0,10000.0,2016-01-20T06:41:55,127.74,alibaba.com,US,US,05,01,online_retail,02/2032,2015-01-20,2015-01-20,720,720,3917,PURCHASE,,0.0,,,,False,,,False,False
+537667688,537667688,10000.0,10000.0,2016-03-28T07:21:06,74.54,staples.com,US,US,05,01,online_retail,01/2023,2015-01-20,2015-01-20,720,720,3917,PURCHASE,,0.0,,,,False,,,False,False
+537667688,537667688,10000.0,10000.0,2016-04-07T10:02:42,260.89,target.com,US,US,09,01,online_retail,08/2023,2015-01-20,2015-01-20,720,720,3917,PURCHASE,,0.0,,,,False,,,False,False
+537667688,537667688,10000.0,10000.0,2016-05-13T19:40:40,38.09,walmart.com,US,US,90,01,online_retail,07/2020,2015-01-20,2015-01-20,136,136,6408,PURCHASE,,0.0,,,,False,,,False,False

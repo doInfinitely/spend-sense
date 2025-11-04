@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+224744545,224744545,250.0,250.0,2016-01-28T05:49:49,13.18,amazon.com,US,US,05,01,online_retail,01/2026,2014-10-11,2014-10-11,617,617,7201,PURCHASE,,0.0,,,,False,,,False,False
+224744545,224744545,250.0,250.0,2016-05-07T15:04:19,191.54,Arbys #557005,US,US,09,01,fastfood,10/2023,2014-10-11,2014-10-11,617,617,7201,PURCHASE,,0.0,,,,True,,,False,False
+224744545,224744545,250.0,83.46000000000001,2016-08-06T22:59:07,30.89,McDonalds #826511,US,US,09,01,fastfood,07/2030,2014-10-11,2014-10-11,617,617,7201,PURCHASE,,166.54,,,,True,,,False,False
+224744545,224744545,250.0,52.57,2016-08-06T23:13:48,503.81,Domino's Pizza #733759,US,US,02,01,fastfood,05/2023,2014-10-11,2014-10-11,617,617,7201,PURCHASE,,197.43,,,,True,,,False,False
+224744545,224744545,250.0,-236.02999999999997,2016-09-08T14:14:30,475.74,Quizno's #44090,US,US,02,01,fastfood,10/2032,2014-10-11,2014-10-11,617,617,7201,PURCHASE,,486.03,,,,True,,,False,False
+224744545,224744545,250.0,-375.23,2016-10-25T09:35:38,46.95,Shake Shack #235531,US,US,05,08,fastfood,02/2028,2014-10-11,2014-10-11,617,617,7201,PURCHASE,,625.23,,,,True,,,False,False

@@ -1,0 +1,12 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+720500358,720500358,250.0,250.0,2016-01-09T16:18:04,103.23,EZ Putt Putt #982199,US,US,09,01,entertainment,True,05/2020,2006-01-26,2006-01-26,941,941,2694,PURCHASE,,0.0,,,,,,False,False
+720500358,720500358,250.0,171.77,2016-04-28T01:19:00,20.58,1st Sandwitch Bar #119707,US,US,05,01,food,True,05/2027,2006-01-26,2006-01-26,941,941,2694,PURCHASE,,78.23,,,,,,False,False
+720500358,720500358,250.0,176.19,2016-05-19T15:17:15,154.9,Boston Diner,US,US,09,01,food,True,04/2030,2006-01-26,2006-01-26,941,941,2694,PURCHASE,,73.81,,,,,,False,False
+720500358,720500358,250.0,46.29,2016-06-28T09:49:40,9.64,hulu.com,US,US,09,01,online_subscriptions,False,04/2021,2006-01-26,2006-01-26,941,941,2694,PURCHASE,,203.71,,,,,,False,False
+720500358,720500358,250.0,61.65,2016-07-06T05:12:28,0.0,Best Deli #316476,US,US,05,01,food,False,01/2031,2006-01-26,2006-01-26,941,941,2694,ADDRESS_VERIFICATION,,188.35,,,,,,False,False
+720500358,720500358,250.0,61.65,2016-07-29T12:58:20,9.64,hulu.com,US,US,09,01,online_subscriptions,False,04/2021,2006-01-26,2006-01-26,941,941,2694,PURCHASE,,188.35,,,,,,False,False
+720500358,720500358,250.0,77.00999999999999,2016-08-30T09:51:21,9.64,hulu.com,US,US,09,01,online_subscriptions,False,04/2021,2006-01-26,2006-01-26,941,941,2694,PURCHASE,,172.99,,,,,,False,False
+720500358,720500358,250.0,92.37,2016-09-30T14:21:24,9.64,hulu.com,US,US,09,01,online_subscriptions,False,04/2021,2006-01-26,2006-01-26,941,941,2694,PURCHASE,,157.63,,,,,,False,False
+720500358,720500358,250.0,107.73,2016-10-30T17:56:21,9.64,hulu.com,US,US,09,01,online_subscriptions,False,04/2021,2006-01-26,2006-01-26,941,941,2694,PURCHASE,,142.27,,,,,,False,False
+720500358,720500358,250.0,123.09,2016-11-29T18:57:52,9.64,hulu.com,US,US,09,01,online_subscriptions,False,04/2021,2006-01-26,2006-01-26,941,941,2694,PURCHASE,,126.91,,,,,,False,False
+720500358,720500358,250.0,138.45,2016-12-26T08:35:52,22.51,Shell Repair,US,US,09,01,auto,True,08/2026,2006-01-26,2006-01-26,941,941,2694,PURCHASE,,111.55,,,,,,False,False

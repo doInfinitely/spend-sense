@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+890330857,890330857,500.0,500.0,2016-02-17T20:56:27,254.04,EZ Putt Putt #240241,US,US,02,08,entertainment,True,12/2023,2015-07-27,2015-07-27,729,729,3833,PURCHASE,,0.0,,,,,,False,False
+890330857,890330857,500.0,500.0,2016-07-22T02:59:12,46.47,AMC #191138,US,US,09,01,entertainment,False,09/2031,2015-07-27,2015-07-27,729,729,3833,PURCHASE,,0.0,,,,,,False,False
+890330857,890330857,500.0,500.0,2016-09-11T14:11:56,56.7,EZ Putt Putt #240241,US,US,09,01,entertainment,True,05/2030,2015-07-27,2015-07-27,729,729,3833,PURCHASE,,0.0,,,,,,False,False
+890330857,890330857,500.0,500.0,2016-10-02T04:09:32,70.27,AMC #606218,US,US,02,01,entertainment,True,10/2028,2015-07-27,2015-07-27,729,729,3833,PURCHASE,,0.0,,,,,,False,False
+890330857,890330857,500.0,500.0,2016-12-11T12:48:35,15.25,AMC #606218,US,US,09,01,entertainment,True,11/2025,2015-07-27,2015-07-27,729,729,3833,PURCHASE,,0.0,,,,,,False,False

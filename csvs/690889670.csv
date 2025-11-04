@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+690889670,690889670,10000.0,10000.0,2016-06-30T16:56:20,127.08,Wendys #743431,US,US,02,01,fastfood,True,06/2027,2013-03-26,2013-03-26,958,958,6829,PURCHASE,,0.0,,,,,,False,False
+690889670,690889670,10000.0,10000.0,2016-12-13T22:04:41,224.71,Dunkin' Donuts #606823,US,US,90,01,fastfood,True,10/2022,2013-03-26,2013-03-26,958,958,6829,PURCHASE,,0.0,,,,,,False,False
+690889670,690889670,10000.0,9775.29,2016-12-23T19:36:55,35.49,Dunkin' Donuts #459514,US,US,09,01,fastfood,True,03/2027,2013-03-26,2013-03-26,958,958,6829,PURCHASE,,224.71,,,,,,False,False
+690889670,690889670,10000.0,9739.8,2016-12-26T14:07:02,129.81,Wendys #394631,US,US,05,08,fastfood,False,06/2022,2013-03-26,2013-03-26,958,958,6829,PURCHASE,,260.2,,,,,,False,False

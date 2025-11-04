@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+138866002,138866002,50000.0,50000.0,2016-02-25T01:25:33,302.34,sears.com,US,US,05,01,online_retail,11/2021,2007-09-06,2007-09-06,134,134,4025,PURCHASE,,0.0,,,,False,,,False,False
+138866002,138866002,50000.0,49722.66,2016-07-24T23:26:13,227.21,cheapfast.com,US,US,05,01,online_retail,11/2029,2007-09-06,2007-09-06,134,134,4025,PURCHASE,,277.34,,,,False,,,False,False
+138866002,138866002,50000.0,49520.45,2016-08-23T18:50:12,27.08,gap.com,US,US,02,01,online_retail,02/2033,2007-09-06,2007-09-06,869,869,2005,PURCHASE,,479.55,,,,False,,,False,False
+138866002,138866002,50000.0,49518.37,2016-09-18T08:37:16,712.38,alibaba.com,US,US,09,01,online_retail,03/2028,2007-09-06,2007-09-06,134,134,4025,PURCHASE,,481.63,,,,False,,,False,False
+138866002,138866002,50000.0,48830.99,2016-10-01T09:56:31,102.17,cheapfast.com,US,US,05,01,online_retail,12/2030,2007-09-06,2007-09-06,869,869,2005,PURCHASE,,1169.01,,,,False,,,False,False
+138866002,138866002,50000.0,48728.82,2016-10-14T02:50:35,161.79,sears.com,US,US,09,01,online_retail,04/2027,2007-09-06,2007-09-06,780,780,7275,PURCHASE,,1271.18,,,,False,,,False,False
+138866002,138866002,50000.0,48592.03,2016-11-30T10:23:42,241.57,discount.com,US,US,05,01,online_retail,04/2032,2007-09-06,2007-09-06,134,134,4025,PURCHASE,,1407.97,,,,False,,,False,False

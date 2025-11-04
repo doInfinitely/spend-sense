@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+623584109,623584109,10000.0,10000.0,2016-06-09T03:15:44,80.81,staples.com,US,US,09,01,online_retail,02/2026,2015-03-28,2015-03-28,210,210,5064,PURCHASE,,0.0,,,,False,,,False,False
+623584109,623584109,10000.0,9944.19,2016-07-19T20:29:20,378.48,discount.com,US,US,09,99,online_retail,05/2031,2015-03-28,2015-03-28,210,210,5064,PURCHASE,,55.81,,,,False,,,False,False
+623584109,623584109,10000.0,9565.71,2016-07-28T01:10:17,378.48,discount.com,US,US,09,99,online_retail,05/2031,2015-03-28,2015-03-28,210,210,5064,REVERSAL,,434.29,,,,False,,,False,False
+623584109,623584109,10000.0,9944.19,2016-07-30T21:35:08,88.75,Lyft,US,US,02,01,rideshare,01/2022,2015-03-28,2015-03-28,210,210,5064,PURCHASE,,55.81,,,,False,,,False,False
+623584109,623584109,10000.0,9880.44,2016-10-07T17:08:50,9.07,abc.com,US,US,05,01,online_subscriptions,11/2027,2015-03-28,2015-03-28,210,210,5064,PURCHASE,,119.56,,,,False,,,False,False
+623584109,623584109,10000.0,9896.37,2016-11-07T08:33:46,9.07,abc.com,US,US,05,01,online_subscriptions,11/2027,2015-03-28,2015-03-28,210,210,5064,PURCHASE,,103.63,,,,False,,,False,False
+623584109,623584109,10000.0,9912.3,2016-12-09T03:09:26,9.07,abc.com,US,US,05,01,online_subscriptions,11/2027,2015-03-28,2015-03-28,210,210,5064,PURCHASE,,87.7,,,,False,,,False,False

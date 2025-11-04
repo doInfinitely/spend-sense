@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+225648541,225648541,7500.0,7500.0,2016-09-04T01:33:53,54.99,discount.com,US,US,09,01,online_retail,12/2023,2015-07-31,2015-07-31,222,222,2529,PURCHASE,,0.0,,,,False,,,False,False
+225648541,225648541,7500.0,7445.01,2016-09-13T16:43:14,16.35,gap.com,US,US,05,01,online_retail,10/2026,2015-07-31,2015-07-31,222,222,2529,PURCHASE,,54.99,,,,False,,,False,False
+225648541,225648541,7500.0,7453.66,2016-12-16T23:37:22,563.59,ebay.com,US,US,05,01,online_retail,02/2026,2015-07-31,2015-07-31,222,222,2529,PURCHASE,,46.34,,,,False,,,False,False

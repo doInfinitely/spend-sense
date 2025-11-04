@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+964995698,964995698,7500.0,7500.0,2016-03-31T08:29:47,263.44,Fast Repair,US,US,09,01,auto,True,05/2020,2015-11-19,2015-11-19,702,702,8284,PURCHASE,,0.0,,,,,,False,False
+964995698,964995698,7500.0,7500.0,2016-06-01T03:42:19,38.55,Washington Repair,US,US,02,01,auto,True,08/2022,2015-11-19,2015-11-19,478,478,6197,PURCHASE,,0.0,,,,,,False,False
+964995698,964995698,7500.0,7500.0,2016-07-12T03:21:00,104.56,Ricks Repair,US,US,09,08,auto,True,08/2021,2015-11-19,2015-11-19,702,702,8284,PURCHASE,,0.0,,,,,,False,False
+964995698,964995698,7500.0,7500.0,2016-08-13T20:58:32,315.03,Eazy Auto Body,US,US,05,01,auto,True,04/2026,2015-11-19,2015-11-19,478,478,6197,PURCHASE,,0.0,,,,,,False,False
+964995698,964995698,7500.0,7500.0,2016-10-14T22:05:56,7.01,Apple iTunes,US,US,02,01,mobileapps,False,01/2025,2015-11-19,2015-11-19,702,702,8284,PURCHASE,,0.0,,,,,,False,False
+964995698,964995698,7500.0,7492.99,2016-10-28T12:56:36,34.9,Shell Auto Body,US,US,09,01,auto,True,01/2033,2015-11-19,2015-11-19,702,702,8284,PURCHASE,,7.01,,,,,,False,False
+964995698,964995698,7500.0,7500.0,2016-11-13T22:34:26,7.01,Apple iTunes,US,US,02,01,mobileapps,False,01/2025,2015-11-19,2015-11-19,702,702,8284,PURCHASE,,0.0,,,,,,False,False
+964995698,964995698,7500.0,7500.0,2016-12-14T04:10:15,7.01,Apple iTunes,US,US,02,01,mobileapps,False,01/2025,2015-11-19,2015-11-19,702,702,8284,PURCHASE,,0.0,,,,,,False,False
+964995698,964995698,7500.0,7492.99,2016-12-24T01:06:04,73.61,South Restaurant,US,US,02,01,food,True,05/2028,2015-11-19,2015-11-19,320,320,8417,PURCHASE,,7.01,,,,,,False,False

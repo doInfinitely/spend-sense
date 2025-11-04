@@ -1,0 +1,13 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+155977598,155977598,5000.0,5000.0,2016-02-28T15:29:21,22.35,Spotify,US,US,05,01,online_subscriptions,04/2020,2012-08-12,2012-08-12,424,424,7193,PURCHASE,,0.0,,,,False,,,False,False
+155977598,155977598,5000.0,5000.0,2016-03-30T01:10:18,22.35,Spotify,US,US,05,01,online_subscriptions,04/2020,2012-08-12,2012-08-12,424,424,7193,PURCHASE,,0.0,,,,False,,,False,False
+155977598,155977598,5000.0,5000.0,2016-04-30T01:36:25,22.35,Spotify,US,US,05,01,online_subscriptions,04/2020,2012-08-12,2012-08-12,424,424,7193,PURCHASE,,0.0,,,,False,,,False,False
+155977598,155977598,5000.0,5000.0,2016-05-30T19:35:50,22.35,Spotify,US,US,05,01,online_subscriptions,04/2020,2012-08-12,2012-08-12,424,424,7193,PURCHASE,,0.0,,,,False,,,False,False
+155977598,155977598,5000.0,5000.0,2016-06-29T10:34:21,34.55,Franks Pub #632075,US,US,02,08,food,12/2031,2012-08-12,2012-08-12,424,424,7193,PURCHASE,,0.0,,,,True,,,False,False
+155977598,155977598,5000.0,4965.45,2016-06-30T07:35:16,22.35,Spotify,US,US,05,01,online_subscriptions,04/2020,2012-08-12,2012-08-12,424,424,7193,PURCHASE,,34.55,,,,False,,,False,False
+155977598,155977598,5000.0,4968.1,2016-07-31T00:46:16,22.35,Spotify,US,US,05,01,online_subscriptions,04/2020,2012-08-12,2012-08-12,424,424,7193,PURCHASE,,31.9,,,,False,,,False,False
+155977598,155977598,5000.0,4970.75,2016-08-31T06:48:38,22.35,Spotify,US,US,05,01,online_subscriptions,04/2020,2012-08-12,2012-08-12,424,424,7193,PURCHASE,,29.25,,,,False,,,False,False
+155977598,155977598,5000.0,4973.4,2016-09-30T09:52:19,22.35,Spotify,US,US,05,01,online_subscriptions,04/2020,2012-08-12,2012-08-12,424,424,7193,PURCHASE,,26.6,,,,False,,,False,False
+155977598,155977598,5000.0,4976.05,2016-10-30T21:29:15,22.35,Spotify,US,US,05,01,online_subscriptions,04/2020,2012-08-12,2012-08-12,424,424,7193,PURCHASE,,23.95,,,,False,,,False,False
+155977598,155977598,5000.0,4978.7,2016-11-30T15:56:56,22.35,Spotify,US,US,05,01,online_subscriptions,04/2020,2012-08-12,2012-08-12,424,424,7193,PURCHASE,,21.3,,,,False,,,False,False
+155977598,155977598,5000.0,4981.35,2016-12-30T20:25:03,22.35,Spotify,US,US,05,01,online_subscriptions,04/2020,2012-08-12,2012-08-12,424,424,7193,PURCHASE,,18.65,,,,False,,,False,False

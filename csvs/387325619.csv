@@ -1,0 +1,15 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+387325619,387325619,250.0,250.0,2016-01-18T06:56:24,10.24,oldnavy.com,US,US,05,01,online_retail,11/2031,2015-08-05,2015-08-05,785,785,8977,PURCHASE,,0.0,,,,False,,,False,False
+387325619,387325619,250.0,239.76,2016-01-19T11:41:20,489.56,Washington News,US,US,02,01,subscriptions,12/2025,2015-08-05,2015-08-05,785,785,8977,PURCHASE,,10.24,,,,False,,,False,False
+387325619,387325619,250.0,-46.56,2016-05-20T20:28:48,700.65,gap.com,US,US,05,01,online_retail,03/2023,2015-08-05,2015-08-05,785,785,8977,PURCHASE,,296.56,,,,False,,,False,False
+387325619,387325619,250.0,-428.53,2016-05-23T17:33:18,21.02,discount.com,US,US,05,01,online_retail,05/2030,2015-08-05,2015-08-05,785,785,8977,PURCHASE,,678.53,,,,False,,,False,False
+387325619,387325619,250.0,-290.36,2016-06-14T00:41:11,18.04,amazon.com,US,US,09,01,online_retail,11/2021,2015-08-05,2015-08-05,785,785,8977,PURCHASE,,540.36,,,,False,,,False,False
+387325619,387325619,250.0,150.73,2016-06-23T23:48:44,200.93,amazon.com,US,US,02,01,online_retail,11/2024,2015-08-05,2015-08-05,785,785,8977,PURCHASE,,99.27,,,,False,,,False,False
+387325619,387325619,250.0,250.0,2016-08-08T13:09:30,91.9,apple.com,US,US,09,01,online_retail,06/2023,2015-08-05,2015-08-05,785,785,8977,PURCHASE,,0.0,,,,False,,,False,False
+387325619,387325619,250.0,158.1,2016-08-10T21:37:48,5.19,alibaba.com,US,US,05,08,online_retail,07/2022,2015-08-05,2015-08-05,785,785,8977,PURCHASE,,91.9,,,,False,,,False,False
+387325619,387325619,250.0,152.91,2016-08-29T11:36:50,10.83,ebay.com,US,US,02,01,online_retail,11/2022,2015-08-05,2015-08-05,785,785,8977,PURCHASE,,97.09,,,,False,,,False,False
+387325619,387325619,250.0,167.08,2016-10-06T17:36:24,0.0,Chicago News,US,US,02,01,subscriptions,07/2025,2015-08-05,2015-08-05,785,785,8977,ADDRESS_VERIFICATION,,82.92,,,,False,,,False,False
+387325619,387325619,250.0,167.08,2016-10-15T13:04:59,201.8,oldnavy.com,US,US,05,08,online_retail,01/2028,2015-08-05,2015-08-05,785,785,8977,PURCHASE,,82.92,,,,False,,,False,True
+387325619,387325619,250.0,124.09,2016-11-14T18:12:21,294.28,amazon.com,US,US,05,08,online_retail,12/2023,2015-08-05,2015-08-05,785,785,8977,PURCHASE,,125.91,,,,False,,,False,False
+387325619,387325619,250.0,250.0,2016-12-01T08:32:43,407.98,Minneapolis News,US,US,,01,subscriptions,06/2031,2015-08-05,2015-08-05,785,785,8977,PURCHASE,,0.0,,,,False,,,False,False
+387325619,387325619,250.0,11.33,2016-12-10T06:22:35,68.99,EZ Putt Putt #69446,US,US,90,01,entertainment,06/2026,2015-08-05,2015-08-05,785,785,8977,PURCHASE,,238.67,,,,True,,,False,False

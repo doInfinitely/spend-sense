@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+155162628,155162628,1000.0,1000.0,2016-04-24T00:35:50,4.63,Play Store,US,US,05,01,mobileapps,05/2029,2010-06-26,2010-06-26,795,795,2550,PURCHASE,,0.0,,,,False,,,False,False
+155162628,155162628,1000.0,1000.0,2016-05-25T07:47:19,4.63,Play Store,US,US,05,01,mobileapps,05/2029,2010-06-26,2010-06-26,795,795,2550,PURCHASE,,0.0,,,,False,,,False,False
+155162628,155162628,1000.0,1000.0,2016-06-26T00:25:58,4.63,Play Store,US,US,05,01,mobileapps,05/2029,2010-06-26,2010-06-26,795,795,2550,PURCHASE,,0.0,,,,False,,,False,False
+155162628,155162628,1000.0,1000.0,2016-07-26T15:23:08,4.63,Play Store,US,US,05,01,mobileapps,05/2029,2010-06-26,2010-06-26,795,795,2550,PURCHASE,,0.0,,,,False,,,False,False
+155162628,155162628,1000.0,1000.0,2016-08-27T07:04:03,4.63,Play Store,US,US,05,01,mobileapps,05/2029,2010-06-26,2010-06-26,795,795,2550,PURCHASE,,0.0,,,,False,,,False,False
+155162628,155162628,1000.0,1000.0,2016-09-28T06:39:00,4.63,Play Store,US,US,05,01,mobileapps,05/2029,2010-06-26,2010-06-26,795,795,2550,PURCHASE,,0.0,,,,False,,,False,False
+155162628,155162628,1000.0,1000.0,2016-10-29T15:49:26,4.63,Play Store,US,US,05,01,mobileapps,05/2029,2010-06-26,2010-06-26,795,795,2550,PURCHASE,,0.0,,,,False,,,False,False
+155162628,155162628,1000.0,1000.0,2016-11-30T04:13:47,4.63,Play Store,US,US,05,01,mobileapps,05/2029,2010-06-26,2010-06-26,795,795,2550,PURCHASE,,0.0,,,,False,,,False,False

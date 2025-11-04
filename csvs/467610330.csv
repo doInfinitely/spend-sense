@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+467610330,467610330,50000.0,50000.0,2016-07-21T00:45:04,109.33,Golds Gym #360108,US,US,90,01,health,True,01/2025,2015-05-01,2015-05-01,955,955,4066,PURCHASE,,0.0,,,,,,False,False
+467610330,467610330,50000.0,49915.67,2016-10-26T17:15:26,71.51,Sunoco Gas #236588,US,US,05,01,fuel,True,10/2025,2015-05-01,2015-05-01,955,955,4066,PURCHASE,,84.33,,,,,,False,False
+467610330,467610330,50000.0,49869.16,2016-11-10T06:12:56,62.92,Sunoco Gas #236588,US,US,05,01,fuel,True,10/2025,2015-05-01,2015-05-01,955,955,4066,PURCHASE,,130.84,,,,,,False,False
+467610330,467610330,50000.0,49806.24,2016-11-25T01:35:53,62.92,Sunoco Gas #236588,US,US,05,01,fuel,True,10/2025,2015-05-01,2015-05-01,955,955,4066,PURCHASE,,193.76,,,,,,False,False
+467610330,467610330,50000.0,49768.32,2016-12-08T07:42:15,77.55,Sunoco Gas #236588,US,US,05,01,fuel,True,10/2025,2015-05-01,2015-05-01,955,955,4066,PURCHASE,,231.68,,,,,,False,False
+467610330,467610330,50000.0,49690.77,2016-12-23T06:58:30,62.92,Sunoco Gas #236588,US,US,05,01,fuel,True,10/2025,2015-05-01,2015-05-01,955,955,4066,PURCHASE,,309.23,,,,,,False,False

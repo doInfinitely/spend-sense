@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+958477871,958477871,15000.0,15000.0,2016-02-16T19:50:10,300.85,Domino's Pizza #864216,US,US,02,08,fastfood,True,09/2023,2015-04-03,2015-04-03,397,397,7785,PURCHASE,,0.0,,,,,,False,False
+958477871,958477871,15000.0,14724.15,2016-03-05T19:21:04,266.26,Uber,US,US,02,01,rideshare,False,03/2026,2015-04-03,2015-04-03,397,397,7785,PURCHASE,,275.85,,,,,,False,False
+958477871,958477871,15000.0,14482.89,2016-09-12T05:43:44,363.98,EZ Putt Putt #551896,US,US,02,01,entertainment,True,12/2020,2015-04-03,2015-04-03,397,397,7785,PURCHASE,,517.11,,,,,,False,False
+958477871,958477871,15000.0,14143.91,2016-10-07T07:39:39,19.39,EZ Putt Putt #69446,US,US,05,01,entertainment,True,11/2025,2015-04-03,2015-04-03,492,462,3768,PURCHASE,,856.09,,,,,,False,False

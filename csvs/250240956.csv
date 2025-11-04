@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+250240956,250240956,2500.0,2500.0,2016-02-06T22:34:13,274.95,Pizza Hut #909869,US,US,02,01,fastfood,True,03/2024,2015-09-17,2015-09-17,471,471,9668,PURCHASE,,0.0,,,,,,False,False
+250240956,250240956,2500.0,2250.05,2016-06-03T20:26:28,252.05,Hardee's #245522,US,US,90,01,fastfood,True,06/2029,2015-09-17,2015-09-17,471,471,9668,PURCHASE,,249.95,,,,,,False,False
+250240956,250240956,2500.0,2023.0,2016-07-14T17:13:12,336.16,Dunkin' Donuts #605523,US,US,05,01,fastfood,True,02/2028,2015-09-17,2015-09-17,471,471,9668,PURCHASE,,477.0,,,,,,False,False
+250240956,250240956,2500.0,1711.84,2016-09-08T23:06:33,89.78,Wendys #79777,US,US,05,01,fastfood,True,01/2023,2015-09-17,2015-09-17,471,471,9668,PURCHASE,,788.16,,,,,,False,False
+250240956,250240956,2500.0,1647.06,2016-10-24T20:48:49,14.13,Auntie Anne's #518246,US,US,02,01,fastfood,True,07/2033,2015-09-17,2015-09-17,471,471,9668,PURCHASE,,852.94,,,,,,False,False
+250240956,250240956,2500.0,1657.93,2016-12-11T00:23:01,8.31,Play Store,US,US,09,01,mobileapps,False,12/2019,2015-09-17,2015-09-17,471,471,9668,PURCHASE,,842.07,,,,,,False,False

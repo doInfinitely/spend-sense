@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+497298194,497298194,15000.0,15000.0,2016-01-15T16:35:26,34.61,KFC #140616,US,US,05,01,fastfood,True,10/2022,2015-03-22,2015-03-22,337,337,7427,PURCHASE,,0.0,,,,,,False,False
+497298194,497298194,15000.0,14990.39,2016-06-23T16:53:03,156.13,Shake Shack #78881,US,US,09,01,fastfood,True,11/2027,2015-03-22,2015-03-22,337,337,7427,PURCHASE,,9.61,,,,,,False,False
+497298194,497298194,15000.0,14859.26,2016-11-22T15:13:49,136.11,Taco Bell #164602,US,US,05,01,fastfood,True,04/2024,2015-03-22,2015-03-22,337,337,7427,PURCHASE,,140.74,,,,,,False,False
+497298194,497298194,15000.0,14723.15,2016-11-27T11:45:03,18.62,McDonalds #826511,US,US,05,01,fastfood,True,07/2031,2015-03-22,2015-03-22,337,337,7427,PURCHASE,,276.85,,,,,,False,False
+497298194,497298194,15000.0,14729.53,2016-12-01T18:56:08,136.11,Taco Bell #164602,US,US,05,01,fastfood,True,04/2024,2015-03-22,2015-03-22,337,337,7427,REVERSAL,,270.47,,,,,,False,False

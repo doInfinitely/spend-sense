@@ -1,0 +1,15 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+494542601,494542601,10000.0,10000.0,2016-01-05T00:24:41,195.36,target.com,US,US,02,08,online_retail,08/2023,2015-01-16,2015-01-16,407,407,8598,PURCHASE,,0.0,,,,False,,,False,False
+494542601,494542601,10000.0,9804.64,2016-01-05T12:04:32,1.4,oldnavy.com,US,US,02,08,online_retail,07/2033,2015-01-16,2015-01-16,194,194,5512,PURCHASE,,195.36,,,,False,,,False,False
+494542601,494542601,10000.0,9803.24,2016-01-08T03:43:12,22.06,abc.com,US,US,05,01,online_subscriptions,09/2023,2015-01-16,2015-01-16,407,407,8598,PURCHASE,,196.76,,,,False,,,False,False
+494542601,494542601,10000.0,9806.18,2016-02-07T17:40:25,22.06,abc.com,US,US,05,01,online_subscriptions,09/2023,2015-01-16,2015-01-16,407,407,8598,PURCHASE,,193.82,,,,False,,,False,False
+494542601,494542601,10000.0,9809.12,2016-03-09T03:04:29,22.06,abc.com,US,US,05,01,online_subscriptions,09/2023,2015-01-16,2015-01-16,407,407,8598,PURCHASE,,190.88,,,,False,,,False,False
+494542601,494542601,10000.0,9812.06,2016-04-08T06:30:29,22.06,abc.com,US,US,05,01,online_subscriptions,09/2023,2015-01-16,2015-01-16,407,407,8598,PURCHASE,,187.94,,,,False,,,False,False
+494542601,494542601,10000.0,9815.0,2016-05-09T08:53:30,22.06,abc.com,US,US,05,01,online_subscriptions,09/2023,2015-01-16,2015-01-16,407,407,8598,PURCHASE,,185.0,,,,False,,,False,False
+494542601,494542601,10000.0,9817.94,2016-06-08T16:41:37,22.06,abc.com,US,US,05,01,online_subscriptions,09/2023,2015-01-16,2015-01-16,407,407,8598,PURCHASE,,182.06,,,,False,,,False,False
+494542601,494542601,10000.0,9820.88,2016-07-09T01:43:06,22.06,abc.com,US,US,05,01,online_subscriptions,09/2023,2015-01-16,2015-01-16,407,407,8598,PURCHASE,,179.12,,,,False,,,False,False
+494542601,494542601,10000.0,9823.82,2016-08-09T07:18:42,22.06,abc.com,US,US,05,01,online_subscriptions,09/2023,2015-01-16,2015-01-16,407,407,8598,PURCHASE,,176.18,,,,False,,,False,False
+494542601,494542601,10000.0,9826.76,2016-09-09T01:07:13,22.06,abc.com,US,US,05,01,online_subscriptions,09/2023,2015-01-16,2015-01-16,407,407,8598,PURCHASE,,173.24,,,,False,,,False,False
+494542601,494542601,10000.0,9829.7,2016-10-09T21:06:16,22.06,abc.com,US,US,05,01,online_subscriptions,09/2023,2015-01-16,2015-01-16,407,407,8598,PURCHASE,,170.3,,,,False,,,False,False
+494542601,494542601,10000.0,9832.64,2016-11-10T03:29:27,22.06,abc.com,US,US,05,01,online_subscriptions,09/2023,2015-01-16,2015-01-16,407,407,8598,PURCHASE,,167.36,,,,False,,,False,False
+494542601,494542601,10000.0,9835.58,2016-12-10T12:47:05,22.06,abc.com,US,US,05,01,online_subscriptions,09/2023,2015-01-16,2015-01-16,407,407,8598,PURCHASE,,164.42,,,,False,,,False,False

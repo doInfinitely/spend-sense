@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+839914750,839914750,5000.0,5000.0,2016-08-28T23:18:51,8.15,netflix.com,US,US,02,01,online_subscriptions,12/2030,2013-10-17,2013-10-17,222,222,8291,PURCHASE,,0.0,,,,False,,,False,False
+839914750,839914750,5000.0,5000.0,2016-09-29T01:47:25,8.15,netflix.com,US,US,02,01,online_subscriptions,12/2030,2013-10-17,2013-10-17,222,222,8291,PURCHASE,,0.0,,,,False,,,False,False
+839914750,839914750,5000.0,5000.0,2016-10-06T21:16:38,4.08,Play Store,US,US,05,01,mobileapps,03/2032,2013-10-17,2013-10-17,222,222,8291,PURCHASE,,0.0,,,,False,,,False,False
+839914750,839914750,5000.0,4995.92,2016-10-30T02:18:27,8.15,netflix.com,US,US,02,01,online_subscriptions,12/2030,2013-10-17,2013-10-17,222,222,8291,PURCHASE,,4.08,,,,False,,,False,False
+839914750,839914750,5000.0,5000.0,2016-11-06T07:51:19,4.08,Play Store,US,US,05,01,mobileapps,03/2032,2013-10-17,2013-10-17,222,222,8291,PURCHASE,,0.0,,,,False,,,False,False
+839914750,839914750,5000.0,4995.92,2016-11-30T06:49:55,8.15,netflix.com,US,US,02,01,online_subscriptions,12/2030,2013-10-17,2013-10-17,222,222,8291,PURCHASE,,4.08,,,,False,,,False,False
+839914750,839914750,5000.0,5000.0,2016-12-08T05:42:14,4.08,Play Store,US,US,05,01,mobileapps,03/2032,2013-10-17,2013-10-17,222,222,8291,PURCHASE,,0.0,,,,False,,,False,False
+839914750,839914750,5000.0,4995.92,2016-12-30T23:37:54,8.15,netflix.com,US,US,02,01,online_subscriptions,12/2030,2013-10-17,2013-10-17,222,222,8291,PURCHASE,,4.08,,,,False,,,False,False

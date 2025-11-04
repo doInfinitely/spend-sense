@@ -1,0 +1,12 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+153895171,153895171,50000.0,50000.0,2016-02-05T01:27:42,356.03,EZ Putt Putt #982199,US,US,09,01,entertainment,True,02/2024,2015-12-09,2015-12-09,292,292,6291,PURCHASE,,0.0,,,,,,False,False
+153895171,153895171,50000.0,49668.97,2016-08-23T09:43:39,0.0,netflix.com,US,US,05,01,online_subscriptions,False,09/2022,2015-12-09,2015-12-09,292,292,6291,PURCHASE,,331.03,,,,,,False,False
+153895171,153895171,50000.0,49668.97,2016-08-24T00:08:53,5.5,Play Store,US,US,09,01,mobileapps,False,06/2029,2015-12-09,2015-12-09,259,259,5485,PURCHASE,,331.03,,,,,,False,False
+153895171,153895171,50000.0,49688.47,2016-09-22T13:03:10,0.0,netflix.com,US,US,05,01,online_subscriptions,False,09/2022,2015-12-09,2015-12-09,292,292,6291,PURCHASE,,311.53,,,,,,False,False
+153895171,153895171,50000.0,49688.47,2016-09-24T11:48:43,5.5,Play Store,US,US,09,01,mobileapps,False,06/2029,2015-12-09,2015-12-09,259,259,5485,PURCHASE,,311.53,,,,,,False,False
+153895171,153895171,50000.0,49707.97,2016-10-23T07:21:23,0.0,netflix.com,US,US,05,01,online_subscriptions,False,09/2022,2015-12-09,2015-12-09,292,292,6291,PURCHASE,,292.03,,,,,,False,False
+153895171,153895171,50000.0,49707.97,2016-10-25T15:27:34,5.5,Play Store,US,US,09,01,mobileapps,False,06/2029,2015-12-09,2015-12-09,259,259,5485,PURCHASE,,292.03,,,,,,False,False
+153895171,153895171,50000.0,49727.47,2016-11-23T03:29:31,0.0,netflix.com,US,US,05,01,online_subscriptions,False,09/2022,2015-12-09,2015-12-09,292,292,6291,PURCHASE,,272.53,,,,,,False,False
+153895171,153895171,50000.0,49727.47,2016-11-25T11:47:23,5.5,Play Store,US,US,09,01,mobileapps,False,06/2029,2015-12-09,2015-12-09,259,259,5485,PURCHASE,,272.53,,,,,,False,False
+153895171,153895171,50000.0,49746.97,2016-12-24T17:18:51,0.0,netflix.com,US,US,05,01,online_subscriptions,False,09/2022,2015-12-09,2015-12-09,292,292,6291,PURCHASE,,253.03,,,,,,False,False
+153895171,153895171,50000.0,49746.97,2016-12-26T00:08:36,5.5,Play Store,US,US,09,01,mobileapps,False,06/2029,2015-12-09,2015-12-09,259,259,5485,PURCHASE,,253.03,,,,,,False,False

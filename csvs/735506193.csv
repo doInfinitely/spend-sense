@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+735506193,735506193,5000.0,5000.0,2016-03-23T09:11:05,199.5,EZ Putt Putt #69446,US,US,09,01,entertainment,True,08/2028,2014-05-26,2014-05-26,150,150,8663,PURCHASE,,0.0,,,,,,False,False
+735506193,735506193,5000.0,4825.5,2016-10-17T14:55:44,7.13,Apple iTunes,US,US,05,08,mobileapps,False,05/2032,2014-05-26,2014-05-26,150,150,8663,PURCHASE,,174.5,,,,,,False,False
+735506193,735506193,5000.0,4818.37,2016-10-28T18:28:22,104.84,EZ Putt Putt #982199,US,US,05,01,entertainment,True,12/2023,2014-05-26,2014-05-26,150,150,8663,PURCHASE,,181.63,,,,,,False,False
+735506193,735506193,5000.0,4738.53,2016-11-02T12:37:55,185.18,EZ Putt Putt #240241,US,US,05,01,entertainment,True,12/2032,2014-05-26,2014-05-26,150,150,8663,PURCHASE,,261.47,,,,,,False,False
+735506193,735506193,5000.0,4553.35,2016-11-17T15:33:50,7.13,Apple iTunes,US,US,05,08,mobileapps,False,05/2032,2014-05-26,2014-05-26,150,150,8663,PURCHASE,,446.65,,,,,,False,False
+735506193,735506193,5000.0,4571.22,2016-12-18T21:43:43,7.13,Apple iTunes,US,US,05,08,mobileapps,False,05/2032,2014-05-26,2014-05-26,150,150,8663,PURCHASE,,428.78,,,,,,False,False

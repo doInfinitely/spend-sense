@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+603135182,603135182,7500.0,7500.0,2016-01-20T20:20:15,75.05,ebay.com,US,US,05,01,online_retail,08/2027,2014-09-13,2014-09-13,579,579,1722,PURCHASE,,0.0,,,,False,,,False,False
+603135182,603135182,7500.0,7424.95,2016-01-24T08:49:12,7.01,Next Day eCards,US,US,05,01,online_gifts,07/2021,2014-09-13,2014-09-13,579,579,1722,PURCHASE,,75.05,,,,False,,,False,False
+603135182,603135182,7500.0,7500.0,2016-11-07T23:20:02,58.53,oldnavy.com,US,US,09,01,online_retail,06/2022,2014-09-13,2014-09-13,579,579,1722,PURCHASE,,0.0,,,,False,,,False,False
+603135182,603135182,7500.0,7441.47,2016-11-13T23:08:45,43.52,Dunkin' Donuts #83377,US,US,09,08,fastfood,08/2028,2014-09-13,2014-09-13,579,579,1722,PURCHASE,,58.53,,,,True,,,False,False
+603135182,603135182,7500.0,7397.95,2016-11-28T14:05:55,43.52,Dunkin' Donuts #83377,US,US,09,08,fastfood,08/2028,2014-09-13,2014-09-13,579,579,1722,REVERSAL,,102.05,,,,True,,,False,False

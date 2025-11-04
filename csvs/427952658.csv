@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,transactionAmount,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+427952658,427952658,15000.0,15000.0,2016-04-26T07:47:16,amazon.com,US,US,09,01,online_retail,05/2026,2013-07-30,2013-07-30,484,484,8774,ADDRESS_VERIFICATION,,0.0,0.0,,,,False,,,False,False
+427952658,427952658,15000.0,15000.0,2016-06-23T20:48:40,amazon.com,US,US,09,01,online_retail,06/2032,2013-07-30,2013-07-30,104,104,7657,PURCHASE,,0.0,73.43,,,,False,,,False,False
+427952658,427952658,15000.0,14926.57,2016-06-23T23:15:19,amazon.com,US,US,05,01,online_retail,12/2025,2013-07-30,2013-07-30,104,104,7657,PURCHASE,,73.43,417.69,,,,False,,,False,False
+427952658,427952658,15000.0,14533.88,2016-07-20T16:48:52,staples.com,US,US,05,01,online_retail,04/2022,2013-07-30,2013-07-30,484,484,8774,PURCHASE,,466.12,75.36,,,,False,,,False,False
+427952658,427952658,15000.0,14483.52,2016-10-09T03:43:13,ebay.com,US,US,05,01,online_retail,08/2026,2013-07-30,2013-07-30,104,104,7657,PURCHASE,,516.48,238.55,,,,False,,,False,False
+427952658,427952658,15000.0,14244.97,2016-10-12T16:18:58,target.com,US,US,09,01,online_retail,07/2022,2013-07-30,2013-07-30,104,104,7657,PURCHASE,,755.03,426.58,,,,False,,,False,False
+427952658,427952658,15000.0,13843.39,2016-11-23T19:21:06,staples.com,US,US,09,08,online_retail,05/2024,2013-07-30,2013-07-30,104,102,7657,PURCHASE,,1156.61,49.45,,,,False,,,False,False

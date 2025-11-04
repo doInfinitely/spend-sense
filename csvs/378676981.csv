@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+378676981,378676981,2500.0,2500.0,2016-02-16T02:48:18,825.7,cheapfast.com,US,US,05,01,online_retail,05/2021,2015-01-05,2015-01-05,126,126,8311,PURCHASE,,0.0,,,,False,,,False,False
+378676981,378676981,2500.0,2500.0,2016-09-08T07:08:30,6.59,Play Store,,US,05,01,mobileapps,02/2020,2015-01-05,2015-01-05,126,126,8311,PURCHASE,,0.0,,,,False,,,False,False
+378676981,378676981,2500.0,2500.0,2016-10-10T04:27:45,6.59,Play Store,,US,05,01,mobileapps,02/2020,2015-01-05,2015-01-05,126,126,8311,PURCHASE,,0.0,,,,False,,,False,False
+378676981,378676981,2500.0,2500.0,2016-11-09T23:18:07,7.83,Starbucks #242505,US,US,02,01,fastfood,04/2032,2015-01-05,2015-01-05,126,126,8311,PURCHASE,,0.0,,,,True,,,False,False
+378676981,378676981,2500.0,2492.17,2016-11-10T05:46:20,6.59,Play Store,,US,05,01,mobileapps,02/2020,2015-01-05,2015-01-05,126,126,8311,PURCHASE,,7.83,,,,False,,,False,False
+378676981,378676981,2500.0,2500.0,2016-12-11T20:40:12,6.59,Play Store,,US,05,01,mobileapps,02/2020,2015-01-05,2015-01-05,126,126,8311,PURCHASE,,0.0,,,,False,,,False,False

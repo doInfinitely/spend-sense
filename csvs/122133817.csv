@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+122133817,122133817,15000.0,15000.0,2016-04-12T11:48:02,102.52,Arbys #50355,US,US,09,01,fastfood,True,10/2025,2011-04-28,2011-04-28,853,853,2542,PURCHASE,,0.0,,,,,,False,False
+122133817,122133817,15000.0,14897.48,2016-04-17T10:15:56,109.11,alibaba.com,US,US,05,08,online_retail,False,12/2025,2011-04-28,2011-04-28,853,853,2542,PURCHASE,,102.52,,,,,,False,False
+122133817,122133817,15000.0,14788.37,2016-04-17T10:17:44,109.11,alibaba.com,US,US,05,08,online_retail,False,12/2025,2011-04-28,2011-04-28,853,853,2542,REVERSAL,,211.63,,,,,,False,False
+122133817,122133817,15000.0,14922.48,2016-05-15T01:16:57,46.62,Quizno's #636342,US,US,05,01,fastfood,True,02/2026,2011-04-28,2011-04-28,853,853,2542,PURCHASE,,77.52,,,,,,False,False
+122133817,122133817,15000.0,14900.86,2016-06-15T11:58:42,100.04,Domino's Pizza #864216,US,US,09,08,fastfood,True,12/2031,2011-04-28,2011-04-28,853,853,2542,PURCHASE,,99.14,,,,,,False,False
+122133817,122133817,15000.0,14825.82,2016-07-05T14:40:38,306.66,walmart.com,US,US,05,01,online_retail,False,02/2029,2011-04-28,2011-04-28,853,853,2542,PURCHASE,,174.18,,,,,,False,False
+122133817,122133817,15000.0,14519.16,2016-07-25T16:59:10,59.9,Burger King #406500,US,US,02,01,fastfood,True,09/2025,2011-04-28,2011-04-28,853,853,2542,PURCHASE,,480.84,,,,,,False,False
+122133817,122133817,15000.0,14484.26,2016-08-15T06:01:09,79.16,Hardee's #941387,US,US,09,01,fastfood,True,04/2031,2011-04-28,2011-04-28,853,853,2542,PURCHASE,,515.74,,,,,,False,False
+122133817,122133817,15000.0,14405.1,2016-08-26T03:02:56,138.66,Fresh eCards,US,US,05,01,online_gifts,False,04/2022,2011-04-28,2011-04-28,853,853,2542,PURCHASE,,594.9,,,,,,False,False

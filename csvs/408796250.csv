@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+408796250,408796250,10000.0,10000.0,2016-01-24T17:54:03,257.66,amazon.com,US,US,05,01,online_retail,12/2031,2010-08-07,2010-08-07,891,891,9017,PURCHASE,,0.0,,,,False,,,False,False
+408796250,408796250,10000.0,9767.34,2016-09-08T22:03:50,255.8,Uber,US,US,05,01,rideshare,10/2028,2010-08-07,2010-08-07,140,140,2404,PURCHASE,,232.66,,,,False,,,False,False
+408796250,408796250,10000.0,9536.54,2016-10-04T22:26:07,59.62,Lyft,US,US,02,01,rideshare,05/2025,2010-08-07,2010-08-07,891,891,9017,PURCHASE,,463.46,,,,False,,,False,False
+408796250,408796250,10000.0,9476.92,2016-10-26T21:50:43,0.0,Krispy Kreme #448620,US,US,05,01,fastfood,12/2025,2010-08-07,2010-08-07,140,140,2404,ADDRESS_VERIFICATION,,523.08,,,,False,,,False,False
+408796250,408796250,10000.0,9501.92,2016-12-04T06:59:49,301.18,Uber,US,US,05,08,rideshare,06/2023,2010-08-07,2010-08-07,891,891,9017,PURCHASE,,498.08,,,,False,,,False,False
+408796250,408796250,10000.0,9200.74,2016-12-18T13:05:12,7.18,Uber,US,US,02,01,rideshare,02/2028,2010-08-07,2010-08-07,140,140,2404,PURCHASE,,799.26,,,,False,,,False,False

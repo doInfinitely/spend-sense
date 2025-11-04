@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+520602365,520602365,2500.0,2500.0,2016-02-23T23:20:39,446.32,WSC #620638,US,US,02,01,health,03/2027,2013-04-14,2013-04-14,197,197,2182,PURCHASE,,0.0,,,,False,,,False,False
+520602365,520602365,2500.0,2500.0,2016-09-14T03:01:33,281.61,Mobile eCards,US,US,09,01,online_gifts,02/2032,2013-04-14,2013-04-14,197,197,2182,PURCHASE,,0.0,,,,False,,,False,False
+520602365,520602365,2500.0,2500.0,2016-10-19T01:16:25,285.63,Blue Mountain eCards,US,US,05,01,online_gifts,10/2020,2013-04-14,2013-04-14,197,197,2182,PURCHASE,,0.0,,,,False,,,False,False

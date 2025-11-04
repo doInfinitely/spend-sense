@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+924872985,924872985,7500.0,7500.0,2016-01-19T00:28:47,33.55,ikea.com,US,US,05,01,furniture,True,04/2022,2015-01-20,2015-01-20,914,914,2411,PURCHASE,,0.0,,,,,,False,False
+924872985,924872985,7500.0,7500.0,2016-03-08T16:59:31,31.11,Ashley Furniture,US,US,90,01,furniture,True,03/2029,2015-01-20,2015-01-20,914,914,2411,PURCHASE,,0.0,,,,,,False,False
+924872985,924872985,7500.0,7500.0,2016-04-23T22:25:38,338.59,Pottery Barn,US,US,05,08,furniture,True,07/2028,2015-01-20,2015-01-20,972,972,1830,PURCHASE,,0.0,,,,,,False,False
+924872985,924872985,7500.0,7161.41,2016-04-29T16:36:56,36.44,ikea.com,US,US,05,01,furniture,True,05/2026,2015-01-20,2015-01-20,972,972,1830,PURCHASE,,338.59,,,,,,False,False
+924872985,924872985,7500.0,7500.0,2016-09-29T17:42:45,401.13,ikea.com,US,US,05,01,furniture,True,07/2024,2015-01-20,2015-01-20,972,972,1830,PURCHASE,,0.0,,,,,,False,False

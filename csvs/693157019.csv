@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+693157019,693157019,500.0,500.0,2016-07-02T05:16:18,122.32,alibaba.com,US,US,02,01,online_retail,02/2026,2015-12-15,2015-12-15,587,587,9767,PURCHASE,,0.0,,,,False,,,False,False
+693157019,693157019,500.0,377.68,2016-07-03T19:16:01,181.92,target.com,US,US,09,01,online_retail,03/2027,2015-12-15,2015-12-15,587,587,9767,PURCHASE,,122.32,,,,False,,,False,False
+693157019,693157019,500.0,220.76,2016-09-11T01:03:10,0.2,cheapfast.com,US,US,02,01,online_retail,02/2022,2015-12-15,2015-12-15,587,587,9767,PURCHASE,,279.24,,,,False,,,False,False
+693157019,693157019,500.0,220.56,2016-09-28T02:06:07,8.7,EZ Putt Putt #240241,US,US,09,01,entertainment,09/2025,2015-12-15,2015-12-15,587,587,9767,PURCHASE,,279.44,,,,False,,,False,False
+693157019,693157019,500.0,236.86,2016-11-23T16:58:03,54.84,AMC #724446,US,US,02,01,entertainment,07/2029,2015-12-15,2015-12-15,587,587,9767,PURCHASE,,263.14,,,,True,,,False,False
+693157019,693157019,500.0,207.02,2016-12-21T15:08:15,63.11,Regal Cinemas #276341,US,US,05,08,entertainment,05/2027,2015-12-15,2015-12-15,587,587,9767,PURCHASE,,292.98,,,,True,,,False,False

@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+643580884,643580884,20000.0,20000.0,2016-01-09T04:00:01,178.05,Uber,US,US,05,01,rideshare,02/2031,2014-09-12,2014-09-12,752,752,727,PURCHASE,,0.0,,,,False,,,False,False
+643580884,643580884,20000.0,19846.95,2016-03-16T05:39:33,20.69,Lyft,US,US,02,01,rideshare,02/2025,2014-09-12,2014-09-12,765,765,2141,PURCHASE,,153.05,,,,False,,,False,False
+643580884,643580884,20000.0,19851.26,2016-04-24T17:35:33,87.07,ebay.com,US,US,09,01,online_retail,07/2022,2014-09-12,2014-09-12,765,765,2141,PURCHASE,,148.74,,,,False,,,False,False
+643580884,643580884,20000.0,19764.19,2016-04-24T17:36:41,87.07,ebay.com,US,US,09,01,online_retail,07/2022,2014-09-12,2014-09-12,765,765,2141,PURCHASE,,235.81,,,,False,,,False,False
+643580884,643580884,20000.0,19702.12,2016-07-28T19:19:34,18.67,AMC #552863,US,US,09,08,entertainment,10/2026,2014-09-12,2014-09-12,752,752,727,PURCHASE,,297.88,,,,False,,,False,False
+643580884,643580884,20000.0,19708.45,2016-11-26T07:17:31,262.18,EZ Putt Putt #40513,US,US,09,01,entertainment,05/2025,2014-09-12,2014-09-12,765,765,2141,PURCHASE,,291.55,,,,True,,,False,False
+643580884,643580884,20000.0,19471.27,2016-12-22T14:19:16,507.62,Uber,US,US,05,01,rideshare,08/2025,2014-09-12,2014-09-12,765,765,2141,PURCHASE,,528.73,,,,False,,,False,False

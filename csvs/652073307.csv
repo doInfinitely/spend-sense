@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+652073307,652073307,1000.0,1000.0,2016-06-15T08:32:44,20.55,amazon.com,US,US,02,01,online_retail,05/2020,2007-12-13,2007-12-13,208,208,5884,PURCHASE,,0.0,,,,False,,,False,False
+652073307,652073307,1000.0,979.45,2016-06-26T10:39:05,16.58,amazon.com,US,US,02,01,online_retail,05/2020,2007-12-13,2007-12-13,208,208,5884,REVERSAL,,20.55,,,,False,,,False,False
+652073307,652073307,1000.0,1000.0,2016-07-25T04:17:34,106.34,cheapfast.com,US,US,09,08,online_retail,02/2030,2007-12-13,2007-12-13,274,274,652,PURCHASE,,0.0,,,,False,,,False,False
+652073307,652073307,1000.0,918.66,2016-11-10T15:33:34,20.17,amazon.com,US,US,02,01,online_retail,10/2031,2007-12-13,2007-12-13,208,208,5884,PURCHASE,,81.34,,,,False,,,False,False
+652073307,652073307,1000.0,898.49,2016-11-28T23:00:29,4.48,amazon.com,US,US,09,01,online_retail,02/2027,2007-12-13,2007-12-13,208,208,5884,PURCHASE,,101.51,,,,False,,,False,False

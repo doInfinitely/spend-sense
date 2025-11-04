@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+994684268,994684268,15000.0,15000.0,2016-01-05T07:21:16,70.74,Delta Airlines,US,US,05,08,airline,03/2024,2014-02-05,2014-02-05,688,688,4013,PURCHASE,,0.0,,,,False,,,False,False
+994684268,994684268,15000.0,14929.26,2016-01-08T20:50:02,144.48,gap.com,US,US,02,99,online_retail,02/2024,2014-02-05,2014-02-05,688,688,4013,PURCHASE,,70.74,,,,False,,,False,False
+994684268,994684268,15000.0,14784.78,2016-01-10T13:20:48,38.44,1st BBQ,US,US,05,01,food,02/2020,2014-02-05,2014-02-05,688,688,4013,PURCHASE,,215.22,,,,True,,,False,False
+994684268,994684268,15000.0,15000.0,2016-02-10T21:39:47,148.66,target.com,US,US,05,08,online_retail,08/2022,2014-02-05,2014-02-05,687,687,7025,PURCHASE,,0.0,,,,False,,,False,False
+994684268,994684268,15000.0,15000.0,2016-03-27T01:56:26,135.73,Dinosaur Drive in,US,US,09,01,food,02/2029,2014-02-05,2014-02-05,687,687,7025,PURCHASE,,0.0,,,,True,,,False,False
+994684268,994684268,15000.0,15000.0,2016-06-14T03:40:06,76.24,Uptown Diner,US,US,05,01,food,08/2032,2014-02-05,2014-02-05,687,687,7025,PURCHASE,,0.0,,,,False,,,False,False
+994684268,994684268,15000.0,15000.0,2016-11-14T13:49:39,252.58,34th BBQ #192302,US,US,02,08,food,10/2025,2014-02-05,2014-02-05,110,110,4011,PURCHASE,,0.0,,,,True,,,False,False
+994684268,994684268,15000.0,14747.42,2016-11-16T23:08:22,321.28,34th BBQ #214431,US,US,09,01,food,11/2020,2014-02-05,2014-02-05,687,687,7025,PURCHASE,,252.58,,,,True,,,False,False
+994684268,994684268,15000.0,15000.0,2016-12-18T23:56:20,38.2,Icelandic Airlines,US,US,05,08,airline,03/2027,2014-02-05,2014-02-05,687,687,7025,PURCHASE,,0.0,,,,False,,,False,False

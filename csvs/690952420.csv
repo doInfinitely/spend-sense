@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+690952420,690952420,250.0,250.0,2016-01-15T21:10:39,395.09,gap.com,US,US,05,01,online_retail,12/2024,2015-06-13,2015-06-13,155,155,6657,PURCHASE,,0.0,,,,False,,,False,False
+690952420,690952420,250.0,250.0,2016-02-23T01:35:51,145.63,apple.com,US,US,02,01,online_retail,04/2028,2015-06-13,2015-06-13,952,952,7322,PURCHASE,,0.0,,,,False,,,False,False
+690952420,690952420,250.0,250.0,2016-03-15T23:20:42,309.89,Uber,US,US,09,08,rideshare,09/2021,2015-06-13,2015-06-13,339,339,2123,PURCHASE,,0.0,,,,False,,,False,False
+690952420,690952420,250.0,250.0,2016-05-16T19:46:21,40.27,walmart.com,,US,09,01,online_retail,06/2021,2015-06-13,2015-06-13,952,952,7322,PURCHASE,,0.0,,,,False,,,False,False
+690952420,690952420,250.0,209.73,2016-05-26T19:40:53,97.39,sears.com,US,US,05,01,online_retail,04/2020,2015-06-13,2015-06-13,155,155,6657,PURCHASE,,40.27,,,,False,,,False,False
+690952420,690952420,250.0,112.34,2016-05-28T11:13:27,221.3,Lyft,US,US,02,08,rideshare,07/2026,2015-06-13,2015-06-13,339,339,2123,PURCHASE,,137.66,,,,False,,,False,False
+690952420,690952420,250.0,250.0,2016-08-09T06:39:04,122.46,discount.com,US,US,02,01,online_retail,01/2030,2015-06-13,2015-06-13,952,952,7322,PURCHASE,,0.0,,,,False,,,False,False
+690952420,690952420,250.0,250.0,2016-10-05T19:55:46,75.27,gap.com,US,US,09,01,online_retail,03/2024,2015-06-13,2015-06-13,155,155,6657,PURCHASE,,0.0,,,,False,,,False,False

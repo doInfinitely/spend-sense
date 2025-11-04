@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+941198523,941198523,10000.0,10000.0,2016-02-24T19:36:07,223.74,Planet Fitness #22648,US,US,05,08,health,12/2023,2014-04-24,2014-04-24,787,787,691,PURCHASE,,0.0,,,,False,,,False,False
+941198523,941198523,10000.0,10000.0,2016-05-18T04:47:58,252.31,Planet Fitness #219757,US,US,05,01,health,07/2024,2014-04-24,2014-04-24,787,787,691,PURCHASE,,0.0,,,,False,,,False,False
+941198523,941198523,10000.0,10000.0,2016-07-22T03:22:29,240.8,NYSC #721679,US,US,05,01,health,03/2023,2014-04-24,2014-04-24,787,787,691,PURCHASE,,0.0,,,,False,,,False,False
+941198523,941198523,10000.0,10000.0,2016-08-09T12:23:41,242.33,CVS #495322,US,US,05,01,health,08/2027,2014-04-24,2014-04-24,787,787,691,PURCHASE,,0.0,,,,False,,,False,False
+941198523,941198523,10000.0,10000.0,2016-12-27T08:26:31,26.93,Texas Gas #232247,US,US,90,01,fuel,07/2033,2014-04-24,2014-04-24,787,787,691,PURCHASE,,0.0,,,,True,,,False,False

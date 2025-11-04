@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+800749810,800749810,20000.0,20000.0,2016-03-09T12:51:26,30.29,discount.com,US,US,05,01,online_retail,12/2027,2011-01-18,2011-01-18,534,534,208,PURCHASE,,0.0,,,,False,,,False,False
+800749810,800749810,20000.0,19969.71,2016-03-27T18:20:28,183.64,ebay.com,US,US,05,01,online_retail,04/2020,2011-01-18,2011-01-18,534,534,208,PURCHASE,,30.29,,,,False,,,False,False
+800749810,800749810,20000.0,19811.07,2016-06-21T01:02:43,384.22,target.com,US,US,09,01,online_retail,01/2031,2011-01-18,2011-01-18,534,534,208,PURCHASE,,188.93,,,,False,,,False,False
+800749810,800749810,20000.0,19451.85,2016-08-17T15:17:25,73.41,target.com,US,US,02,01,online_retail,12/2025,2011-01-18,2011-01-18,534,534,208,PURCHASE,,548.15,,,,False,,,False,False

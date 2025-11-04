@@ -1,0 +1,12 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+649251706,649251706,2500.0,2500.0,2016-02-01T16:37:38,19.45,walmart.com,US,US,09,01,online_retail,07/2026,2011-06-16,2011-06-16,823,823,3790,PURCHASE,,0.0,,,,False,,,False,False
+649251706,649251706,2500.0,2480.55,2016-02-06T09:00:34,233.98,apple.com,US,US,05,01,online_retail,08/2026,2011-06-16,2011-06-16,956,305,4442,PURCHASE,,19.45,,,,False,,,False,False
+649251706,649251706,2500.0,2246.57,2016-02-23T13:31:34,48.64,walmart.com,US,US,02,01,online_retail,01/2025,2011-06-16,2011-06-16,956,956,4442,PURCHASE,,253.43,,,,False,,,False,False
+649251706,649251706,2500.0,2500.0,2016-03-04T02:32:06,61.59,oldnavy.com,US,US,09,01,online_retail,05/2027,2011-06-16,2011-06-16,823,823,3790,PURCHASE,,0.0,,,,False,,,False,False
+649251706,649251706,2500.0,2438.41,2016-03-09T23:15:05,54.29,apple.com,US,US,09,08,online_retail,09/2031,2011-06-16,2011-06-16,823,823,3790,PURCHASE,,61.59,,,,False,,,False,False
+649251706,649251706,2500.0,2384.12,2016-03-30T07:08:06,13.43,cheapfast.com,US,US,05,01,online_retail,11/2020,2011-06-16,2011-06-16,823,823,3790,PURCHASE,,115.88,,,,False,,,False,False
+649251706,649251706,2500.0,2500.0,2016-04-08T00:48:12,22.44,Auntie Anne's #331165,US,US,05,01,fastfood,07/2027,2011-06-16,2011-06-16,956,956,4442,PURCHASE,,0.0,,,,True,,,False,False
+649251706,649251706,2500.0,2500.0,2016-05-01T19:59:07,40.34,target.com,US,US,05,01,online_retail,03/2020,2011-06-16,2011-06-16,956,956,4442,PURCHASE,,0.0,,,,False,,,False,False
+649251706,649251706,2500.0,2459.66,2016-05-30T14:21:32,79.2,cheapfast.com,US,US,02,01,online_retail,09/2020,2011-06-16,2011-06-16,823,823,3790,PURCHASE,,40.34,,,,False,,,False,False
+649251706,649251706,2500.0,2500.0,2016-07-26T09:07:46,26.38,target.com,US,US,05,01,online_retail,05/2024,2011-06-16,2011-06-16,823,823,3790,PURCHASE,,0.0,,,,False,,,False,False
+649251706,649251706,2500.0,2500.0,2016-09-10T13:05:10,21.39,cheapfast.com,US,US,09,08,online_retail,11/2022,2011-06-16,2011-06-16,823,823,3790,PURCHASE,,0.0,,,,False,,,False,False

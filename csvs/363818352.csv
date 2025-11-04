@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+363818352,363818352,7500.0,7500.0,2016-03-25T19:47:10,85.39,Ashley Furniture,US,US,02,08,furniture,True,01/2031,2013-08-22,2013-08-22,312,312,7615,PURCHASE,,0.0,,,,,,False,False
+363818352,363818352,7500.0,7500.0,2016-04-02T05:37:53,69.56,ethanallen.com,US,US,05,01,furniture,True,07/2033,2013-08-22,2013-08-22,312,312,7615,PURCHASE,,0.0,,,,,,False,False
+363818352,363818352,7500.0,7500.0,2016-08-30T15:26:53,256.66,pottery-barn.com,US,US,05,99,furniture,True,01/2021,2013-08-22,2013-08-22,312,312,7615,PURCHASE,,0.0,,,,,,False,False
+363818352,363818352,7500.0,7500.0,2016-10-22T00:04:11,103.65,ethanallen.com,US,US,09,01,furniture,True,01/2025,2013-08-22,2013-08-22,312,312,7615,PURCHASE,,0.0,,,,,,False,False
+363818352,363818352,7500.0,7500.0,2016-11-08T21:20:11,4.86,Play Store,US,US,05,01,mobileapps,False,09/2024,2013-08-22,2013-08-22,312,312,7615,PURCHASE,,0.0,,,,,,False,False
+363818352,363818352,7500.0,7500.0,2016-12-10T16:28:23,4.86,Play Store,US,US,05,01,mobileapps,False,09/2024,2013-08-22,2013-08-22,312,312,7615,PURCHASE,,0.0,,,,,,False,False
+363818352,363818352,7500.0,7495.14,2016-12-15T03:29:40,331.12,West End Beauty #721713,US,US,02,01,personal care,True,10/2025,2013-08-22,2013-08-22,312,312,7615,PURCHASE,,4.86,,,,,,False,False

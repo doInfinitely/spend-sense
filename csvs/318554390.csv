@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+318554390,318554390,500.0,500.0,2016-01-15T23:37:08,1.47,oldnavy.com,US,US,09,08,online_retail,01/2025,2014-01-16,2014-01-16,946,946,2960,PURCHASE,,0.0,,,,False,,,False,False
+318554390,318554390,500.0,500.0,2016-03-04T17:11:07,5.32,United Airlines,US,US,05,01,airline,02/2022,2014-01-16,2014-01-16,946,946,2960,PURCHASE,,0.0,,,,False,,,False,False
+318554390,318554390,500.0,500.0,2016-09-24T08:37:32,161.18,Downtown Diner,US,US,02,01,food,01/2029,2014-01-16,2014-01-16,283,283,5950,PURCHASE,,0.0,,,,True,,,False,False
+318554390,318554390,500.0,363.82,2016-10-27T16:31:10,1.26,Icelandic Airlines,US,US,09,08,airline,07/2028,2014-01-16,2014-01-16,946,946,2960,PURCHASE,,136.18,,,,False,,,False,False
+318554390,318554390,500.0,387.56,2016-12-07T22:57:35,56.19,Regal Cinemas #729464,US,US,02,01,entertainment,10/2025,2014-01-16,2014-01-16,946,946,2960,PURCHASE,,112.44,,,,True,,,False,False

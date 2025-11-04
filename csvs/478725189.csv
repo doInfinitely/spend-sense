@@ -1,0 +1,17 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+478725189,478725189,15000.0,15000.0,2016-01-05T07:42:13,20.4,netflix.com,US,US,05,08,online_subscriptions,11/2022,2015-03-05,2015-03-05,218,218,434,PURCHASE,,0.0,,,,False,,,False,False
+478725189,478725189,15000.0,14979.6,2016-01-17T03:38:28,159.81,EZ Putt Putt #755869,US,US,09,08,entertainment,04/2024,2015-03-05,2015-03-05,218,218,434,PURCHASE,,20.4,,,,True,,,False,False
+478725189,478725189,15000.0,14844.79,2016-02-05T07:19:19,20.4,netflix.com,US,US,05,08,online_subscriptions,11/2022,2015-03-05,2015-03-05,218,218,434,PURCHASE,,155.21,,,,False,,,False,False
+478725189,478725189,15000.0,14849.39,2016-03-07T18:56:37,20.4,netflix.com,US,US,05,08,online_subscriptions,11/2022,2015-03-05,2015-03-05,218,218,434,PURCHASE,,150.61,,,,False,,,False,False
+478725189,478725189,15000.0,14853.99,2016-04-08T03:48:15,20.4,netflix.com,US,US,05,08,online_subscriptions,11/2022,2015-03-05,2015-03-05,218,218,434,PURCHASE,,146.01,,,,False,,,False,False
+478725189,478725189,15000.0,14858.59,2016-05-08T14:05:24,20.4,netflix.com,US,US,05,08,online_subscriptions,11/2022,2015-03-05,2015-03-05,218,218,434,PURCHASE,,141.41,,,,False,,,False,False
+478725189,478725189,15000.0,14863.19,2016-06-08T11:24:49,20.4,netflix.com,US,US,05,08,online_subscriptions,11/2022,2015-03-05,2015-03-05,218,218,434,PURCHASE,,136.81,,,,False,,,False,False
+478725189,478725189,15000.0,14842.79,2016-06-16T04:52:04,97.99,Chicago News,US,US,09,01,subscriptions,07/2031,2015-03-05,2015-03-05,218,218,434,PURCHASE,,157.21,,,,False,,,False,False
+478725189,478725189,15000.0,14769.8,2016-07-10T11:20:46,20.4,netflix.com,US,US,05,08,online_subscriptions,11/2022,2015-03-05,2015-03-05,218,218,434,PURCHASE,,230.2,,,,False,,,False,False
+478725189,478725189,15000.0,14774.4,2016-08-10T02:01:27,20.4,netflix.com,US,US,05,08,online_subscriptions,11/2022,2015-03-05,2015-03-05,218,218,434,PURCHASE,,225.6,,,,False,,,False,False
+478725189,478725189,15000.0,14779.0,2016-09-10T14:32:28,20.4,netflix.com,US,US,05,08,online_subscriptions,11/2022,2015-03-05,2015-03-05,218,218,434,PURCHASE,,221.0,,,,False,,,False,False
+478725189,478725189,15000.0,14758.6,2016-09-21T05:12:42,179.53,Regal Cinemas #729464,US,US,05,01,entertainment,11/2028,2015-03-05,2015-03-05,218,218,434,PURCHASE,,241.4,,,,True,,,False,False
+478725189,478725189,15000.0,14604.07,2016-10-01T08:04:15,30.19,oldnavy.com,US,US,05,08,online_retail,03/2021,2015-03-05,2015-03-05,218,218,434,PURCHASE,,395.93,,,,False,,,False,False
+478725189,478725189,15000.0,14573.88,2016-10-11T22:28:40,20.4,netflix.com,US,US,05,08,online_subscriptions,11/2022,2015-03-05,2015-03-05,218,218,434,PURCHASE,,426.12,,,,False,,,False,False
+478725189,478725189,15000.0,14578.48,2016-11-11T08:12:23,20.4,netflix.com,US,US,05,08,online_subscriptions,11/2022,2015-03-05,2015-03-05,218,218,434,PURCHASE,,421.52,,,,False,,,False,False
+478725189,478725189,15000.0,14583.08,2016-12-12T13:08:45,20.4,netflix.com,US,US,05,08,online_subscriptions,11/2022,2015-03-05,2015-03-05,218,218,434,PURCHASE,,416.92,,,,False,,,False,False

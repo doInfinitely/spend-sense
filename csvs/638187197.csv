@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+638187197,638187197,7500.0,7500.0,2016-02-08T00:57:14,65.01,In-N-Out #722754,US,US,09,01,fastfood,True,06/2029,2014-03-03,2014-03-03,516,516,6047,PURCHASE,,0.0,,,,,,False,False
+638187197,638187197,7500.0,7434.99,2016-02-18T04:19:01,65.01,In-N-Out #722754,US,US,09,01,fastfood,True,06/2029,2014-03-03,2014-03-03,516,516,6047,REVERSAL,,65.01,,,,,,False,False
+638187197,638187197,7500.0,7500.0,2016-06-22T03:28:07,5.77,Apple iTunes,US,US,02,01,mobileapps,False,03/2021,2014-03-03,2014-03-03,516,516,6047,PURCHASE,,0.0,,,,,,False,False
+638187197,638187197,7500.0,7500.0,2016-07-23T16:30:51,5.77,Apple iTunes,US,US,02,01,mobileapps,False,03/2021,2014-03-03,2014-03-03,516,516,6047,PURCHASE,,0.0,,,,,,False,False
+638187197,638187197,7500.0,7500.0,2016-08-17T02:01:15,63.92,Ray's Fries #61396,US,US,02,01,food,True,12/2024,2014-03-03,2014-03-03,516,516,6047,PURCHASE,,0.0,,,,,,False,False
+638187197,638187197,7500.0,7436.08,2016-08-22T19:38:34,5.77,Apple iTunes,US,US,02,01,mobileapps,False,03/2021,2014-03-03,2014-03-03,516,516,6047,PURCHASE,,63.92,,,,,,False,False
+638187197,638187197,7500.0,7455.31,2016-09-23T10:34:28,5.77,Apple iTunes,US,US,02,01,mobileapps,False,03/2021,2014-03-03,2014-03-03,516,516,6047,PURCHASE,,44.69,,,,,,False,False
+638187197,638187197,7500.0,7474.54,2016-10-25T01:46:46,5.77,Apple iTunes,US,US,02,01,mobileapps,False,03/2021,2014-03-03,2014-03-03,516,516,6047,PURCHASE,,25.46,,,,,,False,False
+638187197,638187197,7500.0,7493.77,2016-11-25T21:57:52,5.77,Apple iTunes,US,US,02,01,mobileapps,False,03/2021,2014-03-03,2014-03-03,516,516,6047,PURCHASE,,6.23,,,,,,False,False
+638187197,638187197,7500.0,7500.0,2016-12-26T08:44:14,5.77,Apple iTunes,US,US,02,01,mobileapps,False,03/2021,2014-03-03,2014-03-03,516,516,6047,PURCHASE,,0.0,,,,,,False,False

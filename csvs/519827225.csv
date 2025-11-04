@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+519827225,519827225,2500.0,2500.0,2016-01-03T08:15:05,171.18,Northtown Beauty,US,US,05,01,personal care,True,05/2031,2015-11-11,2015-11-11,246,246,18,PURCHASE,,0.0,,,,,,False,False
+519827225,519827225,2500.0,2353.82,2016-02-13T11:16:39,321.65,Uber,US,US,09,01,rideshare,False,06/2026,2015-11-11,2015-11-11,246,246,18,PURCHASE,,146.18,,,,,,False,False
+519827225,519827225,2500.0,2057.17,2016-08-30T07:39:16,109.46,West End Beauty #380339,US,US,09,01,personal care,True,07/2029,2015-11-11,2015-11-11,246,246,18,PURCHASE,,442.83,,,,,,False,False

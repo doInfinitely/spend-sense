@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+219468937,219468937,250.0,250.0,2016-01-01T11:39:39,155.83,cheapfast.com,US,US,02,01,online_retail,06/2027,2015-05-21,2015-05-21,470,470,2453,PURCHASE,,0.0,,,,False,,,False,False
+219468937,219468937,250.0,94.17,2016-01-17T15:30:53,78.0,apple.com,US,US,02,01,online_retail,07/2031,2015-05-21,2015-05-21,470,470,2453,PURCHASE,,155.83,,,,False,,,False,False
+219468937,219468937,250.0,41.17,2016-03-05T21:12:23,36.25,1st Sandwitch Bar #801388,US,US,09,01,food,05/2021,2015-05-21,2015-05-21,470,470,2453,PURCHASE,,208.83,,,,True,,,False,False
+219468937,219468937,250.0,250.0,2016-12-07T18:14:42,555.84,staples.com,US,US,09,01,online_retail,04/2026,2015-05-21,2015-05-21,470,470,2453,PURCHASE,,0.0,,,,False,,,False,False

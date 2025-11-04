@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+771816821,771816821,15000.0,15000.0,2016-05-07T15:15:00,96.32,Washington Times,US,US,05,01,subscriptions,09/2025,2013-01-11,2013-01-11,678,678,5800,PURCHASE,,0.0,,,,False,,,False,False
+771816821,771816821,15000.0,14928.68,2016-07-19T18:45:02,38.46,Oklahoma City Post,US,US,05,01,subscriptions,11/2023,2013-01-11,2013-01-11,678,678,5800,PURCHASE,,71.32,,,,False,,,False,False
+771816821,771816821,15000.0,14915.22,2016-09-07T02:33:38,541.85,Wall Street Times,US,US,02,01,subscriptions,08/2026,2013-01-11,2013-01-11,678,678,5800,PURCHASE,,84.78,,,,True,,,False,False
+771816821,771816821,15000.0,14398.37,2016-10-08T08:45:06,277.5,San Francisco Post,US,US,05,01,subscriptions,06/2023,2013-01-11,2013-01-11,678,678,5800,PURCHASE,,601.63,,,,True,,,False,False
+771816821,771816821,15000.0,14145.87,2016-12-03T12:32:05,89.93,Minneapolis News,US,US,05,01,subscriptions,10/2030,2013-01-11,2013-01-11,678,678,5800,PURCHASE,,854.13,,,,False,,,False,False
+771816821,771816821,15000.0,14055.94,2016-12-07T22:25:05,5.53,Play Store,US,US,05,01,mobileapps,02/2033,2013-01-11,2013-01-11,678,678,5800,PURCHASE,,944.06,,,,False,,,False,False
+771816821,771816821,15000.0,14050.41,2016-12-20T12:40:56,126.33,Fast Mobile #554159,US,US,05,08,cable/phone,02/2031,2013-01-11,2013-01-11,678,678,5800,PURCHASE,,949.59,,,,False,,,False,False

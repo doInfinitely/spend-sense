@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+998869994,998869994,7500.0,7500.0,2016-02-13T14:48:03,120.95,staples.com,US,US,05,01,online_retail,12/2022,2015-01-16,2015-01-16,214,214,6038,PURCHASE,,0.0,,,,False,,,False,False
+998869994,998869994,7500.0,7404.05,2016-03-24T04:27:04,21.3,discount.com,US,US,09,08,online_retail,05/2026,2015-01-16,2015-01-16,795,795,7376,PURCHASE,,95.95,,,,False,,,False,False
+998869994,998869994,7500.0,7407.75,2016-07-21T00:28:22,31.45,discount.com,US,US,02,08,online_retail,09/2020,2015-01-16,2015-01-16,301,301,6305,PURCHASE,,92.25,,,,False,,,False,False
+998869994,998869994,7500.0,7401.3,2016-08-14T16:08:55,159.53,staples.com,US,US,05,08,online_retail,01/2026,2015-01-16,2015-01-16,795,795,7376,PURCHASE,,98.7,,,,False,,,False,False
+998869994,998869994,7500.0,7266.77,2016-10-03T14:14:48,269.4,AMC #79863,US,US,02,01,entertainment,07/2024,2015-01-16,2015-01-16,301,301,6305,PURCHASE,,233.23,,,,True,,,False,False
+998869994,998869994,7500.0,6997.37,2016-10-04T11:47:08,111.81,1st Restaurant,US,US,09,01,food,11/2028,2015-01-16,2015-01-16,301,301,6305,PURCHASE,,502.63,,,,True,,,False,False
+998869994,998869994,7500.0,6910.56,2016-11-01T19:40:38,24.7,staples.com,US,US,02,01,online_retail,10/2021,2015-01-16,2015-01-16,214,214,6038,PURCHASE,,589.44,,,,False,,,False,False
+998869994,998869994,7500.0,6885.86,2016-11-18T00:30:12,22.72,amazon.com,US,US,05,01,online_retail,03/2020,2015-01-16,2015-01-16,214,214,6038,PURCHASE,,614.14,,,,False,,,False,False

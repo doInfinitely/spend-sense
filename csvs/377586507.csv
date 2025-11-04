@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+377586507,377586507,2500.0,2500.0,2016-01-04T22:29:03,657.9,EZ Putt Putt #503815,US,US,05,08,entertainment,True,03/2030,2015-01-19,2015-01-19,260,260,2890,PURCHASE,,0.0,,,,,,False,False
+377586507,377586507,2500.0,1842.1,2016-01-09T07:20:09,10.23,Planet Fitness #147140,US,US,05,01,health,False,04/2020,2015-01-19,2015-01-19,260,260,2890,PURCHASE,,657.9,,,,,,False,False
+377586507,377586507,2500.0,1856.87,2016-03-13T21:09:14,33.04,EZ Putt Putt #982199,US,US,02,01,entertainment,True,02/2030,2015-01-19,2015-01-19,260,260,2890,PURCHASE,,643.13,,,,,,False,False
+377586507,377586507,2500.0,1848.83,2016-06-19T02:03:37,6.81,AMC #128743,US,US,05,01,entertainment,True,08/2021,2015-01-19,2015-01-19,260,260,2890,PURCHASE,,651.17,,,,,,False,False
+377586507,377586507,2500.0,1867.02,2016-07-24T12:51:38,71.78,AMC #128743,US,US,80,08,entertainment,True,04/2025,2015-01-19,2015-01-19,260,260,2890,PURCHASE,,632.98,,,,,,False,False
+377586507,377586507,2500.0,1820.24,2016-12-10T02:33:11,150.8,AMC #79863,US,US,05,01,entertainment,True,03/2022,2015-01-19,2015-01-19,260,260,2890,PURCHASE,,679.76,,,,,,False,False
+377586507,377586507,2500.0,1669.44,2016-12-19T05:19:42,87.3,AMC #706324,US,US,80,01,entertainment,True,10/2025,2015-01-19,2015-01-19,260,260,2890,PURCHASE,,830.56,,,,,,False,False
+377586507,377586507,2500.0,1582.14,2016-12-19T05:21:46,87.3,AMC #706324,US,US,80,01,entertainment,True,10/2025,2015-01-19,2015-01-19,260,260,2890,PURCHASE,,917.86,,,,,,False,False

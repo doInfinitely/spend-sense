@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+989091504,989091504,1000.0,1000.0,2016-01-18T03:40:23,56.22,Williams Sonoma,US,US,05,01,furniture,True,02/2031,2013-03-01,2013-03-01,280,280,5282,PURCHASE,,0.0,,,,,,False,False
+989091504,989091504,1000.0,943.78,2016-01-25T17:45:32,130.97,ashleyfurniture.com,US,US,,01,furniture,True,03/2028,2013-03-01,2013-03-01,280,280,5282,PURCHASE,,56.22,,,,,,False,True
+989091504,989091504,1000.0,837.81,2016-02-29T19:57:15,136.25,Ashley Furniture,US,US,02,01,furniture,True,03/2027,2013-03-01,2013-03-01,280,280,5282,PURCHASE,,162.19,,,,,,False,False
+989091504,989091504,1000.0,726.56,2016-06-20T15:41:38,38.66,Williams Sonoma,US,US,05,01,furniture,True,06/2020,2013-03-01,2013-03-01,280,280,5282,PURCHASE,,273.44,,,,,,False,False
+989091504,989091504,1000.0,712.9,2016-07-31T16:32:22,66.16,oldnavy.com,US,US,05,08,online_retail,False,01/2032,2013-03-01,2013-03-01,280,280,5282,PURCHASE,,287.1,,,,,,False,False
+989091504,989091504,1000.0,671.74,2016-09-14T20:10:16,215.04,sears.com,US,US,09,01,online_retail,False,02/2030,2013-03-01,2013-03-01,280,280,5282,PURCHASE,,328.26,,,,,,False,False
+989091504,989091504,1000.0,481.7,2016-10-13T08:51:54,14.84,staples.com,US,US,09,01,online_retail,False,05/2026,2013-03-01,2013-03-01,280,280,5282,PURCHASE,,518.3,,,,,,False,False
+989091504,989091504,1000.0,491.86,2016-11-19T12:21:24,123.17,target.com,US,US,09,01,online_retail,False,08/2026,2013-03-01,2013-03-01,280,280,5282,PURCHASE,,508.14,,,,,,False,False

@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+455599655,455599655,15000.0,15000.0,2016-02-14T17:56:30,61.7,53rd Massage,US,US,09,01,personal care,True,04/2026,2015-04-10,2015-04-10,283,283,1697,PURCHASE,,0.0,,,,,,False,False
+455599655,455599655,15000.0,14963.3,2016-03-29T01:06:47,170.39,EZ Putt Putt #69446,US,US,05,08,entertainment,True,06/2028,2015-04-10,2015-04-10,283,283,1697,PURCHASE,,36.7,,,,,,False,False
+455599655,455599655,15000.0,14817.91,2016-09-05T08:25:51,18.07,1st BBQ,US,US,05,01,food,True,08/2033,2015-04-10,2015-04-10,283,283,1697,PURCHASE,,182.09,,,,,,False,False

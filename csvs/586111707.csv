@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+586111707,586111707,250.0,250.0,2016-01-04T01:07:32,42.45,gap.com,US,US,05,01,online_retail,10/2029,2014-12-13,2014-12-13,835,835,1277,PURCHASE,,0.0,,,,False,,,False,False
+586111707,586111707,250.0,207.55,2016-01-06T04:02:37,467.04,sears.com,US,US,09,08,online_retail,12/2029,2014-12-13,2014-12-13,835,835,1277,PURCHASE,,42.45,,,,False,,,False,False
+586111707,586111707,250.0,-22.85,2016-01-11T08:19:39,26.6,gap.com,US,US,02,01,online_retail,06/2030,2014-12-13,2014-12-13,835,835,1277,PURCHASE,,272.85,,,,False,,,False,False
+586111707,586111707,250.0,139.23000000000002,2016-02-20T02:08:55,52.84,Mobile eCards,US,US,09,01,online_gifts,09/2022,2014-12-13,2014-12-13,835,835,1277,PURCHASE,,110.77,,,,False,,,False,False
+586111707,586111707,250.0,111.39,2016-03-04T08:48:17,25.87,ebay.com,US,US,05,01,online_retail,09/2029,2014-12-13,2014-12-13,835,835,1277,PURCHASE,,138.61,,,,False,,,False,False
+586111707,586111707,250.0,110.52,2016-10-13T07:17:04,67.18,amazon.com,US,US,09,08,online_retail,11/2024,2014-12-13,2014-12-13,835,835,1277,PURCHASE,,139.48,,,,False,,,False,False
+586111707,586111707,250.0,68.34,2016-12-04T21:40:17,41.84,alibaba.com,US,US,05,01,online_retail,10/2024,2014-12-13,2014-12-13,835,835,1277,PURCHASE,,181.66,,,,False,,,False,False

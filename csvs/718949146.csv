@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+718949146,718949146,20000.0,20000.0,2016-01-12T01:03:12,371.42,Burger King #813212,US,US,05,01,fastfood,True,06/2021,2012-07-07,2012-07-07,230,230,7489,PURCHASE,,0.0,,,,,,False,False
+718949146,718949146,20000.0,19628.58,2016-01-31T22:04:32,92.32,discount.com,US,US,90,01,online_retail,False,07/2024,2012-07-07,2012-07-07,230,230,7489,PURCHASE,,371.42,,,,,,False,False
+718949146,718949146,20000.0,19561.26,2016-02-23T02:39:24,69.87,Pizza Hut #165312,US,US,02,01,fastfood,True,05/2023,2012-07-07,2012-07-07,230,230,7489,PURCHASE,,438.74,,,,,,False,False
+718949146,718949146,20000.0,19516.39,2016-03-02T11:08:23,170.08,apple.com,US,US,09,08,online_retail,False,03/2032,2012-07-07,2012-07-07,230,230,7489,PURCHASE,,483.61,,,,,,False,False
+718949146,718949146,20000.0,19346.31,2016-03-03T08:42:40,190.58,Next Day Online Services,US,US,05,01,online_gifts,False,12/2022,2012-07-07,2012-07-07,230,230,7489,PURCHASE,,653.69,,,,,,False,False
+718949146,718949146,20000.0,19155.73,2016-03-20T05:28:04,263.72,ebay.com,US,US,90,01,online_retail,False,05/2021,2012-07-07,2012-07-07,230,230,7489,PURCHASE,,844.27,,,,,,False,False
+718949146,718949146,20000.0,18917.01,2016-04-21T16:46:13,461.61,John's Cafe,US,US,09,01,food,True,07/2026,2012-07-07,2012-07-07,230,230,7489,PURCHASE,,1082.99,,,,,,False,False
+718949146,718949146,20000.0,18455.4,2016-04-28T12:55:26,143.03,Next Day eCards,US,US,90,01,online_gifts,False,08/2024,2012-07-07,2012-07-07,230,230,7489,PURCHASE,,1544.6,,,,,,False,False
+718949146,718949146,20000.0,18337.37,2016-06-27T07:16:41,103.38,Quizno's #790613,US,US,05,01,fastfood,True,07/2023,2012-07-07,2012-07-07,230,230,7489,PURCHASE,,1662.63,,,,,,False,False
+718949146,718949146,20000.0,18258.99,2016-08-31T08:12:48,3.9,Mobile eCards,US,US,09,01,online_gifts,False,07/2026,2012-07-07,2012-07-07,230,230,7489,PURCHASE,,1741.01,,,,,,False,False

@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+358202191,358202191,7500.0,7500.0,2016-05-23T11:48:51,12.39,hulu.com,US,US,09,01,online_subscriptions,04/2031,2015-04-29,2015-04-29,751,751,426,PURCHASE,,0.0,,,,False,,,False,False
+358202191,358202191,7500.0,7500.0,2016-06-24T08:40:00,12.39,hulu.com,US,US,09,01,online_subscriptions,04/2031,2015-04-29,2015-04-29,751,751,426,PURCHASE,,0.0,,,,False,,,False,False
+358202191,358202191,7500.0,7500.0,2016-07-24T17:07:23,12.39,hulu.com,US,US,09,01,online_subscriptions,04/2031,2015-04-29,2015-04-29,751,751,426,PURCHASE,,0.0,,,,False,,,False,False
+358202191,358202191,7500.0,7500.0,2016-08-24T12:58:17,12.39,hulu.com,US,US,09,01,online_subscriptions,04/2031,2015-04-29,2015-04-29,751,751,426,PURCHASE,,0.0,,,,False,,,False,False
+358202191,358202191,7500.0,7500.0,2016-09-24T11:19:53,12.39,hulu.com,US,US,09,01,online_subscriptions,04/2031,2015-04-29,2015-04-29,751,751,426,PURCHASE,,0.0,,,,False,,,False,False
+358202191,358202191,7500.0,7500.0,2016-10-25T21:32:17,12.39,hulu.com,US,US,09,01,online_subscriptions,04/2031,2015-04-29,2015-04-29,751,751,426,PURCHASE,,0.0,,,,False,,,False,False
+358202191,358202191,7500.0,7500.0,2016-11-26T08:55:22,12.39,hulu.com,US,US,09,01,online_subscriptions,04/2031,2015-04-29,2015-04-29,751,751,426,PURCHASE,,0.0,,,,False,,,False,False
+358202191,358202191,7500.0,7500.0,2016-12-20T14:03:47,0.0,Sunoco Gas #380975,US,US,02,01,fuel,08/2031,2015-04-29,2015-04-29,751,751,426,PURCHASE,,0.0,,,,False,,,False,False
+358202191,358202191,7500.0,7500.0,2016-12-26T21:28:10,12.39,hulu.com,US,US,09,01,online_subscriptions,04/2031,2015-04-29,2015-04-29,751,751,426,PURCHASE,,0.0,,,,False,,,False,False

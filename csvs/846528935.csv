@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+846528935,846528935,250.0,250.0,2016-01-14T03:44:05,103.72,staples.com,US,US,05,01,online_retail,04/2021,2008-09-12,2008-09-12,757,757,2952,PURCHASE,,0.0,,,,False,,,False,False
+846528935,846528935,250.0,171.28,2016-02-08T03:22:39,0.47,cheapfast.com,US,US,09,01,online_retail,05/2029,2008-09-12,2008-09-12,757,757,2952,PURCHASE,,78.72,,,,False,,,False,False
+846528935,846528935,250.0,195.81,2016-03-16T05:56:54,134.73,Planet Fitness #878322,US,US,05,01,health,10/2021,2008-09-12,2008-09-12,757,757,2952,PURCHASE,,54.19,,,,True,,,False,False
+846528935,846528935,250.0,86.08,2016-04-26T08:54:04,0.0,amazon.com,US,US,90,01,online_retail,07/2028,2008-09-12,2008-09-12,757,757,2952,ADDRESS_VERIFICATION,,163.92,,,,False,,,False,False
+846528935,846528935,250.0,111.08,2016-05-01T07:59:31,458.44,Golds Gym #836810,US,US,05,01,health,04/2023,2008-09-12,2008-09-12,757,757,2952,PURCHASE,,138.92,,,,False,,,False,False
+846528935,846528935,250.0,-183.26,2016-05-17T12:27:55,79.06,oldnavy.com,US,US,05,01,online_retail,02/2024,2008-09-12,2008-09-12,757,757,2952,PURCHASE,,433.26,,,,False,,,False,False
+846528935,846528935,250.0,-78.59,2016-08-05T19:48:58,374.13,discount.com,US,US,09,01,online_retail,07/2031,2008-09-12,2008-09-12,757,757,2952,PURCHASE,,328.59,,,,False,,,False,False
+846528935,846528935,250.0,250.0,2016-10-09T18:26:35,71.58,gap.com,US,US,02,01,online_retail,06/2028,2008-09-12,2008-09-12,757,757,2952,PURCHASE,,0.0,,,,False,,,False,False

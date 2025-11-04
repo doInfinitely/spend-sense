@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+844271263,844271263,20000.0,20000.0,2016-04-15T10:57:42,6.98,apple.com,US,US,05,01,online_retail,12/2027,2009-02-14,2009-02-14,526,526,4653,PURCHASE,,0.0,,,,False,,,False,False
+844271263,844271263,20000.0,19993.02,2016-04-17T14:15:46,176.33,cheapfast.com,US,US,02,01,online_retail,02/2031,2009-02-14,2009-02-14,526,526,4653,PURCHASE,,6.98,,,,False,,,False,False
+844271263,844271263,20000.0,19841.69,2016-09-21T16:33:52,0.0,Delta Airlines,US,US,09,01,airline,04/2024,2009-02-14,2009-02-14,374,374,3150,ADDRESS_VERIFICATION,,158.31,,,,False,,,False,False
+844271263,844271263,20000.0,19841.69,2016-09-21T16:34:49,0.0,Delta Airlines,US,US,09,01,airline,04/2024,2009-02-14,2009-02-14,374,374,3150,ADDRESS_VERIFICATION,,158.31,,,,False,,,False,False
+844271263,844271263,20000.0,19841.69,2016-09-21T16:36:47,0.0,Delta Airlines,US,US,09,01,airline,04/2024,2009-02-14,2009-02-14,374,374,3150,ADDRESS_VERIFICATION,,158.31,,,,False,,,False,False
+844271263,844271263,20000.0,19866.69,2016-10-29T05:09:40,292.82,Delta Airlines,US,US,09,08,airline,07/2029,2009-02-14,2009-02-14,374,374,3150,PURCHASE,,133.31,,,,False,,,False,False
+844271263,844271263,20000.0,19598.87,2016-11-17T11:37:31,52.94,staples.com,US,US,02,01,online_retail,05/2025,2009-02-14,2009-02-14,526,526,4653,PURCHASE,,401.13,,,,False,,,False,False

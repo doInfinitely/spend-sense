@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+235216553,235216553,20000.0,20000.0,2016-09-10T14:29:53,7.05,Apple iTunes,US,US,09,01,mobileapps,11/2029,2015-02-07,2015-02-07,169,169,8245,PURCHASE,,0.0,,,,False,,,False,False
+235216553,235216553,20000.0,20000.0,2016-10-11T04:47:58,7.05,Apple iTunes,US,US,09,01,mobileapps,11/2029,2015-02-07,2015-02-07,169,169,8245,PURCHASE,,0.0,,,,False,,,False,False
+235216553,235216553,20000.0,20000.0,2016-11-11T21:50:27,7.05,Apple iTunes,US,US,09,01,mobileapps,11/2029,2015-02-07,2015-02-07,169,169,8245,PURCHASE,,0.0,,,,False,,,False,False
+235216553,235216553,20000.0,19992.95,2016-11-15T21:37:33,112.05,Five Guys #15552,US,US,05,01,fastfood,03/2025,2015-02-07,2015-02-07,169,169,8245,PURCHASE,,7.05,,,,True,,,False,False
+235216553,235216553,20000.0,19905.9,2016-12-13T12:35:48,7.05,Apple iTunes,US,US,09,01,mobileapps,11/2029,2015-02-07,2015-02-07,169,169,8245,PURCHASE,,94.1,,,,False,,,False,False

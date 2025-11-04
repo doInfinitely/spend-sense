@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+544195620,544195620,2500.0,2500.0,2016-02-04T02:18:39,514.61,Uber,US,US,09,01,rideshare,07/2025,2013-07-29,2013-07-29,368,368,6164,PURCHASE,,0.0,,,,False,,,False,False
+544195620,544195620,2500.0,2500.0,2016-11-05T11:27:40,437.93,Lyft,US,US,09,08,rideshare,08/2024,2013-07-29,2013-07-29,368,368,6164,PURCHASE,,0.0,,,,False,,,False,False
+544195620,544195620,2500.0,2062.07,2016-11-12T08:09:42,49.2,Lyft,US,US,05,01,rideshare,09/2027,2013-07-29,2013-07-29,368,368,6164,PURCHASE,,437.93,,,,False,,,False,False

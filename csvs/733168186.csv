@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+733168186,733168186,7500.0,7500.0,2016-03-11T21:22:26,69.76,alibaba.com,US,US,09,01,online_retail,07/2023,2015-06-08,2015-06-08,112,112,4696,PURCHASE,,0.0,,,,False,,,False,False
+733168186,733168186,7500.0,7500.0,2016-05-21T16:39:08,174.36,sears.com,US,US,05,08,online_retail,08/2030,2015-06-08,2015-06-08,112,112,4696,PURCHASE,,0.0,,,,False,,,False,False
+733168186,733168186,7500.0,7500.0,2016-06-26T03:06:19,59.7,walmart.com,US,US,09,01,online_retail,08/2024,2015-06-08,2015-06-08,112,112,4696,PURCHASE,,0.0,,,,False,,,False,False
+733168186,733168186,7500.0,7500.0,2016-09-23T17:07:04,102.16,alibaba.com,US,US,09,01,online_retail,07/2029,2015-06-08,2015-06-08,506,506,4005,PURCHASE,,0.0,,,,False,,,False,False
+733168186,733168186,7500.0,7500.0,2016-10-15T19:35:56,55.12,cheapfast.com,US,US,02,01,online_retail,12/2030,2015-06-08,2015-06-08,112,112,4696,PURCHASE,,0.0,,,,False,,,False,False
+733168186,733168186,7500.0,7444.88,2016-10-31T02:38:47,26.36,apple.com,US,US,05,01,online_retail,10/2027,2015-06-08,2015-06-08,506,506,4005,PURCHASE,,55.12,,,,False,,,False,False
+733168186,733168186,7500.0,7500.0,2016-12-05T06:23:38,25.09,walmart.com,US,US,02,01,online_retail,02/2022,2015-06-08,2015-06-08,506,506,4005,PURCHASE,,0.0,,,,False,,,False,False
+733168186,733168186,7500.0,7474.91,2016-12-12T09:10:30,8.82,Play Store,US,US,02,01,mobileapps,11/2029,2015-06-08,2015-06-08,112,112,4696,PURCHASE,,25.09,,,,False,,,False,False
+733168186,733168186,7500.0,7466.09,2016-12-23T03:19:09,20.6,discount.com,US,US,09,08,online_retail,01/2020,2015-06-08,2015-06-08,112,112,4696,PURCHASE,,33.91,,,,False,,,False,False

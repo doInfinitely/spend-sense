@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+399910019,399910019,2500.0,2500.0,2016-01-31T16:51:47,86.34,Fast Repair,US,US,09,01,auto,True,07/2025,2008-06-12,2008-06-12,706,706,9531,PURCHASE,,0.0,,,,,,False,False
+399910019,399910019,2500.0,2438.66,2016-03-13T10:51:05,39.79,Washington Times,US,US,05,08,subscriptions,True,04/2032,2008-06-12,2008-06-12,706,706,9531,PURCHASE,,61.34,,,,,,False,False
+399910019,399910019,2500.0,2423.87,2016-08-24T21:00:07,5.6,Apple iTunes,US,US,05,01,mobileapps,False,03/2021,2008-06-12,2008-06-12,706,406,9531,PURCHASE,,76.13,,,,,,False,False
+399910019,399910019,2500.0,2443.27,2016-09-23T23:43:30,5.6,Apple iTunes,US,US,05,01,mobileapps,False,03/2021,2008-06-12,2008-06-12,706,406,9531,PURCHASE,,56.73,,,,,,False,False
+399910019,399910019,2500.0,2462.67,2016-10-25T07:04:21,5.6,Apple iTunes,US,US,05,01,mobileapps,False,03/2021,2008-06-12,2008-06-12,706,406,9531,PURCHASE,,37.33,,,,,,False,False
+399910019,399910019,2500.0,2482.07,2016-11-25T19:52:41,5.6,Apple iTunes,US,US,05,01,mobileapps,False,03/2021,2008-06-12,2008-06-12,706,406,9531,PURCHASE,,17.93,,,,,,False,False
+399910019,399910019,2500.0,2500.0,2016-12-12T12:43:34,198.76,Seattle News,US,US,02,01,subscriptions,True,02/2032,2008-06-12,2008-06-12,706,706,9531,PURCHASE,,0.0,,,,,,False,False
+399910019,399910019,2500.0,2301.24,2016-12-25T23:48:32,5.6,Apple iTunes,US,US,05,01,mobileapps,False,03/2021,2008-06-12,2008-06-12,706,406,9531,PURCHASE,,198.76,,,,,,False,False

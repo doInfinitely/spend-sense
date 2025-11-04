@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+875836119,875836119,7500.0,7500.0,2016-02-25T01:08:22,113.91,Universe Massage #350895,US,US,05,01,personal care,True,01/2032,2010-09-13,2010-09-13,641,641,4267,PURCHASE,,0.0,,,,,,False,False
+875836119,875836119,7500.0,7411.09,2016-10-08T20:08:41,8.72,Play Store,US,US,90,01,mobileapps,False,04/2021,2010-09-13,2010-09-13,641,641,4267,PURCHASE,,88.91,,,,,,False,False
+875836119,875836119,7500.0,7427.37,2016-11-08T09:18:58,8.72,Play Store,US,US,90,01,mobileapps,False,04/2021,2010-09-13,2010-09-13,641,641,4267,PURCHASE,,72.63,,,,,,False,False
+875836119,875836119,7500.0,7443.65,2016-12-10T03:43:52,8.72,Play Store,US,US,90,01,mobileapps,False,04/2021,2010-09-13,2010-09-13,641,641,4267,PURCHASE,,56.35,,,,,,False,False

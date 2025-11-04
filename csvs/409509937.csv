@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+409509937,409509937,15000.0,15000.0,2016-05-06T12:19:37,106.01,staples.com,US,US,05,01,online_retail,09/2022,2015-08-23,2015-08-23,576,576,7231,PURCHASE,,0.0,,,,False,,,False,False
+409509937,409509937,15000.0,14918.99,2016-06-14T06:44:52,66.83,Sprint PCS #340541,US,US,05,01,cable/phone,12/2030,2015-08-23,2015-08-23,576,576,7231,PURCHASE,,81.01,,,,False,,,False,False
+409509937,409509937,15000.0,14877.16,2016-07-15T05:48:28,72.99,Sprint PCS #340541,US,US,05,01,cable/phone,12/2030,2015-08-23,2015-08-23,576,576,7231,PURCHASE,,122.84,,,,False,,,False,False
+409509937,409509937,15000.0,14829.17,2016-08-14T01:34:22,65.04,Sprint PCS #340541,US,US,05,01,cable/phone,12/2030,2015-08-23,2015-08-23,576,576,7231,PURCHASE,,170.83,,,,False,,,False,False
+409509937,409509937,15000.0,14789.13,2016-09-13T01:01:46,72.12,Sprint PCS #340541,US,US,05,01,cable/phone,12/2030,2015-08-23,2015-08-23,576,576,7231,PURCHASE,,210.87,,,,False,,,False,False
+409509937,409509937,15000.0,14742.01,2016-10-13T21:05:03,66.43,Sprint PCS #340541,US,US,05,01,cable/phone,12/2030,2015-08-23,2015-08-23,576,576,7231,PURCHASE,,257.99,,,,False,,,False,False
+409509937,409509937,15000.0,14700.58,2016-11-12T02:19:48,65.04,Sprint PCS #340541,US,US,05,01,cable/phone,12/2030,2015-08-23,2015-08-23,576,576,7231,PURCHASE,,299.42,,,,False,,,False,False
+409509937,409509937,15000.0,14660.54,2016-12-12T22:27:49,65.04,Sprint PCS #340541,US,US,05,01,cable/phone,12/2030,2015-08-23,2015-08-23,576,576,7231,PURCHASE,,339.46,,,,False,,,False,False

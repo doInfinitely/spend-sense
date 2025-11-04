@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+587878507,587878507,5000.0,5000.0,2016-02-20T10:02:21,709.29,target.com,US,US,02,01,online_retail,06/2030,2011-07-01,2011-07-01,794,794,225,PURCHASE,,0.0,,,,False,,,False,False
+587878507,587878507,5000.0,4315.71,2016-03-12T00:42:27,7.3,staples.com,US,US,09,01,online_retail,04/2033,2011-07-01,2011-07-01,794,794,225,PURCHASE,,684.29,,,,False,,,False,False
+587878507,587878507,5000.0,4333.41,2016-06-18T12:59:04,14.85,abc.com,US,US,09,01,online_subscriptions,08/2021,2011-07-01,2011-07-01,794,794,225,PURCHASE,,666.59,,,,False,,,False,False
+587878507,587878507,5000.0,4343.56,2016-07-18T19:29:24,14.85,abc.com,US,US,09,01,online_subscriptions,08/2021,2011-07-01,2011-07-01,794,794,225,PURCHASE,,656.44,,,,False,,,False,False
+587878507,587878507,5000.0,4353.71,2016-08-18T22:20:14,14.85,abc.com,US,US,09,01,online_subscriptions,08/2021,2011-07-01,2011-07-01,794,794,225,PURCHASE,,646.29,,,,False,,,False,False
+587878507,587878507,5000.0,4363.86,2016-09-18T17:03:16,14.85,abc.com,US,US,09,01,online_subscriptions,08/2021,2011-07-01,2011-07-01,794,794,225,PURCHASE,,636.14,,,,False,,,False,False
+587878507,587878507,5000.0,4374.01,2016-10-19T16:19:39,14.85,abc.com,US,US,09,01,online_subscriptions,08/2021,2011-07-01,2011-07-01,794,794,225,PURCHASE,,625.99,,,,False,,,False,False
+587878507,587878507,5000.0,4384.16,2016-11-19T08:50:47,14.85,abc.com,US,US,09,01,online_subscriptions,08/2021,2011-07-01,2011-07-01,794,794,225,PURCHASE,,615.84,,,,False,,,False,False
+587878507,587878507,5000.0,4394.31,2016-12-09T16:41:43,97.07,apple.com,US,US,05,01,online_retail,11/2022,2011-07-01,2011-07-01,794,794,225,PURCHASE,,605.69,,,,False,,,False,False
+587878507,587878507,5000.0,4297.24,2016-12-20T12:34:46,14.85,abc.com,US,US,09,01,online_subscriptions,08/2021,2011-07-01,2011-07-01,794,794,225,PURCHASE,,702.76,,,,False,,,False,False

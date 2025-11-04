@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,transactionAmount,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+522699627,522699627,2500.0,2500.0,2016-04-14T20:33:42,EZ Putt Putt #804489,US,US,05,01,entertainment,02/2024,2014-10-04,2014-10-04,530,530,2286,ADDRESS_VERIFICATION,,0.0,0.0,,,,False,,,False,False
+522699627,522699627,2500.0,2500.0,2016-06-02T04:24:02,American Airlines,US,US,09,01,airline,10/2026,2014-10-04,2014-10-04,530,530,2286,PURCHASE,,0.0,201.64,,,,False,,,False,False
+522699627,522699627,2500.0,2298.36,2016-06-15T06:16:52,EZ Putt Putt #240241,,US,09,99,entertainment,12/2028,2014-10-04,2014-10-04,530,530,2286,PURCHASE,,201.64,75.7,,,,True,,,False,False
+522699627,522699627,2500.0,2500.0,2016-07-14T20:29:53,hulu.com,US,US,05,01,online_subscriptions,07/2021,2014-10-04,2014-10-04,883,883,127,PURCHASE,,0.0,16.57,,,,False,,,False,False
+522699627,522699627,2500.0,2500.0,2016-08-15T00:57:59,hulu.com,US,US,05,01,online_subscriptions,07/2021,2014-10-04,2014-10-04,883,883,127,PURCHASE,,0.0,16.57,,,,False,,,False,False
+522699627,522699627,2500.0,2500.0,2016-09-14T02:45:02,hulu.com,US,US,05,01,online_subscriptions,07/2021,2014-10-04,2014-10-04,883,883,127,PURCHASE,,0.0,16.57,,,,False,,,False,False
+522699627,522699627,2500.0,2500.0,2016-10-14T11:50:31,hulu.com,US,US,05,01,online_subscriptions,07/2021,2014-10-04,2014-10-04,883,883,127,PURCHASE,,0.0,16.57,,,,False,,,False,False
+522699627,522699627,2500.0,2500.0,2016-11-14T00:19:24,hulu.com,US,US,05,01,online_subscriptions,07/2021,2014-10-04,2014-10-04,883,883,127,PURCHASE,,0.0,16.57,,,,False,,,False,False
+522699627,522699627,2500.0,2500.0,2016-12-04T19:47:15,EZ Putt Putt #755869,US,US,02,01,entertainment,03/2030,2014-10-04,2014-10-04,530,530,2286,PURCHASE,,0.0,178.35,,,,True,,,False,False
+522699627,522699627,2500.0,2321.65,2016-12-15T14:09:56,hulu.com,US,US,05,01,online_subscriptions,07/2021,2014-10-04,2014-10-04,883,883,127,PURCHASE,,178.35,16.57,,,,False,,,False,False

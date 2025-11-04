@@ -1,0 +1,12 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+479592170,479592170,5000.0,5000.0,2016-03-27T20:29:34,361.26,American Airlines,US,US,05,01,airline,04/2025,2015-03-20,2015-03-20,343,343,1753,PURCHASE,,0.0,,,,False,,,False,False
+479592170,479592170,5000.0,4663.74,2016-04-13T11:53:37,84.06,United Airlines,US,US,02,01,airline,10/2030,2015-03-20,2015-03-20,343,343,1753,PURCHASE,,336.26,,,,False,,,False,False
+479592170,479592170,5000.0,4579.68,2016-04-24T00:50:38,242.53,American Airlines,US,US,05,01,airline,10/2026,2015-03-20,2015-03-20,226,226,5784,PURCHASE,,420.32,,,,False,,,False,False
+479592170,479592170,5000.0,4337.15,2016-04-27T14:03:54,175.9,Delta Airlines,US,US,02,01,airline,01/2029,2015-03-20,2015-03-20,883,883,234,PURCHASE,,662.85,,,,False,,,False,False
+479592170,479592170,5000.0,4186.25,2016-06-26T12:16:09,137.37,Icelandic Airlines,US,US,09,01,airline,05/2030,2015-03-20,2015-03-20,226,226,5784,PURCHASE,,813.75,,,,False,,,False,False
+479592170,479592170,5000.0,4073.88,2016-07-13T22:34:24,226.62,American Airlines,US,US,05,01,airline,02/2026,2015-03-20,2015-03-20,226,226,5784,PURCHASE,,926.12,,,,False,,,False,False
+479592170,479592170,5000.0,3872.26,2016-09-19T15:59:28,113.19,ebay.com,US,US,05,01,online_retail,10/2024,2015-03-20,2015-03-20,343,343,1753,PURCHASE,,1127.74,,,,False,,,False,False
+479592170,479592170,5000.0,3759.07,2016-09-27T10:06:13,32.34,American Airlines,US,US,05,01,airline,12/2024,2015-03-20,2015-03-20,226,226,5784,PURCHASE,,1240.93,,,,False,,,False,False
+479592170,479592170,5000.0,3751.73,2016-10-16T03:52:32,4.16,Apple iTunes,US,US,09,01,mobileapps,11/2027,2015-03-20,2015-03-20,226,226,5784,PURCHASE,,1248.27,,,,False,,,False,False
+479592170,479592170,5000.0,3772.57,2016-11-15T05:45:29,4.16,Apple iTunes,US,US,09,01,mobileapps,11/2027,2015-03-20,2015-03-20,226,226,5784,PURCHASE,,1227.43,,,,False,,,False,False
+479592170,479592170,5000.0,3793.41,2016-12-17T05:22:08,4.16,Apple iTunes,US,US,09,01,mobileapps,11/2027,2015-03-20,2015-03-20,226,226,5784,PURCHASE,,1206.59,,,,False,,,False,False

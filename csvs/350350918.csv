@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+350350918,350350918,20000.0,20000.0,2016-04-14T22:59:27,122.41,Rodeway Inn #829626,US,US,09,01,hotels,True,05/2023,2015-11-13,2015-11-13,100,100,787,PURCHASE,,0.0,,,,,,False,False
+350350918,350350918,20000.0,19902.59,2016-09-28T08:06:41,134.92,Rodeway Inn #109292,US,US,90,01,hotels,True,03/2027,2015-11-13,2015-11-13,100,100,787,PURCHASE,,97.41,,,,,,False,False
+350350918,350350918,20000.0,19792.67,2016-10-02T17:59:10,114.99,Rodeway Inn #124016,US,US,05,01,hotels,True,06/2020,2015-11-13,2015-11-13,100,100,787,PURCHASE,,207.33,,,,,,False,False
+350350918,350350918,20000.0,19702.68,2016-11-28T14:50:18,84.38,Rodeway Inn #83137,US,US,09,01,hotels,False,03/2022,2015-11-13,2015-11-13,100,100,787,PURCHASE,,297.32,,,,,,False,False
+350350918,350350918,20000.0,19643.3,2016-12-12T21:52:14,88.29,Rodeway Inn #789483,US,US,09,08,hotels,True,05/2025,2015-11-13,2015-11-13,100,100,787,PURCHASE,,356.7,,,,,,False,False
+350350918,350350918,20000.0,19555.01,2016-12-28T21:23:32,0.0,Hyatt House #461673,US,US,02,01,hotels,False,11/2032,2015-11-13,2015-11-13,100,100,787,ADDRESS_VERIFICATION,,444.99,,,,,,False,False

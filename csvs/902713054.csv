@@ -1,0 +1,12 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+902713054,902713054,20000.0,20000.0,2016-01-29T21:25:16,195.05,oldnavy.com,US,US,02,01,online_retail,08/2023,2015-12-02,2015-12-02,662,662,5646,PURCHASE,,0.0,,,,False,,,False,False
+902713054,902713054,20000.0,19804.95,2016-01-31T01:22:51,245.78,alibaba.com,US,US,05,08,online_retail,12/2025,2015-12-02,2015-12-02,662,662,5646,PURCHASE,,195.05,,,,False,,,False,False
+902713054,902713054,20000.0,20000.0,2016-02-14T21:06:13,109.45,walmart.com,US,US,80,01,online_retail,02/2032,2015-12-02,2015-12-02,662,662,5646,PURCHASE,,0.0,,,,False,,,False,False
+902713054,902713054,20000.0,20000.0,2016-04-04T00:44:50,181.1,oldnavy.com,US,US,90,01,online_retail,09/2020,2015-12-02,2015-12-02,661,661,7415,PURCHASE,,0.0,,,,False,,,False,False
+902713054,902713054,20000.0,20000.0,2016-08-02T02:05:43,174.87,1st Sandwitch Bar #119707,US,US,05,01,food,11/2023,2015-12-02,2015-12-02,661,661,7415,PURCHASE,,0.0,,,,True,,,False,False
+902713054,902713054,20000.0,20000.0,2016-09-13T00:35:18,180.41,gap.com,US,US,80,01,online_retail,05/2029,2015-12-02,2015-12-02,662,662,5646,PURCHASE,,0.0,,,,False,,,False,False
+902713054,902713054,20000.0,19819.59,2016-09-27T05:30:37,13.45,netflix.com,US,US,05,08,online_subscriptions,04/2022,2015-12-02,2015-12-02,662,662,5646,PURCHASE,,180.41,,,,False,,,False,False
+902713054,902713054,20000.0,20000.0,2016-10-21T14:04:32,156.57,amazon.com,US,US,05,08,online_retail,03/2021,2015-12-02,2015-12-02,662,662,5646,PURCHASE,,0.0,,,,False,,,False,False
+902713054,902713054,20000.0,19843.43,2016-10-27T14:34:36,13.45,netflix.com,US,US,05,08,online_subscriptions,04/2022,2015-12-02,2015-12-02,662,662,5646,PURCHASE,,156.57,,,,False,,,False,False
+902713054,902713054,20000.0,20000.0,2016-11-27T11:26:35,13.45,netflix.com,US,US,05,08,online_subscriptions,04/2022,2015-12-02,2015-12-02,662,662,5646,PURCHASE,,0.0,,,,False,,,False,False
+902713054,902713054,20000.0,20000.0,2016-12-28T08:56:42,13.45,netflix.com,US,US,05,08,online_subscriptions,04/2022,2015-12-02,2015-12-02,662,662,5646,PURCHASE,,0.0,,,,False,,,False,False

@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+771811269,771811269,7500.0,7500.0,2016-08-22T07:25:47,174.12,Domino's Pizza #702155,US,US,09,01,fastfood,True,01/2026,2015-09-01,2015-09-01,899,899,9090,PURCHASE,,0.0,,,,,,False,False
+771811269,771811269,7500.0,7500.0,2016-11-02T05:00:18,8.16,Play Store,US,US,09,01,mobileapps,False,06/2020,2015-09-01,2015-09-01,899,899,9090,PURCHASE,,0.0,,,,,,False,False
+771811269,771811269,7500.0,7500.0,2016-12-02T21:22:56,8.16,Play Store,US,US,09,01,mobileapps,False,06/2020,2015-09-01,2015-09-01,899,899,9090,PURCHASE,,0.0,,,,,,False,False

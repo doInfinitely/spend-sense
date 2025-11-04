@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+410652955,410652955,50000.0,50000.0,2016-03-03T01:20:29,50.86,Mobile eCards,US,US,09,01,online_gifts,08/2025,2007-10-29,2007-10-29,819,819,5450,PURCHASE,,0.0,,,,False,,,False,False
+410652955,410652955,50000.0,49949.14,2016-03-15T07:37:54,209.33,Fresh Flowers,US,US,09,01,online_gifts,08/2031,2007-10-29,2007-10-29,819,819,5450,PURCHASE,,50.86,,,,False,,,False,False
+410652955,410652955,50000.0,50000.0,2016-07-24T07:57:14,66.0,Next Day eCards,US,US,09,01,online_gifts,02/2024,2007-10-29,2007-10-29,819,819,5450,PURCHASE,,0.0,,,,False,,,False,False
+410652955,410652955,50000.0,50000.0,2016-10-03T02:51:09,5.39,Apple iTunes,US,US,05,01,mobileapps,01/2028,2007-10-29,2007-10-29,819,819,5450,PURCHASE,,0.0,,,,False,,,False,False
+410652955,410652955,50000.0,49994.61,2016-10-24T05:50:54,104.22,Fresh eCards,US,US,05,01,online_gifts,01/2027,2007-10-29,2007-10-29,819,819,5450,PURCHASE,,5.39,,,,False,,,False,False
+410652955,410652955,50000.0,49890.39,2016-10-28T22:03:17,78.84,Mobile eCards,US,US,90,01,online_gifts,03/2026,2007-10-29,2007-10-29,819,819,5450,PURCHASE,,109.61,,,,True,,,False,False
+410652955,410652955,50000.0,50000.0,2016-11-02T17:56:35,5.39,Apple iTunes,US,US,05,01,mobileapps,01/2028,2007-10-29,2007-10-29,819,819,5450,PURCHASE,,0.0,,,,False,,,False,False
+410652955,410652955,50000.0,50000.0,2016-12-04T15:26:18,5.39,Apple iTunes,US,US,05,01,mobileapps,01/2028,2007-10-29,2007-10-29,819,819,5450,PURCHASE,,0.0,,,,False,,,False,False

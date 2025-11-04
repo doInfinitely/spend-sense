@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+548550408,548550408,250.0,250.0,2016-06-15T21:33:54,12.83,hulu.com,US,US,05,08,online_subscriptions,10/2020,2009-05-26,2009-05-26,198,198,4668,PURCHASE,,0.0,,,,False,,,False,False
+548550408,548550408,250.0,250.0,2016-07-15T22:47:37,12.83,hulu.com,US,US,05,08,online_subscriptions,10/2020,2009-05-26,2009-05-26,198,198,4668,PURCHASE,,0.0,,,,False,,,False,False
+548550408,548550408,250.0,250.0,2016-08-15T17:36:10,12.83,hulu.com,US,US,05,08,online_subscriptions,10/2020,2009-05-26,2009-05-26,198,198,4668,PURCHASE,,0.0,,,,False,,,False,False
+548550408,548550408,250.0,250.0,2016-09-14T22:13:28,12.83,hulu.com,US,US,05,08,online_subscriptions,10/2020,2009-05-26,2009-05-26,198,198,4668,PURCHASE,,0.0,,,,False,,,False,False
+548550408,548550408,250.0,250.0,2016-10-16T18:41:55,12.83,hulu.com,US,US,05,08,online_subscriptions,10/2020,2009-05-26,2009-05-26,198,198,4668,PURCHASE,,0.0,,,,False,,,False,False
+548550408,548550408,250.0,250.0,2016-11-16T10:42:19,12.83,hulu.com,US,US,05,08,online_subscriptions,10/2020,2009-05-26,2009-05-26,198,198,4668,PURCHASE,,0.0,,,,False,,,False,False
+548550408,548550408,250.0,250.0,2016-12-16T14:42:41,12.83,hulu.com,US,US,05,08,online_subscriptions,10/2020,2009-05-26,2009-05-26,198,198,4668,PURCHASE,,0.0,,,,False,,,False,False

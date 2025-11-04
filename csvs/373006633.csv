@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+373006633,373006633,15000.0,15000.0,2016-03-11T22:20:15,9.2,Boston Bistro,US,US,02,08,food,True,11/2022,2013-01-29,2013-01-29,998,998,450,PURCHASE,,0.0,,,,,,False,False
+373006633,373006633,15000.0,14990.8,2016-03-18T03:58:36,0.25,Dallas Post,US,US,05,08,subscriptions,False,06/2033,2013-01-29,2013-01-29,998,998,450,PURCHASE,,9.2,,,,,,False,False
+373006633,373006633,15000.0,15000.0,2016-04-24T05:21:15,139.1,Washington Post,US,US,09,01,subscriptions,False,04/2031,2013-01-29,2013-01-29,998,998,450,PURCHASE,,0.0,,,,,,False,False
+373006633,373006633,15000.0,14885.9,2016-07-09T08:58:55,113.59,Chicago News,US,US,02,01,subscriptions,False,04/2029,2013-01-29,2013-01-29,998,998,450,PURCHASE,,114.1,,,,,,False,False
+373006633,373006633,15000.0,14797.31,2016-09-09T03:09:31,14.0,hulu.com,US,US,09,01,online_subscriptions,False,09/2027,2013-01-29,2013-01-29,998,998,450,PURCHASE,,202.69,,,,,,False,False
+373006633,373006633,15000.0,14808.31,2016-10-09T23:44:51,14.0,hulu.com,US,US,09,01,online_subscriptions,False,09/2027,2013-01-29,2013-01-29,998,998,450,PURCHASE,,191.69,,,,,,False,False
+373006633,373006633,15000.0,14819.31,2016-11-09T21:51:09,14.0,hulu.com,US,US,09,01,online_subscriptions,False,09/2027,2013-01-29,2013-01-29,998,998,450,PURCHASE,,180.69,,,,,,False,False
+373006633,373006633,15000.0,14830.31,2016-12-09T22:19:08,14.0,hulu.com,US,US,09,01,online_subscriptions,False,09/2027,2013-01-29,2013-01-29,998,998,450,PURCHASE,,169.69,,,,,,False,False

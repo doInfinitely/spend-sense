@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+145640007,145640007,7500.0,7500.0,2016-03-27T03:03:03,21.44,Uber,US,US,02,01,rideshare,09/2021,2012-12-08,2012-12-08,527,527,5755,PURCHASE,,0.0,,,,False,,,False,False
+145640007,145640007,7500.0,7500.0,2016-07-10T07:55:09,12.44,hulu.com,US,US,02,01,online_subscriptions,07/2027,2012-12-08,2012-12-08,527,527,5755,PURCHASE,,0.0,,,,False,,,False,False
+145640007,145640007,7500.0,7487.56,2016-07-25T06:10:15,17.31,Lyft,US,US,09,01,rideshare,03/2032,2012-12-08,2012-12-08,527,527,5755,PURCHASE,,12.44,,,,False,,,False,False
+145640007,145640007,7500.0,7500.0,2016-08-10T06:40:38,12.44,hulu.com,US,US,02,01,online_subscriptions,07/2027,2012-12-08,2012-12-08,527,527,5755,PURCHASE,,0.0,,,,False,,,False,False
+145640007,145640007,7500.0,7487.56,2016-08-28T09:07:59,200.6,staples.com,US,US,05,01,online_retail,02/2033,2012-12-08,2012-12-08,527,527,5755,PURCHASE,,12.44,,,,False,,,False,False
+145640007,145640007,7500.0,7500.0,2016-09-09T14:26:48,12.44,hulu.com,US,US,02,01,online_subscriptions,07/2027,2012-12-08,2012-12-08,527,527,5755,PURCHASE,,0.0,,,,False,,,False,False
+145640007,145640007,7500.0,7487.56,2016-09-18T07:11:48,324.53,Uber,US,US,02,01,rideshare,01/2020,2012-12-08,2012-12-08,527,527,5755,PURCHASE,,12.44,,,,False,,,False,False
+145640007,145640007,7500.0,7500.0,2016-10-10T02:25:44,12.44,hulu.com,US,US,02,01,online_subscriptions,07/2027,2012-12-08,2012-12-08,527,527,5755,PURCHASE,,0.0,,,,False,,,False,False
+145640007,145640007,7500.0,7500.0,2016-11-09T08:40:57,12.44,hulu.com,US,US,02,01,online_subscriptions,07/2027,2012-12-08,2012-12-08,527,527,5755,PURCHASE,,0.0,,,,False,,,False,False
+145640007,145640007,7500.0,7500.0,2016-12-10T00:15:07,12.44,hulu.com,US,US,02,01,online_subscriptions,07/2027,2012-12-08,2012-12-08,527,527,5755,PURCHASE,,0.0,,,,False,,,False,False

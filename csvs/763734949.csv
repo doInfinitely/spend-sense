@@ -1,0 +1,14 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+763734949,763734949,2500.0,2500.0,2016-01-15T10:40:23,39.98,walmart.com,US,US,05,01,online_retail,02/2025,2011-11-26,2011-11-26,847,847,3068,PURCHASE,,0.0,,,,False,,,False,False
+763734949,763734949,2500.0,2460.02,2016-01-16T10:41:57,87.04,Universe Massage #746021,US,US,05,01,personal care,10/2028,2011-11-26,2011-11-26,201,201,3655,PURCHASE,,39.98,,,,True,,,False,False
+763734949,763734949,2500.0,2500.0,2016-04-22T21:59:43,300.51,Universe Massage #95869,US,US,05,01,personal care,01/2028,2011-11-26,2011-11-26,847,847,3068,PURCHASE,,0.0,,,,True,,,False,False
+763734949,763734949,2500.0,2500.0,2016-05-07T11:37:09,117.87,Universe Massage #596422,US,US,05,01,personal care,08/2027,2011-11-26,2011-11-26,623,623,1185,PURCHASE,,0.0,,,,True,,,False,False
+763734949,763734949,2500.0,2382.13,2016-05-13T00:56:02,46.07,discount.com,US,US,09,08,online_retail,04/2022,2011-11-26,2011-11-26,623,623,1185,PURCHASE,,117.87,,,,False,,,False,False
+763734949,763734949,2500.0,2500.0,2016-06-20T11:42:43,5.18,Apple iTunes,US,US,80,01,mobileapps,02/2021,2011-11-26,2011-11-26,623,623,1185,PURCHASE,,0.0,,,,False,,,False,False
+763734949,763734949,2500.0,2500.0,2016-07-21T23:14:47,5.18,Apple iTunes,US,US,80,01,mobileapps,02/2021,2011-11-26,2011-11-26,623,623,1185,PURCHASE,,0.0,,,,False,,,False,False
+763734949,763734949,2500.0,2500.0,2016-08-22T01:38:35,5.18,Apple iTunes,US,US,80,01,mobileapps,02/2021,2011-11-26,2011-11-26,623,623,1185,PURCHASE,,0.0,,,,False,,,False,False
+763734949,763734949,2500.0,2494.82,2016-08-23T02:34:24,69.6,alibaba.com,US,US,05,01,online_retail,06/2022,2011-11-26,2011-11-26,623,623,1185,PURCHASE,,5.18,,,,False,,,False,False
+763734949,763734949,2500.0,2500.0,2016-09-23T00:52:24,5.18,Apple iTunes,US,US,80,01,mobileapps,02/2021,2011-11-26,2011-11-26,623,623,1185,PURCHASE,,0.0,,,,False,,,False,False
+763734949,763734949,2500.0,2500.0,2016-10-24T20:59:29,5.18,Apple iTunes,US,US,80,01,mobileapps,02/2021,2011-11-26,2011-11-26,623,623,1185,PURCHASE,,0.0,,,,False,,,False,False
+763734949,763734949,2500.0,2500.0,2016-11-25T10:38:47,5.18,Apple iTunes,US,US,80,01,mobileapps,02/2021,2011-11-26,2011-11-26,623,623,1185,PURCHASE,,0.0,,,,False,,,False,False
+763734949,763734949,2500.0,2500.0,2016-12-26T03:44:55,5.18,Apple iTunes,US,US,80,01,mobileapps,02/2021,2011-11-26,2011-11-26,623,623,1185,PURCHASE,,0.0,,,,False,,,False,False

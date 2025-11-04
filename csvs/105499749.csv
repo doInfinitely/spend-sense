@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+105499749,105499749,2500.0,2500.0,2016-01-30T09:35:10,149.47,walmart.com,US,US,05,01,online_retail,05/2020,2015-09-02,2015-09-02,947,947,6595,PURCHASE,,0.0,,,,False,,,False,False
+105499749,105499749,2500.0,2375.53,2016-03-30T08:48:20,237.05,Dinosaur Drive in,US,US,02,01,food,07/2026,2015-09-02,2015-09-02,947,947,6595,PURCHASE,,124.47,,,,True,,,False,False
+105499749,105499749,2500.0,2163.48,2016-09-14T21:33:11,188.83,Planet Fitness #401356,US,US,09,08,health,01/2025,2015-09-02,2015-09-02,947,947,6595,PURCHASE,,336.52,,,,False,,,False,False
+105499749,105499749,2500.0,1999.65,2016-10-04T00:14:02,474.52,Dinosaur Sandwitch Bar #960325,US,US,05,99,food,04/2026,2015-09-02,2015-09-02,947,947,6595,PURCHASE,,500.35,,,,True,,,False,False
+105499749,105499749,2500.0,1525.13,2016-10-15T21:30:08,55.52,Planet Fitness #55598,US,US,05,01,health,01/2026,2015-09-02,2015-09-02,947,947,6595,PURCHASE,,974.87,,,,False,,,False,False
+105499749,105499749,2500.0,1494.61,2016-11-10T10:46:17,53.43,Franks Restaurant,US,US,05,08,food,04/2033,2015-09-02,2015-09-02,947,947,6595,PURCHASE,,1005.39,,,,True,,,False,False
+105499749,105499749,2500.0,1466.18,2016-12-01T17:33:39,13.47,South Steakhouse #378389,US,US,05,08,food,06/2021,2015-09-02,2015-09-02,947,947,6595,PURCHASE,,1033.82,,,,True,,,False,False

@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+364271030,364271030,15000.0,15000.0,2016-01-16T19:32:21,42.33,KFC #977238,US,US,09,01,fastfood,True,03/2027,2010-04-20,2010-04-20,448,448,4857,PURCHASE,,0.0,,,,,,False,False
+364271030,364271030,15000.0,14957.67,2016-01-16T19:34:27,42.33,KFC #977238,US,US,09,01,fastfood,True,03/2027,2010-04-20,2010-04-20,448,448,4857,PURCHASE,,42.33,,,,,,False,False
+364271030,364271030,15000.0,15000.0,2016-09-11T20:55:38,315.17,Krispy Kreme #80692,US,US,90,08,fastfood,True,02/2031,2010-04-20,2010-04-20,448,448,4857,,,0.0,,,,,,False,False
+364271030,364271030,15000.0,14684.83,2016-09-12T00:47:52,30.17,Next Day eCards,US,US,05,01,online_gifts,False,04/2033,2010-04-20,2010-04-20,448,448,4857,PURCHASE,,315.17,,,,,,False,False
+364271030,364271030,15000.0,15000.0,2016-10-07T09:15:33,5.95,Play Store,US,US,02,08,mobileapps,False,07/2020,2010-04-20,2010-04-20,448,448,4857,PURCHASE,,0.0,,,,,,False,False
+364271030,364271030,15000.0,15000.0,2016-11-06T20:23:13,5.95,Play Store,US,US,02,08,mobileapps,False,07/2020,2010-04-20,2010-04-20,448,448,4857,PURCHASE,,0.0,,,,,,False,False
+364271030,364271030,15000.0,15000.0,2016-12-07T22:37:33,5.95,Play Store,US,US,02,08,mobileapps,False,07/2020,2010-04-20,2010-04-20,448,448,4857,PURCHASE,,0.0,,,,,,False,False

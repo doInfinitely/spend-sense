@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+563026108,563026108,7500.0,7500.0,2016-04-13T11:07:39,3.97,Hilton Hotels #680956,US,US,02,01,hotels,True,05/2025,2015-09-24,2015-09-24,879,879,6634,PURCHASE,,0.0,,,,,,False,False
+563026108,563026108,7500.0,7500.0,2016-06-07T18:14:49,9.85,abc.com,US,US,05,01,online_subscriptions,False,11/2032,2015-09-24,2015-09-24,878,878,118,PURCHASE,,0.0,,,,,,False,False
+563026108,563026108,7500.0,7500.0,2016-07-08T04:44:30,9.85,abc.com,US,US,05,01,online_subscriptions,False,11/2032,2015-09-24,2015-09-24,878,878,118,PURCHASE,,0.0,,,,,,False,False
+563026108,563026108,7500.0,7490.15,2016-07-28T00:02:56,252.01,Hyatt House #161001,US,US,02,01,hotels,True,07/2024,2015-09-24,2015-09-24,878,878,118,PURCHASE,,9.85,,,,,,False,False
+563026108,563026108,7500.0,7500.0,2016-08-07T22:45:53,9.85,abc.com,US,US,05,01,online_subscriptions,False,11/2032,2015-09-24,2015-09-24,878,878,118,PURCHASE,,0.0,,,,,,False,False
+563026108,563026108,7500.0,7500.0,2016-09-07T09:30:43,9.85,abc.com,US,US,05,01,online_subscriptions,False,11/2032,2015-09-24,2015-09-24,878,878,118,PURCHASE,,0.0,,,,,,False,False
+563026108,563026108,7500.0,7500.0,2016-10-08T06:21:55,9.85,abc.com,US,US,05,01,online_subscriptions,False,11/2032,2015-09-24,2015-09-24,878,878,118,PURCHASE,,0.0,,,,,,False,False
+563026108,563026108,7500.0,7500.0,2016-11-08T09:51:05,9.85,abc.com,US,US,05,01,online_subscriptions,False,11/2032,2015-09-24,2015-09-24,878,878,118,PURCHASE,,0.0,,,,,,False,False
+563026108,563026108,7500.0,7500.0,2016-12-09T23:12:32,9.85,abc.com,US,US,05,01,online_subscriptions,False,11/2032,2015-09-24,2015-09-24,878,878,118,PURCHASE,,0.0,,,,,,False,False

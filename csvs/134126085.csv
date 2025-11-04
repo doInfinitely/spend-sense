@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+134126085,134126085,20000.0,20000.0,2016-11-03T22:02:49,40.8,Runners #339582,US,US,05,01,gym,True,05/2025,2014-07-27,2014-07-27,473,473,5848,PURCHASE,,0.0,,,,,,False,False
+134126085,134126085,20000.0,19959.2,2016-11-18T15:40:23,40.8,Runners #339582,US,US,05,01,gym,True,05/2025,2014-07-27,2014-07-27,473,473,5848,PURCHASE,,40.8,,,,,,False,False
+134126085,134126085,20000.0,19943.4,2016-12-02T02:32:10,40.8,Runners #339582,US,US,05,01,gym,True,05/2025,2014-07-27,2014-07-27,473,473,5848,PURCHASE,,56.6,,,,,,False,False
+134126085,134126085,20000.0,19902.6,2016-12-15T20:59:57,40.8,Runners #339582,US,US,05,01,gym,True,05/2025,2014-07-27,2014-07-27,473,473,5848,PURCHASE,,97.4,,,,,,False,False
+134126085,134126085,20000.0,19861.8,2016-12-29T10:16:41,40.8,Runners #339582,US,US,05,01,gym,True,05/2025,2014-07-27,2014-07-27,473,473,5848,PURCHASE,,138.2,,,,,,False,False

@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+119877862,119877862,7500.0,7500.0,2016-01-03T01:31:52,205.24,cheapfast.com,US,US,02,08,online_retail,12/2022,2014-03-29,2014-03-29,386,386,3532,PURCHASE,,0.0,,,,False,,,False,False
+119877862,119877862,7500.0,7319.76,2016-05-15T06:13:35,12.32,cheapfast.com,US,US,05,08,online_retail,02/2030,2014-03-29,2014-03-29,386,386,3532,PURCHASE,,180.24,,,,False,,,False,False
+119877862,119877862,7500.0,7307.44,2016-05-24T06:03:32,48.2,staples.com,US,US,05,08,online_retail,01/2020,2014-03-29,2014-03-29,386,386,3532,PURCHASE,,192.56,,,,False,,,False,False
+119877862,119877862,7500.0,7284.24,2016-06-05T10:17:55,273.1,sears.com,US,US,09,01,online_retail,11/2028,2014-03-29,2014-03-29,386,386,3532,PURCHASE,,215.76,,,,False,,,False,False
+119877862,119877862,7500.0,7011.14,2016-06-12T08:16:27,290.3,Uber,US,US,09,01,rideshare,12/2023,2014-03-29,2014-03-29,386,386,3532,PURCHASE,,488.86,,,,False,,,False,False
+119877862,119877862,7500.0,6745.84,2016-08-14T06:21:33,279.18,Best Bistro #262998,US,US,09,01,food,12/2022,2014-03-29,2014-03-29,386,386,3532,PURCHASE,,754.16,,,,True,,,False,False
+119877862,119877862,7500.0,6466.66,2016-08-22T22:50:18,279.18,Best Bistro #262998,US,US,09,01,food,12/2022,2014-03-29,2014-03-29,386,386,3532,REVERSAL,,1033.34,,,,True,,,False,False
+119877862,119877862,7500.0,6770.84,2016-10-24T13:44:40,25.35,amazon.com,US,US,02,01,online_retail,03/2027,2014-03-29,2014-03-29,386,386,3532,PURCHASE,,729.16,,,,False,,,False,False
+119877862,119877862,7500.0,6770.49,2016-11-24T01:44:33,317.89,walmart.com,US,US,09,01,online_retail,10/2022,2014-03-29,2014-03-29,386,386,3532,PURCHASE,,729.51,,,,False,,,False,True
+119877862,119877862,7500.0,6477.6,2016-12-19T00:26:33,6.28,Apple iTunes,US,US,05,01,mobileapps,04/2021,2014-03-29,2014-03-29,386,386,3532,PURCHASE,,1022.4,,,,False,,,False,False

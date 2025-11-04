@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+296153571,296153571,2500.0,2500.0,2016-07-16T06:34:10,463.14,Next Day eCards,US,US,05,08,online_gifts,09/2032,2011-08-03,2011-08-03,973,973,5133,PURCHASE,,0.0,,,,False,,,False,False
+296153571,296153571,2500.0,2500.0,2016-08-04T10:23:54,8.04,Play Store,US,US,05,01,mobileapps,06/2026,2011-08-03,2011-08-03,973,973,5133,PURCHASE,,0.0,,,,False,,,False,False
+296153571,296153571,2500.0,2491.96,2016-08-07T20:41:29,64.43,Dunkin' Donuts #159114,US,US,05,08,fastfood,03/2026,2011-08-03,2011-08-03,973,973,5133,PURCHASE,,8.04,,,,True,,,False,False
+296153571,296153571,2500.0,2500.0,2016-09-04T22:46:49,8.04,Play Store,US,US,05,01,mobileapps,06/2026,2011-08-03,2011-08-03,973,973,5133,PURCHASE,,0.0,,,,False,,,False,False
+296153571,296153571,2500.0,2500.0,2016-10-05T18:04:01,8.04,Play Store,US,US,05,01,mobileapps,06/2026,2011-08-03,2011-08-03,973,973,5133,PURCHASE,,0.0,,,,False,,,False,False
+296153571,296153571,2500.0,2500.0,2016-11-06T12:49:04,8.04,Play Store,US,US,05,01,mobileapps,06/2026,2011-08-03,2011-08-03,973,973,5133,PURCHASE,,0.0,,,,False,,,False,False
+296153571,296153571,2500.0,2500.0,2016-12-06T17:55:52,8.04,Play Store,US,US,05,01,mobileapps,06/2026,2011-08-03,2011-08-03,973,973,5133,PURCHASE,,0.0,,,,False,,,False,False

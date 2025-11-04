@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+274435308,274435308,5000.0,5000.0,2016-02-15T07:06:44,6.88,Uber,US,US,02,01,rideshare,08/2030,2015-09-07,2015-09-07,911,911,1885,PURCHASE,,0.0,,,,False,,,False,False
+274435308,274435308,5000.0,5000.0,2016-08-17T22:22:53,225.9,Lyft,US,US,05,01,rideshare,07/2031,2015-09-07,2015-09-07,911,911,1885,PURCHASE,,0.0,,,,False,,,False,False
+274435308,274435308,5000.0,4799.1,2016-09-18T14:38:30,13.59,abc.com,US,US,02,08,online_subscriptions,05/2033,2015-09-07,2015-09-07,911,911,1885,PURCHASE,,200.9,,,,False,,,False,False
+274435308,274435308,5000.0,4785.51,2016-09-30T08:37:57,61.36,Virgin #777730,US,US,02,01,cable/phone,06/2023,2015-09-07,2015-09-07,552,552,9987,PURCHASE,,214.49,,,,False,,,False,False
+274435308,274435308,5000.0,4749.15,2016-10-19T18:23:55,13.59,abc.com,US,US,02,08,online_subscriptions,05/2033,2015-09-07,2015-09-07,911,911,1885,PURCHASE,,250.85,,,,False,,,False,False
+274435308,274435308,5000.0,4735.56,2016-10-29T21:21:06,58.31,Virgin #777730,US,US,02,01,cable/phone,06/2023,2015-09-07,2015-09-07,552,552,9987,PURCHASE,,264.44,,,,False,,,False,False
+274435308,274435308,5000.0,4702.25,2016-11-19T13:15:25,13.59,abc.com,US,US,02,08,online_subscriptions,05/2033,2015-09-07,2015-09-07,911,911,1885,PURCHASE,,297.75,,,,False,,,False,False
+274435308,274435308,5000.0,4688.66,2016-11-29T17:28:31,72.77,Virgin #777730,US,US,02,01,cable/phone,06/2023,2015-09-07,2015-09-07,552,552,9987,PURCHASE,,311.34,,,,False,,,False,False
+274435308,274435308,5000.0,4640.89,2016-12-20T00:36:34,13.59,abc.com,US,US,02,08,online_subscriptions,05/2033,2015-09-07,2015-09-07,911,911,1885,PURCHASE,,359.11,,,,False,,,False,False
+274435308,274435308,5000.0,4627.3,2016-12-29T22:19:55,56.2,Virgin #777730,US,US,02,01,cable/phone,06/2023,2015-09-07,2015-09-07,552,552,9987,PURCHASE,,372.7,,,,False,,,False,False

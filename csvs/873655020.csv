@@ -1,0 +1,12 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+873655020,873655020,500.0,500.0,2016-01-04T09:23:52,31.12,Fresh Flowers,US,US,05,01,online_gifts,10/2030,2013-04-27,2013-04-27,721,721,4892,PURCHASE,,0.0,,,,False,,,False,False
+873655020,873655020,500.0,468.88,2016-01-08T11:18:16,74.72,Pizza Hut #156087,US,US,05,08,fastfood,04/2025,2013-04-27,2013-04-27,524,524,8762,PURCHASE,,31.12,,,,True,,,False,False
+873655020,873655020,500.0,394.16,2016-01-15T10:53:36,114.36,Blue Mountain Online Services,US,US,09,01,online_gifts,08/2028,2013-04-27,2013-04-27,524,524,8762,PURCHASE,,105.84,,,,False,,,False,False
+873655020,873655020,500.0,500.0,2016-02-06T19:22:13,85.7,Next Day Online Services,US,US,05,01,online_gifts,09/2024,2013-04-27,2013-04-27,524,524,8762,PURCHASE,,0.0,,,,False,,,False,False
+873655020,873655020,500.0,414.3,2016-02-20T03:45:57,143.2,Hardee's #354068,US,US,09,08,fastfood,08/2028,2013-04-27,2013-04-27,144,144,6372,PURCHASE,,85.7,,,,True,,,False,False
+873655020,873655020,500.0,500.0,2016-03-16T14:41:59,143.2,Hardee's #354068,US,US,09,08,fastfood,08/2028,2013-04-27,2013-04-27,144,144,6372,REVERSAL,,0.0,,,,True,,,False,False
+873655020,873655020,500.0,500.0,2016-03-24T21:10:36,0.0,1st Sandwitch Bar #758805,US,US,05,01,food,10/2032,2013-04-27,2013-04-27,721,721,4892,ADDRESS_VERIFICATION,,0.0,,,,False,,,False,False
+873655020,873655020,500.0,500.0,2016-05-03T20:12:11,170.95,Fresh eCards,US,US,05,01,online_gifts,05/2028,2013-04-27,2013-04-27,721,721,4892,PURCHASE,,0.0,,,,False,,,False,False
+873655020,873655020,500.0,500.0,2016-07-02T12:05:59,36.42,Mobile eCards,US,US,05,01,online_gifts,12/2020,2013-04-27,2013-04-27,997,997,9875,PURCHASE,,0.0,,,,False,,,False,False
+873655020,873655020,500.0,500.0,2016-09-23T19:06:33,336.8,KFC #304442,US,US,05,01,fastfood,04/2025,2013-04-27,2013-04-27,524,524,8762,PURCHASE,,0.0,,,,True,,,False,False
+873655020,873655020,500.0,500.0,2016-10-14T19:34:03,38.91,In-N-Out #605436,US,US,09,01,fastfood,10/2031,2013-04-27,2013-04-27,524,524,8762,PURCHASE,,0.0,,,,True,,,False,False

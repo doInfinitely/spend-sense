@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+499939979,499939979,5000.0,5000.0,2016-06-09T14:38:41,12.39,KFC #834564,US,US,09,01,fastfood,True,11/2025,2014-04-08,2014-04-08,830,830,3685,PURCHASE,,0.0,,,,,,False,False
+499939979,499939979,5000.0,4987.61,2016-06-09T14:39:33,12.39,KFC #834564,US,US,09,01,fastfood,True,11/2025,2014-04-08,2014-04-08,830,830,3685,REVERSAL,,12.39,,,,,,False,False
+499939979,499939979,5000.0,5000.0,2016-07-24T07:05:26,3.78,Play Store,US,US,05,01,mobileapps,False,05/2024,2014-04-08,2014-04-08,830,830,3685,PURCHASE,,0.0,,,,,,False,False
+499939979,499939979,5000.0,5000.0,2016-08-24T21:15:19,3.78,Play Store,US,US,05,01,mobileapps,False,05/2024,2014-04-08,2014-04-08,830,830,3685,PURCHASE,,0.0,,,,,,False,False
+499939979,499939979,5000.0,5000.0,2016-09-24T12:55:19,3.78,Play Store,US,US,05,01,mobileapps,False,05/2024,2014-04-08,2014-04-08,830,830,3685,PURCHASE,,0.0,,,,,,False,False
+499939979,499939979,5000.0,5000.0,2016-10-24T16:42:35,3.78,Play Store,US,US,05,01,mobileapps,False,05/2024,2014-04-08,2014-04-08,830,830,3685,PURCHASE,,0.0,,,,,,False,False
+499939979,499939979,5000.0,5000.0,2016-11-25T16:38:50,3.78,Play Store,US,US,05,01,mobileapps,False,05/2024,2014-04-08,2014-04-08,830,830,3685,PURCHASE,,0.0,,,,,,False,False
+499939979,499939979,5000.0,5000.0,2016-12-26T08:11:40,3.78,Play Store,US,US,05,01,mobileapps,False,05/2024,2014-04-08,2014-04-08,830,830,3685,PURCHASE,,0.0,,,,,,False,False

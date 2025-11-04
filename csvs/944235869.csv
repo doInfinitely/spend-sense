@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+944235869,944235869,2500.0,2500.0,2016-05-13T09:42:27,61.82,Sprint Communications #109733,US,US,05,01,cable/phone,08/2024,2015-08-11,2015-08-11,151,151,5177,PURCHASE,,0.0,,,,False,,,False,False
+944235869,944235869,2500.0,2500.0,2016-06-12T04:07:13,79.47,Sprint Communications #109733,US,US,05,01,cable/phone,08/2024,2015-08-11,2015-08-11,151,151,5177,PURCHASE,,0.0,,,,False,,,False,False
+944235869,944235869,2500.0,2500.0,2016-07-02T06:32:54,169.96,oldnavy.com,US,US,05,01,online_retail,03/2020,2015-08-11,2015-08-11,151,151,5177,PURCHASE,,0.0,,,,False,,,False,False
+944235869,944235869,2500.0,2330.04,2016-07-12T18:31:43,61.82,Sprint Communications #109733,US,US,05,01,cable/phone,08/2024,2015-08-11,2015-08-11,151,151,5177,PURCHASE,,169.96,,,,False,,,False,False
+944235869,944235869,2500.0,2500.0,2016-08-10T21:29:35,61.82,Sprint Communications #109733,US,US,05,01,cable/phone,08/2024,2015-08-11,2015-08-11,151,151,5177,PURCHASE,,0.0,,,,False,,,False,False
+944235869,944235869,2500.0,2500.0,2016-09-10T21:16:17,61.82,Sprint Communications #109733,US,US,05,01,cable/phone,08/2024,2015-08-11,2015-08-11,151,151,5177,PURCHASE,,0.0,,,,False,,,False,False
+944235869,944235869,2500.0,2500.0,2016-10-11T13:30:01,73.03,Sprint Communications #109733,US,US,05,01,cable/phone,08/2024,2015-08-11,2015-08-11,151,151,5177,PURCHASE,,0.0,,,,False,,,False,False
+944235869,944235869,2500.0,2500.0,2016-11-10T01:56:25,72.12,Sprint Communications #109733,US,US,05,01,cable/phone,08/2024,2015-08-11,2015-08-11,151,151,5177,PURCHASE,,0.0,,,,False,,,False,False
+944235869,944235869,2500.0,2500.0,2016-12-02T20:27:55,374.7,apple.com,US,US,09,01,online_retail,06/2033,2015-08-11,2015-08-11,151,151,5177,PURCHASE,,0.0,,,,False,,,False,False
+944235869,944235869,2500.0,2125.3,2016-12-09T07:46:26,59.86,Sprint Communications #109733,US,US,05,01,cable/phone,08/2024,2015-08-11,2015-08-11,151,151,5177,PURCHASE,,374.7,,,,False,,,False,False

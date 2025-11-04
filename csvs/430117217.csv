@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+430117217,430117217,5000.0,5000.0,2016-01-20T15:52:15,34.75,amazon.com,US,US,02,08,online_retail,04/2033,2015-11-30,2015-11-30,477,477,2905,PURCHASE,,0.0,,,,False,,,False,False
+430117217,430117217,5000.0,4990.25,2016-03-07T12:16:01,1.24,walmart.com,US,US,05,01,online_retail,10/2025,2015-11-30,2015-11-30,477,477,2905,PURCHASE,,9.75,,,,False,,,False,False
+430117217,430117217,5000.0,5000.0,2016-11-15T12:31:58,632.62,discount.com,US,US,02,01,online_retail,07/2026,2015-11-30,2015-11-30,477,477,2905,PURCHASE,,0.0,,,,False,,,False,False

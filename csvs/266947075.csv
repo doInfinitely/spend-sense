@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+266947075,266947075,7500.0,7500.0,2016-01-15T15:40:59,71.09,Universe Massage #710883,US,US,09,01,personal care,True,09/2031,2015-10-03,2015-10-03,974,974,5130,PURCHASE,,0.0,,,,,,False,False
+266947075,266947075,7500.0,7453.91,2016-08-29T07:25:06,140.07,Universe Massage #725790,US,US,05,08,personal care,True,07/2020,2015-10-03,2015-10-03,974,974,5130,PURCHASE,,46.09,,,,,,False,False
+266947075,266947075,7500.0,7338.84,2016-09-03T13:18:28,164.2,NY BBQ,US,US,02,01,food,True,09/2026,2015-10-03,2015-10-03,974,974,5130,PURCHASE,,161.16,,,,,,False,False
+266947075,266947075,7500.0,7174.64,2016-09-14T12:06:11,31.84,Northtown Beauty,US,US,09,01,personal care,True,11/2032,2015-10-03,2015-10-03,974,974,5130,PURCHASE,,325.36,,,,,,False,False
+266947075,266947075,7500.0,7167.8,2016-11-09T14:52:06,6.86,Apple iTunes,US,US,05,01,mobileapps,False,01/2021,2015-10-03,2015-10-03,974,974,5130,PURCHASE,,332.2,,,,,,False,False
+266947075,266947075,7500.0,7185.94,2016-12-08T17:01:42,245.13,Universe Massage #27014,US,US,05,01,personal care,True,02/2032,2015-10-03,2015-10-03,974,974,5130,PURCHASE,,314.06,,,,,,False,False
+266947075,266947075,7500.0,6940.81,2016-12-11T14:29:22,6.86,Apple iTunes,US,US,05,01,mobileapps,False,01/2021,2015-10-03,2015-10-03,974,974,5130,PURCHASE,,559.19,,,,,,False,False

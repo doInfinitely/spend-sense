@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+741125903,741125903,7500.0,7500.0,2016-02-29T05:45:03,150.93,EZ Putt Putt #69446,US,US,05,01,entertainment,True,01/2027,2015-02-08,2015-02-08,310,310,1615,PURCHASE,,0.0,,,,,,False,False
+741125903,741125903,7500.0,7374.07,2016-06-24T22:31:28,92.6,Fresh eCards,US,US,02,01,online_gifts,False,03/2032,2015-02-08,2015-02-08,310,310,1615,PURCHASE,,125.93,,,,,,False,False
+741125903,741125903,7500.0,7281.47,2016-06-28T00:40:50,243.59,AMC #706324,US,US,09,01,entertainment,False,09/2020,2015-02-08,2015-02-08,310,310,1615,PURCHASE,,218.53,,,,,,False,False
+741125903,741125903,7500.0,7062.88,2016-08-03T00:43:25,266.0,Fresh Flowers,US,US,02,08,online_gifts,False,01/2021,2015-02-08,2015-02-08,310,310,1615,PURCHASE,,437.12,,,,,,False,False
+741125903,741125903,7500.0,6821.88,2016-10-08T08:20:01,43.9,Blue Mountain Online Services,US,US,05,01,online_gifts,False,06/2033,2015-02-08,2015-02-08,954,954,9668,PURCHASE,,678.12,,,,,,False,False
+741125903,741125903,7500.0,6777.98,2016-10-14T19:49:20,43.9,Blue Mountain Online Services,US,US,05,01,online_gifts,False,06/2033,2015-02-08,2015-02-08,954,954,9668,REVERSAL,,722.02,,,,,,False,False
+741125903,741125903,7500.0,6846.88,2016-11-05T19:41:31,272.88,EZ Putt Putt #804489,US,US,09,08,entertainment,True,10/2026,2015-02-08,2015-02-08,954,954,9668,PURCHASE,,653.12,,,,,,True,False
+741125903,741125903,7500.0,6599.0,2016-12-06T20:57:27,45.98,Blue Mountain Online Services,US,US,09,01,online_gifts,False,05/2033,2015-02-08,2015-02-08,954,954,9668,PURCHASE,,901.0,,,,,,False,False
+741125903,741125903,7500.0,6553.02,2016-12-11T15:32:35,206.89,Fresh Online Services,US,US,02,01,online_gifts,False,10/2025,2015-02-08,2015-02-08,310,310,1615,PURCHASE,,946.98,,,,,,False,True

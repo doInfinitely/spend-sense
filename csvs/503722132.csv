@@ -1,0 +1,14 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+503722132,503722132,250.0,250.0,2016-02-01T23:48:23,22.4,hulu.com,US,US,09,01,online_subscriptions,10/2026,2015-11-22,2015-11-22,116,116,1474,PURCHASE,,0.0,,,,False,,,False,False
+503722132,503722132,250.0,227.6,2016-02-14T06:56:14,4.64,South Sandwitch Bar,US,US,05,01,food,10/2022,2015-11-22,2015-11-22,665,665,4289,PURCHASE,,22.4,,,,True,,,False,False
+503722132,503722132,250.0,250.0,2016-03-03T19:01:38,22.4,hulu.com,US,US,09,01,online_subscriptions,10/2026,2015-11-22,2015-11-22,116,116,1474,PURCHASE,,0.0,,,,False,,,False,False
+503722132,503722132,250.0,250.0,2016-04-04T01:38:46,22.4,hulu.com,US,US,09,01,online_subscriptions,10/2026,2015-11-22,2015-11-22,116,116,1474,PURCHASE,,0.0,,,,False,,,False,False
+503722132,503722132,250.0,250.0,2016-05-05T17:55:04,22.4,hulu.com,US,US,09,01,online_subscriptions,10/2026,2015-11-22,2015-11-22,116,116,1474,PURCHASE,,0.0,,,,False,,,False,False
+503722132,503722132,250.0,250.0,2016-06-06T10:00:59,22.4,hulu.com,US,US,09,01,online_subscriptions,10/2026,2015-11-22,2015-11-22,116,116,1474,PURCHASE,,0.0,,,,False,,,False,False
+503722132,503722132,250.0,227.6,2016-06-19T09:30:11,163.52,Annies Fries,US,US,05,01,food,09/2020,2015-11-22,2015-11-22,665,665,4289,PURCHASE,,22.4,,,,True,,,False,False
+503722132,503722132,250.0,250.0,2016-07-07T03:43:59,22.4,hulu.com,US,US,09,01,online_subscriptions,10/2026,2015-11-22,2015-11-22,116,116,1474,PURCHASE,,0.0,,,,False,,,False,False
+503722132,503722132,250.0,250.0,2016-08-08T01:51:18,22.4,hulu.com,US,US,09,01,online_subscriptions,10/2026,2015-11-22,2015-11-22,116,116,1474,PURCHASE,,0.0,,,,False,,,False,False
+503722132,503722132,250.0,250.0,2016-09-07T22:07:53,22.4,hulu.com,US,US,09,01,online_subscriptions,10/2026,2015-11-22,2015-11-22,116,116,1474,PURCHASE,,0.0,,,,False,,,False,False
+503722132,503722132,250.0,250.0,2016-10-09T18:17:36,22.4,hulu.com,US,US,09,01,online_subscriptions,10/2026,2015-11-22,2015-11-22,116,116,1474,PURCHASE,,0.0,,,,False,,,False,False
+503722132,503722132,250.0,250.0,2016-11-09T04:28:11,22.4,hulu.com,US,US,09,01,online_subscriptions,10/2026,2015-11-22,2015-11-22,116,116,1474,PURCHASE,,0.0,,,,False,,,False,False
+503722132,503722132,250.0,250.0,2016-12-09T20:57:32,22.4,hulu.com,US,US,09,01,online_subscriptions,10/2026,2015-11-22,2015-11-22,116,116,1474,PURCHASE,,0.0,,,,False,,,False,False

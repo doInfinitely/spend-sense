@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+847755497,847755497,7500.0,7500.0,2016-01-23T02:47:26,141.76,Wendys #719602,US,US,05,01,fastfood,True,04/2031,2015-08-24,2015-08-24,235,235,9054,PURCHASE,,0.0,,,,,,False,False
+847755497,847755497,7500.0,7383.24,2016-03-27T05:36:12,476.64,Fresh Flowers,US,US,09,08,online_gifts,False,11/2026,2015-08-24,2015-08-24,235,235,9054,PURCHASE,,116.76,,,,,,False,False
+847755497,847755497,7500.0,6931.6,2016-04-25T17:30:03,299.86,Mobile eCards,US,US,09,01,online_gifts,False,06/2026,2015-08-24,2015-08-24,413,413,742,PURCHASE,,568.4,,,,,,False,False
+847755497,847755497,7500.0,6656.74,2016-06-17T11:07:02,140.76,Dunkin' Donuts #675592,US,US,09,01,fastfood,True,02/2028,2015-08-24,2015-08-24,235,235,9054,PURCHASE,,843.26,,,,,,False,False
+847755497,847755497,7500.0,6540.98,2016-08-22T14:16:01,180.73,Mobile eCards,US,US,,01,online_gifts,False,05/2023,2015-08-24,2015-08-24,235,235,9054,PURCHASE,,959.02,,,,,,False,False
+847755497,847755497,7500.0,6385.25,2016-09-19T19:04:25,78.62,ebay.com,US,US,02,08,online_retail,False,07/2029,2015-08-24,2015-08-24,413,413,742,PURCHASE,,1114.75,,,,,,False,False
+847755497,847755497,7500.0,6331.63,2016-11-21T21:05:39,9.53,Regal Cinemas #276341,US,US,09,01,entertainment,False,09/2025,2015-08-24,2015-08-24,413,413,742,PURCHASE,,1168.37,,,,,,False,False
+847755497,847755497,7500.0,6347.1,2016-12-11T16:48:52,344.44,sears.com,US,US,02,01,online_retail,False,07/2023,2015-08-24,2015-08-24,235,235,9054,PURCHASE,,1152.9,,,,,,False,False

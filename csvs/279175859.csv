@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+279175859,279175859,15000.0,15000.0,2016-02-05T03:54:17,83.96,EZ Putt Putt #240241,US,US,02,01,entertainment,True,04/2021,2015-09-06,2015-09-06,490,490,7700,PURCHASE,,0.0,,,,,,False,False
+279175859,279175859,15000.0,15000.0,2016-06-09T12:40:40,61.56,gap.com,US,US,05,01,online_retail,False,06/2023,2015-09-06,2015-09-06,914,914,7267,PURCHASE,,0.0,,,,,,False,False
+279175859,279175859,15000.0,15000.0,2016-07-28T11:22:40,231.25,amazon.com,US,US,05,01,online_retail,False,08/2030,2015-09-06,2015-09-06,914,914,7267,PURCHASE,,0.0,,,,,,False,False
+279175859,279175859,15000.0,15000.0,2016-08-11T10:35:04,66.99,EZ Putt Putt #40513,US,US,05,99,entertainment,True,12/2026,2015-09-06,2015-09-06,914,914,7267,PURCHASE,,0.0,,,,,,False,False
+279175859,279175859,15000.0,14933.01,2016-08-16T19:39:34,306.38,apple.com,US,US,09,01,online_retail,False,04/2032,2015-09-06,2015-09-06,914,914,7267,PURCHASE,,66.99,,,,,,False,False
+279175859,279175859,15000.0,15000.0,2016-10-24T06:38:43,59.33,EZ Putt Putt #503815,US,US,09,01,entertainment,True,08/2020,2015-09-06,2015-09-06,490,490,7700,PURCHASE,,0.0,,,,,,False,False
+279175859,279175859,15000.0,15000.0,2016-11-19T13:11:46,70.65,EZ Putt Putt #240241,US,US,09,01,entertainment,True,10/2027,2015-09-06,2015-09-06,914,914,7267,PURCHASE,,0.0,,,,,,False,False

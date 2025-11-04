@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+279033450,279033450,5000.0,5000.0,2016-03-02T13:49:55,100.2,sears.com,US,US,02,08,online_retail,12/2025,2015-10-24,2015-10-24,747,747,7047,PURCHASE,,0.0,,,,False,,,False,False
+279033450,279033450,5000.0,4899.8,2016-03-15T07:14:21,112.71,cheapfast.com,US,US,05,01,online_retail,11/2027,2015-10-24,2015-10-24,747,747,7047,PURCHASE,,100.2,,,,False,,,False,False
+279033450,279033450,5000.0,4812.09,2016-04-05T15:24:31,213.99,ebay.com,US,US,05,01,online_retail,09/2025,2015-10-24,2015-10-24,747,747,7047,PURCHASE,,187.91,,,,False,,,False,False
+279033450,279033450,5000.0,4623.1,2016-09-07T05:14:36,8.07,Play Store,US,US,05,08,mobileapps,07/2031,2015-10-24,2015-10-24,747,747,7047,PURCHASE,,376.9,,,,False,,,False,False
+279033450,279033450,5000.0,4640.03,2016-10-08T16:17:39,8.07,Play Store,US,US,05,08,mobileapps,07/2031,2015-10-24,2015-10-24,747,747,7047,PURCHASE,,359.97,,,,False,,,False,False
+279033450,279033450,5000.0,4656.96,2016-11-08T21:16:53,8.07,Play Store,US,US,05,08,mobileapps,07/2031,2015-10-24,2015-10-24,747,747,7047,PURCHASE,,343.04,,,,False,,,False,False
+279033450,279033450,5000.0,4673.89,2016-12-09T01:14:41,8.07,Play Store,US,US,05,08,mobileapps,07/2031,2015-10-24,2015-10-24,747,747,7047,PURCHASE,,326.11,,,,False,,,False,False
+279033450,279033450,5000.0,4665.82,2016-12-28T14:13:16,0.0,Quizno's #604182,US,US,09,01,fastfood,02/2028,2015-10-24,2015-10-24,747,747,7047,ADDRESS_VERIFICATION,,334.18,,,,False,,,False,False
+279033450,279033450,5000.0,4665.82,2016-12-28T14:15:26,0.0,Quizno's #604182,US,US,09,01,fastfood,02/2028,2015-10-24,2015-10-24,747,747,7047,ADDRESS_VERIFICATION,,334.18,,,,False,,,False,False

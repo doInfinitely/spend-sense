@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+834911383,834911383,7500.0,7500.0,2016-05-15T00:05:33,55.62,AMC #692956,US,US,02,01,entertainment,True,07/2021,2014-09-19,2014-09-19,655,655,90,PURCHASE,,0.0,,,,,,False,False
+834911383,834911383,7500.0,7469.38,2016-06-25T15:48:27,22.35,Next Day Online Services,US,US,09,01,online_gifts,False,02/2024,2014-09-19,2014-09-19,655,655,90,PURCHASE,,30.62,,,,,,False,False
+834911383,834911383,7500.0,7472.03,2016-07-08T04:45:12,159.51,discount.com,US,US,05,01,online_retail,False,02/2029,2014-09-19,2014-09-19,655,655,90,PURCHASE,,27.97,,,,,,False,False
+834911383,834911383,7500.0,7312.52,2016-07-13T12:50:53,416.95,Mobile eCards,US,US,02,08,online_gifts,True,10/2025,2014-09-19,2014-09-19,655,655,90,PURCHASE,,187.48,,,,,,False,False
+834911383,834911383,7500.0,6920.57,2016-09-18T22:14:44,27.54,Tim Hortons #549244,US,US,09,08,fastfood,True,03/2031,2014-09-19,2014-09-19,655,655,90,PURCHASE,,579.43,,,,,,False,False
+834911383,834911383,7500.0,6918.03,2016-10-20T01:07:43,6.79,Apple iTunes,US,US,05,01,mobileapps,False,08/2028,2014-09-19,2014-09-19,655,655,90,PURCHASE,,581.97,,,,,,False,False
+834911383,834911383,7500.0,6936.24,2016-11-05T02:31:46,20.26,target.com,US,US,05,08,online_retail,False,06/2026,2014-09-19,2014-09-19,655,655,90,PURCHASE,,563.76,,,,,,False,False
+834911383,834911383,7500.0,6915.98,2016-11-19T05:05:04,6.79,Apple iTunes,US,US,05,01,mobileapps,False,08/2028,2014-09-19,2014-09-19,655,655,90,PURCHASE,,584.02,,,,,,False,False
+834911383,834911383,7500.0,6934.19,2016-12-20T21:13:41,6.79,Apple iTunes,US,US,05,01,mobileapps,False,08/2028,2014-09-19,2014-09-19,655,655,90,PURCHASE,,565.81,,,,,,False,False

@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+189916385,189916385,2500.0,2500.0,2016-05-08T18:32:47,5.02,Starbucks #559320,US,US,09,01,fastfood,True,07/2021,2012-10-23,2012-10-23,769,769,2645,PURCHASE,,0.0,,,,,,False,False
+189916385,189916385,2500.0,2500.0,2016-08-10T20:04:40,19.76,Spotify,US,US,09,01,online_subscriptions,False,07/2021,2012-10-23,2012-10-23,978,978,8384,PURCHASE,,0.0,,,,,,False,False
+189916385,189916385,2500.0,2500.0,2016-09-11T14:13:54,19.76,Spotify,US,US,09,01,online_subscriptions,False,07/2021,2012-10-23,2012-10-23,978,978,8384,PURCHASE,,0.0,,,,,,False,False
+189916385,189916385,2500.0,2500.0,2016-10-12T16:22:27,19.76,Spotify,US,US,09,01,online_subscriptions,False,07/2021,2012-10-23,2012-10-23,978,978,8384,PURCHASE,,0.0,,,,,,False,False
+189916385,189916385,2500.0,2480.24,2016-10-18T23:27:00,88.06,KFC #196834,US,US,05,08,fastfood,True,07/2032,2012-10-23,2012-10-23,769,769,2645,PURCHASE,,19.76,,,,,,False,False
+189916385,189916385,2500.0,2500.0,2016-11-12T17:15:07,19.76,Spotify,US,US,09,01,online_subscriptions,False,07/2021,2012-10-23,2012-10-23,978,978,8384,PURCHASE,,0.0,,,,,,False,False
+189916385,189916385,2500.0,2500.0,2016-12-13T21:29:06,19.76,Spotify,US,US,09,01,online_subscriptions,False,07/2021,2012-10-23,2012-10-23,978,978,8384,PURCHASE,,0.0,,,,,,False,False

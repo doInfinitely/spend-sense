@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+486766833,486766833,1000.0,1000.0,2016-04-20T07:14:28,19.84,Burger King #18931,US,US,02,01,fastfood,True,01/2027,2009-05-30,2009-05-30,648,648,5423,PURCHASE,,0.0,,,,,,False,False
+486766833,486766833,1000.0,1000.0,2016-05-10T06:48:15,117.03,Tim Hortons #838100,US,US,05,01,fastfood,True,05/2024,2009-05-30,2009-05-30,648,648,5423,PURCHASE,,0.0,,,,,,False,False
+486766833,486766833,1000.0,1000.0,2016-06-20T23:04:31,382.67,Popeyes #745807,US,US,05,01,fastfood,True,06/2033,2009-05-30,2009-05-30,648,648,5423,PURCHASE,,0.0,,,,,,False,False
+486766833,486766833,1000.0,1000.0,2016-08-05T05:46:44,19.18,In-N-Out #354119,US,US,80,01,fastfood,True,01/2029,2009-05-30,2009-05-30,648,648,5423,PURCHASE,,0.0,,,,,,False,False

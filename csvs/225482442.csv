@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,transactionAmount,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+225482442,225482442,7500.0,7500.0,2016-03-21T17:43:09,Delta Airlines,US,US,09,01,airline,09/2025,2014-11-18,2014-11-18,889,889,1259,ADDRESS_VERIFICATION,,0.0,0.0,,,,False,,,False,False
+225482442,225482442,7500.0,7500.0,2016-05-18T09:58:39,Pizza Hut #156087,US,US,02,01,fastfood,06/2023,2014-11-18,2014-11-18,667,667,3981,PURCHASE,,0.0,136.39,,,,True,,,False,False
+225482442,225482442,7500.0,7363.61,2016-05-26T20:27:34,Hardee's #339066,US,US,09,01,fastfood,08/2022,2014-11-18,2014-11-18,667,667,3981,PURCHASE,,136.39,157.3,,,,True,,,False,False
+225482442,225482442,7500.0,7500.0,2016-11-22T10:08:52,In-N-Out #605436,US,US,05,01,fastfood,12/2025,2014-11-18,2014-11-18,667,667,3981,ADDRESS_VERIFICATION,,0.0,0.0,,,,False,,,False,False

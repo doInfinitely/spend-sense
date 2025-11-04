@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+823117024,823117024,1000.0,1000.0,2016-02-11T17:01:06,190.36,Fresh Online Services,US,US,02,01,online_gifts,02/2021,2015-10-24,2015-10-24,310,310,1353,PURCHASE,,0.0,,,,False,,,False,False
+823117024,823117024,1000.0,834.64,2016-03-19T01:23:53,39.89,Blue Mountain Online Services,US,US,02,01,online_gifts,02/2030,2015-10-24,2015-10-24,310,310,1353,PURCHASE,,165.36,,,,False,,,False,False
+823117024,823117024,1000.0,819.75,2016-04-03T01:24:06,38.95,Fresh eCards,US,US,09,08,online_gifts,04/2021,2015-10-24,2015-10-24,310,310,1353,PURCHASE,,180.25,,,,False,,,False,False
+823117024,823117024,1000.0,780.8,2016-04-26T02:35:20,38.95,Fresh eCards,US,US,09,08,online_gifts,04/2021,2015-10-24,2015-10-24,310,310,1353,REVERSAL,,219.2,,,,False,,,False,False
+823117024,823117024,1000.0,844.75,2016-05-29T14:51:29,23.18,Next Day eCards,US,US,05,08,online_gifts,06/2025,2015-10-24,2015-10-24,310,310,1353,PURCHASE,,155.25,,,,False,,,False,False
+823117024,823117024,1000.0,846.57,2016-06-25T03:33:29,34.4,Fresh eCards,US,US,09,01,online_gifts,06/2024,2015-10-24,2015-10-24,310,310,1353,PURCHASE,,153.43,,,,False,,,False,False
+823117024,823117024,1000.0,837.17,2016-07-04T23:58:46,34.4,Fresh eCards,US,US,09,01,online_gifts,06/2024,2015-10-24,2015-10-24,310,310,1353,REVERSAL,,162.83,,,,False,,,False,False
+823117024,823117024,1000.0,896.57,2016-09-25T11:10:44,73.54,Blue Mountain Online Services,US,US,02,01,online_gifts,09/2024,2015-10-24,2015-10-24,310,310,1353,PURCHASE,,103.43,,,,False,,,False,False
+823117024,823117024,1000.0,848.03,2016-10-13T13:47:50,299.83,Next Day Online Services,US,US,02,01,online_gifts,12/2023,2015-10-24,2015-10-24,310,310,1353,PURCHASE,,151.97,,,,False,,,False,False

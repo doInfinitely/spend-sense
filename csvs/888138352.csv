@@ -1,0 +1,14 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+888138352,888138352,7500.0,7500.0,2016-01-06T10:45:29,15.01,abc.com,US,US,09,08,online_subscriptions,10/2029,2012-06-30,2012-06-30,955,955,8919,PURCHASE,,0.0,,,,False,,,False,False
+888138352,888138352,7500.0,7484.99,2016-01-08T08:23:11,61.97,walmart.com,US,US,09,01,online_retail,05/2033,2012-06-30,2012-06-30,955,955,8919,PURCHASE,,15.01,,,,False,,,False,False
+888138352,888138352,7500.0,7448.02,2016-02-07T07:12:43,15.01,abc.com,US,US,09,08,online_subscriptions,10/2029,2012-06-30,2012-06-30,955,955,8919,PURCHASE,,51.98,,,,False,,,False,False
+888138352,888138352,7500.0,7458.01,2016-03-09T23:45:12,15.01,abc.com,US,US,09,08,online_subscriptions,10/2029,2012-06-30,2012-06-30,955,955,8919,PURCHASE,,41.99,,,,False,,,False,False
+888138352,888138352,7500.0,7468.0,2016-04-10T18:36:07,15.01,abc.com,US,US,09,08,online_subscriptions,10/2029,2012-06-30,2012-06-30,955,955,8919,PURCHASE,,32.0,,,,False,,,False,False
+888138352,888138352,7500.0,7477.99,2016-05-11T23:16:19,15.01,abc.com,US,US,09,08,online_subscriptions,10/2029,2012-06-30,2012-06-30,955,955,8919,PURCHASE,,22.01,,,,False,,,False,False
+888138352,888138352,7500.0,7487.98,2016-06-12T00:13:18,15.01,abc.com,US,US,09,08,online_subscriptions,10/2029,2012-06-30,2012-06-30,955,955,8919,PURCHASE,,12.02,,,,False,,,False,False
+888138352,888138352,7500.0,7497.97,2016-07-13T00:57:06,15.01,abc.com,US,US,09,08,online_subscriptions,10/2029,2012-06-30,2012-06-30,955,955,8919,PURCHASE,,2.03,,,,False,,,False,False
+888138352,888138352,7500.0,7500.0,2016-08-12T17:57:29,15.01,abc.com,US,US,09,08,online_subscriptions,10/2029,2012-06-30,2012-06-30,955,955,8919,PURCHASE,,0.0,,,,False,,,False,False
+888138352,888138352,7500.0,7500.0,2016-09-12T02:41:15,15.01,abc.com,US,US,09,08,online_subscriptions,10/2029,2012-06-30,2012-06-30,955,955,8919,PURCHASE,,0.0,,,,False,,,False,False
+888138352,888138352,7500.0,7500.0,2016-10-13T16:27:19,15.01,abc.com,US,US,09,08,online_subscriptions,10/2029,2012-06-30,2012-06-30,955,955,8919,PURCHASE,,0.0,,,,False,,,False,False
+888138352,888138352,7500.0,7500.0,2016-11-14T09:15:29,15.01,abc.com,US,US,09,08,online_subscriptions,10/2029,2012-06-30,2012-06-30,955,955,8919,PURCHASE,,0.0,,,,False,,,False,False
+888138352,888138352,7500.0,7500.0,2016-12-14T23:07:27,15.01,abc.com,US,US,09,08,online_subscriptions,10/2029,2012-06-30,2012-06-30,955,955,8919,PURCHASE,,0.0,,,,False,,,False,False

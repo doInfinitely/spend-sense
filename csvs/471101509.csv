@@ -1,0 +1,13 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+471101509,471101509,500.0,500.0,2016-02-20T07:12:44,7.88,Play Store,US,US,05,08,mobileapps,06/2032,2015-05-25,2015-05-25,628,628,1593,PURCHASE,,0.0,,,,False,,,False,False
+471101509,471101509,500.0,500.0,2016-03-22T04:31:17,7.88,Play Store,US,US,05,08,mobileapps,06/2032,2015-05-25,2015-05-25,628,628,1593,PURCHASE,,0.0,,,,False,,,False,False
+471101509,471101509,500.0,500.0,2016-04-23T00:46:01,7.88,Play Store,US,US,05,08,mobileapps,06/2032,2015-05-25,2015-05-25,628,628,1593,PURCHASE,,0.0,,,,False,,,False,False
+471101509,471101509,500.0,500.0,2016-05-24T08:48:51,7.88,Play Store,US,US,05,08,mobileapps,06/2032,2015-05-25,2015-05-25,628,628,1593,PURCHASE,,0.0,,,,False,,,False,False
+471101509,471101509,500.0,500.0,2016-06-25T00:09:58,7.88,Play Store,US,US,05,08,mobileapps,06/2032,2015-05-25,2015-05-25,628,628,1593,PURCHASE,,0.0,,,,False,,,False,False
+471101509,471101509,500.0,500.0,2016-07-25T21:28:21,7.88,Play Store,US,US,05,08,mobileapps,06/2032,2015-05-25,2015-05-25,628,628,1593,PURCHASE,,0.0,,,,False,,,False,False
+471101509,471101509,500.0,500.0,2016-08-26T18:42:22,7.88,Play Store,US,US,05,08,mobileapps,06/2032,2015-05-25,2015-05-25,628,628,1593,PURCHASE,,0.0,,,,False,,,False,False
+471101509,471101509,500.0,500.0,2016-09-27T04:16:37,7.88,Play Store,US,US,05,08,mobileapps,06/2032,2015-05-25,2015-05-25,628,628,1593,PURCHASE,,0.0,,,,False,,,False,False
+471101509,471101509,500.0,500.0,2016-10-28T13:35:44,7.88,Play Store,US,US,05,08,mobileapps,06/2032,2015-05-25,2015-05-25,628,628,1593,PURCHASE,,0.0,,,,False,,,False,False
+471101509,471101509,500.0,500.0,2016-11-28T13:23:01,7.88,Play Store,US,US,05,08,mobileapps,06/2032,2015-05-25,2015-05-25,628,628,1593,PURCHASE,,0.0,,,,False,,,False,False
+471101509,471101509,500.0,500.0,2016-12-27T01:18:55,61.95,Texas Gas #772050,US,US,05,01,fuel,11/2025,2015-05-25,2015-05-25,628,628,1593,PURCHASE,,0.0,,,,True,,,False,False
+471101509,471101509,500.0,438.05,2016-12-28T13:47:49,7.88,Play Store,US,US,05,08,mobileapps,06/2032,2015-05-25,2015-05-25,628,628,1593,PURCHASE,,61.95,,,,False,,,False,False

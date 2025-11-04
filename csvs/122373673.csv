@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+122373673,122373673,250.0,250.0,2016-04-26T18:08:49,18.03,abc.com,US,US,09,01,online_subscriptions,08/2029,2009-04-22,2009-04-22,119,119,5657,PURCHASE,,0.0,,,,False,,,False,False
+122373673,122373673,250.0,250.0,2016-05-28T06:25:21,18.03,abc.com,US,US,09,01,online_subscriptions,08/2029,2009-04-22,2009-04-22,119,119,5657,PURCHASE,,0.0,,,,False,,,False,False
+122373673,122373673,250.0,250.0,2016-06-27T10:15:55,18.03,abc.com,US,US,09,01,online_subscriptions,08/2029,2009-04-22,2009-04-22,119,119,5657,PURCHASE,,0.0,,,,False,,,False,False
+122373673,122373673,250.0,250.0,2016-07-10T06:25:07,69.77,Uber,US,US,05,01,rideshare,08/2020,2009-04-22,2009-04-22,734,734,5598,PURCHASE,,0.0,,,,False,,,False,False
+122373673,122373673,250.0,180.23,2016-07-28T10:32:29,18.03,abc.com,US,US,09,01,online_subscriptions,08/2029,2009-04-22,2009-04-22,119,119,5657,PURCHASE,,69.77,,,,False,,,False,False
+122373673,122373673,250.0,250.0,2016-08-29T01:44:32,18.03,abc.com,US,US,09,01,online_subscriptions,08/2029,2009-04-22,2009-04-22,119,119,5657,PURCHASE,,0.0,,,,False,,,False,False
+122373673,122373673,250.0,250.0,2016-09-28T13:44:15,18.03,abc.com,US,US,09,01,online_subscriptions,08/2029,2009-04-22,2009-04-22,119,119,5657,PURCHASE,,0.0,,,,False,,,False,False
+122373673,122373673,250.0,250.0,2016-10-30T06:49:02,18.03,abc.com,US,US,09,01,online_subscriptions,08/2029,2009-04-22,2009-04-22,119,119,5657,PURCHASE,,0.0,,,,False,,,False,False
+122373673,122373673,250.0,250.0,2016-11-29T12:51:45,18.03,abc.com,US,US,09,01,online_subscriptions,08/2029,2009-04-22,2009-04-22,119,119,5657,PURCHASE,,0.0,,,,False,,,False,False
+122373673,122373673,250.0,250.0,2016-12-30T19:45:18,18.03,abc.com,US,US,09,01,online_subscriptions,08/2029,2009-04-22,2009-04-22,119,119,5657,PURCHASE,,0.0,,,,False,,,False,False

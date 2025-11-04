@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+789379799,789379799,50000.0,50000.0,2016-01-01T06:14:54,72.1,Quizno's #637630,US,US,09,01,fastfood,True,01/2026,2013-07-05,2013-07-05,811,811,8049,PURCHASE,,0.0,,,,,,False,False
+789379799,789379799,50000.0,49952.9,2016-06-30T18:53:45,484.0,Dinosaur Sandwitch Bar #303701,US,US,02,01,food,True,12/2019,2013-07-05,2013-07-05,811,811,8049,PURCHASE,,47.1,,,,,,False,False
+789379799,789379799,50000.0,49493.9,2016-07-07T09:19:51,378.43,Tim Hortons #557632,US,US,02,01,fastfood,True,01/2029,2013-07-05,2013-07-05,811,811,8049,PURCHASE,,506.1,,,,,,False,False
+789379799,789379799,50000.0,49140.47,2016-08-28T16:02:06,58.68,Franks Pub #87366,US,US,09,08,food,True,08/2028,2013-07-05,2013-07-05,727,727,8332,PURCHASE,,859.53,,,,,,False,False
+789379799,789379799,50000.0,49106.79,2016-10-21T02:43:38,300.75,South Drive in,US,US,09,08,food,True,03/2021,2013-07-05,2013-07-05,811,811,8049,PURCHASE,,893.21,,,,,,False,False
+789379799,789379799,50000.0,48806.04,2016-10-29T05:51:43,14.23,Universe Massage #807254,US,US,02,01,personal care,True,10/2029,2013-07-05,2013-07-05,727,727,8332,PURCHASE,,1193.96,,,,,,False,False

@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+411438377,411438377,10000.0,10000.0,2016-05-20T07:44:18,64.71,Dallas Post,US,US,05,01,subscriptions,04/2031,2014-12-14,2014-12-14,445,445,5261,PURCHASE,,0.0,,,,False,,,False,False
+411438377,411438377,10000.0,9960.29,2016-08-06T18:58:42,7.68,Apple iTunes,US,US,09,08,mobileapps,02/2025,2014-12-14,2014-12-14,445,445,5261,PURCHASE,,39.71,,,,False,,,False,False
+411438377,411438377,10000.0,9977.61,2016-09-07T06:08:42,7.68,Apple iTunes,US,US,09,08,mobileapps,02/2025,2014-12-14,2014-12-14,445,445,5261,PURCHASE,,22.39,,,,False,,,False,False
+411438377,411438377,10000.0,9994.93,2016-10-07T09:57:29,7.68,Apple iTunes,US,US,09,08,mobileapps,02/2025,2014-12-14,2014-12-14,445,445,5261,PURCHASE,,5.07,,,,False,,,False,False
+411438377,411438377,10000.0,10000.0,2016-11-07T09:52:53,7.68,Apple iTunes,US,US,09,08,mobileapps,02/2025,2014-12-14,2014-12-14,445,445,5261,PURCHASE,,0.0,,,,False,,,False,False
+411438377,411438377,10000.0,10000.0,2016-12-07T19:20:19,7.68,Apple iTunes,US,US,09,08,mobileapps,02/2025,2014-12-14,2014-12-14,445,445,5261,PURCHASE,,0.0,,,,False,,,False,False

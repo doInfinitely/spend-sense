@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+287724385,287724385,10000.0,10000.0,2016-06-07T05:11:56,16.68,Spotify,US,US,09,01,online_subscriptions,08/2021,2014-12-20,2014-12-20,686,686,7285,PURCHASE,,0.0,,,,False,,,False,False
+287724385,287724385,10000.0,10000.0,2016-07-07T08:59:33,16.68,Spotify,US,US,09,01,online_subscriptions,08/2021,2014-12-20,2014-12-20,686,686,7285,PURCHASE,,0.0,,,,False,,,False,False
+287724385,287724385,10000.0,9983.32,2016-07-28T01:41:10,0.0,amazon.com,US,US,02,08,online_retail,10/2026,2014-12-20,2014-12-20,686,686,7285,ADDRESS_VERIFICATION,,16.68,,,,False,,,False,False
+287724385,287724385,10000.0,10000.0,2016-08-07T17:54:51,16.68,Spotify,US,US,09,01,online_subscriptions,08/2021,2014-12-20,2014-12-20,686,686,7285,PURCHASE,,0.0,,,,False,,,False,False
+287724385,287724385,10000.0,10000.0,2016-09-08T04:11:26,16.68,Spotify,US,US,09,01,online_subscriptions,08/2021,2014-12-20,2014-12-20,686,686,7285,PURCHASE,,0.0,,,,False,,,False,False
+287724385,287724385,10000.0,10000.0,2016-10-10T03:06:20,16.68,Spotify,US,US,09,01,online_subscriptions,08/2021,2014-12-20,2014-12-20,686,686,7285,PURCHASE,,0.0,,,,False,,,False,False
+287724385,287724385,10000.0,10000.0,2016-11-01T19:29:52,7.46,Apple iTunes,US,US,05,01,mobileapps,08/2021,2014-12-20,2014-12-20,686,686,7285,PURCHASE,,0.0,,,,False,,,False,False
+287724385,287724385,10000.0,9992.54,2016-11-10T17:08:15,16.68,Spotify,US,US,09,01,online_subscriptions,08/2021,2014-12-20,2014-12-20,686,686,7285,PURCHASE,,7.46,,,,False,,,False,False
+287724385,287724385,10000.0,10000.0,2016-12-03T17:05:21,7.46,Apple iTunes,US,US,05,01,mobileapps,08/2021,2014-12-20,2014-12-20,686,686,7285,PURCHASE,,0.0,,,,False,,,False,False
+287724385,287724385,10000.0,9992.54,2016-12-12T08:24:44,16.68,Spotify,US,US,09,01,online_subscriptions,08/2021,2014-12-20,2014-12-20,686,686,7285,PURCHASE,,7.46,,,,False,,,False,False

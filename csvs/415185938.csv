@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+415185938,415185938,15000.0,15000.0,2016-02-04T18:07:02,635.02,ebay.com,US,US,09,01,online_retail,10/2031,2011-12-22,2011-12-22,540,540,327,PURCHASE,,0.0,,,,False,,,False,False
+415185938,415185938,15000.0,15000.0,2016-05-09T13:54:14,0.0,staples.com,US,US,05,01,online_retail,11/2021,2011-12-22,2011-12-22,540,540,327,ADDRESS_VERIFICATION,,0.0,,,,False,,,False,False
+415185938,415185938,15000.0,15000.0,2016-10-13T17:29:39,104.81,cheapfast.com,US,US,05,01,online_retail,06/2022,2011-12-22,2011-12-22,540,540,327,PURCHASE,,0.0,,,,False,,,False,False
+415185938,415185938,15000.0,15000.0,2016-11-05T05:24:50,507.44,target.com,US,US,05,01,online_retail,09/2032,2011-12-22,2011-12-22,744,744,3472,PURCHASE,,0.0,,,,False,,,False,False
+415185938,415185938,15000.0,15000.0,2016-12-17T02:11:15,190.23,Franks Deli,US,US,09,01,food,07/2029,2011-12-22,2011-12-22,744,744,3472,PURCHASE,,0.0,,,,True,,,False,False

@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+969087478,969087478,500.0,500.0,2016-01-16T00:42:22,27.35,American Airlines,US,US,02,01,airline,True,08/2025,2014-08-30,2014-08-30,511,511,1368,PURCHASE,,0.0,,,,,,False,False
+969087478,969087478,500.0,500.0,2016-04-17T17:25:41,295.09,Franks Pub #829873,US,US,05,01,food,True,12/2028,2014-08-30,2014-08-30,511,511,1368,PURCHASE,,0.0,,,,,,False,False
+969087478,969087478,500.0,500.0,2016-05-09T14:04:41,195.93,American Airlines,US,US,09,01,airline,False,01/2021,2014-08-30,2014-08-30,902,902,69,PURCHASE,,0.0,,,,,,False,False
+969087478,969087478,500.0,304.07,2016-05-26T10:39:44,28.87,Icelandic Airlines,US,US,09,01,airline,False,07/2028,2014-08-30,2014-08-30,511,511,1368,PURCHASE,,195.93,,,,,,False,False
+969087478,969087478,500.0,500.0,2016-07-30T00:36:48,420.09,Delta Airlines,US,US,09,01,airline,False,07/2027,2014-08-30,2014-08-30,388,388,719,PURCHASE,,0.0,,,,,,False,False
+969087478,969087478,500.0,500.0,2016-08-25T10:52:22,0.0,Icelandic Airlines,US,US,02,01,airline,False,03/2023,2014-08-30,2014-08-30,902,902,69,ADDRESS_VERIFICATION,,0.0,,,,,,False,False
+969087478,969087478,500.0,500.0,2016-08-31T04:34:20,56.55,1st Sandwitch Bar #801388,US,US,05,01,food,True,01/2027,2014-08-30,2014-08-30,902,902,69,PURCHASE,,0.0,,,,,,False,False
+969087478,969087478,500.0,500.0,2016-10-03T07:39:10,137.41,Regal Cinemas #729464,US,US,09,08,entertainment,True,09/2031,2014-08-30,2014-08-30,902,902,69,PURCHASE,,0.0,,,,,,False,False
+969087478,969087478,500.0,500.0,2016-12-06T19:26:35,3.2,Annies Fries,US,US,90,08,food,True,12/2031,2014-08-30,2014-08-30,511,511,1368,PURCHASE,,0.0,,,,,,False,False

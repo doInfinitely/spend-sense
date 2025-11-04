@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+742149911,742149911,20000.0,20000.0,2016-01-10T23:31:26,113.89,EZ Putt Putt #551896,US,US,05,01,entertainment,True,09/2024,2010-12-10,2010-12-10,216,216,4017,PURCHASE,,0.0,,,,,,False,False
+742149911,742149911,20000.0,19911.11,2016-03-14T00:29:28,63.89,Regal Cinemas #276341,US,US,09,08,entertainment,False,02/2022,2010-12-10,2010-12-10,216,216,4017,PURCHASE,,88.89,,,,,,False,False
+742149911,742149911,20000.0,19872.22,2016-06-28T20:12:23,204.56,AMC #79863,,US,05,01,entertainment,True,04/2030,2010-12-10,2010-12-10,216,216,4017,PURCHASE,,127.78,,,,,,False,False
+742149911,742149911,20000.0,19692.66,2016-09-12T02:03:31,175.19,KFC #141308,US,US,09,08,fastfood,True,09/2021,2010-12-10,2010-12-10,216,216,4017,PURCHASE,,307.34,,,,,,False,False
+742149911,742149911,20000.0,19542.47,2016-10-07T02:38:13,400.13,AMC #606218,US,US,05,99,entertainment,False,09/2020,2010-12-10,2010-12-10,216,216,4017,PURCHASE,,457.53,,,,,,False,False

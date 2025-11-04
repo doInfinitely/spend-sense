@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+907285100,907285100,250.0,250.0,2016-05-04T15:03:46,147.59,gap.com,US,US,05,01,online_retail,12/2020,2015-07-11,2015-07-11,964,964,6367,PURCHASE,,0.0,,,,False,,,False,False
+907285100,907285100,250.0,127.41,2016-08-06T20:15:36,81.11,walmart.com,US,US,05,08,online_retail,04/2030,2015-07-11,2015-07-11,964,964,6367,PURCHASE,,122.59,,,,False,,,False,False
+907285100,907285100,250.0,46.3,2016-08-07T20:11:38,39.24,AMC #606218,US,US,02,01,entertainment,03/2029,2015-07-11,2015-07-11,964,964,6367,PURCHASE,,203.7,,,,True,,,False,False
+907285100,907285100,250.0,219.62,2016-09-17T08:25:04,129.66,Universe Massage #08680,US,US,09,01,personal care,12/2029,2015-07-11,2015-07-11,964,964,6367,PURCHASE,,30.38,,,,True,,,False,False
+907285100,907285100,250.0,114.96,2016-11-06T12:19:05,273.52,Universe Massage #524703,US,US,05,01,personal care,03/2022,2015-07-11,2015-07-11,964,164,6367,,,135.04,,,,True,,,False,False
+907285100,907285100,250.0,250.0,2016-11-18T08:07:04,92.42,AMC #79863,US,US,09,01,entertainment,03/2031,2015-07-11,2015-07-11,964,964,6367,PURCHASE,,0.0,,,,True,,,False,False
+907285100,907285100,250.0,182.58,2016-12-16T13:12:56,18.15,Northtown Massage,US,US,09,01,personal care,04/2024,2015-07-11,2015-07-11,964,964,6367,PURCHASE,,67.42,,,,True,,,False,False
+907285100,907285100,250.0,164.43,2016-12-19T12:08:09,46.93,alibaba.com,US,US,05,01,online_retail,07/2026,2015-07-11,2015-07-11,964,964,6367,PURCHASE,,85.57,,,,False,,,False,False

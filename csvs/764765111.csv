@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+764765111,764765111,7500.0,7500.0,2016-01-06T04:16:23,133.12,WSC #12727,US,US,05,01,health,True,03/2021,2013-09-29,2013-09-29,249,249,2312,PURCHASE,,0.0,,,,,,False,False
+764765111,764765111,7500.0,7391.88,2016-05-07T17:21:33,19.54,Planet Fitness #136615,US,US,90,01,health,True,06/2020,2013-09-29,2013-09-29,249,249,2312,PURCHASE,,108.12,,,,,,False,False
+764765111,764765111,7500.0,7372.34,2016-05-25T05:47:50,228.61,Walgreens #854872,US,US,05,01,health,False,11/2030,2013-09-29,2013-09-29,249,249,2312,PURCHASE,,127.66,,,,,,False,False
+764765111,764765111,7500.0,7168.73,2016-06-09T21:47:57,251.16,Planet Fitness #120075,US,US,05,99,health,False,02/2025,2013-09-29,2013-09-29,249,249,2312,PURCHASE,,331.27,,,,,,False,False
+764765111,764765111,7500.0,6942.57,2016-10-02T04:52:37,77.72,EZ Putt Putt #503815,US,US,02,01,entertainment,True,06/2025,2013-09-29,2013-09-29,249,249,2312,PURCHASE,,557.43,,,,,,False,False
+764765111,764765111,7500.0,6864.85,2016-10-29T02:05:13,11.07,WSC #994275,US,US,05,01,health,False,01/2026,2013-09-29,2013-09-29,249,249,2312,PURCHASE,,635.15,,,,,,False,False
+764765111,764765111,7500.0,6878.78,2016-11-03T11:56:00,463.22,cheapfast.com,US,US,09,01,online_retail,False,01/2024,2013-09-29,2013-09-29,249,249,2312,PURCHASE,,621.22,,,,,,False,False
+764765111,764765111,7500.0,6440.56,2016-12-29T12:13:01,102.28,WSC #103223,US,US,02,08,health,True,03/2027,2013-09-29,2013-09-29,249,239,2312,PURCHASE,,1059.44,,,,,,False,False

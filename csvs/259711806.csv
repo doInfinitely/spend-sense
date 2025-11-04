@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+259711806,259711806,20000.0,20000.0,2016-09-14T09:44:41,6.58,Apple iTunes,US,US,05,01,mobileapps,07/2032,2010-05-10,2010-05-10,784,784,3592,PURCHASE,,0.0,,,,False,,,False,False
+259711806,259711806,20000.0,19993.42,2016-09-16T22:04:48,10.8,abc.com,US,US,05,01,online_subscriptions,02/2020,2010-05-10,2010-05-10,784,787,3592,PURCHASE,,6.58,,,,False,,,False,False
+259711806,259711806,20000.0,20000.0,2016-10-15T23:22:19,6.58,Apple iTunes,US,US,05,01,mobileapps,07/2032,2010-05-10,2010-05-10,784,784,3592,PURCHASE,,0.0,,,,False,,,False,False
+259711806,259711806,20000.0,19993.42,2016-10-17T06:06:18,10.8,abc.com,US,US,05,01,online_subscriptions,02/2020,2010-05-10,2010-05-10,784,787,3592,PURCHASE,,6.58,,,,False,,,False,False
+259711806,259711806,20000.0,20000.0,2016-11-15T21:27:06,6.58,Apple iTunes,US,US,05,01,mobileapps,07/2032,2010-05-10,2010-05-10,784,784,3592,PURCHASE,,0.0,,,,False,,,False,False
+259711806,259711806,20000.0,19993.42,2016-11-16T08:33:18,10.8,abc.com,US,US,05,01,online_subscriptions,02/2020,2010-05-10,2010-05-10,784,787,3592,PURCHASE,,6.58,,,,False,,,False,False
+259711806,259711806,20000.0,20000.0,2016-12-17T09:52:36,10.8,abc.com,US,US,05,01,online_subscriptions,02/2020,2010-05-10,2010-05-10,784,787,3592,PURCHASE,,0.0,,,,False,,,False,False
+259711806,259711806,20000.0,19989.2,2016-12-17T18:08:43,6.58,Apple iTunes,US,US,05,01,mobileapps,07/2032,2010-05-10,2010-05-10,784,784,3592,PURCHASE,,10.8,,,,False,,,False,False

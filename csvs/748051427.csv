@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+748051427,748051427,7500.0,7500.0,2016-02-06T02:13:21,436.35,staples.com,US,US,05,08,online_retail,01/2033,2012-04-15,2012-04-15,469,469,6420,PURCHASE,,0.0,,,,False,,,False,False
+748051427,748051427,7500.0,7063.65,2016-02-25T00:50:05,225.07,gap.com,US,US,02,01,online_retail,08/2025,2012-04-15,2012-04-15,469,469,6420,PURCHASE,,436.35,,,,False,,,False,False
+748051427,748051427,7500.0,7500.0,2016-03-26T14:13:18,210.99,amazon.com,US,US,02,08,online_retail,06/2030,2012-04-15,2012-04-15,469,469,6420,PURCHASE,,0.0,,,,False,,,False,False
+748051427,748051427,7500.0,7500.0,2016-04-05T04:00:51,5.41,sears.com,US,US,05,01,online_retail,03/2020,2012-04-15,2012-04-15,469,469,6420,PURCHASE,,0.0,,,,False,,,False,False
+748051427,748051427,7500.0,7494.59,2016-04-28T12:38:39,281.32,oldnavy.com,US,US,09,01,online_retail,04/2026,2012-04-15,2012-04-15,469,469,6420,PURCHASE,,5.41,,,,False,,,False,False
+748051427,748051427,7500.0,7500.0,2016-05-29T07:15:34,130.33,discount.com,US,US,02,01,online_retail,11/2023,2012-04-15,2012-04-15,469,469,6420,PURCHASE,,0.0,,,,False,,,False,False
+748051427,748051427,7500.0,7500.0,2016-06-14T15:21:42,94.24,Franks Cafe,US,US,05,08,food,09/2024,2012-04-15,2012-04-15,469,469,6420,PURCHASE,,0.0,,,,True,,,False,False
+748051427,748051427,7500.0,7500.0,2016-08-13T02:06:31,28.77,1st Restaurant,US,US,02,08,food,03/2021,2012-04-15,2012-04-15,469,469,6420,PURCHASE,,0.0,,,,True,,,False,False
+748051427,748051427,7500.0,7500.0,2016-09-23T00:05:53,45.29,sears.com,US,US,09,08,online_retail,11/2025,2012-04-15,2012-04-15,469,469,6420,PURCHASE,,0.0,,,,False,,,False,False
+748051427,748051427,7500.0,7500.0,2016-10-03T17:47:57,123.73,discount.com,US,US,09,01,online_retail,11/2023,2012-04-15,2012-04-15,469,469,6420,PURCHASE,,0.0,,,,False,,,False,False

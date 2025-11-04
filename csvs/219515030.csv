@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+219515030,219515030,1000.0,1000.0,2016-07-10T22:35:52,112.85,Chicago News,US,US,02,01,subscriptions,08/2032,2015-05-22,2015-05-22,375,375,9545,PURCHASE,,0.0,,,,False,,,False,False
+219515030,219515030,1000.0,1000.0,2016-10-27T16:41:16,21.49,Spotify,US,US,05,01,online_subscriptions,04/2028,2015-05-22,2015-05-22,375,375,9545,PURCHASE,,0.0,,,,False,,,False,False
+219515030,219515030,1000.0,1000.0,2016-11-27T09:09:10,21.49,Spotify,US,US,05,01,online_subscriptions,04/2028,2015-05-22,2015-05-22,375,375,9545,PURCHASE,,0.0,,,,False,,,False,False
+219515030,219515030,1000.0,1000.0,2016-12-28T03:15:34,21.49,Spotify,US,US,05,01,online_subscriptions,04/2028,2015-05-22,2015-05-22,375,375,9545,PURCHASE,,0.0,,,,False,,,False,False

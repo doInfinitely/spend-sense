@@ -1,0 +1,12 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+677860278,677860278,500.0,500.0,2016-02-22T21:15:02,28.37,Wall Street Times,US,US,09,01,subscriptions,03/2021,2014-12-24,2014-12-24,715,715,7537,PURCHASE,,0.0,,,,False,,,False,False
+677860278,677860278,500.0,500.0,2016-03-28T04:25:12,153.62,Hilton Hotels #89811,US,US,02,01,hotels,01/2020,2014-12-24,2014-12-24,715,715,7537,PURCHASE,,0.0,,,,False,,,False,False
+677860278,677860278,500.0,500.0,2016-06-04T16:32:38,118.39,San Francisco Post,US,US,02,01,subscriptions,08/2028,2014-12-24,2014-12-24,846,846,0000,PURCHASE,,0.0,,,,False,,,False,False
+677860278,677860278,500.0,381.61,2016-06-12T11:10:22,476.24,Dallas Post,US,US,05,08,subscriptions,08/2022,2014-12-24,2014-12-24,484,484,2161,PURCHASE,,118.39,,,,False,,,False,False
+677860278,677860278,500.0,500.0,2016-07-19T23:31:04,140.69,Rodeway Inn #901149,US,US,02,01,hotels,06/2027,2014-12-24,2014-12-24,715,715,7537,PURCHASE,,0.0,,,,True,,,False,False
+677860278,677860278,500.0,500.0,2016-08-10T23:03:29,96.42,Los Angeles News,US,US,05,01,subscriptions,05/2024,2014-12-24,2014-12-24,715,715,7537,PURCHASE,,0.0,,,,False,,,False,False
+677860278,677860278,500.0,500.0,2016-09-25T08:48:02,74.82,Los Angeles News,US,US,02,08,subscriptions,11/2030,2014-12-24,2014-12-24,846,846,0000,PURCHASE,,0.0,,,,True,,,False,False
+677860278,677860278,500.0,500.0,2016-10-01T09:52:12,177.21,Minneapolis News,US,US,05,01,subscriptions,05/2023,2014-12-24,2014-12-24,715,715,7537,PURCHASE,,0.0,,,,True,,,False,False
+677860278,677860278,500.0,500.0,2016-12-07T06:08:44,598.98,Seattle Times,US,US,05,08,subscriptions,10/2021,2014-12-24,2014-12-24,715,715,7537,PURCHASE,,0.0,,,,False,,,False,False
+677860278,677860278,500.0,278.87,2016-12-12T16:17:06,46.43,Wall Street News,US,US,05,01,subscriptions,06/2027,2014-12-24,2014-12-24,484,484,2161,PURCHASE,,221.13,,,,True,,,False,False
+677860278,677860278,500.0,232.44,2016-12-14T16:38:30,6.01,Apple iTunes,US,US,02,01,mobileapps,03/2031,2014-12-24,2014-12-24,846,846,0000,PURCHASE,,267.56,,,,False,,,False,False

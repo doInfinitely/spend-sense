@@ -1,0 +1,13 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+622878753,622878753,20000.0,20000.0,2016-05-02T04:26:35,10.43,Spotify,US,US,05,01,online_subscriptions,01/2027,2013-11-02,2013-11-02,278,278,7567,PURCHASE,,0.0,,,,False,,,False,False
+622878753,622878753,20000.0,19989.57,2016-05-10T03:46:05,5.99,Regal Cinemas #729464,US,US,09,01,entertainment,01/2033,2013-11-02,2013-11-02,278,278,7567,PURCHASE,,10.43,,,,True,,,False,False
+622878753,622878753,20000.0,20000.0,2016-06-02T07:05:55,10.43,Spotify,US,US,05,01,online_subscriptions,01/2027,2013-11-02,2013-11-02,278,278,7567,PURCHASE,,0.0,,,,False,,,False,False
+622878753,622878753,20000.0,20000.0,2016-07-03T08:37:57,10.43,Spotify,US,US,05,01,online_subscriptions,01/2027,2013-11-02,2013-11-02,278,278,7567,PURCHASE,,0.0,,,,False,,,False,False
+622878753,622878753,20000.0,20000.0,2016-08-03T02:13:12,10.43,Spotify,US,US,05,01,online_subscriptions,01/2027,2013-11-02,2013-11-02,278,278,7567,PURCHASE,,0.0,,,,False,,,False,False
+622878753,622878753,20000.0,20000.0,2016-09-02T04:53:08,50.94,West End Beauty #234021,US,US,02,08,personal care,03/2029,2013-11-02,2013-11-02,278,278,7567,PURCHASE,,0.0,,,,True,,,False,False
+622878753,622878753,20000.0,19949.06,2016-09-03T01:47:56,10.43,Spotify,US,US,05,01,online_subscriptions,01/2027,2013-11-02,2013-11-02,278,278,7567,PURCHASE,,50.94,,,,False,,,False,False
+622878753,622878753,20000.0,19963.63,2016-10-01T16:51:42,50.94,West End Beauty #234021,US,US,02,08,personal care,03/2029,2013-11-02,2013-11-02,278,278,7567,REVERSAL,,36.37,,,,True,,,False,False
+622878753,622878753,20000.0,20000.0,2016-10-04T09:24:03,10.43,Spotify,US,US,05,01,online_subscriptions,01/2027,2013-11-02,2013-11-02,278,278,7567,PURCHASE,,0.0,,,,False,,,False,False
+622878753,622878753,20000.0,20000.0,2016-11-04T07:11:21,10.43,Spotify,US,US,05,01,online_subscriptions,01/2027,2013-11-02,2013-11-02,278,278,7567,PURCHASE,,0.0,,,,False,,,False,False
+622878753,622878753,20000.0,20000.0,2016-12-05T19:25:59,10.43,Spotify,US,US,05,01,online_subscriptions,01/2027,2013-11-02,2013-11-02,278,278,7567,PURCHASE,,0.0,,,,False,,,False,False
+622878753,622878753,20000.0,19989.57,2016-12-17T08:14:42,5.72,Play Store,US,US,09,01,mobileapps,02/2024,2013-11-02,2013-11-02,278,278,7567,PURCHASE,,10.43,,,,False,,,False,False

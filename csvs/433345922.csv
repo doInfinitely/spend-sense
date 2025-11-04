@@ -1,0 +1,12 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+433345922,433345922,250.0,250.0,2016-03-20T06:20:07,396.8,Universe Massage #95869,US,US,05,01,personal care,True,08/2026,2013-01-25,2013-01-25,641,641,1394,PURCHASE,,0.0,,,,,,False,False
+433345922,433345922,250.0,2.8500000000000014,2016-06-19T23:17:12,119.11,Universe Massage #350895,US,US,80,08,personal care,True,07/2033,2013-01-25,2013-01-25,641,641,1394,PURCHASE,,247.15,,,,,,False,False
+433345922,433345922,250.0,80.15,2016-06-29T06:43:14,119.94,cheapfast.com,US,US,05,01,online_retail,False,12/2026,2013-01-25,2013-01-25,641,641,1394,PURCHASE,,169.85,,,,,,False,False
+433345922,433345922,250.0,205.01,2016-07-19T04:27:51,26.59,Universe Massage #206797,US,US,09,01,personal care,True,07/2020,2013-01-25,2013-01-25,641,641,1394,PURCHASE,,44.99,,,,,,False,False
+433345922,433345922,250.0,203.42,2016-08-21T02:16:44,57.16,oldnavy.com,US,US,90,08,online_retail,False,01/2026,2013-01-25,2013-01-25,641,641,1394,PURCHASE,,46.58,,,,,,False,False
+433345922,433345922,250.0,171.26,2016-09-01T16:07:24,16.31,oldnavy.com,US,US,90,08,online_retail,False,01/2026,2013-01-25,2013-01-25,641,641,1394,REVERSAL,,78.74,,,,,,False,False
+433345922,433345922,250.0,187.57,2016-09-24T11:45:51,39.88,West End Beauty #234286,US,US,80,01,personal care,True,03/2031,2013-01-25,2013-01-25,641,641,1394,PURCHASE,,62.43,,,,,,False,False
+433345922,433345922,250.0,172.69,2016-10-09T08:15:10,37.26,Universe Massage #725790,US,US,02,01,personal care,True,09/2028,2013-01-25,2013-01-25,641,641,1394,PURCHASE,,77.31,,,,,,False,False
+433345922,433345922,250.0,135.43,2016-10-17T05:05:25,47.93,walmart.com,US,US,05,08,online_retail,False,10/2031,2013-01-25,2013-01-25,641,641,1394,PURCHASE,,114.57,,,,,,False,False
+433345922,433345922,250.0,87.5,2016-10-31T13:22:29,8.66,hulu.com,US,US,09,01,online_subscriptions,False,12/2030,2013-01-25,2013-01-25,641,641,1394,PURCHASE,,162.5,,,,,,False,False
+433345922,433345922,250.0,103.84,2016-12-01T11:21:07,8.66,hulu.com,US,US,09,01,online_subscriptions,False,12/2030,2013-01-25,2013-01-25,641,641,1394,PURCHASE,,146.16,,,,,,False,False

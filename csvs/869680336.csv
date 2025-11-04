@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+869680336,869680336,15000.0,15000.0,2016-01-12T14:25:39,90.88,target.com,US,US,05,01,online_retail,03/2025,2015-01-21,2015-01-21,922,922,6766,PURCHASE,,0.0,,,,False,,,False,False
+869680336,869680336,15000.0,14934.12,2016-02-07T17:53:21,76.7,discount.com,US,US,05,01,online_retail,11/2024,2015-01-21,2015-01-21,922,922,6766,PURCHASE,,65.88,,,,False,,,False,False
+869680336,869680336,15000.0,14857.42,2016-02-10T00:20:13,50.02,walmart.com,US,US,05,01,online_retail,09/2032,2015-01-21,2015-01-21,922,922,6766,PURCHASE,,142.58,,,,False,,,False,False
+869680336,869680336,15000.0,14832.4,2016-05-08T11:33:57,167.44,Burger King #309574,US,US,02,08,fastfood,03/2025,2015-01-21,2015-01-21,922,922,6766,PURCHASE,,167.6,,,,True,,,False,False
+869680336,869680336,15000.0,14689.96,2016-09-18T23:15:00,127.01,Krispy Kreme #518033,US,US,02,01,fastfood,12/2028,2015-01-21,2015-01-21,922,922,6766,PURCHASE,,310.04,,,,True,,,False,False
+869680336,869680336,15000.0,14587.95,2016-11-06T14:24:57,785.42,oldnavy.com,US,US,02,08,online_retail,04/2031,2015-01-21,2015-01-21,922,922,6766,PURCHASE,,412.05,,,,False,,,False,False
+869680336,869680336,15000.0,13827.53,2016-12-03T12:30:31,35.12,gap.com,US,US,09,08,online_retail,03/2021,2015-01-21,2015-01-21,922,922,6766,PURCHASE,,1172.47,,,,False,,,False,False
+869680336,869680336,15000.0,13792.41,2016-12-11T22:24:39,92.88,Rodeway Inn #166841,US,US,02,01,hotels,07/2021,2015-01-21,2015-01-21,922,922,6766,PURCHASE,,1207.59,,,,True,,,False,False

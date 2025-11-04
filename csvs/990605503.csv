@@ -1,0 +1,14 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+990605503,990605503,10000.0,10000.0,2016-03-16T11:24:01,20.05,netflix.com,US,US,05,01,online_subscriptions,10/2030,2015-04-07,2015-04-07,910,910,1072,PURCHASE,,0.0,,,,False,,,False,False
+990605503,990605503,10000.0,10000.0,2016-04-17T08:36:11,20.05,netflix.com,US,US,05,01,online_subscriptions,10/2030,2015-04-07,2015-04-07,910,910,1072,PURCHASE,,0.0,,,,False,,,False,False
+990605503,990605503,10000.0,10000.0,2016-05-18T20:31:20,20.05,netflix.com,US,US,05,01,online_subscriptions,10/2030,2015-04-07,2015-04-07,910,910,1072,PURCHASE,,0.0,,,,False,,,False,False
+990605503,990605503,10000.0,10000.0,2016-06-19T17:05:38,20.05,netflix.com,US,US,05,01,online_subscriptions,10/2030,2015-04-07,2015-04-07,910,910,1072,PURCHASE,,0.0,,,,False,,,False,False
+990605503,990605503,10000.0,10000.0,2016-07-20T00:38:52,20.05,netflix.com,US,US,05,01,online_subscriptions,10/2030,2015-04-07,2015-04-07,910,910,1072,PURCHASE,,0.0,,,,False,,,False,False
+990605503,990605503,10000.0,10000.0,2016-08-19T12:29:34,20.05,netflix.com,US,US,05,01,online_subscriptions,10/2030,2015-04-07,2015-04-07,910,910,1072,PURCHASE,,0.0,,,,False,,,False,False
+990605503,990605503,10000.0,10000.0,2016-09-19T15:31:02,20.05,netflix.com,US,US,05,01,online_subscriptions,10/2030,2015-04-07,2015-04-07,910,910,1072,PURCHASE,,0.0,,,,False,,,False,False
+990605503,990605503,10000.0,10000.0,2016-10-10T22:17:11,4.52,Play Store,US,US,05,01,mobileapps,10/2025,2015-04-07,2015-04-07,910,910,1072,PURCHASE,,0.0,,,,False,,,False,False
+990605503,990605503,10000.0,9995.48,2016-10-20T06:40:14,20.05,netflix.com,US,US,05,01,online_subscriptions,10/2030,2015-04-07,2015-04-07,910,910,1072,PURCHASE,,4.52,,,,False,,,False,False
+990605503,990605503,10000.0,10000.0,2016-11-10T11:24:47,4.52,Play Store,US,US,05,01,mobileapps,10/2025,2015-04-07,2015-04-07,910,910,1072,PURCHASE,,0.0,,,,False,,,False,False
+990605503,990605503,10000.0,9995.48,2016-11-20T06:06:39,20.05,netflix.com,US,US,05,01,online_subscriptions,10/2030,2015-04-07,2015-04-07,910,910,1072,PURCHASE,,4.52,,,,False,,,False,False
+990605503,990605503,10000.0,10000.0,2016-12-11T19:10:22,4.52,Play Store,US,US,05,01,mobileapps,10/2025,2015-04-07,2015-04-07,910,910,1072,PURCHASE,,0.0,,,,False,,,False,False
+990605503,990605503,10000.0,9995.48,2016-12-21T09:19:40,20.05,netflix.com,US,US,05,01,online_subscriptions,10/2030,2015-04-07,2015-04-07,910,910,1072,PURCHASE,,4.52,,,,False,,,False,False

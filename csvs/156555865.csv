@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+156555865,156555865,20000.0,20000.0,2016-02-17T16:12:54,86.0,In-N-Out #27394,US,US,05,01,fastfood,True,01/2027,2011-11-12,2011-11-12,858,858,8008,PURCHASE,,0.0,,,,,,False,False
+156555865,156555865,20000.0,20000.0,2016-07-02T09:53:39,43.99,EZ Putt Putt #503815,US,US,05,01,entertainment,True,04/2020,2011-11-12,2011-11-12,858,858,8008,PURCHASE,,0.0,,,,,,False,False
+156555865,156555865,20000.0,20000.0,2016-08-26T11:07:01,68.77,KFC #621125,US,US,02,01,fastfood,True,10/2025,2011-11-12,2011-11-12,858,858,8008,PURCHASE,,0.0,,,,,,False,False
+156555865,156555865,20000.0,20000.0,2016-11-01T20:08:33,156.28,alibaba.com,US,US,05,01,online_retail,False,03/2021,2011-11-12,2011-11-12,858,858,8008,PURCHASE,,0.0,,,,,,False,False

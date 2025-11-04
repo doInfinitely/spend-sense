@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+894734625,894734625,1000.0,1000.0,2016-06-04T09:34:48,591.73,Powerlifting #106216,US,US,09,01,health,True,03/2025,2012-12-15,2012-12-15,761,761,412,PURCHASE,,0.0,,,,,,False,False
+894734625,894734625,1000.0,1000.0,2016-11-19T23:41:29,4.71,Apple iTunes,US,US,09,01,mobileapps,False,10/2024,2012-12-15,2012-12-15,761,761,412,PURCHASE,,0.0,,,,,,False,False
+894734625,894734625,1000.0,1000.0,2016-12-21T22:22:31,4.71,Apple iTunes,US,US,09,01,mobileapps,False,10/2024,2012-12-15,2012-12-15,761,761,412,PURCHASE,,0.0,,,,,,False,False

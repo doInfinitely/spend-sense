@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+892953897,892953897,20000.0,20000.0,2016-01-28T16:17:11,27.34,Fresh Flowers,US,US,02,01,online_gifts,11/2028,2012-04-22,2012-04-22,521,521,3103,PURCHASE,,0.0,,,,False,,,False,False
+892953897,892953897,20000.0,19997.66,2016-03-15T03:00:22,49.4,Blue Mountain Online Services,US,US,09,01,online_gifts,07/2029,2012-04-22,2012-04-22,521,521,3103,PURCHASE,,2.34,,,,False,,,False,False
+892953897,892953897,20000.0,19973.26,2016-04-13T11:50:30,3.44,Washington Post,US,US,05,08,subscriptions,10/2028,2012-04-22,2012-04-22,537,537,5278,PURCHASE,,26.74,,,,False,,,False,False
+892953897,892953897,20000.0,19994.82,2016-06-14T12:02:31,55.7,NY News,US,US,09,08,subscriptions,07/2021,2012-04-22,2012-04-22,537,537,5278,PURCHASE,,5.18,,,,False,,,False,False

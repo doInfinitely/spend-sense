@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+354628697,354628697,15000.0,15000.0,2016-04-30T07:52:52,375.98,Burger King #432656,US,US,09,01,fastfood,True,04/2033,2010-03-08,2010-03-08,645,645,3075,PURCHASE,,0.0,,,,,,False,False
+354628697,354628697,15000.0,14649.02,2016-08-06T09:14:17,10.13,hulu.com,US,US,09,08,online_subscriptions,False,01/2030,2010-03-08,2010-03-08,956,956,5395,PURCHASE,,350.98,,,,,,False,False
+354628697,354628697,15000.0,14663.89,2016-09-05T10:00:39,10.13,hulu.com,US,US,09,08,online_subscriptions,False,01/2030,2010-03-08,2010-03-08,956,956,5395,PURCHASE,,336.11,,,,,,False,False
+354628697,354628697,15000.0,14678.76,2016-10-05T14:12:21,10.13,hulu.com,US,US,09,08,online_subscriptions,False,01/2030,2010-03-08,2010-03-08,956,956,5395,PURCHASE,,321.24,,,,,,False,False
+354628697,354628697,15000.0,14668.63,2016-10-27T19:25:01,489.11,Popeyes #767007,US,US,05,08,fastfood,True,11/2023,2010-03-08,2010-03-08,645,645,3075,PURCHASE,,331.37,,,,,,False,False
+354628697,354628697,15000.0,14204.52,2016-11-05T11:13:21,10.13,hulu.com,US,US,09,08,online_subscriptions,False,01/2030,2010-03-08,2010-03-08,956,956,5395,PURCHASE,,795.48,,,,,,False,False
+354628697,354628697,15000.0,14219.39,2016-12-03T00:51:40,50.67,Domino's Pizza #412367,US,US,90,01,fastfood,True,11/2031,2010-03-08,2010-03-08,956,956,5395,PURCHASE,,780.61,,,,,,False,False
+354628697,354628697,15000.0,14168.72,2016-12-07T10:53:39,10.13,hulu.com,US,US,09,08,online_subscriptions,False,01/2030,2010-03-08,2010-03-08,956,956,5395,PURCHASE,,831.28,,,,,,False,False

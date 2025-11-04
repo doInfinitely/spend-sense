@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+316198052,316198052,2500.0,2500.0,2016-05-22T20:17:59,13.3,Lyft,US,US,09,01,rideshare,04/2022,2014-09-16,2014-09-16,482,482,9181,PURCHASE,,0.0,,,,False,,,False,False
+316198052,316198052,2500.0,2486.7,2016-05-23T04:51:35,111.39,Lyft,US,US,05,01,rideshare,02/2031,2014-09-16,2014-09-16,650,650,1518,PURCHASE,,13.3,,,,False,,,False,False
+316198052,316198052,2500.0,2400.31,2016-08-08T16:10:19,169.37,Lyft,US,US,09,01,rideshare,03/2026,2014-09-16,2014-09-16,650,650,1518,PURCHASE,,99.69,,,,False,,,False,False
+316198052,316198052,2500.0,2255.94,2016-11-27T10:24:39,21.32,Spotify,US,US,05,01,online_subscriptions,12/2023,2014-09-16,2014-09-16,650,650,1518,PURCHASE,,244.06,,,,False,,,False,False
+316198052,316198052,2500.0,2259.62,2016-12-09T02:43:56,29.81,Runners #575029,US,US,05,01,gym,06/2029,2014-09-16,2014-09-16,482,402,9181,PURCHASE,,240.38,,,,False,,,False,False
+316198052,316198052,2500.0,2229.81,2016-12-24T02:10:01,29.81,Runners #575029,US,US,05,01,gym,06/2029,2014-09-16,2014-09-16,482,402,9181,PURCHASE,,270.19,,,,False,,,False,False
+316198052,316198052,2500.0,2200.0,2016-12-28T20:21:30,21.32,Spotify,US,US,05,01,online_subscriptions,12/2023,2014-09-16,2014-09-16,650,650,1518,PURCHASE,,300.0,,,,False,,,False,False

@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+517564793,517564793,7500.0,7500.0,2016-02-15T12:25:09,528.23,Uptown Steakhouse,US,US,05,01,food,True,09/2032,2015-03-07,2015-03-07,442,442,8559,PURCHASE,,0.0,,,,,,False,False
+517564793,517564793,7500.0,6971.77,2016-02-26T19:51:05,224.6,Dunkin' Donuts #282500,US,US,09,99,fastfood,True,05/2022,2015-03-07,2015-03-07,442,442,8559,PURCHASE,,528.23,,,,,,False,False
+517564793,517564793,7500.0,7500.0,2016-07-22T08:43:10,311.79,Planet Fitness #285218,US,US,09,01,health,False,08/2026,2015-03-07,2015-03-07,442,442,8559,PURCHASE,,0.0,,,,,,False,False
+517564793,517564793,7500.0,7500.0,2016-09-07T22:20:07,62.19,Subway #417840,US,US,80,08,fastfood,True,01/2024,2015-03-07,2015-03-07,442,442,8559,PURCHASE,,0.0,,,,,,False,False

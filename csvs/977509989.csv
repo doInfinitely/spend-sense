@@ -1,0 +1,12 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posEntryMode,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+977509989,977509989,7500.0,7500.0,2016-02-19T17:46:52,6.95,Play Store,US,US,01,mobileapps,08/2020,2011-08-25,2011-08-25,330,330,9658,PURCHASE,,0.0,,,,,False,,,False,False
+977509989,977509989,7500.0,7500.0,2016-03-21T19:48:18,6.95,Play Store,US,US,01,mobileapps,08/2020,2011-08-25,2011-08-25,330,330,9658,PURCHASE,,0.0,,,,,False,,,False,False
+977509989,977509989,7500.0,7500.0,2016-04-21T19:24:33,6.95,Play Store,US,US,01,mobileapps,08/2020,2011-08-25,2011-08-25,330,330,9658,PURCHASE,,0.0,,,,,False,,,False,False
+977509989,977509989,7500.0,7500.0,2016-05-22T11:59:28,6.95,Play Store,US,US,01,mobileapps,08/2020,2011-08-25,2011-08-25,330,330,9658,PURCHASE,,0.0,,,,,False,,,False,False
+977509989,977509989,7500.0,7500.0,2016-06-21T21:45:40,6.95,Play Store,US,US,01,mobileapps,08/2020,2011-08-25,2011-08-25,330,330,9658,PURCHASE,,0.0,,,,,False,,,False,False
+977509989,977509989,7500.0,7500.0,2016-07-23T16:08:14,6.95,Play Store,US,US,01,mobileapps,08/2020,2011-08-25,2011-08-25,330,330,9658,PURCHASE,,0.0,,,,,False,,,False,False
+977509989,977509989,7500.0,7500.0,2016-08-23T02:53:11,6.95,Play Store,US,US,01,mobileapps,08/2020,2011-08-25,2011-08-25,330,330,9658,PURCHASE,,0.0,,,,,False,,,False,False
+977509989,977509989,7500.0,7500.0,2016-09-23T20:39:19,6.95,Play Store,US,US,01,mobileapps,08/2020,2011-08-25,2011-08-25,330,330,9658,PURCHASE,,0.0,,,,,False,,,False,False
+977509989,977509989,7500.0,7500.0,2016-10-24T01:20:49,6.95,Play Store,US,US,01,mobileapps,08/2020,2011-08-25,2011-08-25,330,330,9658,PURCHASE,,0.0,,,,,False,,,False,False
+977509989,977509989,7500.0,7500.0,2016-11-24T08:29:38,6.95,Play Store,US,US,01,mobileapps,08/2020,2011-08-25,2011-08-25,330,330,9658,PURCHASE,,0.0,,,,,False,,,False,False
+977509989,977509989,7500.0,7500.0,2016-12-26T00:51:51,6.95,Play Store,US,US,01,mobileapps,08/2020,2011-08-25,2011-08-25,330,330,9658,PURCHASE,,0.0,,,,,False,,,False,False

@@ -1,0 +1,14 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+168495791,168495791,2500.0,2500.0,2016-03-06T02:59:13,11.05,netflix.com,US,US,05,01,online_subscriptions,09/2020,2014-02-06,2014-02-06,745,745,7378,PURCHASE,,0.0,,,,False,,,False,False
+168495791,168495791,2500.0,2500.0,2016-04-06T18:34:16,11.05,netflix.com,US,US,05,01,online_subscriptions,09/2020,2014-02-06,2014-02-06,745,745,7378,PURCHASE,,0.0,,,,False,,,False,False
+168495791,168495791,2500.0,2500.0,2016-05-01T20:52:31,337.78,Planet Fitness #813378,US,US,02,01,health,08/2023,2014-02-06,2014-02-06,745,745,7378,PURCHASE,,0.0,,,,False,,,False,False
+168495791,168495791,2500.0,2162.22,2016-05-08T14:41:06,11.05,netflix.com,US,US,05,01,online_subscriptions,09/2020,2014-02-06,2014-02-06,745,745,7378,PURCHASE,,337.78,,,,False,,,False,False
+168495791,168495791,2500.0,2176.17,2016-06-01T22:57:11,74.92,Walgreens #145120,US,US,05,01,health,04/2029,2014-02-06,2014-02-06,745,745,7378,PURCHASE,,323.83,,,,False,,,False,False
+168495791,168495791,2500.0,2101.25,2016-06-08T08:39:03,11.05,netflix.com,US,US,05,01,online_subscriptions,09/2020,2014-02-06,2014-02-06,745,745,7378,PURCHASE,,398.75,,,,False,,,False,False
+168495791,168495791,2500.0,2115.2,2016-07-09T20:02:51,11.05,netflix.com,US,US,05,01,online_subscriptions,09/2020,2014-02-06,2014-02-06,745,745,7378,PURCHASE,,384.8,,,,False,,,False,False
+168495791,168495791,2500.0,2129.15,2016-08-09T15:06:44,11.05,netflix.com,US,US,05,01,online_subscriptions,09/2020,2014-02-06,2014-02-06,745,745,7378,PURCHASE,,370.85,,,,False,,,False,False
+168495791,168495791,2500.0,2143.1,2016-09-10T08:38:29,11.05,netflix.com,US,US,05,01,online_subscriptions,09/2020,2014-02-06,2014-02-06,745,745,7378,PURCHASE,,356.9,,,,False,,,False,False
+168495791,168495791,2500.0,2157.05,2016-10-12T02:21:46,11.05,netflix.com,US,US,05,01,online_subscriptions,09/2020,2014-02-06,2014-02-06,745,745,7378,PURCHASE,,342.95,,,,False,,,False,False
+168495791,168495791,2500.0,2171.0,2016-11-12T14:52:39,11.05,netflix.com,US,US,05,01,online_subscriptions,09/2020,2014-02-06,2014-02-06,745,745,7378,PURCHASE,,329.0,,,,False,,,False,False
+168495791,168495791,2500.0,2159.95,2016-11-20T22:14:32,276.96,gap.com,US,US,09,01,online_retail,09/2027,2014-02-06,2014-02-06,631,631,3036,PURCHASE,,340.05,,,,False,,,False,False
+168495791,168495791,2500.0,1907.99,2016-12-13T02:13:32,11.05,netflix.com,US,US,05,01,online_subscriptions,09/2020,2014-02-06,2014-02-06,745,745,7378,PURCHASE,,592.01,,,,False,,,False,False

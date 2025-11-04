@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+922098377,922098377,7500.0,7500.0,2016-02-02T08:58:12,316.87,Rodeway Inn #461774,US,US,02,08,hotels,True,03/2028,2015-10-01,2015-10-01,599,599,5234,PURCHASE,,0.0,,,,,,False,False
+922098377,922098377,7500.0,7208.13,2016-04-08T06:07:27,164.94,Hyatt House #686333,US,US,02,01,hotels,True,02/2028,2015-10-01,2015-10-01,599,599,5234,PURCHASE,,291.87,,,,,,False,False
+922098377,922098377,7500.0,7068.19,2016-07-17T09:49:10,125.71,Hyatt House #691218,US,US,05,01,hotels,True,01/2029,2015-10-01,2015-10-01,599,599,5234,PURCHASE,,431.81,,,,,,False,False
+922098377,922098377,7500.0,6967.48,2016-09-02T02:25:56,69.8,Rodeway Inn #171899,US,US,09,08,hotels,True,01/2020,2015-10-01,2015-10-01,599,599,5234,PURCHASE,,532.52,,,,,,False,False
+922098377,922098377,7500.0,6922.68,2016-10-01T14:11:33,288.36,Renaissance Hotel #831453,US,US,09,01,hotels,True,05/2028,2015-10-01,2015-10-01,599,599,5234,PURCHASE,,577.32,,,,,,False,False
+922098377,922098377,7500.0,6634.32,2016-10-27T04:23:56,0.0,Rodeway Inn #901149,US,US,05,08,hotels,False,05/2024,2015-10-01,2015-10-01,599,599,5234,ADDRESS_VERIFICATION,,865.68,,,,,,False,False
+922098377,922098377,7500.0,6659.32,2016-11-27T21:51:25,342.74,Renaissance Hotel #696523,US,US,05,01,hotels,True,06/2029,2015-10-01,2015-10-01,599,599,5234,PURCHASE,,840.68,,,,,,False,False

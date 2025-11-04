@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+219659566,219659566,5000.0,5000.0,2016-01-29T21:23:40,65.55,Lyft,US,US,05,01,rideshare,04/2024,2013-01-20,2013-01-20,977,977,9375,PURCHASE,,0.0,,,,False,,,False,False
+219659566,219659566,5000.0,5000.0,2016-02-22T08:09:52,48.78,amazon.com,US,US,09,01,online_retail,02/2022,2013-01-20,2013-01-20,977,977,9375,PURCHASE,,0.0,,,,False,,,False,True
+219659566,219659566,5000.0,5000.0,2016-07-21T13:26:12,3.54,Play Store,US,US,09,01,mobileapps,06/2028,2013-01-20,2013-01-20,977,977,9375,PURCHASE,,0.0,,,,False,,,False,False
+219659566,219659566,5000.0,5000.0,2016-08-21T22:41:10,3.54,Play Store,US,US,09,01,mobileapps,06/2028,2013-01-20,2013-01-20,977,977,9375,PURCHASE,,0.0,,,,False,,,False,False
+219659566,219659566,5000.0,5000.0,2016-09-22T19:09:02,3.54,Play Store,US,US,09,01,mobileapps,06/2028,2013-01-20,2013-01-20,977,977,9375,PURCHASE,,0.0,,,,False,,,False,False
+219659566,219659566,5000.0,5000.0,2016-10-24T05:32:04,3.54,Play Store,US,US,09,01,mobileapps,06/2028,2013-01-20,2013-01-20,977,977,9375,PURCHASE,,0.0,,,,False,,,False,False
+219659566,219659566,5000.0,5000.0,2016-11-23T20:18:03,3.54,Play Store,US,US,09,01,mobileapps,06/2028,2013-01-20,2013-01-20,977,977,9375,PURCHASE,,0.0,,,,False,,,False,False
+219659566,219659566,5000.0,5000.0,2016-12-25T01:48:32,3.54,Play Store,US,US,09,01,mobileapps,06/2028,2013-01-20,2013-01-20,977,977,9375,PURCHASE,,0.0,,,,False,,,False,False

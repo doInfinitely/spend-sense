@@ -1,0 +1,17 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+984625737,984625737,2500.0,2500.0,2016-01-05T05:20:25,43.5,target.com,US,US,05,01,online_retail,11/2021,2014-06-26,2014-06-26,627,627,2573,PURCHASE,,0.0,,,,False,,,False,False
+984625737,984625737,2500.0,2456.5,2016-01-11T20:03:39,43.5,target.com,US,US,05,01,online_retail,11/2021,2014-06-26,2014-06-26,627,627,2573,REVERSAL,,43.5,,,,False,,,False,False
+984625737,984625737,2500.0,2500.0,2016-02-21T06:30:13,96.65,Oklahoma City Times,US,US,09,01,subscriptions,02/2025,2014-06-26,2014-06-26,627,627,2573,PURCHASE,,0.0,,,,False,,,False,False
+984625737,984625737,2500.0,2500.0,2016-03-16T03:33:11,521.47,Los Angeles News,US,US,05,01,subscriptions,07/2027,2014-06-26,2014-06-26,627,627,2573,PURCHASE,,0.0,,,,False,,,False,False
+984625737,984625737,2500.0,1978.53,2016-03-16T17:04:12,96.65,Oklahoma City Times,US,US,09,01,subscriptions,02/2025,2014-06-26,2014-06-26,627,627,2573,REVERSAL,,521.47,,,,False,,,False,False
+984625737,984625737,2500.0,2500.0,2016-05-15T20:38:29,45.34,Wall Street Times,US,US,02,08,subscriptions,06/2033,2014-06-26,2014-06-26,627,627,2573,PURCHASE,,0.0,,,,False,,,False,False
+984625737,984625737,2500.0,2500.0,2016-07-15T14:11:20,110.68,Seattle Times,US,US,05,01,subscriptions,06/2025,2014-06-26,2014-06-26,627,627,2573,PURCHASE,,0.0,,,,False,,,False,False
+984625737,984625737,2500.0,2389.32,2016-07-29T10:56:01,20.96,hulu.com,US,US,02,01,online_subscriptions,09/2030,2014-06-26,2014-06-26,627,627,2573,PURCHASE,,110.68,,,,False,,,False,False
+984625737,984625737,2500.0,2500.0,2016-08-29T09:48:48,20.96,hulu.com,US,US,02,01,online_subscriptions,09/2030,2014-06-26,2014-06-26,627,627,2573,PURCHASE,,0.0,,,,False,,,False,False
+984625737,984625737,2500.0,2500.0,2016-09-21T17:15:26,44.74,Dallas Post,US,US,09,01,subscriptions,05/2030,2014-06-26,2014-06-26,627,627,2573,PURCHASE,,0.0,,,,False,,,False,False
+984625737,984625737,2500.0,2455.26,2016-09-29T16:21:28,20.96,hulu.com,US,US,02,01,online_subscriptions,09/2030,2014-06-26,2014-06-26,627,627,2573,PURCHASE,,44.74,,,,False,,,False,False
+984625737,984625737,2500.0,2500.0,2016-10-20T23:31:15,52.84,apple.com,US,US,09,01,online_retail,04/2021,2014-06-26,2014-06-26,627,627,2573,PURCHASE,,0.0,,,,False,,,False,False
+984625737,984625737,2500.0,2447.16,2016-10-30T02:58:15,20.96,hulu.com,US,US,02,01,online_subscriptions,09/2030,2014-06-26,2014-06-26,627,627,2573,PURCHASE,,52.84,,,,False,,,False,False
+984625737,984625737,2500.0,2500.0,2016-11-30T15:31:35,20.96,hulu.com,US,US,02,01,online_subscriptions,09/2030,2014-06-26,2014-06-26,627,627,2573,PURCHASE,,0.0,,,,False,,,False,False
+984625737,984625737,2500.0,2500.0,2016-12-06T01:07:50,80.89,Washington News,US,US,09,01,subscriptions,01/2025,2014-06-26,2014-06-26,627,627,2573,PURCHASE,,0.0,,,,False,,,False,False
+984625737,984625737,2500.0,2419.11,2016-12-17T05:54:49,8.7,Los Angeles News,US,US,09,01,subscriptions,04/2033,2014-06-26,2014-06-26,627,627,2573,PURCHASE,,80.89,,,,False,,,False,False

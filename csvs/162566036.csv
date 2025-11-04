@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+162566036,162566036,2500.0,2500.0,2016-01-20T04:57:24,364.37,EZ Putt Putt #982199,US,US,02,01,entertainment,True,10/2032,2012-09-11,2012-09-11,936,936,1785,PURCHASE,,0.0,,,,,,False,False
+162566036,162566036,2500.0,2500.0,2016-02-14T19:06:23,237.14,EZ Putt Putt #551896,US,US,09,01,entertainment,True,09/2022,2012-09-11,2012-09-11,936,936,1785,PURCHASE,,0.0,,,,,,False,False
+162566036,162566036,2500.0,2262.86,2016-02-19T10:01:32,288.79,Regal Cinemas #05791,US,US,02,01,entertainment,True,01/2025,2012-09-11,2012-09-11,936,936,1785,PURCHASE,,237.14,,,,,,False,False
+162566036,162566036,2500.0,2500.0,2016-03-08T01:24:15,224.75,AMC #606218,US,US,05,01,entertainment,True,11/2028,2012-09-11,2012-09-11,936,936,1785,PURCHASE,,0.0,,,,,,False,False
+162566036,162566036,2500.0,2500.0,2016-06-06T17:30:53,86.39,EZ Putt Putt #503815,US,US,09,01,entertainment,True,08/2021,2012-09-11,2012-09-11,936,936,1785,PURCHASE,,0.0,,,,,,False,False
+162566036,162566036,2500.0,2500.0,2016-11-08T19:20:12,68.91,staples.com,US,US,09,01,online_retail,False,09/2028,2012-09-11,2012-09-11,936,936,1785,PURCHASE,,0.0,,,,,,False,False

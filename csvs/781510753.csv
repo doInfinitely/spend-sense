@@ -1,0 +1,12 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+781510753,781510753,5000.0,5000.0,2016-01-03T10:47:00,255.19,sears.com,US,US,05,01,online_retail,03/2027,2014-10-02,2014-10-02,348,348,5190,PURCHASE,,0.0,,,,False,,,False,False
+781510753,781510753,5000.0,4769.81,2016-03-26T04:01:01,142.66,ebay.com,US,US,05,01,online_retail,05/2033,2014-10-02,2014-10-02,348,348,5190,PURCHASE,,230.19,,,,False,,,False,False
+781510753,781510753,5000.0,4652.15,2016-04-04T22:50:55,89.75,walmart.com,US,US,09,01,online_retail,08/2022,2014-10-02,2014-10-02,348,348,5190,PURCHASE,,347.85,,,,False,,,False,False
+781510753,781510753,5000.0,4587.4,2016-06-27T02:07:09,205.12,staples.com,US,US,05,01,online_retail,03/2025,2014-10-02,2014-10-02,348,348,5190,PURCHASE,,412.6,,,,False,,,False,False
+781510753,781510753,5000.0,4407.28,2016-08-31T07:44:48,5.76,Apple iTunes,US,US,09,01,mobileapps,02/2033,2014-10-02,2014-10-02,348,348,5190,PURCHASE,,592.72,,,,False,,,False,False
+781510753,781510753,5000.0,4426.52,2016-09-14T17:38:08,390.08,Wendys #411574,US,US,02,01,fastfood,08/2028,2014-10-02,2014-10-02,348,348,5190,PURCHASE,,573.48,,,,True,,,False,False
+781510753,781510753,5000.0,4036.44,2016-09-22T01:41:03,128.44,staples.com,US,US,05,01,online_retail,08/2021,2014-10-02,2014-10-02,348,348,5190,PURCHASE,,963.56,,,,False,,,False,False
+781510753,781510753,5000.0,3908.0,2016-09-30T23:53:12,5.76,Apple iTunes,US,US,09,01,mobileapps,02/2033,2014-10-02,2014-10-02,348,348,5190,PURCHASE,,1092.0,,,,False,,,False,False
+781510753,781510753,5000.0,3927.24,2016-10-26T16:55:20,238.97,discount.com,US,US,09,01,online_retail,05/2032,2014-10-02,2014-10-02,348,348,5190,PURCHASE,,1072.76,,,,False,,,False,False
+781510753,781510753,5000.0,3713.27,2016-11-01T20:35:50,5.76,Apple iTunes,US,US,09,01,mobileapps,02/2033,2014-10-02,2014-10-02,348,348,5190,PURCHASE,,1286.73,,,,False,,,False,False
+781510753,781510753,5000.0,3732.51,2016-12-02T00:31:08,5.76,Apple iTunes,US,US,09,01,mobileapps,02/2033,2014-10-02,2014-10-02,348,348,5190,PURCHASE,,1267.49,,,,False,,,False,False

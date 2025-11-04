@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+715283292,715283292,15000.0,15000.0,2016-04-16T19:55:12,55.77,Wall Street News,US,US,09,01,subscriptions,09/2022,2015-03-05,2015-03-05,344,344,7027,PURCHASE,,0.0,,,,False,,,False,False
+715283292,715283292,15000.0,15000.0,2016-09-24T07:37:40,12.23,hulu.com,US,US,05,01,online_subscriptions,08/2032,2015-03-05,2015-03-05,344,344,7027,PURCHASE,,0.0,,,,False,,,False,False
+715283292,715283292,15000.0,15000.0,2016-10-25T20:33:55,12.23,hulu.com,US,US,05,01,online_subscriptions,08/2032,2015-03-05,2015-03-05,344,344,7027,PURCHASE,,0.0,,,,False,,,False,False
+715283292,715283292,15000.0,15000.0,2016-11-16T23:31:34,275.84,Dallas Post,US,US,05,01,subscriptions,10/2025,2015-03-05,2015-03-05,959,959,2434,PURCHASE,,0.0,,,,True,,,False,False
+715283292,715283292,15000.0,14724.16,2016-11-26T00:11:57,12.23,hulu.com,US,US,05,01,online_subscriptions,08/2032,2015-03-05,2015-03-05,344,344,7027,PURCHASE,,275.84,,,,False,,,False,False
+715283292,715283292,15000.0,15000.0,2016-12-27T12:51:42,12.23,hulu.com,US,US,05,01,online_subscriptions,08/2032,2015-03-05,2015-03-05,344,344,7027,PURCHASE,,0.0,,,,False,,,False,False

@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+437317550,437317550,2500.0,2500.0,2016-02-28T07:33:34,108.97,Lyft,US,US,05,01,rideshare,03/2021,2013-05-03,2013-05-03,989,989,4029,PURCHASE,,0.0,,,,False,,,False,False
+437317550,437317550,2500.0,2416.03,2016-03-29T23:00:50,195.35,Regal Cinemas #276341,US,US,09,01,entertainment,02/2025,2013-05-03,2013-05-03,989,989,4029,PURCHASE,,83.97,,,,True,,,False,False
+437317550,437317550,2500.0,2245.68,2016-04-04T09:58:18,143.18,EZ Putt Putt #804489,US,US,02,01,entertainment,12/2021,2013-05-03,2013-05-03,902,902,9731,PURCHASE,,254.32,,,,True,,,False,False
+437317550,437317550,2500.0,2127.5,2016-05-29T18:09:53,39.62,AMC #79863,US,US,02,01,entertainment,12/2021,2013-05-03,2013-05-03,989,989,4029,PURCHASE,,372.5,,,,False,,,False,False
+437317550,437317550,2500.0,2112.88,2016-06-16T00:13:39,87.75,Regal Cinemas #729464,US,US,02,01,entertainment,12/2029,2013-05-03,2013-05-03,902,902,9731,PURCHASE,,387.12,,,,True,,,False,False
+437317550,437317550,2500.0,2050.13,2016-11-18T11:50:18,52.69,EZ Putt Putt #551896,US,US,05,01,entertainment,01/2030,2013-05-03,2013-05-03,989,989,4029,PURCHASE,,449.87,,,,False,,,False,False
+437317550,437317550,2500.0,1997.44,2016-11-25T01:01:22,69.95,Uber,US,US,05,01,rideshare,10/2027,2013-05-03,2013-05-03,989,989,4029,PURCHASE,,502.56,,,,False,,,False,False

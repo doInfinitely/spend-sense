@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+616691184,616691184,20000.0,20000.0,2016-01-05T12:00:33,181.81,Lyft,US,US,02,01,rideshare,10/2031,2015-03-16,2015-03-16,565,565,5133,PURCHASE,,0.0,,,,False,,,False,False
+616691184,616691184,20000.0,19843.19,2016-04-18T21:30:57,58.95,Lyft,US,US,09,01,rideshare,03/2033,2015-03-16,2015-03-16,709,709,325,PURCHASE,,156.81,,,,False,,,False,False
+616691184,616691184,20000.0,19809.24,2016-06-08T04:36:03,234.59,staples.com,US,US,02,01,online_retail,05/2022,2015-03-16,2015-03-16,709,709,325,PURCHASE,,190.76,,,,False,,,False,False

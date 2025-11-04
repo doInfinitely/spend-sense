@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+348260116,348260116,15000.0,15000.0,2016-04-26T06:53:56,70.72,apple.com,US,US,09,01,online_retail,08/2025,2015-07-03,2015-07-03,906,906,1966,PURCHASE,,0.0,,,,False,,,False,False
+348260116,348260116,15000.0,14954.28,2016-05-26T10:52:43,168.39,amazon.com,US,US,05,01,online_retail,01/2028,2015-07-03,2015-07-03,906,906,1966,PURCHASE,,45.72,,,,False,,,False,False
+348260116,348260116,15000.0,14785.89,2016-05-31T01:13:57,374.78,walmart.com,US,US,09,01,online_retail,05/2032,2015-07-03,2015-07-03,906,906,1966,PURCHASE,,214.11,,,,False,,,False,False
+348260116,348260116,15000.0,14436.11,2016-08-05T06:51:22,794.81,staples.com,US,US,09,01,online_retail,08/2024,2015-07-03,2015-07-03,906,906,1966,PURCHASE,,563.89,,,,False,,,False,False
+348260116,348260116,15000.0,13666.3,2016-10-02T05:26:48,0.3,apple.com,US,US,09,01,online_retail,07/2028,2015-07-03,2015-07-03,906,906,1966,PURCHASE,,1333.7,,,,False,,,False,False

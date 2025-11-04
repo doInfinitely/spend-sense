@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+390497853,390497853,15000.0,15000.0,2016-05-06T12:06:56,209.09,Convenient Repair,US,US,05,01,auto,True,11/2021,2014-10-03,2014-10-03,863,863,7159,PURCHASE,,0.0,,,,,,False,False
+390497853,390497853,15000.0,14815.91,2016-06-11T23:44:46,18.28,Spotify,US,US,05,01,online_subscriptions,False,04/2027,2014-10-03,2014-10-03,664,664,5404,PURCHASE,,184.09,,,,,,False,False
+390497853,390497853,15000.0,14822.63,2016-07-12T07:12:25,18.28,Spotify,US,US,05,01,online_subscriptions,False,04/2027,2014-10-03,2014-10-03,664,664,5404,PURCHASE,,177.37,,,,,,False,False
+390497853,390497853,15000.0,14829.35,2016-08-11T22:59:02,18.28,Spotify,US,US,05,01,online_subscriptions,False,04/2027,2014-10-03,2014-10-03,664,664,5404,PURCHASE,,170.65,,,,,,False,False
+390497853,390497853,15000.0,14836.07,2016-09-10T23:23:56,18.28,Spotify,US,US,05,01,online_subscriptions,False,04/2027,2014-10-03,2014-10-03,664,664,5404,PURCHASE,,163.93,,,,,,False,False
+390497853,390497853,15000.0,14842.79,2016-10-11T15:21:47,18.28,Spotify,US,US,05,01,online_subscriptions,False,04/2027,2014-10-03,2014-10-03,664,664,5404,PURCHASE,,157.21,,,,,,False,False
+390497853,390497853,15000.0,14849.51,2016-11-11T12:56:35,18.28,Spotify,US,US,05,01,online_subscriptions,False,04/2027,2014-10-03,2014-10-03,664,664,5404,PURCHASE,,150.49,,,,,,False,False
+390497853,390497853,15000.0,14856.23,2016-12-11T20:10:52,18.28,Spotify,US,US,05,01,online_subscriptions,False,04/2027,2014-10-03,2014-10-03,664,664,5404,PURCHASE,,143.77,,,,,,False,False

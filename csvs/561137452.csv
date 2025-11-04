@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+561137452,561137452,20000.0,20000.0,2016-02-18T17:28:24,81.26,Blue Mountain eCards,US,US,02,01,online_gifts,02/2028,2015-09-22,2015-09-22,148,148,2545,PURCHASE,,0.0,,,,False,,,False,False
+561137452,561137452,20000.0,20000.0,2016-04-12T07:12:50,11.46,cheapfast.com,US,US,05,01,online_retail,02/2022,2015-09-22,2015-09-22,148,148,2545,PURCHASE,,0.0,,,,False,,,False,False
+561137452,561137452,20000.0,20000.0,2016-06-21T07:54:13,130.23,Lyft,US,US,09,01,rideshare,11/2030,2015-09-22,2015-09-22,148,148,2545,PURCHASE,,0.0,,,,False,,,False,False

@@ -1,0 +1,12 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+967954567,967954567,15000.0,15000.0,2016-03-29T20:17:11,3.41,Apple iTunes,US,US,05,01,mobileapps,07/2022,2015-03-11,2015-03-11,437,437,2696,PURCHASE,,0.0,,,,False,,,False,False
+967954567,967954567,15000.0,15000.0,2016-04-29T05:59:43,3.41,Apple iTunes,US,US,05,01,mobileapps,07/2022,2015-03-11,2015-03-11,437,437,2696,PURCHASE,,0.0,,,,False,,,False,False
+967954567,967954567,15000.0,15000.0,2016-05-29T15:29:33,3.41,Apple iTunes,US,US,05,01,mobileapps,07/2022,2015-03-11,2015-03-11,437,437,2696,PURCHASE,,0.0,,,,False,,,False,False
+967954567,967954567,15000.0,15000.0,2016-06-30T08:02:12,3.41,Apple iTunes,US,US,05,01,mobileapps,07/2022,2015-03-11,2015-03-11,437,437,2696,PURCHASE,,0.0,,,,False,,,False,False
+967954567,967954567,15000.0,15000.0,2016-07-12T13:52:35,0.0,Universe Massage #859227,US,US,09,08,personal care,02/2026,2015-03-11,2015-03-11,437,437,2696,ADDRESS_VERIFICATION,,0.0,,,,False,,,False,False
+967954567,967954567,15000.0,15000.0,2016-07-31T22:39:03,3.41,Apple iTunes,US,US,05,01,mobileapps,07/2022,2015-03-11,2015-03-11,437,437,2696,PURCHASE,,0.0,,,,False,,,False,False
+967954567,967954567,15000.0,15000.0,2016-08-31T17:20:40,3.41,Apple iTunes,US,US,05,01,mobileapps,07/2022,2015-03-11,2015-03-11,437,437,2696,PURCHASE,,0.0,,,,False,,,False,False
+967954567,967954567,15000.0,15000.0,2016-09-27T22:44:25,34.97,Universe Massage #357768,US,US,02,01,personal care,10/2030,2015-03-11,2015-03-11,437,437,2696,PURCHASE,,0.0,,,,True,,,False,False
+967954567,967954567,15000.0,15000.0,2016-10-02T12:16:33,3.41,Apple iTunes,US,US,05,01,mobileapps,07/2022,2015-03-11,2015-03-11,437,437,2696,PURCHASE,,0.0,,,,False,,,False,False
+967954567,967954567,15000.0,15000.0,2016-11-02T17:02:34,3.41,Apple iTunes,US,US,05,01,mobileapps,07/2022,2015-03-11,2015-03-11,437,437,2696,PURCHASE,,0.0,,,,False,,,False,False
+967954567,967954567,15000.0,15000.0,2016-12-04T12:06:19,3.41,Apple iTunes,US,US,05,01,mobileapps,07/2022,2015-03-11,2015-03-11,437,437,2696,PURCHASE,,0.0,,,,False,,,False,False

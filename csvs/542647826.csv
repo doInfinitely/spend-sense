@@ -1,0 +1,12 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+542647826,542647826,15000.0,15000.0,2016-03-13T18:38:13,12.09,KFC #583688,US,US,09,01,fastfood,True,03/2027,2014-01-28,2014-01-28,206,206,2189,PURCHASE,,0.0,,,,,,False,False
+542647826,542647826,15000.0,15000.0,2016-05-04T00:13:01,13.35,hulu.com,US,US,05,01,online_subscriptions,False,07/2026,2014-01-28,2014-01-28,206,206,2189,PURCHASE,,0.0,,,,,,False,False
+542647826,542647826,15000.0,14986.65,2016-05-08T20:00:28,64.86,Dunkin' Donuts #740199,US,US,05,01,fastfood,True,07/2032,2014-01-28,2014-01-28,206,206,2189,PURCHASE,,13.35,,,,,,False,False
+542647826,542647826,15000.0,14946.79,2016-06-03T16:14:37,13.35,hulu.com,US,US,05,01,online_subscriptions,False,07/2026,2014-01-28,2014-01-28,206,206,2189,PURCHASE,,53.21,,,,,,False,False
+542647826,542647826,15000.0,14958.44,2016-07-04T22:25:30,13.35,hulu.com,US,US,05,01,online_subscriptions,False,07/2026,2014-01-28,2014-01-28,206,206,2189,PURCHASE,,41.56,,,,,,False,False
+542647826,542647826,15000.0,14970.09,2016-08-04T05:38:57,13.35,hulu.com,US,US,05,01,online_subscriptions,False,07/2026,2014-01-28,2014-01-28,206,206,2189,PURCHASE,,29.91,,,,,,False,False
+542647826,542647826,15000.0,14956.74,2016-08-31T01:58:47,64.18,EZ Putt Putt #69446,US,US,09,01,entertainment,True,11/2027,2014-01-28,2014-01-28,206,206,2189,PURCHASE,,43.26,,,,,,False,False
+542647826,542647826,15000.0,14917.56,2016-09-03T10:06:57,13.35,hulu.com,US,US,05,01,online_subscriptions,False,07/2026,2014-01-28,2014-01-28,206,206,2189,PURCHASE,,82.44,,,,,,False,False
+542647826,542647826,15000.0,14929.21,2016-10-04T09:25:13,13.35,hulu.com,US,US,05,01,online_subscriptions,False,07/2026,2014-01-28,2014-01-28,206,206,2189,PURCHASE,,70.79,,,,,,False,False
+542647826,542647826,15000.0,14940.86,2016-11-05T03:03:37,13.35,hulu.com,US,US,05,01,online_subscriptions,False,07/2026,2014-01-28,2014-01-28,206,206,2189,PURCHASE,,59.14,,,,,,False,False
+542647826,542647826,15000.0,14952.51,2016-12-05T18:48:06,13.35,hulu.com,US,US,05,01,online_subscriptions,False,07/2026,2014-01-28,2014-01-28,206,206,2189,PURCHASE,,47.49,,,,,,False,False

@@ -1,0 +1,12 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+511437945,511437945,15000.0,15000.0,2016-04-07T16:14:06,17.85,netflix.com,US,US,02,08,online_subscriptions,07/2033,2015-10-24,2015-10-24,546,546,136,PURCHASE,,0.0,,,,False,,,False,False
+511437945,511437945,15000.0,15000.0,2016-05-08T07:06:52,17.85,netflix.com,US,US,02,08,online_subscriptions,07/2033,2015-10-24,2015-10-24,546,546,136,PURCHASE,,0.0,,,,False,,,False,False
+511437945,511437945,15000.0,15000.0,2016-06-08T00:34:33,17.85,netflix.com,US,US,02,08,online_subscriptions,07/2033,2015-10-24,2015-10-24,546,546,136,PURCHASE,,0.0,,,,False,,,False,False
+511437945,511437945,15000.0,15000.0,2016-07-08T02:39:26,17.85,netflix.com,US,US,02,08,online_subscriptions,07/2033,2015-10-24,2015-10-24,546,546,136,PURCHASE,,0.0,,,,False,,,False,False
+511437945,511437945,15000.0,15000.0,2016-08-07T04:14:14,17.85,netflix.com,US,US,02,08,online_subscriptions,07/2033,2015-10-24,2015-10-24,546,546,136,PURCHASE,,0.0,,,,False,,,False,False
+511437945,511437945,15000.0,15000.0,2016-09-07T19:34:01,17.85,netflix.com,US,US,02,08,online_subscriptions,07/2033,2015-10-24,2015-10-24,546,546,136,PURCHASE,,0.0,,,,False,,,False,False
+511437945,511437945,15000.0,15000.0,2016-10-08T03:07:47,17.85,netflix.com,US,US,02,08,online_subscriptions,07/2033,2015-10-24,2015-10-24,546,546,136,PURCHASE,,0.0,,,,False,,,False,False
+511437945,511437945,15000.0,15000.0,2016-11-07T15:13:47,17.85,netflix.com,US,US,02,08,online_subscriptions,07/2033,2015-10-24,2015-10-24,546,546,136,PURCHASE,,0.0,,,,False,,,False,False
+511437945,511437945,15000.0,14982.15,2016-11-21T22:16:10,80.81,EZ Putt Putt #40513,US,US,02,01,entertainment,06/2031,2015-10-24,2015-10-24,546,546,136,PURCHASE,,17.85,,,,True,,,False,False
+511437945,511437945,15000.0,15000.0,2016-12-09T12:26:56,17.85,netflix.com,US,US,02,08,online_subscriptions,07/2033,2015-10-24,2015-10-24,546,546,136,PURCHASE,,0.0,,,,False,,,False,False
+511437945,511437945,15000.0,14982.15,2016-12-26T10:30:07,8.97,Play Store,US,US,05,01,mobileapps,05/2022,2015-10-24,2015-10-24,546,546,136,PURCHASE,,17.85,,,,False,,,False,False

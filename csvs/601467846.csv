@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+601467846,601467846,1000.0,1000.0,2016-02-08T18:44:35,39.38,In-N-Out #458143,US,US,80,01,fastfood,True,05/2026,2014-10-11,2014-10-11,448,448,7273,PURCHASE,,0.0,,,,,,False,False
+601467846,601467846,1000.0,985.62,2016-06-17T08:49:54,62.74,alibaba.com,US,US,02,08,online_retail,False,03/2026,2014-10-11,2014-10-11,448,440,7273,PURCHASE,,14.38,,,,,,False,False
+601467846,601467846,1000.0,947.88,2016-12-29T00:27:39,12.64,staples.com,US,US,02,01,online_retail,False,09/2031,2014-10-11,2014-10-11,444,444,5389,PURCHASE,,52.12,,,,,,False,False

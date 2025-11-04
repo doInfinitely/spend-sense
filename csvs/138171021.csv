@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+138171021,138171021,20000.0,20000.0,2016-01-04T10:42:14,18.47,cheapfast.com,US,US,02,08,online_retail,09/2023,2015-10-20,2015-10-20,861,861,5650,PURCHASE,,0.0,,,,False,,,False,False
+138171021,138171021,20000.0,20000.0,2016-03-17T14:05:59,26.85,walmart.com,US,US,05,01,online_retail,04/2020,2015-10-20,2015-10-20,861,861,5650,PURCHASE,,0.0,,,,False,,,False,False
+138171021,138171021,20000.0,19998.15,2016-04-16T12:18:36,36.43,walmart.com,US,US,02,01,online_retail,11/2022,2015-10-20,2015-10-20,774,774,9515,PURCHASE,,1.85,,,,False,,,False,False
+138171021,138171021,20000.0,19986.72,2016-10-27T13:31:35,180.51,discount.com,US,US,05,01,online_retail,02/2031,2015-10-20,2015-10-20,861,861,5650,PURCHASE,,13.28,,,,False,,,False,False
+138171021,138171021,20000.0,19831.21,2016-11-28T07:35:53,586.83,oldnavy.com,US,US,02,01,online_retail,10/2021,2015-10-20,2015-10-20,774,774,9515,PURCHASE,,168.79,,,,False,,,False,False
+138171021,138171021,20000.0,19244.38,2016-11-30T13:28:45,451.17,Uber,US,US,09,01,rideshare,03/2021,2015-10-20,2015-10-20,774,774,9515,PURCHASE,,755.62,,,,False,,,False,True
+138171021,138171021,20000.0,18818.21,2016-12-21T23:37:37,47.2,sears.com,US,US,09,01,online_retail,11/2023,2015-10-20,2015-10-20,861,861,5650,PURCHASE,,1181.79,,,,False,,,False,False
+138171021,138171021,20000.0,18771.01,2016-12-26T16:05:17,32.71,Shell Gas #284394,US,US,05,01,fuel,05/2030,2015-10-20,2015-10-20,861,861,5650,PURCHASE,,1228.99,,,,True,,,False,False

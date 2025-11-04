@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+776198499,776198499,7500.0,7500.0,2016-04-24T10:40:16,168.03,discount.com,US,US,05,01,online_retail,02/2026,2015-07-31,2015-07-31,634,634,8592,PURCHASE,,0.0,,,,False,,,False,False
+776198499,776198499,7500.0,7356.97,2016-07-11T10:52:37,1.23,discount.com,US,US,02,08,online_retail,01/2027,2015-07-31,2015-07-31,634,634,8592,PURCHASE,,143.03,,,,False,,,False,False
+776198499,776198499,7500.0,7380.74,2016-09-11T22:28:37,417.08,apple.com,US,US,90,01,online_retail,05/2033,2015-07-31,2015-07-31,735,735,2087,PURCHASE,,119.26,,,,False,,,False,False
+776198499,776198499,7500.0,6988.66,2016-11-29T01:53:29,0.0,walmart.com,US,US,05,01,online_retail,08/2026,2015-07-31,2015-07-31,735,735,2087,ADDRESS_VERIFICATION,,511.34,,,,False,,,False,False
+776198499,776198499,7500.0,6988.66,2016-11-29T01:54:47,0.0,walmart.com,US,US,05,01,online_retail,08/2026,2015-07-31,2015-07-31,735,735,2087,ADDRESS_VERIFICATION,,511.34,,,,False,,,False,False
+776198499,776198499,7500.0,7013.66,2016-12-15T11:59:21,80.67,cheapfast.com,US,US,02,01,online_retail,08/2032,2015-07-31,2015-07-31,735,735,2087,PURCHASE,,486.34,,,,False,,,False,False

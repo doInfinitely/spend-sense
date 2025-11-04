@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+985915375,985915375,15000.0,15000.0,2016-01-27T10:46:10,123.15,discount.com,US,US,05,01,online_retail,04/2027,2015-10-01,2015-10-01,291,291,3267,PURCHASE,,0.0,,,,False,,,False,False
+985915375,985915375,15000.0,15000.0,2016-02-20T21:17:28,9.01,walmart.com,US,US,05,01,online_retail,04/2031,2015-10-01,2015-10-01,291,291,3267,PURCHASE,,0.0,,,,False,,,False,False
+985915375,985915375,15000.0,15000.0,2016-06-01T08:31:43,79.27,staples.com,US,US,09,01,online_retail,03/2026,2015-10-01,2015-10-01,291,291,3267,PURCHASE,,0.0,,,,False,,,False,False
+985915375,985915375,15000.0,14920.73,2016-06-01T08:33:58,79.27,staples.com,US,US,09,01,online_retail,03/2026,2015-10-01,2015-10-01,291,291,3267,REVERSAL,,79.27,,,,False,,,False,False
+985915375,985915375,15000.0,15000.0,2016-06-21T20:25:20,7.5,amazon.com,US,US,09,01,online_retail,06/2033,2015-10-01,2015-10-01,291,291,3267,PURCHASE,,0.0,,,,False,,,False,False
+985915375,985915375,15000.0,14992.5,2016-06-27T09:13:46,16.66,sears.com,US,US,05,01,online_retail,10/2029,2015-10-01,2015-10-01,291,291,3267,PURCHASE,,7.5,,,,False,,,False,False
+985915375,985915375,15000.0,15000.0,2016-09-19T08:50:16,343.76,staples.com,US,US,05,01,online_retail,12/2026,2015-10-01,2015-10-01,291,291,3267,PURCHASE,,0.0,,,,False,,,False,False
+985915375,985915375,15000.0,15000.0,2016-11-02T05:28:24,7.9,Play Store,US,US,05,01,mobileapps,01/2033,2015-10-01,2015-10-01,291,291,3267,PURCHASE,,0.0,,,,False,,,False,False
+985915375,985915375,15000.0,14992.1,2016-11-20T05:07:20,164.31,Domino's Pizza #409031,US,US,09,01,fastfood,04/2023,2015-10-01,2015-10-01,291,291,3267,PURCHASE,,7.9,,,,True,,,False,False
+985915375,985915375,15000.0,15000.0,2016-12-02T06:26:28,7.9,Play Store,US,US,05,01,mobileapps,01/2033,2015-10-01,2015-10-01,291,291,3267,PURCHASE,,0.0,,,,False,,,False,False

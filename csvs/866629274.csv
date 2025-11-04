@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+866629274,866629274,250.0,250.0,2016-03-05T20:05:09,64.8,AMC #79863,US,US,05,01,entertainment,True,03/2032,2014-07-11,2014-07-11,664,664,3645,PURCHASE,,0.0,,,,,,False,False
+866629274,866629274,250.0,185.2,2016-03-16T06:24:30,0.0,EZ Putt Putt #240241,US,US,05,01,entertainment,False,03/2032,2014-07-11,2014-07-11,664,664,3645,ADDRESS_VERIFICATION,,64.8,,,,,,False,False
+866629274,866629274,250.0,250.0,2016-04-20T06:10:54,300.62,EZ Putt Putt #240241,US,US,09,01,entertainment,True,09/2028,2014-07-11,2014-07-11,664,664,3645,PURCHASE,,0.0,,,,,,False,False
+866629274,866629274,250.0,250.0,2016-05-08T11:25:45,300.62,EZ Putt Putt #240241,US,US,09,01,entertainment,True,09/2028,2014-07-11,2014-07-11,664,664,3645,REVERSAL,,0.0,,,,,,False,False
+866629274,866629274,250.0,250.0,2016-06-18T11:43:48,331.81,AMC #552863,US,US,09,01,entertainment,False,11/2022,2014-07-11,2014-07-11,664,664,3645,PURCHASE,,0.0,,,,,,False,False
+866629274,866629274,250.0,250.0,2016-09-12T05:06:08,111.79,EZ Putt Putt #551896,US,US,09,01,entertainment,True,01/2030,2014-07-11,2014-07-11,664,664,3645,PURCHASE,,0.0,,,,,,False,False
+866629274,866629274,250.0,138.21,2016-09-25T00:07:17,82.6,Rodeway Inn #86441,US,US,02,01,hotels,True,11/2031,2014-07-11,2014-07-11,664,664,3645,PURCHASE,,111.79,,,,,,False,False
+866629274,866629274,250.0,250.0,2016-10-10T11:49:12,30.06,AMC #606218,US,US,02,08,entertainment,True,10/2028,2014-07-11,2014-07-11,664,664,3645,PURCHASE,,0.0,,,,,,False,False
+866629274,866629274,250.0,219.94,2016-10-15T20:17:19,456.27,EZ Putt Putt #804489,US,US,05,01,entertainment,True,10/2031,2014-07-11,2014-07-11,664,664,3645,PURCHASE,,30.06,,,,,,False,False

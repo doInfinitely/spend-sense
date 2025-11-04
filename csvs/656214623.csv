@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+656214623,656214623,7500.0,7500.0,2016-02-21T03:13:32,109.7,Dinosaur Fries,US,US,09,08,food,True,10/2023,2015-01-09,2015-01-09,735,735,6668,PURCHASE,,0.0,,,,,,False,False
+656214623,656214623,7500.0,7415.3,2016-04-18T02:24:18,448.86,Downtown Diner,US,US,05,01,food,True,06/2028,2015-01-09,2015-01-09,735,735,6668,PURCHASE,,84.7,,,,,,False,False
+656214623,656214623,7500.0,6991.44,2016-06-21T09:42:11,299.23,34th BBQ #538716,US,US,09,01,food,False,09/2028,2015-01-09,2015-01-09,735,735,6668,PURCHASE,,508.56,,,,,,False,False
+656214623,656214623,7500.0,6717.21,2016-12-13T22:40:30,2.35,Regal Cinemas #729464,US,US,05,01,entertainment,True,10/2032,2015-01-09,2015-01-09,735,735,6668,PURCHASE,,782.79,,,,,,False,False

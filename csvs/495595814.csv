@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+495595814,495595814,5000.0,5000.0,2016-03-23T15:06:59,47.91,Popeyes #295098,US,US,05,01,fastfood,True,01/2028,2015-07-13,2015-07-13,852,852,9296,PURCHASE,,0.0,,,,,,False,False
+495595814,495595814,5000.0,5000.0,2016-04-10T07:17:49,19.89,Auntie Anne's #984663,US,US,09,01,fastfood,True,03/2025,2015-07-13,2015-07-13,502,502,6087,PURCHASE,,0.0,,,,,,False,False
+495595814,495595814,5000.0,5000.0,2016-11-28T17:05:18,7.27,Apple iTunes,US,US,09,01,mobileapps,False,05/2020,2015-07-13,2015-07-13,852,852,9296,PURCHASE,,0.0,,,,,,False,False
+495595814,495595814,5000.0,5000.0,2016-12-30T07:27:26,7.27,Apple iTunes,US,US,09,01,mobileapps,False,05/2020,2015-07-13,2015-07-13,852,852,9296,PURCHASE,,0.0,,,,,,False,False

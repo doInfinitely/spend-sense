@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+373253169,373253169,1000.0,1000.0,2016-02-14T22:52:47,28.23,target.com,US,US,02,01,online_retail,12/2027,2013-09-26,2013-09-26,545,545,8737,PURCHASE,,0.0,,,,False,,,False,False
+373253169,373253169,1000.0,996.77,2016-04-17T23:30:14,445.32,discount.com,US,US,02,08,online_retail,12/2025,2013-09-26,2013-09-26,545,545,8737,PURCHASE,,3.23,,,,False,,,False,False
+373253169,373253169,1000.0,576.45,2016-06-06T10:59:59,76.77,sears.com,US,US,02,01,online_retail,04/2025,2013-09-26,2013-09-26,545,545,8737,PURCHASE,,423.55,,,,False,,,False,False
+373253169,373253169,1000.0,524.6800000000001,2016-08-14T15:50:10,100.7,AMC #128743,US,US,05,01,entertainment,04/2026,2013-09-26,2013-09-26,545,545,8737,PURCHASE,,475.32,,,,True,,,False,False
+373253169,373253169,1000.0,448.98,2016-11-30T04:36:31,199.49,staples.com,US,US,05,01,online_retail,05/2024,2013-09-26,2013-09-26,545,545,8737,PURCHASE,,551.02,,,,False,,,False,False

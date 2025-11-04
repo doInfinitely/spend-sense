@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+754822913,754822913,1000.0,1000.0,2016-01-02T05:29:59,30.59,Uber,US,US,05,01,rideshare,06/2033,2012-10-21,2012-10-21,237,237,8038,PURCHASE,,0.0,,,,False,,,False,False
+754822913,754822913,1000.0,1000.0,2016-03-01T13:07:23,111.72,Uber,US,US,09,01,rideshare,12/2029,2012-10-21,2012-10-21,237,237,8038,PURCHASE,,0.0,,,,False,,,False,False
+754822913,754822913,1000.0,888.28,2016-03-24T22:45:11,59.67,Lyft,US,US,09,08,rideshare,02/2021,2012-10-21,2012-10-21,353,353,9713,PURCHASE,,111.72,,,,False,,,False,False
+754822913,754822913,1000.0,828.61,2016-03-27T02:42:31,431.62,Lyft,US,US,05,01,rideshare,08/2023,2012-10-21,2012-10-21,237,237,8038,PURCHASE,,171.39,,,,False,,,False,False
+754822913,754822913,1000.0,1000.0,2016-04-28T01:36:31,60.32,Lyft,US,US,09,01,rideshare,02/2022,2012-10-21,2012-10-21,353,353,9713,PURCHASE,,0.0,,,,False,,,False,False
+754822913,754822913,1000.0,1000.0,2016-07-22T19:26:27,21.17,Lyft,US,US,02,01,rideshare,11/2028,2012-10-21,2012-10-21,353,353,9713,PURCHASE,,0.0,,,,False,,,False,False

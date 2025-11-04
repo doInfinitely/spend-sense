@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+135357269,135357269,2500.0,2500.0,2016-08-28T05:22:49,11.31,Spotify,PR,PR,05,01,online_subscriptions,05/2020,2013-03-16,2013-03-16,843,843,6589,PURCHASE,,0.0,,,,False,,,False,False
+135357269,135357269,2500.0,2500.0,2016-09-13T05:34:49,161.47,Lyft,US,US,02,01,rideshare,10/2030,2013-03-16,2013-03-16,843,843,6589,PURCHASE,,0.0,,,,False,,,False,True
+135357269,135357269,2500.0,2338.53,2016-09-28T00:05:52,11.31,Spotify,PR,PR,05,01,online_subscriptions,05/2020,2013-03-16,2013-03-16,843,843,6589,PURCHASE,,161.47,,,,False,,,False,False
+135357269,135357269,2500.0,2352.22,2016-10-29T00:06:42,11.31,Spotify,PR,PR,05,01,online_subscriptions,05/2020,2013-03-16,2013-03-16,843,843,6589,PURCHASE,,147.78,,,,False,,,False,False
+135357269,135357269,2500.0,2365.91,2016-11-28T08:54:54,11.31,Spotify,PR,PR,05,01,online_subscriptions,05/2020,2013-03-16,2013-03-16,843,843,6589,PURCHASE,,134.09,,,,False,,,False,False
+135357269,135357269,2500.0,2379.6,2016-12-29T21:04:22,11.31,Spotify,PR,PR,05,01,online_subscriptions,05/2020,2013-03-16,2013-03-16,843,843,6589,PURCHASE,,120.4,,,,False,,,False,False

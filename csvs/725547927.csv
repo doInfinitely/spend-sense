@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+725547927,725547927,7500.0,7500.0,2016-01-03T07:36:27,7.23,Quizno's #13005,US,US,05,01,fastfood,True,10/2023,2014-01-31,2014-01-31,584,584,6787,PURCHASE,,0.0,,,,,,False,False
+725547927,725547927,7500.0,7492.77,2016-01-15T14:02:04,125.79,Next Day Online Services,US,US,05,01,online_gifts,False,05/2032,2014-01-31,2014-01-31,584,584,6787,PURCHASE,,7.23,,,,,,False,False
+725547927,725547927,7500.0,7500.0,2016-02-04T23:10:21,284.45,Subway #532024,US,US,05,01,fastfood,True,01/2026,2014-01-31,2014-01-31,584,584,6787,PURCHASE,,0.0,,,,,,False,False
+725547927,725547927,7500.0,7500.0,2016-03-21T04:45:43,457.8,Dunkin' Donuts #963251,US,US,09,01,fastfood,True,11/2028,2014-01-31,2014-01-31,584,584,6787,PURCHASE,,0.0,,,,,,False,False
+725547927,725547927,7500.0,7500.0,2016-04-12T04:55:55,497.55,Quizno's #357998,US,US,09,01,fastfood,True,01/2030,2014-01-31,2014-01-31,584,584,6787,PURCHASE,,0.0,,,,,,False,False
+725547927,725547927,7500.0,7002.45,2016-04-13T19:31:09,42.75,Next Day eCards,US,US,05,01,online_gifts,False,12/2027,2014-01-31,2014-01-31,584,584,6787,PURCHASE,,497.55,,,,,,False,False
+725547927,725547927,7500.0,7500.0,2016-07-13T07:15:03,134.37,Dunkin' Donuts #952118,US,US,02,08,fastfood,True,10/2021,2014-01-31,2014-01-31,584,584,6787,PURCHASE,,0.0,,,,,,False,False
+725547927,725547927,7500.0,7500.0,2016-10-21T16:52:01,96.29,Five Guys #15552,US,US,09,01,fastfood,True,08/2032,2014-01-31,2014-01-31,584,584,6787,PURCHASE,,0.0,,,,,,False,False

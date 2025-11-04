@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+481023631,481023631,5000.0,5000.0,2016-01-25T22:19:32,55.21,apple.com,US,US,02,01,online_retail,12/2024,2014-05-31,2014-05-31,496,496,2114,PURCHASE,,0.0,,,,False,,,False,False
+481023631,481023631,5000.0,4969.79,2016-02-20T01:02:03,437.58,cheapfast.com,US,US,02,01,online_retail,10/2028,2014-05-31,2014-05-31,496,496,2114,PURCHASE,,30.21,,,,False,,,False,False
+481023631,481023631,5000.0,4557.21,2016-03-13T07:10:13,32.25,staples.com,US,US,05,01,online_retail,05/2030,2014-05-31,2014-05-31,496,496,2114,PURCHASE,,442.79,,,,False,,,False,False
+481023631,481023631,5000.0,4549.96,2016-06-02T19:49:03,10.71,gap.com,US,US,09,01,online_retail,11/2027,2014-05-31,2014-05-31,496,496,2114,PURCHASE,,450.04,,,,False,,,False,False
+481023631,481023631,5000.0,4564.25,2016-08-14T01:21:41,112.2,target.com,US,US,05,08,online_retail,02/2025,2014-05-31,2014-05-31,496,496,2114,PURCHASE,,435.75,,,,False,,,False,False
+481023631,481023631,5000.0,4477.05,2016-11-15T13:41:26,46.68,walmart.com,US,US,05,01,online_retail,10/2030,2014-05-31,2014-05-31,496,496,2114,PURCHASE,,522.95,,,,False,,,False,False
+481023631,481023631,5000.0,4430.37,2016-11-23T19:32:29,48.16,staples.com,US,US,02,01,online_retail,12/2023,2014-05-31,2014-05-31,496,496,2114,PURCHASE,,569.63,,,,False,,,False,False

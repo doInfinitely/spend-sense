@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+114557858,114557858,50000.0,50000.0,2016-03-02T05:57:32,43.13,gap.com,US,US,05,01,online_retail,04/2022,2015-11-14,2015-11-14,412,412,1847,PURCHASE,,0.0,,,,False,,,False,False
+114557858,114557858,50000.0,49981.87,2016-08-14T07:34:25,14.77,hulu.com,US,US,09,01,online_subscriptions,02/2021,2015-11-14,2015-11-14,412,412,1847,PURCHASE,,18.13,,,,False,,,False,False
+114557858,114557858,50000.0,49992.1,2016-09-14T15:31:43,14.77,hulu.com,US,US,09,01,online_subscriptions,02/2021,2015-11-14,2015-11-14,412,412,1847,PURCHASE,,7.9,,,,False,,,False,False
+114557858,114557858,50000.0,50000.0,2016-10-15T00:55:38,14.77,hulu.com,US,US,09,01,online_subscriptions,02/2021,2015-11-14,2015-11-14,412,412,1847,PURCHASE,,0.0,,,,False,,,False,False
+114557858,114557858,50000.0,50000.0,2016-11-15T13:20:08,14.77,hulu.com,US,US,09,01,online_subscriptions,02/2021,2015-11-14,2015-11-14,412,412,1847,PURCHASE,,0.0,,,,False,,,False,False
+114557858,114557858,50000.0,50000.0,2016-12-17T00:11:52,14.77,hulu.com,US,US,09,01,online_subscriptions,02/2021,2015-11-14,2015-11-14,412,412,1847,PURCHASE,,0.0,,,,False,,,False,False

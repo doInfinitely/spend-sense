@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+579225506,579225506,2500.0,2500.0,2016-07-08T14:11:55,285.51,apple.com,US,US,09,08,online_retail,06/2031,2013-03-08,2013-03-08,911,911,7120,PURCHASE,,0.0,,,,False,,,False,False
+579225506,579225506,2500.0,2214.49,2016-07-22T03:07:18,4.06,Play Store,US,US,02,08,mobileapps,04/2023,2013-03-08,2013-03-08,911,911,7120,PURCHASE,,285.51,,,,False,,,False,False
+579225506,579225506,2500.0,2235.43,2016-08-21T15:23:10,4.06,Play Store,US,US,02,08,mobileapps,04/2023,2013-03-08,2013-03-08,911,911,7120,PURCHASE,,264.57,,,,False,,,False,False
+579225506,579225506,2500.0,2231.37,2016-08-22T06:09:22,71.19,sears.com,US,US,09,01,online_retail,01/2033,2013-03-08,2013-03-08,911,911,7120,PURCHASE,,268.63,,,,False,,,False,False
+579225506,579225506,2500.0,2185.18,2016-09-22T12:27:47,4.06,Play Store,US,US,02,08,mobileapps,04/2023,2013-03-08,2013-03-08,911,911,7120,PURCHASE,,314.82,,,,False,,,False,False
+579225506,579225506,2500.0,2206.12,2016-10-22T15:26:58,4.06,Play Store,US,US,02,08,mobileapps,04/2023,2013-03-08,2013-03-08,911,911,7120,PURCHASE,,293.88,,,,False,,,False,False
+579225506,579225506,2500.0,2227.06,2016-11-22T16:47:25,4.06,Play Store,US,US,02,08,mobileapps,04/2023,2013-03-08,2013-03-08,911,911,7120,PURCHASE,,272.94,,,,False,,,False,False
+579225506,579225506,2500.0,2248.0,2016-12-24T03:17:23,4.06,Play Store,US,US,02,08,mobileapps,04/2023,2013-03-08,2013-03-08,911,911,7120,PURCHASE,,252.0,,,,False,,,False,False
+579225506,579225506,2500.0,2243.94,2016-12-30T07:37:50,271.99,target.com,CAN,CAN,09,08,online_retail,09/2025,2013-03-08,2013-03-08,911,911,7120,PURCHASE,,256.06,,,,False,,,False,False

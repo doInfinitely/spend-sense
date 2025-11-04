@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+287527885,287527885,15000.0,15000.0,2016-05-13T11:12:07,3.3,Apple iTunes,US,US,02,01,mobileapps,05/2025,2011-07-27,2011-07-27,925,925,8744,PURCHASE,,0.0,,,,False,,,False,False
+287527885,287527885,15000.0,15000.0,2016-06-14T04:37:52,3.3,Apple iTunes,US,US,02,01,mobileapps,05/2025,2011-07-27,2011-07-27,925,925,8744,PURCHASE,,0.0,,,,False,,,False,False
+287527885,287527885,15000.0,15000.0,2016-07-14T11:18:01,3.3,Apple iTunes,US,US,02,01,mobileapps,05/2025,2011-07-27,2011-07-27,925,925,8744,PURCHASE,,0.0,,,,False,,,False,False
+287527885,287527885,15000.0,15000.0,2016-08-14T06:34:01,3.3,Apple iTunes,US,US,02,01,mobileapps,05/2025,2011-07-27,2011-07-27,925,925,8744,PURCHASE,,0.0,,,,False,,,False,False
+287527885,287527885,15000.0,15000.0,2016-09-14T07:22:34,3.3,Apple iTunes,US,US,02,01,mobileapps,05/2025,2011-07-27,2011-07-27,925,925,8744,PURCHASE,,0.0,,,,False,,,False,False
+287527885,287527885,15000.0,15000.0,2016-10-15T01:43:34,3.3,Apple iTunes,US,US,02,01,mobileapps,05/2025,2011-07-27,2011-07-27,925,925,8744,PURCHASE,,0.0,,,,False,,,False,False
+287527885,287527885,15000.0,15000.0,2016-11-15T09:14:44,3.3,Apple iTunes,US,US,02,01,mobileapps,05/2025,2011-07-27,2011-07-27,925,925,8744,PURCHASE,,0.0,,,,False,,,False,False
+287527885,287527885,15000.0,15000.0,2016-12-17T01:11:24,3.3,Apple iTunes,US,US,02,01,mobileapps,05/2025,2011-07-27,2011-07-27,925,925,8744,PURCHASE,,0.0,,,,False,,,False,False

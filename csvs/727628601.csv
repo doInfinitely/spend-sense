@@ -1,0 +1,12 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+727628601,727628601,15000.0,15000.0,2016-05-17T04:47:46,164.18,oldnavy.com,US,US,02,01,online_retail,03/2021,2014-05-23,2014-05-23,281,281,4976,PURCHASE,,0.0,,,,False,,,False,False
+727628601,727628601,15000.0,14835.82,2016-05-18T06:02:22,99.91,sears.com,US,US,05,01,online_retail,06/2032,2014-05-23,2014-05-23,281,281,4976,PURCHASE,,164.18,,,,False,,,False,False
+727628601,727628601,15000.0,14760.91,2016-06-11T04:44:07,120.24,gap.com,US,US,05,08,online_retail,03/2027,2014-05-23,2014-05-23,281,281,4976,PURCHASE,,239.09,,,,False,,,False,False
+727628601,727628601,15000.0,14665.67,2016-07-06T03:48:40,6.17,Apple iTunes,US,US,05,08,mobileapps,01/2024,2014-05-23,2014-05-23,281,281,4976,PURCHASE,,334.33,,,,False,,,False,False
+727628601,727628601,15000.0,14659.5,2016-07-18T08:49:42,145.6,discount.com,US,US,05,01,online_retail,03/2020,2014-05-23,2014-05-23,281,281,4976,PURCHASE,,340.5,,,,False,,,False,False
+727628601,727628601,15000.0,14538.9,2016-08-05T22:03:48,6.17,Apple iTunes,US,US,05,08,mobileapps,01/2024,2014-05-23,2014-05-23,281,281,4976,PURCHASE,,461.1,,,,False,,,False,False
+727628601,727628601,15000.0,14532.73,2016-08-09T09:17:17,17.62,staples.com,US,US,09,01,online_retail,04/2027,2014-05-23,2014-05-23,281,281,4976,PURCHASE,,467.27,,,,False,,,False,False
+727628601,727628601,15000.0,14540.11,2016-09-05T03:59:36,6.17,Apple iTunes,US,US,05,08,mobileapps,01/2024,2014-05-23,2014-05-23,281,281,4976,PURCHASE,,459.89,,,,False,,,False,False
+727628601,727628601,15000.0,14558.94,2016-10-06T04:02:34,6.17,Apple iTunes,US,US,05,08,mobileapps,01/2024,2014-05-23,2014-05-23,281,281,4976,PURCHASE,,441.06,,,,False,,,False,False
+727628601,727628601,15000.0,14577.77,2016-11-05T17:37:15,6.17,Apple iTunes,US,US,05,08,mobileapps,01/2024,2014-05-23,2014-05-23,281,281,4976,PURCHASE,,422.23,,,,False,,,False,False
+727628601,727628601,15000.0,14596.6,2016-12-07T01:39:24,6.17,Apple iTunes,US,US,05,08,mobileapps,01/2024,2014-05-23,2014-05-23,281,281,4976,PURCHASE,,403.4,,,,False,,,False,False

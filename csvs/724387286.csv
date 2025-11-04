@@ -1,0 +1,16 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+724387286,724387286,1000.0,1000.0,2016-01-14T03:57:57,21.5,abc.com,US,US,05,01,online_subscriptions,06/2025,2015-11-15,2015-11-15,613,613,7220,PURCHASE,,0.0,,,,False,,,False,False
+724387286,724387286,1000.0,1000.0,2016-02-15T01:33:07,21.5,abc.com,US,US,05,01,online_subscriptions,06/2025,2015-11-15,2015-11-15,613,613,7220,PURCHASE,,0.0,,,,False,,,False,False
+724387286,724387286,1000.0,1000.0,2016-03-17T11:40:19,21.5,abc.com,US,US,05,01,online_subscriptions,06/2025,2015-11-15,2015-11-15,613,613,7220,PURCHASE,,0.0,,,,False,,,False,False
+724387286,724387286,1000.0,1000.0,2016-04-16T20:58:40,21.5,abc.com,US,US,05,01,online_subscriptions,06/2025,2015-11-15,2015-11-15,613,613,7220,PURCHASE,,0.0,,,,False,,,False,False
+724387286,724387286,1000.0,1000.0,2016-05-18T20:36:34,21.5,abc.com,US,US,05,01,online_subscriptions,06/2025,2015-11-15,2015-11-15,613,613,7220,PURCHASE,,0.0,,,,False,,,False,False
+724387286,724387286,1000.0,1000.0,2016-06-18T14:05:19,21.5,abc.com,US,US,05,01,online_subscriptions,06/2025,2015-11-15,2015-11-15,613,613,7220,PURCHASE,,0.0,,,,False,,,False,False
+724387286,724387286,1000.0,1000.0,2016-07-19T14:41:02,21.5,abc.com,US,US,05,01,online_subscriptions,06/2025,2015-11-15,2015-11-15,613,613,7220,PURCHASE,,0.0,,,,False,,,False,False
+724387286,724387286,1000.0,1000.0,2016-08-15T09:24:08,583.54,EZ Putt Putt #40513,US,US,02,01,entertainment,03/2022,2015-11-15,2015-11-15,613,613,7220,PURCHASE,,0.0,,,,True,,,False,False
+724387286,724387286,1000.0,416.46,2016-08-19T05:00:53,21.5,abc.com,US,US,05,01,online_subscriptions,06/2025,2015-11-15,2015-11-15,613,613,7220,PURCHASE,,583.54,,,,False,,,False,False
+724387286,724387286,1000.0,394.96,2016-08-19T22:25:04,117.92,AMC #145832,US,US,05,08,entertainment,12/2019,2015-11-15,2015-11-15,211,211,7961,PURCHASE,,605.04,,,,False,,,False,False
+724387286,724387286,1000.0,302.04,2016-09-18T09:29:31,21.5,abc.com,US,US,05,01,online_subscriptions,06/2025,2015-11-15,2015-11-15,613,613,7220,PURCHASE,,697.96,,,,False,,,False,False
+724387286,724387286,1000.0,305.54,2016-10-18T14:59:32,21.5,abc.com,US,US,05,01,online_subscriptions,06/2025,2015-11-15,2015-11-15,613,613,7220,PURCHASE,,694.46,,,,False,,,False,False
+724387286,724387286,1000.0,309.04,2016-11-19T07:42:57,21.5,abc.com,US,US,05,01,online_subscriptions,06/2025,2015-11-15,2015-11-15,613,613,7220,PURCHASE,,690.96,,,,False,,,False,False
+724387286,724387286,1000.0,312.54,2016-12-05T23:40:40,54.36,Uber,US,US,05,08,rideshare,02/2028,2015-11-15,2015-11-15,286,286,972,PURCHASE,,687.46,,,,False,,,False,False
+724387286,724387286,1000.0,258.18,2016-12-19T17:35:29,21.5,abc.com,US,US,05,01,online_subscriptions,06/2025,2015-11-15,2015-11-15,613,613,7220,PURCHASE,,741.82,,,,False,,,False,False

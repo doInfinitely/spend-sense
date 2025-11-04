@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+462569976,462569976,50000.0,50000.0,2016-02-09T04:01:57,29.16,South Steakhouse #481929,US,US,09,01,food,True,09/2026,2015-06-10,2015-06-10,657,657,7467,PURCHASE,,0.0,,,,,,False,False
+462569976,462569976,50000.0,50000.0,2016-09-12T07:11:54,244.29,sears.com,US,US,02,01,online_retail,False,02/2030,2015-06-10,2015-06-10,657,657,7467,PURCHASE,,0.0,,,,,,False,False
+462569976,462569976,50000.0,50000.0,2016-11-20T06:27:55,16.63,netflix.com,US,US,05,01,online_subscriptions,False,01/2029,2015-06-10,2015-06-10,657,657,7467,PURCHASE,,0.0,,,,,,False,False
+462569976,462569976,50000.0,50000.0,2016-12-20T14:03:32,16.63,netflix.com,US,US,05,01,online_subscriptions,False,01/2029,2015-06-10,2015-06-10,657,657,7467,PURCHASE,,0.0,,,,,,False,False

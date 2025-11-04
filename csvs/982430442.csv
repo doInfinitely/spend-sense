@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+982430442,982430442,5000.0,5000.0,2016-01-12T14:21:20,309.53,target.com,US,US,02,01,online_retail,09/2028,2014-04-26,2014-04-26,716,716,4822,PURCHASE,,0.0,,,,False,,,False,False
+982430442,982430442,5000.0,4715.47,2016-03-17T07:46:16,79.83,Washington Auto Body,US,US,05,01,auto,12/2019,2014-04-26,2014-04-26,716,716,4822,PURCHASE,,284.53,,,,True,,,False,False
+982430442,982430442,5000.0,4660.64,2016-04-09T20:27:46,92.54,Fast Repair,US,US,09,01,auto,08/2026,2014-04-26,2014-04-26,716,716,4822,PURCHASE,,339.36,,,,False,,,False,False
+982430442,982430442,5000.0,4568.1,2016-04-10T18:23:12,130.97,target.com,US,US,09,08,online_retail,05/2027,2014-04-26,2014-04-26,716,716,4822,PURCHASE,,431.9,,,,False,,,False,False
+982430442,982430442,5000.0,4437.13,2016-04-19T09:43:21,4.99,Lyft,US,US,05,01,rideshare,12/2028,2014-04-26,2014-04-26,716,716,4822,PURCHASE,,562.87,,,,False,,,False,False
+982430442,982430442,5000.0,4457.14,2016-05-18T18:41:45,105.4,Uber,US,US,09,01,rideshare,06/2025,2014-04-26,2014-04-26,716,716,4822,PURCHASE,,542.86,,,,False,,,False,False
+982430442,982430442,5000.0,4376.74,2016-12-01T02:00:14,8.08,Play Store,US,US,09,08,mobileapps,10/2027,2014-04-26,2014-04-26,716,716,4822,PURCHASE,,623.26,,,,False,,,False,False

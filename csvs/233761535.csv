@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,transactionAmount,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+233761535,233761535,5000.0,5000.0,2016-02-17T10:54:01,Dallas Post,US,US,05,01,subscriptions,12/2032,2015-09-10,2015-09-10,114,114,8474,ADDRESS_VERIFICATION,,0.0,0.0,,,,False,,,False,False
+233761535,233761535,5000.0,5000.0,2016-03-14T04:06:07,gap.com,US,US,05,01,online_retail,12/2028,2015-09-10,2015-09-10,114,114,8474,PURCHASE,,0.0,208.71,,,,False,,,False,False
+233761535,233761535,5000.0,5000.0,2016-07-15T05:59:05,oldnavy.com,US,US,05,01,online_retail,07/2022,2015-09-10,2015-09-10,114,114,8474,PURCHASE,,0.0,30.08,,,,False,,,False,False
+233761535,233761535,5000.0,5000.0,2016-12-04T04:17:48,Apple iTunes,US,US,05,01,mobileapps,07/2033,2015-09-10,2015-09-10,114,114,8474,PURCHASE,,0.0,6.28,,,,False,,,False,False
+233761535,233761535,5000.0,4993.72,2016-12-26T16:33:24,amazon.com,,US,02,01,online_retail,11/2020,2015-09-10,2015-09-10,114,114,8474,PURCHASE,,6.28,90.19,,,,False,,,False,False

@@ -1,0 +1,15 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+640888063,640888063,10000.0,10000.0,2016-01-07T17:34:41,17.49,netflix.com,US,US,05,01,online_subscriptions,05/2027,2009-11-23,2009-11-23,431,431,2423,PURCHASE,,0.0,,,,False,,,False,False
+640888063,640888063,10000.0,10000.0,2016-02-08T15:32:29,17.49,netflix.com,US,US,05,01,online_subscriptions,05/2027,2009-11-23,2009-11-23,431,431,2423,PURCHASE,,0.0,,,,False,,,False,False
+640888063,640888063,10000.0,10000.0,2016-03-10T19:22:27,17.49,netflix.com,US,US,05,01,online_subscriptions,05/2027,2009-11-23,2009-11-23,431,431,2423,PURCHASE,,0.0,,,,False,,,False,False
+640888063,640888063,10000.0,10000.0,2016-04-09T21:28:15,17.49,netflix.com,US,US,05,01,online_subscriptions,05/2027,2009-11-23,2009-11-23,431,431,2423,PURCHASE,,0.0,,,,False,,,False,False
+640888063,640888063,10000.0,10000.0,2016-05-10T06:59:37,17.49,netflix.com,US,US,05,01,online_subscriptions,05/2027,2009-11-23,2009-11-23,431,431,2423,PURCHASE,,0.0,,,,False,,,False,False
+640888063,640888063,10000.0,10000.0,2016-06-09T13:31:59,17.49,netflix.com,US,US,05,01,online_subscriptions,05/2027,2009-11-23,2009-11-23,431,431,2423,PURCHASE,,0.0,,,,False,,,False,False
+640888063,640888063,10000.0,10000.0,2016-07-09T18:24:41,17.49,netflix.com,US,US,05,01,online_subscriptions,05/2027,2009-11-23,2009-11-23,431,431,2423,PURCHASE,,0.0,,,,False,,,False,False
+640888063,640888063,10000.0,10000.0,2016-08-09T14:25:53,17.49,netflix.com,US,US,05,01,online_subscriptions,05/2027,2009-11-23,2009-11-23,431,431,2423,PURCHASE,,0.0,,,,False,,,False,False
+640888063,640888063,10000.0,10000.0,2016-09-01T19:25:39,10.75,Hilton Hotels #969930,US,US,05,01,hotels,04/2023,2009-11-23,2009-11-23,431,431,2423,PURCHASE,,0.0,,,,True,,,False,False
+640888063,640888063,10000.0,9989.25,2016-09-09T06:44:24,17.49,netflix.com,US,US,05,01,online_subscriptions,05/2027,2009-11-23,2009-11-23,431,431,2423,PURCHASE,,10.75,,,,False,,,False,False
+640888063,640888063,10000.0,9996.76,2016-10-09T21:25:40,17.49,netflix.com,US,US,05,01,online_subscriptions,05/2027,2009-11-23,2009-11-23,431,431,2423,PURCHASE,,3.24,,,,False,,,False,False
+640888063,640888063,10000.0,10000.0,2016-11-08T21:37:27,53.1,Rodeway Inn #368799,US,US,09,01,hotels,02/2028,2009-11-23,2009-11-23,431,431,2423,PURCHASE,,0.0,,,,True,,,False,False
+640888063,640888063,10000.0,9946.9,2016-11-09T13:39:55,17.49,netflix.com,US,US,05,01,online_subscriptions,05/2027,2009-11-23,2009-11-23,431,431,2423,PURCHASE,,53.1,,,,False,,,False,False
+640888063,640888063,10000.0,9954.41,2016-12-10T02:49:23,17.49,netflix.com,US,US,05,01,online_subscriptions,05/2027,2009-11-23,2009-11-23,431,431,2423,PURCHASE,,45.59,,,,False,,,False,False

@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+664244541,664244541,7500.0,7500.0,2016-09-25T13:59:41,52.66,Sunoco Gas #946319,US,US,02,01,fuel,True,10/2030,2015-03-25,2015-03-25,785,785,8055,PURCHASE,,0.0,,,,,,False,False
+664244541,664244541,7500.0,7472.34,2016-10-09T19:22:33,65.89,Sunoco Gas #946319,US,US,02,01,fuel,True,10/2030,2015-03-25,2015-03-25,785,785,8055,PURCHASE,,27.66,,,,,,False,False
+664244541,664244541,7500.0,7406.45,2016-10-23T17:56:41,60.92,Sunoco Gas #946319,US,US,02,01,fuel,True,10/2030,2015-03-25,2015-03-25,785,785,8055,PURCHASE,,93.55,,,,,,False,False
+664244541,664244541,7500.0,7370.53,2016-11-07T11:51:29,52.66,Sunoco Gas #946319,US,US,02,01,fuel,True,10/2030,2015-03-25,2015-03-25,785,785,8055,PURCHASE,,129.47,,,,,,False,False
+664244541,664244541,7500.0,7317.87,2016-11-22T08:59:55,61.34,Sunoco Gas #946319,US,US,02,01,fuel,True,10/2030,2015-03-25,2015-03-25,785,785,8055,PURCHASE,,182.13,,,,,,False,False
+664244541,664244541,7500.0,7281.53,2016-12-06T16:39:21,66.62,Sunoco Gas #946319,US,US,02,01,fuel,True,10/2030,2015-03-25,2015-03-25,785,785,8055,PURCHASE,,218.47,,,,,,False,False
+664244541,664244541,7500.0,7214.91,2016-12-21T06:55:39,52.66,Sunoco Gas #946319,US,US,02,01,fuel,True,10/2030,2015-03-25,2015-03-25,785,785,8055,PURCHASE,,285.09,,,,,,False,False

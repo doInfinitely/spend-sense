@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+665283088,665283088,20000.0,20000.0,2016-02-19T15:39:53,125.28,Rodeway Inn #784818,US,US,02,01,hotels,True,08/2020,2014-01-01,2014-01-01,776,776,3563,PURCHASE,,0.0,,,,,,False,False
+665283088,665283088,20000.0,20000.0,2016-03-07T23:32:32,118.92,American Airlines,US,US,05,08,airline,False,09/2020,2014-01-01,2014-01-01,776,776,3563,PURCHASE,,0.0,,,,,,False,False
+665283088,665283088,20000.0,19881.08,2016-03-08T21:06:26,135.16,amazon.com,US,US,05,01,online_retail,False,04/2033,2014-01-01,2014-01-01,776,776,3563,PURCHASE,,118.92,,,,,,False,False
+665283088,665283088,20000.0,20000.0,2016-06-24T08:02:40,163.23,American Airlines,US,US,05,01,airline,False,09/2020,2014-01-01,2014-01-01,776,776,3563,PURCHASE,,0.0,,,,,,False,False
+665283088,665283088,20000.0,20000.0,2016-07-03T17:08:42,0.0,apple.com,US,US,09,01,online_retail,False,07/2020,2014-01-01,2014-01-01,776,776,3563,ADDRESS_VERIFICATION,,0.0,,,,,,False,False
+665283088,665283088,20000.0,20000.0,2016-09-02T08:43:35,257.61,sears.com,US,US,05,08,online_retail,False,06/2020,2014-01-01,2014-01-01,776,776,3563,PURCHASE,,0.0,,,,,,False,False
+665283088,665283088,20000.0,20000.0,2016-11-04T13:43:28,21.41,ebay.com,US,US,02,01,online_retail,False,07/2028,2014-01-01,2014-01-01,776,776,3563,PURCHASE,,0.0,,,,,,False,False
+665283088,665283088,20000.0,20000.0,2016-12-09T17:30:21,238.48,Icelandic Airlines,US,US,09,01,airline,False,08/2030,2014-01-01,2014-01-01,776,776,3563,PURCHASE,,0.0,,,,,,False,False
+665283088,665283088,20000.0,19761.52,2016-12-23T06:44:47,20.32,United Airlines,US,US,05,01,airline,False,05/2025,2014-01-01,2014-01-01,776,776,3563,PURCHASE,,238.48,,,,,,False,False

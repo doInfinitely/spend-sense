@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+736354177,736354177,10000.0,10000.0,2016-06-22T22:39:38,8.4,Apple iTunes,US,US,05,01,mobileapps,12/2021,2013-08-12,2013-08-12,634,634,9819,PURCHASE,,0.0,,,,False,,,False,False
+736354177,736354177,10000.0,10000.0,2016-07-23T20:26:30,8.4,Apple iTunes,US,US,05,01,mobileapps,12/2021,2013-08-12,2013-08-12,634,634,9819,PURCHASE,,0.0,,,,False,,,False,False
+736354177,736354177,10000.0,10000.0,2016-08-22T10:41:20,45.34,Subway #276026,US,US,05,01,fastfood,05/2022,2013-08-12,2013-08-12,634,634,9819,PURCHASE,,0.0,,,,True,,,False,False
+736354177,736354177,10000.0,9954.66,2016-08-23T21:37:31,8.4,Apple iTunes,US,US,05,01,mobileapps,12/2021,2013-08-12,2013-08-12,634,634,9819,PURCHASE,,45.34,,,,False,,,False,False
+736354177,736354177,10000.0,9971.26,2016-09-24T16:41:07,8.4,Apple iTunes,US,US,05,01,mobileapps,12/2021,2013-08-12,2013-08-12,634,634,9819,PURCHASE,,28.74,,,,False,,,False,False
+736354177,736354177,10000.0,9987.86,2016-10-24T18:37:15,8.4,Apple iTunes,US,US,05,01,mobileapps,12/2021,2013-08-12,2013-08-12,634,634,9819,PURCHASE,,12.14,,,,False,,,False,False
+736354177,736354177,10000.0,10000.0,2016-11-23T22:15:55,8.4,Apple iTunes,US,US,05,01,mobileapps,12/2021,2013-08-12,2013-08-12,634,634,9819,PURCHASE,,0.0,,,,False,,,False,False
+736354177,736354177,10000.0,10000.0,2016-12-25T21:09:34,8.4,Apple iTunes,US,US,05,01,mobileapps,12/2021,2013-08-12,2013-08-12,634,634,9819,PURCHASE,,0.0,,,,False,,,False,False

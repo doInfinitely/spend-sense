@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+308163500,308163500,50000.0,50000.0,2016-11-11T05:11:07,133.79,gap.com,US,US,02,01,online_retail,12/2032,2015-08-19,2015-08-19,593,777,9151,PURCHASE,,0.0,,,,False,,,False,False
+308163500,308163500,50000.0,49891.21,2016-12-15T01:00:15,50.69,Texas Gas #597673,US,US,05,01,fuel,05/2020,2015-08-19,2015-08-19,593,593,9151,PURCHASE,,108.79,,,,True,,,False,False
+308163500,308163500,50000.0,49840.52,2016-12-28T09:45:35,62.33,Texas Gas #597673,US,US,05,01,fuel,05/2020,2015-08-19,2015-08-19,593,593,9151,PURCHASE,,159.48,,,,True,,,False,False

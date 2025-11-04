@@ -1,0 +1,14 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,transactionAmount,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+828422207,828422207,10000.0,10000.0,2016-01-30T14:41:01,oldnavy.com,US,US,05,01,online_retail,06/2028,2013-09-08,2013-09-08,816,816,9890,ADDRESS_VERIFICATION,,0.0,0.0,,,,False,,,False,False
+828422207,828422207,10000.0,10000.0,2016-03-01T06:33:19,sears.com,US,US,02,01,online_retail,03/2033,2013-09-08,2013-09-08,816,816,9890,PURCHASE,,0.0,146.19,,,,False,,,False,False
+828422207,828422207,10000.0,9878.81,2016-07-16T07:05:50,abc.com,US,US,02,99,online_subscriptions,09/2021,2013-09-08,2013-09-08,816,816,9890,PURCHASE,,121.19,16.78,,,,False,,,False,False
+828422207,828422207,10000.0,9887.03,2016-08-16T23:32:04,abc.com,US,US,02,99,online_subscriptions,09/2021,2013-09-08,2013-09-08,816,816,9890,PURCHASE,,112.97,16.78,,,,False,,,False,False
+828422207,828422207,10000.0,9895.25,2016-09-16T14:02:19,abc.com,US,US,02,99,online_subscriptions,09/2021,2013-09-08,2013-09-08,816,816,9890,PURCHASE,,104.75,16.78,,,,False,,,False,False
+828422207,828422207,10000.0,9878.47,2016-09-30T16:31:40,walmart.com,US,US,90,01,online_retail,06/2031,2013-09-08,2013-09-08,816,816,9890,PURCHASE,,121.53,3.07,,,,False,,,False,False
+828422207,828422207,10000.0,9900.4,2016-10-18T07:55:07,abc.com,US,US,02,99,online_subscriptions,09/2021,2013-09-08,2013-09-08,816,816,9890,PURCHASE,,99.6,16.78,,,,False,,,False,False
+828422207,828422207,10000.0,9883.62,2016-10-28T10:56:33,oldnavy.com,US,US,09,01,online_retail,07/2031,2013-09-08,2013-09-08,816,816,9890,PURCHASE,,116.38,25.43,,,,False,,,False,False
+828422207,828422207,10000.0,9883.19,2016-11-18T18:21:55,abc.com,US,US,02,99,online_subscriptions,09/2021,2013-09-08,2013-09-08,816,816,9890,PURCHASE,,116.81,16.78,,,,False,,,False,False
+828422207,828422207,10000.0,9891.41,2016-12-13T13:39:11,sears.com,US,US,05,08,online_retail,12/2028,2013-09-08,2013-09-08,816,816,9890,PURCHASE,,108.59,27.81,,,,False,,,False,False
+828422207,828422207,10000.0,9863.6,2016-12-16T12:41:27,gap.com,US,US,02,01,online_retail,08/2020,2013-09-08,2013-09-08,816,816,9890,PURCHASE,,136.4,123.9,,,,False,,,False,False
+828422207,828422207,10000.0,9739.7,2016-12-19T15:29:46,abc.com,US,US,02,99,online_subscriptions,09/2021,2013-09-08,2013-09-08,816,816,9890,PURCHASE,,260.3,16.78,,,,False,,,False,False
+828422207,828422207,10000.0,9722.92,2016-12-28T12:56:26,discount.com,US,US,02,01,online_retail,05/2021,2013-09-08,2013-09-08,816,816,9890,PURCHASE,,277.08,81.99,,,,False,,,False,False

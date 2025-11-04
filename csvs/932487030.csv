@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+932487030,932487030,15000.0,15000.0,2016-05-01T10:18:44,72.46,staples.com,US,US,09,01,online_retail,07/2028,2015-07-20,2015-07-20,438,438,8288,PURCHASE,,0.0,,,,False,,,False,False
+932487030,932487030,15000.0,14927.54,2016-05-28T12:05:18,42.89,John's Bistro,US,US,05,01,food,01/2029,2015-07-20,2015-07-20,438,438,8288,PURCHASE,,72.46,,,,True,,,False,False
+932487030,932487030,15000.0,15000.0,2016-06-27T06:25:37,258.3,Ray's Fries #61396,US,US,09,01,food,04/2032,2015-07-20,2015-07-20,438,438,8288,PURCHASE,,0.0,,,,True,,,False,False
+932487030,932487030,15000.0,14741.7,2016-06-29T16:18:34,7.88,Best Bistro #44077,US,US,05,01,food,07/2020,2015-07-20,2015-07-20,438,438,8288,PURCHASE,,258.3,,,,True,,,False,False
+932487030,932487030,15000.0,15000.0,2016-07-15T18:24:48,46.6,Ray's Fries #312615,US,US,02,01,food,06/2023,2015-07-20,2015-07-20,438,438,8288,PURCHASE,,0.0,,,,True,,,False,False
+932487030,932487030,15000.0,14953.4,2016-07-21T22:56:17,26.57,LES Pizza,US,US,02,01,food,10/2029,2015-07-20,2015-07-20,438,438,8288,PURCHASE,,46.6,,,,True,,,False,False
+932487030,932487030,15000.0,15000.0,2016-08-28T19:34:04,89.89,apple.com,US,US,,01,online_retail,01/2029,2015-07-20,2015-07-20,438,438,8288,PURCHASE,,0.0,,,,False,,,False,False
+932487030,932487030,15000.0,15000.0,2016-11-10T13:21:45,119.63,South Steakhouse #378389,US,US,09,08,food,06/2032,2015-07-20,2015-07-20,438,438,8288,PURCHASE,,0.0,,,,True,,,False,False
+932487030,932487030,15000.0,14880.37,2016-11-11T09:00:05,727.8,Wendys #425927,US,US,05,01,fastfood,08/2022,2015-07-20,2015-07-20,438,438,8288,PURCHASE,,119.63,,,,True,,,False,False

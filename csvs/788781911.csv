@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+788781911,788781911,7500.0,7500.0,2016-04-01T11:12:19,35.88,Dinosaur Fries,US,US,09,08,food,True,06/2030,2013-10-15,2013-10-15,922,922,4810,PURCHASE,,0.0,,,,,,False,False
+788781911,788781911,7500.0,7500.0,2016-06-14T21:36:32,17.93,netflix.com,US,US,05,01,online_subscriptions,False,03/2031,2013-10-15,2013-10-15,922,922,4810,PURCHASE,,0.0,,,,,,False,False
+788781911,788781911,7500.0,7500.0,2016-07-16T18:46:39,17.93,netflix.com,US,US,05,01,online_subscriptions,False,03/2031,2013-10-15,2013-10-15,922,922,4810,PURCHASE,,0.0,,,,,,False,False
+788781911,788781911,7500.0,7500.0,2016-08-17T15:07:26,17.93,netflix.com,US,US,05,01,online_subscriptions,False,03/2031,2013-10-15,2013-10-15,922,922,4810,PURCHASE,,0.0,,,,,,False,False
+788781911,788781911,7500.0,7500.0,2016-09-18T05:25:00,17.93,netflix.com,US,US,05,01,online_subscriptions,False,03/2031,2013-10-15,2013-10-15,922,922,4810,PURCHASE,,0.0,,,,,,False,False
+788781911,788781911,7500.0,7500.0,2016-10-18T16:17:55,17.93,netflix.com,US,US,05,01,online_subscriptions,False,03/2031,2013-10-15,2013-10-15,922,922,4810,PURCHASE,,0.0,,,,,,False,False
+788781911,788781911,7500.0,7500.0,2016-11-19T12:33:37,17.93,netflix.com,US,US,05,01,online_subscriptions,False,03/2031,2013-10-15,2013-10-15,922,922,4810,PURCHASE,,0.0,,,,,,False,False
+788781911,788781911,7500.0,7500.0,2016-12-20T07:12:17,17.93,netflix.com,US,US,05,01,online_subscriptions,False,03/2031,2013-10-15,2013-10-15,922,922,4810,PURCHASE,,0.0,,,,,,False,False

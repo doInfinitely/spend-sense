@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+110169390,110169390,15000.0,15000.0,2016-02-05T03:59:46,71.75,KFC #237284,US,US,09,01,fastfood,True,08/2029,2013-10-18,2013-10-18,236,236,2425,PURCHASE,,0.0,,,,,,False,False
+110169390,110169390,15000.0,15000.0,2016-05-12T10:27:05,351.48,Next Day eCards,US,US,09,01,online_gifts,False,02/2030,2013-10-18,2013-10-18,236,236,2425,PURCHASE,,0.0,,,,,,False,False
+110169390,110169390,15000.0,15000.0,2016-07-02T08:03:32,147.7,Blue Mountain eCards,US,US,09,01,online_gifts,False,09/2023,2013-10-18,2013-10-18,236,236,2425,PURCHASE,,0.0,,,,,,False,False
+110169390,110169390,15000.0,15000.0,2016-09-20T01:32:25,128.63,Next Day Online Services,US,US,02,08,online_gifts,False,02/2031,2013-10-18,2013-10-18,236,236,2425,PURCHASE,,0.0,,,,,,False,False
+110169390,110169390,15000.0,15000.0,2016-10-09T11:03:44,69.88,gap.com,US,US,02,01,online_retail,False,03/2029,2013-10-18,2013-10-18,236,236,2425,PURCHASE,,0.0,,,,,,False,False

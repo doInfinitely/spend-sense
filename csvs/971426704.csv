@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+971426704,971426704,2500.0,2500.0,2016-01-06T00:22:59,189.31,34th Pub,MEX,MEX,05,08,food,True,05/2028,2015-05-14,2015-05-14,983,983,8646,PURCHASE,,0.0,,,,,,False,False
+971426704,971426704,2500.0,2310.69,2016-01-09T08:13:55,59.35,walmart.com,US,US,05,01,online_retail,False,05/2026,2015-05-14,2015-05-14,983,983,8646,PURCHASE,,189.31,,,,,,False,False
+971426704,971426704,2500.0,2251.34,2016-01-13T18:07:04,124.01,Popeyes #67379,US,US,05,01,fastfood,False,12/2024,2015-05-14,2015-05-14,983,983,8646,PURCHASE,,248.66,,,,,,False,False
+971426704,971426704,2500.0,2152.33,2016-02-28T17:12:13,644.26,Shake Shack #130406,US,US,05,08,fastfood,True,12/2025,2015-05-14,2015-05-14,983,983,8646,PURCHASE,,347.67,,,,,,False,False
+971426704,971426704,2500.0,1533.07,2016-03-01T21:57:37,18.83,1st Sandwitch Bar #396252,US,US,05,01,food,True,09/2020,2015-05-14,2015-05-14,983,983,8646,PURCHASE,,966.93,,,,,,False,False
+971426704,971426704,2500.0,1539.24,2016-08-05T12:25:17,13.13,South Restaurant,US,US,02,01,food,True,08/2026,2015-05-14,2015-05-14,983,983,8646,PURCHASE,,960.76,,,,,,False,False
+971426704,971426704,2500.0,1551.11,2016-11-21T11:52:43,7.16,Apple iTunes,US,US,09,01,mobileapps,False,03/2020,2015-05-14,2015-05-14,983,983,8646,PURCHASE,,948.89,,,,,,False,False
+971426704,971426704,2500.0,1568.95,2016-12-23T00:40:57,7.16,Apple iTunes,US,US,09,01,mobileapps,False,03/2020,2015-05-14,2015-05-14,983,983,8646,PURCHASE,,931.05,,,,,,False,False

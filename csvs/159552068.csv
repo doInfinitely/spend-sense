@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+159552068,159552068,5000.0,5000.0,2016-02-11T10:27:29,131.65,San Francisco Post,US,US,05,01,subscriptions,04/2032,2013-08-22,2013-08-22,232,232,8454,PURCHASE,,0.0,,,,False,,,False,False
+159552068,159552068,5000.0,4893.35,2016-06-16T15:35:43,311.1,Oklahoma City Times,,US,05,01,subscriptions,03/2028,2013-08-22,2013-08-22,232,232,8454,PURCHASE,,106.65,,,,False,,,False,False
+159552068,159552068,5000.0,4607.25,2016-10-11T00:48:47,66.3,Dinosaur Restaurant,US,US,05,01,food,06/2027,2013-08-22,2013-08-22,232,232,8454,PURCHASE,,392.75,,,,True,,,False,False
+159552068,159552068,5000.0,4565.95,2016-12-20T06:45:46,16.67,abc.com,US,US,09,01,online_subscriptions,06/2022,2013-08-22,2013-08-22,232,232,8454,PURCHASE,,434.05,,,,False,,,False,False

@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+490286677,490286677,250.0,250.0,2016-11-12T16:03:40,284.65,amazon.com,US,US,02,08,online_retail,07/2024,2014-12-02,2014-12-02,405,405,7050,PURCHASE,,0.0,,,,False,,,False,False
+490286677,490286677,250.0,236.47,2016-11-24T20:31:19,7.65,Play Store,US,US,09,01,mobileapps,08/2029,2014-12-02,2014-12-02,405,405,7050,PURCHASE,,13.53,,,,False,,,False,False
+490286677,490286677,250.0,250.0,2016-12-25T01:26:45,7.65,Play Store,US,US,09,01,mobileapps,08/2029,2014-12-02,2014-12-02,405,405,7050,PURCHASE,,0.0,,,,False,,,False,False

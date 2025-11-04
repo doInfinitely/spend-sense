@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+223539726,223539726,2500.0,2500.0,2016-01-26T02:36:30,35.22,target.com,US,US,90,01,online_retail,12/2028,2013-06-02,2013-06-02,563,563,761,PURCHASE,,0.0,,,,False,,,False,False
+223539726,223539726,2500.0,2489.78,2016-03-01T15:17:27,64.88,sears.com,US,US,02,08,online_retail,12/2030,2013-06-02,2013-06-02,563,563,761,PURCHASE,,10.22,,,,False,,,False,False
+223539726,223539726,2500.0,2449.9,2016-05-30T05:03:22,113.71,target.com,US,US,05,01,online_retail,03/2024,2013-06-02,2013-06-02,563,563,761,PURCHASE,,50.1,,,,False,,,False,False
+223539726,223539726,2500.0,2361.19,2016-11-19T19:42:26,21.26,abc.com,US,US,05,08,online_subscriptions,08/2029,2013-06-02,2013-06-02,563,563,761,PURCHASE,,138.81,,,,False,,,False,False
+223539726,223539726,2500.0,2364.93,2016-12-20T01:36:47,21.26,abc.com,US,US,05,08,online_subscriptions,08/2029,2013-06-02,2013-06-02,563,563,761,PURCHASE,,135.07,,,,False,,,False,False

@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+171125535,171125535,20000.0,20000.0,2016-02-11T18:06:55,61.16,Hyatt House #219220,US,US,09,08,hotels,08/2024,2012-11-23,2012-11-23,144,144,5447,PURCHASE,,0.0,,,,False,,,False,False
+171125535,171125535,20000.0,20000.0,2016-03-05T23:47:43,35.95,Renaissance Hotel #409767,US,US,02,01,hotels,05/2028,2012-11-23,2012-11-23,454,454,3531,PURCHASE,,0.0,,,,True,,,False,False
+171125535,171125535,20000.0,19964.05,2016-03-12T02:22:06,62.3,Hilton Hotels #28693,US,US,05,01,hotels,02/2025,2012-11-23,2012-11-23,144,144,5447,PURCHASE,,35.95,,,,True,,,False,False
+171125535,171125535,20000.0,20000.0,2016-04-10T00:49:55,0.0,Renaissance Hotel #628831,US,US,05,01,hotels,01/2024,2012-11-23,2012-11-23,454,454,3531,ADDRESS_VERIFICATION,,0.0,,,,False,,,False,False
+171125535,171125535,20000.0,20000.0,2016-09-30T00:20:38,98.06,Rodeway Inn #461774,US,US,09,01,hotels,07/2027,2012-11-23,2016-05-02,144,144,5447,PURCHASE,,0.0,,,,False,,,False,False
+171125535,171125535,20000.0,20000.0,2016-12-25T18:14:55,98.28,Hilton Hotels #627767,US,US,09,01,hotels,02/2020,2012-11-23,2016-05-02,144,144,5447,PURCHASE,,0.0,,,,True,,,False,False

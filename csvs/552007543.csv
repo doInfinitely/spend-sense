@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,transactionAmount,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+552007543,552007543,5000.0,5000.0,2016-01-06T07:58:48,Uber,US,US,09,01,rideshare,07/2033,2011-12-16,2011-12-16,247,247,2336,ADDRESS_VERIFICATION,,0.0,0.0,,,,False,,,False,False
+552007543,552007543,5000.0,5000.0,2016-03-03T05:48:38,Uber,US,US,09,01,rideshare,06/2026,2011-12-16,2011-12-16,247,247,2336,PURCHASE,,0.0,147.11,,,,False,,,False,False
+552007543,552007543,5000.0,4877.89,2016-04-16T06:06:19,Uber,US,US,05,08,rideshare,02/2032,2011-12-16,2011-12-16,247,247,2336,PURCHASE,,122.11,480.4,,,,False,,,False,False
+552007543,552007543,5000.0,4422.49,2016-11-13T03:14:48,Uber,US,US,02,01,rideshare,10/2032,2011-12-16,2011-12-16,247,247,2336,PURCHASE,,577.51,128.7,,,,False,,,False,False
+552007543,552007543,5000.0,4318.79,2016-12-06T06:03:56,Uber,US,US,02,01,rideshare,01/2022,2011-12-16,2011-12-16,247,247,2336,PURCHASE,,681.21,104.51,,,,False,,,False,False
+552007543,552007543,5000.0,4214.28,2016-12-25T12:28:23,Lyft,US,US,90,08,rideshare,11/2026,2011-12-16,2011-12-16,247,247,2336,PURCHASE,,785.72,119.1,,,,False,,,False,False

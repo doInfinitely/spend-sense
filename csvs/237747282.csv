@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+237747282,237747282,1000.0,1000.0,2016-03-04T15:52:10,13.61,sears.com,US,US,02,08,online_retail,01/2032,2015-11-27,2015-11-27,474,474,339,PURCHASE,,0.0,,,,False,,,False,False
+237747282,237747282,1000.0,1000.0,2016-05-15T22:06:03,174.0,target.com,US,US,02,01,online_retail,04/2022,2015-11-27,2015-11-27,474,474,339,PURCHASE,,0.0,,,,False,,,False,False
+237747282,237747282,1000.0,851.0,2016-06-17T05:00:05,259.17,Uber,US,US,05,08,rideshare,08/2025,2015-11-27,2015-11-27,474,474,339,PURCHASE,,149.0,,,,False,,,False,False
+237747282,237747282,1000.0,616.83,2016-07-11T18:58:04,126.4,Subway #637590,US,US,05,01,fastfood,12/2026,2015-11-27,2015-11-27,604,604,3397,PURCHASE,,383.17,,,,True,,,False,False
+237747282,237747282,1000.0,515.4300000000001,2016-09-10T16:55:26,0.0,target.com,US,US,80,01,online_retail,02/2027,2015-11-27,2015-11-27,604,604,3397,ADDRESS_VERIFICATION,,484.57,,,,False,,,False,False
+237747282,237747282,1000.0,540.43,2016-10-17T10:17:08,182.31,oldnavy.com,US,US,90,01,online_retail,05/2021,2015-11-27,2015-11-27,604,604,3397,PURCHASE,,459.57,,,,False,,,False,False
+237747282,237747282,1000.0,383.12,2016-11-28T19:24:27,148.9,amazon.com,US,US,05,01,online_retail,02/2020,2015-11-27,2015-11-27,604,604,3397,PURCHASE,,616.88,,,,False,,,False,False
+237747282,237747282,1000.0,259.22,2016-12-25T23:11:48,8.02,gap.com,US,US,09,08,online_retail,10/2021,2015-11-27,2015-11-27,474,474,339,PURCHASE,,740.78,,,,False,,,False,False

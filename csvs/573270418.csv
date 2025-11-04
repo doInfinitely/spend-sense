@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+573270418,573270418,15000.0,15000.0,2016-01-17T16:28:21,26.36,ebay.com,US,US,05,01,online_retail,12/2021,2014-07-18,2014-07-18,857,857,2784,PURCHASE,,0.0,,,,False,,,False,False
+573270418,573270418,15000.0,15000.0,2016-03-15T17:41:14,92.66,Universe Massage #95869,US,US,90,01,personal care,09/2025,2014-07-18,2014-07-18,857,857,2784,PURCHASE,,0.0,,,,True,,,False,False
+573270418,573270418,15000.0,15000.0,2016-04-15T07:12:09,87.09,Universe Massage #08680,US,US,05,01,personal care,03/2029,2014-07-18,2014-07-18,857,857,2784,PURCHASE,,0.0,,,,True,,,False,False
+573270418,573270418,15000.0,15000.0,2016-05-01T06:46:20,80.32,target.com,US,US,05,01,online_retail,09/2021,2014-07-18,2014-07-18,857,857,2784,PURCHASE,,0.0,,,,False,,,False,False
+573270418,573270418,15000.0,14919.68,2016-05-01T11:16:21,87.09,Universe Massage #08680,US,US,05,01,personal care,03/2029,2014-07-18,2014-07-18,857,857,2784,REVERSAL,,80.32,,,,True,,,False,False
+573270418,573270418,15000.0,15000.0,2016-05-13T20:21:32,127.45,ebay.com,US,US,05,01,online_retail,12/2027,2014-07-18,2014-07-18,857,857,2784,PURCHASE,,0.0,,,,False,,,False,False
+573270418,573270418,15000.0,15000.0,2016-08-28T22:09:18,37.99,West End Beauty #234021,US,US,02,08,personal care,04/2022,2014-07-18,2014-07-18,857,857,2784,PURCHASE,,0.0,,,,True,,,False,False
+573270418,573270418,15000.0,15000.0,2016-09-16T08:39:22,118.33,Universe Massage #725790,US,US,09,08,personal care,01/2029,2014-07-18,2014-07-18,857,857,2784,PURCHASE,,0.0,,,,True,,,False,False
+573270418,573270418,15000.0,15000.0,2016-10-06T02:34:04,69.99,West End Beauty #220471,US,US,02,08,personal care,08/2026,2014-07-18,2014-07-18,857,857,2784,PURCHASE,,0.0,,,,True,,,False,False

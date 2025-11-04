@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+576304009,576304009,50000.0,50000.0,2016-06-25T04:00:45,215.58,sears.com,US,US,05,01,online_retail,10/2028,2013-08-18,2013-08-18,501,501,361,PURCHASE,,0.0,,,,False,,,False,False
+576304009,576304009,50000.0,50000.0,2016-07-20T08:50:51,15.57,Spotify,US,US,05,01,online_subscriptions,04/2023,2013-08-18,2013-08-18,501,501,361,PURCHASE,,0.0,,,,False,,,False,False
+576304009,576304009,50000.0,50000.0,2016-08-20T08:39:16,15.57,Spotify,US,US,05,01,online_subscriptions,04/2023,2013-08-18,2013-08-18,501,501,361,PURCHASE,,0.0,,,,False,,,False,False
+576304009,576304009,50000.0,50000.0,2016-09-19T09:10:51,15.57,Spotify,US,US,05,01,online_subscriptions,04/2023,2013-08-18,2013-08-18,501,501,361,PURCHASE,,0.0,,,,False,,,False,False
+576304009,576304009,50000.0,50000.0,2016-10-20T02:24:30,15.57,Spotify,US,US,05,01,online_subscriptions,04/2023,2013-08-18,2013-08-18,501,501,361,PURCHASE,,0.0,,,,False,,,False,False
+576304009,576304009,50000.0,50000.0,2016-11-21T00:30:39,15.57,Spotify,US,US,05,01,online_subscriptions,04/2023,2013-08-18,2013-08-18,501,501,361,PURCHASE,,0.0,,,,False,,,False,False
+576304009,576304009,50000.0,50000.0,2016-12-21T14:13:43,15.57,Spotify,US,US,05,01,online_subscriptions,04/2023,2013-08-18,2013-08-18,501,501,361,PURCHASE,,0.0,,,,False,,,False,False

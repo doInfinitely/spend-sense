@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+727542440,727542440,50000.0,50000.0,2016-09-13T03:10:06,18.85,abc.com,US,US,02,08,online_subscriptions,04/2033,2014-09-28,2014-09-28,181,181,755,PURCHASE,,0.0,,,,False,,,False,False
+727542440,727542440,50000.0,50000.0,2016-10-15T01:12:29,18.85,abc.com,US,US,02,08,online_subscriptions,04/2033,2014-09-28,2014-09-28,181,181,755,PURCHASE,,0.0,,,,False,,,False,False
+727542440,727542440,50000.0,50000.0,2016-11-10T18:54:39,115.18,Boost Mobile #518069,US,US,09,01,cable/phone,12/2027,2014-09-28,2014-09-28,181,181,755,PURCHASE,,0.0,,,,False,,,False,False
+727542440,727542440,50000.0,49884.82,2016-11-14T12:39:04,18.85,abc.com,US,US,02,08,online_subscriptions,04/2033,2014-09-28,2014-09-28,181,181,755,PURCHASE,,115.18,,,,False,,,False,False
+727542440,727542440,50000.0,49865.97,2016-11-26T04:34:33,33.49,Uber,US,US,02,01,rideshare,01/2020,2014-09-28,2014-09-28,181,181,755,PURCHASE,,134.03,,,,False,,,False,False
+727542440,727542440,50000.0,49857.48,2016-12-11T18:27:05,115.18,Boost Mobile #518069,US,US,09,01,cable/phone,12/2027,2014-09-28,2014-09-28,181,181,755,PURCHASE,,142.52,,,,False,,,False,False
+727542440,727542440,50000.0,49742.3,2016-12-16T04:51:50,18.85,abc.com,US,US,02,08,online_subscriptions,04/2033,2014-09-28,2014-09-28,181,181,755,PURCHASE,,257.7,,,,False,,,False,False

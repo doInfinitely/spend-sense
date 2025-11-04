@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+707191061,707191061,50000.0,50000.0,2016-07-16T08:40:07,392.06,NY News,US,US,05,01,subscriptions,True,11/2021,1997-11-20,1997-11-20,198,198,8158,PURCHASE,,0.0,,,,,,False,False
+707191061,707191061,50000.0,50000.0,2016-10-15T23:41:15,321.04,Fresh Flowers,US,US,05,01,online_gifts,False,11/2022,1997-11-20,1997-11-20,198,198,8158,PURCHASE,,0.0,,,,,,False,False
+707191061,707191061,50000.0,50000.0,2016-11-25T16:55:40,112.73,Wall Street News,US,US,80,08,subscriptions,False,12/2030,1997-11-20,1997-11-20,198,198,8158,PURCHASE,,0.0,,,,,,False,False
+707191061,707191061,50000.0,50000.0,2016-12-03T07:54:15,186.86,walmart.com,US,US,05,01,online_retail,False,08/2022,1997-11-20,1997-11-20,198,198,8158,PURCHASE,,0.0,,,,,,False,False
+707191061,707191061,50000.0,49813.14,2016-12-15T22:22:34,197.31,target.com,US,US,02,01,online_retail,False,08/2028,1997-11-20,1997-11-20,198,198,8158,PURCHASE,,186.86,,,,,,False,False

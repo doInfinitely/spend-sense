@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+315555433,315555433,50000.0,50000.0,2016-05-13T04:53:07,248.78,target.com,US,US,02,01,online_retail,01/2028,2015-10-01,2015-10-01,177,177,7015,PURCHASE,,0.0,,,,False,,,False,False
+315555433,315555433,50000.0,50000.0,2016-06-24T08:25:33,90.89,Mobile eCards,US,US,02,08,online_gifts,06/2023,2015-10-01,2015-10-01,177,177,7015,PURCHASE,,0.0,,,,False,,,False,False
+315555433,315555433,50000.0,49909.11,2016-06-27T07:22:53,544.49,discount.com,US,US,05,01,online_retail,10/2028,2015-10-01,2015-10-01,177,177,7015,PURCHASE,,90.89,,,,False,,,False,False
+315555433,315555433,50000.0,50000.0,2016-08-15T10:56:17,242.33,Blue Mountain Online Services,US,US,05,01,online_gifts,09/2020,2015-10-01,2015-10-01,177,177,7015,PURCHASE,,0.0,,,,False,,,False,False
+315555433,315555433,50000.0,50000.0,2016-11-10T15:31:16,675.2,cheapfast.com,US,US,09,01,online_retail,10/2032,2015-10-01,2015-10-01,177,177,7015,PURCHASE,,0.0,,,,False,,,False,True

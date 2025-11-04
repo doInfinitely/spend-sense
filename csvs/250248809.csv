@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+250248809,250248809,10000.0,10000.0,2016-10-08T01:23:37,8.92,Apple iTunes,US,US,02,01,mobileapps,12/2032,2013-05-16,2013-05-16,705,705,5193,PURCHASE,,0.0,,,,False,,,False,False
+250248809,250248809,10000.0,10000.0,2016-11-08T17:10:38,8.92,Apple iTunes,US,US,02,01,mobileapps,12/2032,2013-05-16,2013-05-16,705,705,5193,PURCHASE,,0.0,,,,False,,,False,False
+250248809,250248809,10000.0,9991.08,2016-11-15T17:01:15,178.42,Blue Mountain Online Services,US,US,09,01,online_gifts,03/2026,2013-05-16,2013-05-16,705,705,5193,PURCHASE,,8.92,,,,False,,,False,False
+250248809,250248809,10000.0,9837.66,2016-12-10T17:10:19,8.92,Apple iTunes,US,US,02,01,mobileapps,12/2032,2013-05-16,2013-05-16,705,705,5193,PURCHASE,,162.34,,,,False,,,False,False

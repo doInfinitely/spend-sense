@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+328619752,328619752,2500.0,2500.0,2016-03-28T04:18:00,96.87,AMC #128743,US,US,09,99,entertainment,True,07/2023,2015-07-25,2015-07-25,885,885,9207,PURCHASE,,0.0,,,,,,False,False
+328619752,328619752,2500.0,2500.0,2016-04-16T01:16:51,45.89,Shake Shack #378221,US,US,05,01,fastfood,True,12/2020,2015-07-25,2015-07-25,885,885,9207,PURCHASE,,0.0,,,,,,False,False
+328619752,328619752,2500.0,2454.11,2016-04-20T18:43:37,109.96,EZ Putt Putt #804489,US,US,05,01,entertainment,False,02/2031,2015-07-25,2015-07-25,885,885,9207,PURCHASE,,45.89,,,,,,False,False
+328619752,328619752,2500.0,2500.0,2016-05-23T09:55:03,80.44,KFC #644496,US,US,02,01,fastfood,True,01/2026,2015-07-25,2015-07-25,885,885,9207,PURCHASE,,0.0,,,,,,False,False
+328619752,328619752,2500.0,2500.0,2016-06-01T13:41:35,174.63,Dunkin' Donuts #55737,US,US,09,01,fastfood,True,05/2022,2015-07-25,2015-07-25,885,885,9207,PURCHASE,,0.0,,,,,,False,False
+328619752,328619752,2500.0,2500.0,2016-07-19T03:43:39,78.07,Universe Massage #895932,US,US,02,01,personal care,True,09/2026,2015-07-25,2015-07-25,885,885,9207,PURCHASE,,0.0,,,,,,False,False
+328619752,328619752,2500.0,2500.0,2016-12-09T14:00:09,240.34,KFC #544229,US,US,09,01,fastfood,True,09/2024,2015-07-25,2015-07-25,885,885,9207,PURCHASE,,0.0,,,,,,False,False

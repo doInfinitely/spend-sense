@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+835295805,835295805,7500.0,7500.0,2016-01-28T14:03:33,12.36,ebay.com,US,US,09,08,online_retail,05/2023,2015-02-19,2015-02-19,610,610,7312,PURCHASE,,0.0,,,,False,,,False,False
+835295805,835295805,7500.0,7487.64,2016-01-30T10:40:20,156.35,gap.com,US,US,09,08,online_retail,07/2033,2015-02-19,2015-02-19,610,610,7312,PURCHASE,,12.36,,,,False,,,False,False
+835295805,835295805,7500.0,7500.0,2016-05-09T22:12:21,276.87,Boston Pub,US,US,05,08,food,12/2030,2015-02-19,2015-02-19,610,610,7312,PURCHASE,,0.0,,,,True,,,False,False
+835295805,835295805,7500.0,7500.0,2016-09-01T17:05:42,191.42,alibaba.com,US,US,05,01,online_retail,03/2028,2015-02-19,2015-02-19,610,610,7312,PURCHASE,,0.0,,,,False,,,False,False
+835295805,835295805,7500.0,7308.58,2016-09-25T21:23:12,215.94,Franks Sandwitch Bar,US,US,09,01,food,01/2032,2015-02-19,2015-02-19,610,610,7312,PURCHASE,,191.42,,,,True,,,False,True
+835295805,835295805,7500.0,7500.0,2016-10-27T23:58:11,186.1,Dinosaur Sandwitch Bar #160554,US,US,09,01,food,10/2023,2015-02-19,2015-02-19,610,610,7312,PURCHASE,,0.0,,,,True,,,False,False
+835295805,835295805,7500.0,7500.0,2016-12-02T18:52:46,5.48,Play Store,US,US,02,01,mobileapps,03/2028,2015-02-19,2015-02-19,610,610,7312,PURCHASE,,0.0,,,,False,,,False,False

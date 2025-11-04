@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+586591423,586591423,20000.0,20000.0,2016-01-08T05:42:52,13.43,Blue Mountain Online Services,US,US,02,01,online_gifts,11/2028,2013-12-10,2013-12-10,301,301,2153,PURCHASE,,0.0,,,,False,,,False,False
+586591423,586591423,20000.0,20000.0,2016-02-12T11:24:08,0.06,Washington Post,US,US,05,01,subscriptions,07/2020,2013-12-10,2013-12-10,866,866,6965,PURCHASE,,0.0,,,,False,,,False,False
+586591423,586591423,20000.0,20000.0,2016-04-05T07:01:04,362.86,Blue Mountain eCards,US,US,05,01,online_gifts,02/2024,2013-12-10,2013-12-10,301,301,2153,PURCHASE,,0.0,,,,False,,,False,False
+586591423,586591423,20000.0,19662.14,2016-06-21T19:27:11,35.76,Fresh eCards,US,US,02,08,online_gifts,09/2022,2013-12-10,2013-12-10,301,301,2153,PURCHASE,,337.86,,,,False,,,False,False
+586591423,586591423,20000.0,19651.38,2016-07-19T13:09:39,83.51,oldnavy.com,US,US,09,01,online_retail,08/2023,2013-12-10,2013-12-10,301,301,2153,PURCHASE,,348.62,,,,False,,,False,False
+586591423,586591423,20000.0,19592.87,2016-08-25T03:16:47,0.27,Washington Post,US,US,09,01,subscriptions,10/2031,2013-12-10,2013-12-10,301,301,2153,PURCHASE,,407.13,,,,False,,,False,False
+586591423,586591423,20000.0,19617.6,2016-09-30T21:12:29,6.98,Play Store,US,US,09,01,mobileapps,02/2026,2013-12-10,2013-12-10,866,866,6965,PURCHASE,,382.4,,,,False,,,False,False
+586591423,586591423,20000.0,19635.62,2016-10-31T08:17:31,6.98,Play Store,US,US,09,01,mobileapps,02/2026,2013-12-10,2013-12-10,866,866,6965,PURCHASE,,364.38,,,,False,,,False,False
+586591423,586591423,20000.0,19653.64,2016-11-23T23:32:18,201.62,Seattle Times,US,US,02,01,subscriptions,05/2020,2013-12-10,2013-12-10,301,301,2153,PURCHASE,,346.36,,,,False,,,False,False
+586591423,586591423,20000.0,19477.02,2016-12-01T19:06:52,6.98,Play Store,US,US,09,01,mobileapps,02/2026,2013-12-10,2013-12-10,866,866,6965,PURCHASE,,522.98,,,,False,,,False,False

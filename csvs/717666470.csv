@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,isFraud,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch
+717666470,717666470,10000.0,10000.0,2016-01-21T15:17:13,572.76,gap.com,US,US,02,01,online_retail,01/2027,2011-02-03,2011-02-03,726,726,9085,PURCHASE,True,,0.0,,,,False,,,False
+717666470,717666470,10000.0,9427.24,2016-01-21T15:18:47,572.76,gap.com,US,US,02,01,online_retail,01/2027,2011-02-03,2011-02-03,726,726,9085,REVERSAL,True,,572.76,,,,False,,,False
+717666470,717666470,10000.0,10000.0,2016-02-21T03:46:10,59.64,staples.com,US,US,02,01,online_retail,03/2020,2011-02-03,2011-02-03,726,726,9085,PURCHASE,False,,0.0,,,,False,,,False
+717666470,717666470,10000.0,9965.36,2016-03-21T15:54:19,441.1,target.com,US,US,05,08,online_retail,02/2030,2011-02-03,2011-02-03,726,726,9085,PURCHASE,False,,34.64,,,,False,,,False
+717666470,717666470,10000.0,9549.26,2016-04-04T22:42:26,183.35,amazon.com,US,US,80,01,online_retail,04/2022,2011-02-03,2011-02-03,726,726,9085,PURCHASE,False,,450.74,,,,False,,,False
+717666470,717666470,10000.0,9365.91,2016-04-06T23:50:01,154.5,gap.com,US,US,09,08,online_retail,06/2026,2011-02-03,2011-02-03,726,726,9085,PURCHASE,False,,634.09,,,,False,,,False
+717666470,717666470,10000.0,9236.41,2016-05-11T13:42:34,122.43,ebay.com,US,US,02,01,online_retail,07/2021,2011-02-03,2011-02-03,726,726,9085,PURCHASE,False,,763.59,,,,False,,,False
+717666470,717666470,10000.0,9113.98,2016-05-11T18:32:43,4.87,alibaba.com,US,US,09,08,online_retail,04/2021,2011-02-03,2011-02-03,726,726,9085,PURCHASE,False,,886.02,,,,False,,,False
+717666470,717666470,10000.0,9134.11,2016-10-11T15:50:25,53.07,staples.com,US,US,05,01,online_retail,07/2028,2011-02-03,2011-02-03,726,726,9085,PURCHASE,False,,865.89,,,,False,,,False
+717666470,717666470,10000.0,9106.04,2016-12-24T12:58:41,99.62,staples.com,US,US,02,01,online_retail,09/2029,2011-02-03,2011-02-03,726,726,9085,PURCHASE,False,,893.96,,,,False,,,False

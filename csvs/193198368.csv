@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+193198368,193198368,10000.0,10000.0,2016-07-14T00:02:27,6.82,Play Store,US,US,02,08,mobileapps,03/2020,2015-11-20,2015-11-20,647,647,2662,PURCHASE,,0.0,,,,False,,,False,False
+193198368,193198368,10000.0,10000.0,2016-08-14T06:01:58,6.82,Play Store,US,US,02,08,mobileapps,03/2020,2015-11-20,2015-11-20,647,647,2662,PURCHASE,,0.0,,,,False,,,False,False
+193198368,193198368,10000.0,10000.0,2016-09-13T12:26:20,6.82,Play Store,US,US,02,08,mobileapps,03/2020,2015-11-20,2015-11-20,647,647,2662,PURCHASE,,0.0,,,,False,,,False,False
+193198368,193198368,10000.0,9993.18,2016-09-29T09:35:21,419.45,West End Beauty #234021,US,US,05,08,personal care,06/2023,2015-11-20,2015-11-20,647,647,2662,PURCHASE,,6.82,,,,True,,,False,False
+193198368,193198368,10000.0,9598.73,2016-10-14T11:36:15,6.82,Play Store,US,US,02,08,mobileapps,03/2020,2015-11-20,2015-11-20,647,647,2662,PURCHASE,,401.27,,,,False,,,False,False
+193198368,193198368,10000.0,9616.91,2016-11-14T21:33:58,6.82,Play Store,US,US,02,08,mobileapps,03/2020,2015-11-20,2015-11-20,647,647,2662,PURCHASE,,383.09,,,,False,,,False,False
+193198368,193198368,10000.0,9635.09,2016-12-16T19:11:41,6.82,Play Store,US,US,02,08,mobileapps,03/2020,2015-11-20,2015-11-20,647,647,2662,PURCHASE,,364.91,,,,False,,,False,False

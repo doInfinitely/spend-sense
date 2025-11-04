@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+188253243,188253243,10000.0,10000.0,2016-02-12T11:23:37,39.9,alibaba.com,US,US,09,01,online_retail,02/2033,2013-10-12,2013-10-12,516,516,5862,PURCHASE,,0.0,,,,False,,,False,False
+188253243,188253243,10000.0,9985.1,2016-06-26T07:53:05,226.09,Wendys #848099,US,US,09,01,fastfood,06/2024,2013-10-12,2013-10-12,684,684,4858,PURCHASE,,14.9,,,,True,,,False,False
+188253243,188253243,10000.0,9784.01,2016-07-08T23:29:12,205.92,Dunkin' Donuts #719661,US,US,09,01,fastfood,11/2020,2013-10-12,2013-10-12,684,684,4858,PURCHASE,,215.99,,,,True,,,False,False
+188253243,188253243,10000.0,9603.09,2016-09-14T11:39:42,5.8,Apple iTunes,US,US,02,01,mobileapps,10/2022,2013-10-12,2013-10-12,516,516,5862,PURCHASE,,396.91,,,,False,,,False,False
+188253243,188253243,10000.0,9622.29,2016-10-15T04:47:22,5.8,Apple iTunes,US,US,02,01,mobileapps,10/2022,2013-10-12,2013-10-12,516,516,5862,PURCHASE,,377.71,,,,False,,,False,False
+188253243,188253243,10000.0,9616.49,2016-10-25T08:56:40,111.93,target.com,US,US,05,01,online_retail,03/2031,2013-10-12,2013-10-12,684,684,4858,PURCHASE,,383.51,,,,False,,,False,False
+188253243,188253243,10000.0,9529.56,2016-11-14T06:32:23,5.8,Apple iTunes,US,US,02,01,mobileapps,10/2022,2013-10-12,2013-10-12,516,516,5862,PURCHASE,,470.44,,,,False,,,False,False
+188253243,188253243,10000.0,9548.76,2016-12-15T06:21:19,5.8,Apple iTunes,US,US,02,01,mobileapps,10/2022,2013-10-12,2013-10-12,516,516,5862,PURCHASE,,451.24,,,,False,,,False,False

@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+805321656,805321656,2500.0,2500.0,2016-02-29T22:09:15,165.55,staples.com,US,US,09,08,online_retail,03/2024,2014-12-17,2014-12-17,948,948,1670,PURCHASE,,0.0,,,,False,,,False,False
+805321656,805321656,2500.0,2359.45,2016-03-15T06:15:19,90.1,gap.com,US,US,09,08,online_retail,10/2021,2014-12-17,2014-12-17,948,948,1670,PURCHASE,,140.55,,,,False,,,False,False
+805321656,805321656,2500.0,2294.35,2016-11-24T05:25:04,82.58,Burger King #544810,US,US,02,01,fastfood,05/2031,2014-12-17,2014-12-17,948,948,1670,PURCHASE,,205.65,,,,True,,,False,False
+805321656,805321656,2500.0,2236.77,2016-12-10T08:22:45,78.4,Wendys #113668,US,US,05,01,fastfood,04/2029,2014-12-17,2014-12-17,948,948,1670,PURCHASE,,263.23,,,,True,,,False,False
+805321656,805321656,2500.0,2158.37,2016-12-22T17:09:21,19.33,abc.com,US,US,05,01,online_subscriptions,01/2026,2014-12-17,2014-12-17,948,948,1670,PURCHASE,,341.63,,,,False,,,False,False

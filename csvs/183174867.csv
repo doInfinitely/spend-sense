@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+183174867,183174867,7500.0,7500.0,2016-04-13T22:33:44,168.2,Northtown Massage,US,US,05,01,personal care,True,06/2025,2010-12-31,2010-12-31,420,420,8201,PURCHASE,,0.0,,,,,,False,False
+183174867,183174867,7500.0,7331.8,2016-04-18T10:22:48,114.72,Next Day Online Services,US,US,05,08,online_gifts,False,07/2031,2010-12-31,2010-12-31,420,420,8201,PURCHASE,,168.2,,,,,,False,False
+183174867,183174867,7500.0,7500.0,2016-07-01T15:33:20,141.1,Blue Mountain Online Services,US,US,05,01,online_gifts,False,12/2021,2010-12-31,2010-12-31,409,409,3334,PURCHASE,,0.0,,,,,,False,False
+183174867,183174867,7500.0,7500.0,2016-10-27T23:42:49,58.32,Fresh Flowers,US,US,09,08,online_gifts,False,02/2029,2010-12-31,2010-12-31,409,409,3334,PURCHASE,,0.0,,,,,,False,False
+183174867,183174867,7500.0,7500.0,2016-11-14T00:49:53,322.72,Fresh Flowers,US,US,90,01,online_gifts,False,12/2031,2010-12-31,2010-12-31,314,314,8043,PURCHASE,,0.0,,,,,,False,False
+183174867,183174867,7500.0,7177.28,2016-11-20T06:48:23,58.32,Fresh Flowers,US,US,09,08,online_gifts,False,02/2029,2010-12-31,2010-12-31,409,409,3334,REVERSAL,,322.72,,,,,,False,False
+183174867,183174867,7500.0,7500.0,2016-12-06T15:59:47,147.13,Universe Massage #357768,US,US,02,01,personal care,True,04/2030,2010-12-31,2010-12-31,409,409,3334,PURCHASE,,0.0,,,,,,False,False

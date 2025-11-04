@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+777326714,777326714,2500.0,2500.0,2016-01-20T01:52:46,191.48,KFC #196834,US,US,09,01,fastfood,True,02/2030,2015-09-26,2015-09-26,904,904,7195,PURCHASE,,0.0,,,,,,False,False
+777326714,777326714,2500.0,2500.0,2016-08-07T10:24:32,189.48,NY BBQ,US,US,05,01,food,True,06/2023,2015-09-26,2015-09-26,904,904,7195,PURCHASE,,0.0,,,,,,False,False
+777326714,777326714,2500.0,2310.52,2016-08-21T12:07:13,246.89,Wendys #337732,US,US,02,01,fastfood,True,05/2030,2015-09-26,2015-09-26,904,904,7195,PURCHASE,,189.48,,,,,,False,False
+777326714,777326714,2500.0,2500.0,2016-11-06T22:17:54,108.17,gap.com,US,US,02,01,online_retail,False,12/2025,2015-09-26,2015-09-26,904,904,7195,PURCHASE,,0.0,,,,,,False,False

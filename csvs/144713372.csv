@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+144713372,144713372,7500.0,7500.0,2016-02-05T05:42:56,210.6,EZ Putt Putt #804489,US,US,09,01,entertainment,True,03/2024,2014-09-15,2014-09-15,857,857,8752,PURCHASE,,0.0,,,,,,False,False
+144713372,144713372,7500.0,7314.4,2016-05-24T01:47:40,133.24,target.com,US,US,02,01,online_retail,False,03/2024,2014-09-15,2014-09-15,857,857,8752,PURCHASE,,185.6,,,,,,False,False
+144713372,144713372,7500.0,7206.16,2016-06-06T12:44:46,47.2,EZ Putt Putt #240241,US,US,90,01,entertainment,True,08/2032,2014-09-15,2014-09-15,857,857,8752,PURCHASE,,293.84,,,,,,False,False
+144713372,144713372,7500.0,7183.96,2016-07-10T06:16:51,173.48,staples.com,US,US,05,01,online_retail,False,03/2026,2014-09-15,2014-09-15,857,857,8752,,,316.04,,,,,,False,False
+144713372,144713372,7500.0,7035.48,2016-09-01T00:58:43,26.75,ebay.com,US,US,09,01,online_retail,False,12/2029,2014-09-15,2014-09-15,857,857,8752,PURCHASE,,464.52,,,,,,False,False
+144713372,144713372,7500.0,7008.73,2016-09-16T16:33:30,83.89,oldnavy.com,US,US,05,01,online_retail,False,06/2031,2014-09-15,2014-09-15,857,857,8752,PURCHASE,,491.27,,,,,,False,False
+144713372,144713372,7500.0,6949.84,2016-10-07T15:15:16,223.29,EZ Putt Putt #503815,US,US,02,01,entertainment,True,12/2027,2014-09-15,2014-09-15,857,857,8752,PURCHASE,,550.16,,,,,,False,False
+144713372,144713372,7500.0,6751.55,2016-11-30T01:25:14,40.18,AMC #74121,US,US,05,01,entertainment,True,08/2030,2014-09-15,2014-09-15,857,857,8752,PURCHASE,,748.45,,,,,,False,False

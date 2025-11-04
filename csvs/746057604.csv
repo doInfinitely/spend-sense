@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+746057604,746057604,1000.0,1000.0,2016-04-05T19:30:54,7.77,Apple iTunes,US,US,02,01,mobileapps,02/2020,2014-04-10,2014-04-10,615,615,3984,PURCHASE,,0.0,,,,False,,,False,False
+746057604,746057604,1000.0,1000.0,2016-05-06T05:15:54,7.77,Apple iTunes,US,US,02,01,mobileapps,02/2020,2014-04-10,2014-04-10,615,615,3984,PURCHASE,,0.0,,,,False,,,False,False
+746057604,746057604,1000.0,1000.0,2016-06-06T09:12:12,7.77,Apple iTunes,US,US,02,01,mobileapps,02/2020,2014-04-10,2014-04-10,615,615,3984,PURCHASE,,0.0,,,,False,,,False,False
+746057604,746057604,1000.0,1000.0,2016-07-07T03:38:16,7.77,Apple iTunes,US,US,02,01,mobileapps,02/2020,2014-04-10,2014-04-10,615,615,3984,PURCHASE,,0.0,,,,False,,,False,False
+746057604,746057604,1000.0,992.23,2016-07-20T01:56:43,103.11,gap.com,US,US,05,01,online_retail,06/2030,2014-04-10,2014-04-10,519,519,7390,PURCHASE,,7.77,,,,False,,,False,False
+746057604,746057604,1000.0,914.12,2016-08-07T22:58:19,7.77,Apple iTunes,US,US,02,01,mobileapps,02/2020,2014-04-10,2014-04-10,615,615,3984,PURCHASE,,85.88,,,,False,,,False,False
+746057604,746057604,1000.0,931.35,2016-09-08T22:08:32,7.77,Apple iTunes,US,US,02,01,mobileapps,02/2020,2014-04-10,2014-04-10,615,615,3984,PURCHASE,,68.65,,,,False,,,False,False
+746057604,746057604,1000.0,948.58,2016-10-10T10:36:32,7.77,Apple iTunes,US,US,02,01,mobileapps,02/2020,2014-04-10,2014-04-10,615,615,3984,PURCHASE,,51.42,,,,False,,,False,False
+746057604,746057604,1000.0,965.81,2016-11-09T17:31:21,7.77,Apple iTunes,US,US,02,01,mobileapps,02/2020,2014-04-10,2014-04-10,615,615,3984,PURCHASE,,34.19,,,,False,,,False,False
+746057604,746057604,1000.0,983.04,2016-12-10T07:19:59,7.77,Apple iTunes,US,US,02,01,mobileapps,02/2020,2014-04-10,2014-04-10,615,615,3984,PURCHASE,,16.96,,,,False,,,False,False

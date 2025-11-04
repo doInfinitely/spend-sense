@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+335397084,335397084,7500.0,7500.0,2016-02-15T11:36:47,278.36,Washington News,US,US,09,01,subscriptions,True,01/2028,2011-11-25,2011-11-25,956,956,7671,PURCHASE,,0.0,,,,,,False,False
+335397084,335397084,7500.0,7246.64,2016-09-06T11:33:23,22.2,hulu.com,US,US,09,01,online_subscriptions,False,01/2030,2011-11-25,2011-11-25,956,956,7671,PURCHASE,,253.36,,,,,,False,False
+335397084,335397084,7500.0,7224.44,2016-09-13T12:05:03,313.08,Mobile eCards,US,US,09,01,online_gifts,False,11/2031,2011-11-25,2011-11-25,956,956,7671,PURCHASE,,275.56,,,,,,False,True
+335397084,335397084,7500.0,6936.36,2016-10-05T13:56:14,32.62,Seattle News,US,US,05,01,subscriptions,True,01/2020,2011-11-25,2011-11-25,956,956,7671,PURCHASE,,563.64,,,,,,False,False
+335397084,335397084,7500.0,6903.74,2016-10-07T10:49:32,22.2,hulu.com,US,US,09,01,online_subscriptions,False,01/2030,2011-11-25,2011-11-25,956,956,7671,PURCHASE,,596.26,,,,,,False,False
+335397084,335397084,7500.0,6906.54,2016-11-07T03:24:38,22.2,hulu.com,US,US,09,01,online_subscriptions,False,01/2030,2011-11-25,2011-11-25,956,956,7671,PURCHASE,,593.46,,,,,,False,False
+335397084,335397084,7500.0,6909.34,2016-12-08T05:41:02,22.2,hulu.com,US,US,09,01,online_subscriptions,False,01/2030,2011-11-25,2011-11-25,956,956,7671,PURCHASE,,590.66,,,,,,False,False

@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+618268246,618268246,20000.0,20000.0,2016-03-20T05:05:08,13.71,AMC #128743,US,US,09,08,entertainment,07/2022,2013-10-24,2013-10-24,186,186,5511,PURCHASE,,0.0,,,,False,,,False,False
+618268246,618268246,20000.0,20000.0,2016-07-27T23:13:38,93.8,AMC #145832,US,US,09,08,entertainment,07/2028,2013-10-24,2013-10-24,186,186,5511,PURCHASE,,0.0,,,,True,,,False,False
+618268246,618268246,20000.0,19931.2,2016-09-29T04:11:56,158.88,Quizno's #756653,US,US,05,01,fastfood,01/2020,2013-10-24,2013-10-24,186,186,5511,PURCHASE,,68.8,,,,True,,,False,False
+618268246,618268246,20000.0,19797.32,2016-10-29T13:00:58,7.51,Apple iTunes,US,US,09,01,mobileapps,08/2025,2013-10-24,2013-10-24,186,186,5511,PURCHASE,,202.68,,,,False,,,False,False
+618268246,618268246,20000.0,19814.81,2016-11-29T23:23:58,7.51,Apple iTunes,US,US,09,01,mobileapps,08/2025,2013-10-24,2013-10-24,186,186,5511,PURCHASE,,185.19,,,,False,,,False,False

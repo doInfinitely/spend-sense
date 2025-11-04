@@ -1,0 +1,12 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+663545663,663545663,15000.0,15000.0,2016-02-04T13:27:22,41.79,EZ Putt Putt #551896,US,US,09,01,entertainment,03/2032,2015-06-30,2015-06-30,251,251,1320,PURCHASE,,0.0,,,,False,,,False,False
+663545663,663545663,15000.0,15000.0,2016-06-16T10:54:44,58.12,discount.com,US,US,05,01,online_retail,02/2022,2015-06-30,2015-06-30,251,251,1320,PURCHASE,,0.0,,,,False,,,False,False
+663545663,663545663,15000.0,15000.0,2016-08-01T20:25:03,8.41,abc.com,US,US,02,01,online_subscriptions,11/2026,2015-06-30,2015-06-30,251,251,1320,PURCHASE,,0.0,,,,False,,,False,False
+663545663,663545663,15000.0,15000.0,2016-09-01T04:42:04,8.41,abc.com,US,US,02,01,online_subscriptions,11/2026,2015-06-30,2015-06-30,251,251,1320,PURCHASE,,0.0,,,,False,,,False,False
+663545663,663545663,15000.0,15000.0,2016-10-02T07:21:30,8.41,abc.com,US,US,02,01,online_subscriptions,11/2026,2015-06-30,2015-06-30,251,251,1320,PURCHASE,,0.0,,,,False,,,False,False
+663545663,663545663,15000.0,14991.59,2016-10-19T18:47:52,183.3,AMC #74121,US,US,05,08,entertainment,04/2033,2015-06-30,2015-06-30,251,251,1320,PURCHASE,,8.41,,,,True,,,False,False
+663545663,663545663,15000.0,14808.29,2016-10-20T04:30:39,461.94,Burger King #309574,US,US,09,01,fastfood,04/2022,2015-06-30,2015-06-30,251,251,1320,PURCHASE,,191.71,,,,True,,,False,False
+663545663,663545663,15000.0,15000.0,2016-11-02T07:41:55,107.36,apple.com,US,US,09,08,online_retail,03/2023,2015-06-30,2015-06-30,251,251,1320,PURCHASE,,0.0,,,,False,,,False,False
+663545663,663545663,15000.0,14892.64,2016-11-02T07:43:59,107.36,apple.com,US,US,09,08,online_retail,03/2023,2015-06-30,2015-06-30,251,251,1320,REVERSAL,,107.36,,,,False,,,False,False
+663545663,663545663,15000.0,15000.0,2016-11-02T16:45:51,8.41,abc.com,US,US,02,01,online_subscriptions,11/2026,2015-06-30,2015-06-30,251,251,1320,PURCHASE,,0.0,,,,False,,,False,False
+663545663,663545663,15000.0,15000.0,2016-12-03T10:08:39,8.41,abc.com,US,US,02,01,online_subscriptions,11/2026,2015-06-30,2015-06-30,251,251,1320,PURCHASE,,0.0,,,,False,,,False,False

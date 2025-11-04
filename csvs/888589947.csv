@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+888589947,888589947,15000.0,15000.0,2016-04-22T06:32:20,138.14,Five Guys #582541,US,US,90,01,fastfood,True,08/2020,2014-08-08,2014-08-08,944,944,7772,PURCHASE,,0.0,,,,,,False,False
+888589947,888589947,15000.0,15000.0,2016-09-28T13:21:43,4.91,Apple iTunes,US,US,02,01,mobileapps,False,05/2030,2014-08-08,2014-08-08,944,944,7772,PURCHASE,,0.0,,,,,,False,False
+888589947,888589947,15000.0,15000.0,2016-10-29T20:50:26,4.91,Apple iTunes,US,US,02,01,mobileapps,False,05/2030,2014-08-08,2014-08-08,944,944,7772,PURCHASE,,0.0,,,,,,False,False
+888589947,888589947,15000.0,15000.0,2016-11-29T00:03:23,4.91,Apple iTunes,US,US,02,01,mobileapps,False,05/2030,2014-08-08,2014-08-08,944,944,7772,PURCHASE,,0.0,,,,,,False,False
+888589947,888589947,15000.0,15000.0,2016-12-18T05:06:56,0.0,Krispy Kreme #468121,US,US,05,01,fastfood,False,04/2027,2014-08-08,2014-08-08,944,944,7772,ADDRESS_VERIFICATION,,0.0,,,,,,False,False
+888589947,888589947,15000.0,15000.0,2016-12-30T10:01:58,4.91,Apple iTunes,US,US,02,01,mobileapps,False,05/2030,2014-08-08,2014-08-08,944,944,7772,PURCHASE,,0.0,,,,,,False,False

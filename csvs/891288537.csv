@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+891288537,891288537,50000.0,50000.0,2016-02-05T21:26:56,71.3,Dunkin' Donuts #242943,US,US,05,01,fastfood,True,04/2020,2013-10-04,2013-10-04,115,115,7718,PURCHASE,,0.0,,,,,,False,False
+891288537,891288537,50000.0,49953.7,2016-05-09T10:58:37,47.3,Dunkin' Donuts #149540,US,US,02,01,fastfood,True,03/2033,2013-10-04,2013-10-04,115,115,7718,PURCHASE,,46.3,,,,,,False,False
+891288537,891288537,50000.0,49931.4,2016-06-03T19:16:24,47.3,Dunkin' Donuts #149540,US,US,02,01,fastfood,True,03/2033,2013-10-04,2013-10-04,115,115,7718,REVERSAL,,68.6,,,,,,False,False
+891288537,891288537,50000.0,49978.7,2016-06-27T04:52:38,200.22,McDonalds #764333,US,US,05,01,fastfood,True,06/2021,2013-10-04,2013-10-04,115,115,7718,PURCHASE,,21.3,,,,,,False,False
+891288537,891288537,50000.0,49803.48,2016-07-24T02:43:39,83.33,Wendys #974901,US,US,09,01,fastfood,True,02/2020,2013-10-04,2013-10-04,115,115,7718,PURCHASE,,196.52,,,,,,False,False
+891288537,891288537,50000.0,49720.15,2016-07-31T01:29:37,73.65,Wendys #645972,US,US,09,08,fastfood,True,11/2029,2013-10-04,2013-10-04,115,115,7718,PURCHASE,,279.85,,,,,,False,False
+891288537,891288537,50000.0,49671.5,2016-10-07T09:00:45,173.79,Dunkin' Donuts #343350,US,US,05,01,fastfood,True,11/2029,2013-10-04,2013-10-04,115,115,7718,PURCHASE,,328.5,,,,,,False,False
+891288537,891288537,50000.0,49522.71,2016-11-21T22:48:01,56.18,In-N-Out #422833,US,US,02,01,fastfood,True,02/2031,2013-10-04,2013-10-04,115,115,7718,PURCHASE,,477.29,,,,,,False,False

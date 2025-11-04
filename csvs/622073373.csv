@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+622073373,622073373,1000.0,1000.0,2016-01-05T22:51:51,156.12,Lyft,US,US,05,01,rideshare,01/2024,2014-03-14,2014-03-14,215,215,9326,PURCHASE,,0.0,,,,False,,,False,False
+622073373,622073373,1000.0,868.88,2016-02-10T15:28:04,148.61,Shake Shack #733219,US,US,05,01,fastfood,09/2032,2014-03-14,2014-03-14,135,135,6270,PURCHASE,,131.12,,,,True,,,False,False
+622073373,622073373,1000.0,745.27,2016-07-29T10:38:27,318.24,Five Guys #15552,MEX,MEX,02,01,fastfood,01/2027,2014-03-14,2014-03-14,135,135,6270,PURCHASE,,254.73,,,,True,,,False,False
+622073373,622073373,1000.0,452.03,2016-08-01T04:08:34,177.61,Uber,US,US,02,01,rideshare,09/2031,2014-03-14,2014-03-14,135,135,6270,PURCHASE,,547.97,,,,False,,,False,False
+622073373,622073373,1000.0,274.42,2016-08-30T07:34:04,177.61,Uber,US,US,02,01,rideshare,09/2031,2014-03-14,2014-03-14,135,135,6270,REVERSAL,,725.58,,,,False,,,False,False
+622073373,622073373,1000.0,477.03,2016-09-13T07:07:04,39.38,Popeyes #665969,US,US,05,01,fastfood,08/2025,2014-03-14,2014-03-14,215,215,9326,PURCHASE,,522.97,,,,True,,,False,False

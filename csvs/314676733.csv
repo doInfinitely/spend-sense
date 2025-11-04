@@ -1,0 +1,13 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+314676733,314676733,5000.0,5000.0,2016-01-19T03:10:25,23.44,walmart.com,US,US,05,01,online_retail,03/2028,2014-03-22,2014-03-22,814,814,4380,PURCHASE,,0.0,,,,False,,,False,False
+314676733,314676733,5000.0,4976.56,2016-01-24T21:23:48,10.16,staples.com,US,US,05,01,online_retail,09/2027,2014-03-22,2014-03-22,661,661,4522,PURCHASE,,23.44,,,,False,,,False,False
+314676733,314676733,5000.0,5000.0,2016-04-12T03:49:15,766.44,cheapfast.com,US,US,09,01,online_retail,09/2030,2014-03-22,2014-03-22,661,661,4522,PURCHASE,,0.0,,,,False,,,False,False
+314676733,314676733,5000.0,4233.56,2016-04-21T18:58:51,52.84,alibaba.com,US,US,02,01,online_retail,07/2028,2014-03-22,2014-03-22,661,661,4522,PURCHASE,,766.44,,,,False,,,False,False
+314676733,314676733,5000.0,5000.0,2016-05-31T17:14:15,201.61,sears.com,US,US,05,01,online_retail,07/2020,2014-03-22,2014-03-22,814,814,4380,PURCHASE,,0.0,,,,False,,,False,False
+314676733,314676733,5000.0,5000.0,2016-06-23T00:13:47,26.6,oldnavy.com,US,US,02,01,online_retail,11/2022,2014-03-22,2014-03-22,814,814,4380,PURCHASE,,0.0,,,,False,,,False,False
+314676733,314676733,5000.0,4973.4,2016-06-27T05:41:29,121.17,oldnavy.com,US,US,05,01,online_retail,02/2023,2014-03-22,2014-03-22,661,661,4522,PURCHASE,,26.6,,,,False,,,False,False
+314676733,314676733,5000.0,4852.23,2016-06-29T21:14:20,225.71,sears.com,US,US,09,01,online_retail,06/2030,2014-03-22,2014-03-22,814,814,4380,PURCHASE,,147.77,,,,False,,,False,False
+314676733,314676733,5000.0,5000.0,2016-08-27T13:39:48,113.95,cheapfast.com,US,US,05,01,online_retail,12/2028,2014-03-22,2014-03-22,661,661,4522,PURCHASE,,0.0,,,,False,,,False,False
+314676733,314676733,5000.0,5000.0,2016-11-05T09:29:26,285.42,oldnavy.com,US,US,09,01,online_retail,03/2024,2014-03-22,2014-03-22,661,661,4522,PURCHASE,,0.0,,,,False,,,False,False
+314676733,314676733,5000.0,4714.58,2016-11-14T08:06:55,73.23,walmart.com,US,US,02,01,online_retail,12/2023,2014-03-22,2014-03-22,814,114,4380,PURCHASE,,285.42,,,,False,,,False,False
+314676733,314676733,5000.0,5000.0,2016-12-16T02:48:14,143.91,apple.com,US,US,80,01,online_retail,05/2028,2014-03-22,2014-03-22,814,814,4380,PURCHASE,,0.0,,,,False,,,False,False

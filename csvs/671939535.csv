@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+671939535,671939535,20000.0,20000.0,2016-02-19T10:13:47,5.15,amazon.com,PR,PR,05,01,online_retail,12/2032,2011-03-06,2011-03-06,318,318,4874,PURCHASE,,0.0,,,,False,,,False,False
+671939535,671939535,20000.0,20000.0,2016-06-06T05:16:12,104.58,staples.com,US,US,02,01,online_retail,08/2020,2011-03-06,2011-03-06,318,318,4874,PURCHASE,,0.0,,,,False,,,False,False
+671939535,671939535,20000.0,19895.42,2016-06-12T18:55:25,13.62,netflix.com,US,US,09,01,online_subscriptions,12/2027,2011-03-06,2011-03-06,393,393,9394,PURCHASE,,104.58,,,,False,,,False,False
+671939535,671939535,20000.0,19906.8,2016-07-13T11:08:15,13.62,netflix.com,US,US,09,01,online_subscriptions,12/2027,2011-03-06,2011-03-06,393,393,9394,PURCHASE,,93.2,,,,False,,,False,False
+671939535,671939535,20000.0,19893.18,2016-07-28T20:38:44,506.41,oldnavy.com,US,US,09,01,online_retail,06/2020,2011-03-06,2011-03-06,393,393,9394,PURCHASE,,106.82,,,,False,,,False,False
+671939535,671939535,20000.0,19411.77,2016-08-12T16:03:30,13.62,netflix.com,US,US,09,01,online_subscriptions,12/2027,2011-03-06,2011-03-06,393,393,9394,PURCHASE,,588.23,,,,False,,,False,False
+671939535,671939535,20000.0,19423.15,2016-09-13T14:50:51,13.62,netflix.com,US,US,09,01,online_subscriptions,12/2027,2011-03-06,2011-03-06,393,393,9394,PURCHASE,,576.85,,,,False,,,False,False
+671939535,671939535,20000.0,19434.53,2016-10-15T11:11:12,13.62,netflix.com,US,US,09,01,online_subscriptions,12/2027,2011-03-06,2011-03-06,393,393,9394,PURCHASE,,565.47,,,,False,,,False,False
+671939535,671939535,20000.0,19445.91,2016-11-16T02:09:29,13.62,netflix.com,US,US,09,01,online_subscriptions,12/2027,2011-03-06,2011-03-06,393,393,9394,PURCHASE,,554.09,,,,False,,,False,False
+671939535,671939535,20000.0,19457.29,2016-12-16T08:54:27,13.62,netflix.com,US,US,09,01,online_subscriptions,12/2027,2011-03-06,2011-03-06,393,393,9394,PURCHASE,,542.71,,,,False,,,False,False

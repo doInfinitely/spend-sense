@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+120960995,120960995,5000.0,5000.0,2016-09-07T17:53:07,80.82,Lyft,US,US,09,01,rideshare,06/2026,2012-10-24,2012-10-24,399,399,8194,PURCHASE,,0.0,,,,False,,,False,False
+120960995,120960995,5000.0,4919.18,2016-09-21T23:06:44,429.88,Uber,US,US,05,01,rideshare,06/2023,2012-10-24,2012-10-24,399,399,8194,PURCHASE,,80.82,,,,False,,,False,False
+120960995,120960995,5000.0,5000.0,2016-10-07T22:09:29,7.35,Lyft,US,US,02,01,rideshare,04/2029,2012-10-24,2012-10-24,399,399,8194,PURCHASE,,0.0,,,,False,,,False,False
+120960995,120960995,5000.0,4992.65,2016-10-26T11:54:22,161.91,AMC #145832,US,US,02,01,entertainment,03/2020,2012-10-24,2012-10-24,399,399,8194,PURCHASE,,7.35,,,,True,,,False,False
+120960995,120960995,5000.0,4830.74,2016-10-27T09:43:16,541.35,Uber,US,US,05,01,rideshare,02/2027,2012-10-24,2012-10-24,399,399,8194,PURCHASE,,169.26,,,,False,,,False,False

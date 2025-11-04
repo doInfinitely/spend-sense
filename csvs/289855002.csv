@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+289855002,289855002,15000.0,15000.0,2016-02-15T16:26:28,52.33,Subway #198707,US,US,05,01,fastfood,True,02/2026,2009-10-04,2009-10-04,409,409,19,PURCHASE,,0.0,,,,,,False,False
+289855002,289855002,15000.0,14972.67,2016-03-24T16:52:00,35.09,walmart.com,US,US,90,01,online_retail,False,09/2024,2009-10-04,2009-10-04,409,409,19,PURCHASE,,27.33,,,,,,False,False
+289855002,289855002,15000.0,14962.58,2016-04-14T13:40:41,36.37,Auntie Anne's #676813,US,US,05,08,fastfood,True,12/2031,2009-10-04,2009-10-04,409,409,19,PURCHASE,,37.42,,,,,,False,False
+289855002,289855002,15000.0,14951.21,2016-05-23T05:06:53,24.35,staples.com,US,US,09,01,online_retail,False,01/2028,2009-10-04,2009-10-04,409,409,19,PURCHASE,,48.79,,,,,,False,False
+289855002,289855002,15000.0,14951.86,2016-07-18T00:33:30,103.69,apple.com,US,US,02,08,online_retail,False,10/2024,2009-10-04,2009-10-04,409,409,19,PURCHASE,,48.14,,,,,,False,False
+289855002,289855002,15000.0,14848.17,2016-07-20T09:13:20,44.21,apple.com,US,US,02,01,online_retail,False,01/2024,2009-10-04,2009-10-04,409,409,19,PURCHASE,,151.83,,,,,,False,False
+289855002,289855002,15000.0,14828.96,2016-08-20T18:58:36,45.55,KFC #22094,US,US,05,01,fastfood,True,10/2029,2009-10-04,2009-10-04,409,409,19,PURCHASE,,171.04,,,,,,False,False
+289855002,289855002,15000.0,14808.41,2016-10-26T22:47:47,163.17,Wendys #196000,US,US,02,01,fastfood,True,01/2031,2009-10-04,2009-10-04,409,409,19,PURCHASE,,191.59,,,,,,False,False

@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,transactionAmount,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+675907598,675907598,20000.0,20000.0,2016-05-26T01:39:34,ebay.com,US,US,05,01,online_retail,12/2031,2011-05-12,2011-05-12,902,902,2353,ADDRESS_VERIFICATION,,0.0,0.0,,,,False,,,False,False
+675907598,675907598,20000.0,20000.0,2016-08-01T23:30:54,Apple iTunes,US,US,05,01,mobileapps,03/2029,2011-05-12,2011-05-12,902,902,2353,PURCHASE,,0.0,4.59,,,,False,,,False,False
+675907598,675907598,20000.0,20000.0,2016-09-01T11:53:53,Apple iTunes,US,US,05,01,mobileapps,03/2029,2011-05-12,2011-05-12,902,902,2353,PURCHASE,,0.0,4.59,,,,False,,,False,False
+675907598,675907598,20000.0,19995.41,2016-09-03T20:59:34,discount.com,US,US,05,,online_retail,03/2032,2011-05-12,2011-05-12,902,902,2353,PURCHASE,,4.59,4.54,,,,False,,,False,False
+675907598,675907598,20000.0,20000.0,2016-10-02T21:47:49,Apple iTunes,US,US,05,01,mobileapps,03/2029,2011-05-12,2011-05-12,902,902,2353,PURCHASE,,0.0,4.59,,,,False,,,False,False
+675907598,675907598,20000.0,19995.41,2016-10-23T12:51:40,Starbucks #377528,US,US,80,01,fastfood,01/2026,2011-05-12,2011-05-12,902,902,2353,PURCHASE,,4.59,76.63,,,,True,,,False,False
+675907598,675907598,20000.0,19943.78,2016-11-03T02:25:25,Apple iTunes,US,US,05,01,mobileapps,03/2029,2011-05-12,2011-05-12,902,902,2353,PURCHASE,,56.22,4.59,,,,False,,,False,False
+675907598,675907598,20000.0,19964.19,2016-12-03T04:28:08,Apple iTunes,US,US,05,01,mobileapps,03/2029,2011-05-12,2011-05-12,902,902,2353,PURCHASE,,35.81,4.59,,,,False,,,False,False

@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,transactionAmount,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+658372347,658372347,250.0,250.0,2016-01-01T21:34:41,amazon.com,US,US,09,01,online_retail,03/2032,2014-11-16,2014-11-16,320,320,1806,ADDRESS_VERIFICATION,,0.0,0.0,,,,False,,,False,False
+658372347,658372347,250.0,250.0,2016-08-24T15:31:52,staples.com,US,US,09,01,online_retail,12/2022,2014-11-16,2014-11-16,320,320,1806,PURCHASE,,0.0,19.24,,,,False,,,False,False
+658372347,658372347,250.0,250.0,2016-09-06T21:32:18,discount.com,US,US,05,01,online_retail,06/2022,2014-11-16,2014-11-16,320,320,1806,PURCHASE,,0.0,260.73,,,,False,,,False,False
+658372347,658372347,250.0,250.0,2016-09-13T11:24:51,oldnavy.com,US,US,02,08,online_retail,03/2028,2014-11-16,2014-11-16,320,320,1806,PURCHASE,,0.0,240.7,,,,False,,,False,False
+658372347,658372347,250.0,250.0,2016-12-23T00:26:37,Apple iTunes,US,US,09,01,mobileapps,07/2027,2014-11-16,2014-11-16,320,320,1806,PURCHASE,,0.0,4.54,,,,False,,,False,False

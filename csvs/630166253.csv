@@ -1,0 +1,16 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+630166253,630166253,250.0,250.0,2016-01-17T11:43:39,63.5,Fresh Online Services,US,US,05,01,online_gifts,09/2032,2013-12-20,2013-12-20,151,151,4804,PURCHASE,,0.0,,,,False,,,False,False
+630166253,630166253,250.0,250.0,2016-02-02T05:00:39,63.5,Fresh Online Services,US,US,05,01,online_gifts,09/2032,2013-12-20,2013-12-20,151,151,4804,REVERSAL,,0.0,,,,False,,,False,False
+630166253,630166253,250.0,250.0,2016-04-18T01:36:32,306.74,Fresh eCards,US,US,05,01,online_gifts,06/2027,2013-12-20,2013-12-20,151,151,4804,PURCHASE,,0.0,,,,False,,,False,False
+630166253,630166253,250.0,250.0,2016-06-02T14:11:23,9.14,Spotify,US,US,09,01,online_subscriptions,08/2026,2013-12-20,2013-12-20,151,151,4804,PURCHASE,,0.0,,,,False,,,False,False
+630166253,630166253,250.0,240.86,2016-06-24T09:58:40,158.17,ebay.com,US,US,05,01,online_retail,09/2020,2013-12-20,2013-12-20,151,151,4804,PURCHASE,,9.14,,,,False,,,False,False
+630166253,630166253,250.0,250.0,2016-07-03T17:43:22,9.14,Spotify,US,US,09,01,online_subscriptions,08/2026,2013-12-20,2013-12-20,151,151,4804,PURCHASE,,0.0,,,,False,,,False,False
+630166253,630166253,250.0,240.86,2016-07-26T04:45:50,25.49,Next Day Online Services,US,US,02,08,online_gifts,04/2031,2013-12-20,2013-12-20,151,151,4804,PURCHASE,,9.14,,,,False,,,False,False
+630166253,630166253,250.0,215.37,2016-07-26T23:47:01,201.26,Shake Shack #495147,US,US,05,01,fastfood,03/2021,2013-12-20,2013-12-20,151,151,4804,PURCHASE,,34.63,,,,True,,,False,False
+630166253,630166253,250.0,250.0,2016-08-04T05:49:02,9.14,Spotify,US,US,09,01,online_subscriptions,08/2026,2013-12-20,2013-12-20,151,151,4804,PURCHASE,,0.0,,,,False,,,False,False
+630166253,630166253,250.0,240.86,2016-08-29T18:31:39,305.99,Blue Mountain Online Services,US,US,80,08,online_gifts,03/2024,2013-12-20,2013-12-20,151,151,4804,PURCHASE,,9.14,,,,False,,,False,False
+630166253,630166253,250.0,250.0,2016-09-04T12:55:51,9.14,Spotify,US,US,09,01,online_subscriptions,08/2026,2013-12-20,2013-12-20,151,151,4804,PURCHASE,,0.0,,,,False,,,False,False
+630166253,630166253,250.0,250.0,2016-10-05T06:02:00,9.14,Spotify,US,US,09,01,online_subscriptions,08/2026,2013-12-20,2013-12-20,151,151,4804,PURCHASE,,0.0,,,,False,,,False,False
+630166253,630166253,250.0,250.0,2016-11-05T15:12:57,9.14,Spotify,US,US,09,01,online_subscriptions,08/2026,2013-12-20,2013-12-20,151,151,4804,PURCHASE,,0.0,,,,False,,,False,False
+630166253,630166253,250.0,250.0,2016-12-06T02:05:17,372.33,Next Day eCards,US,US,80,01,online_gifts,02/2022,2013-12-20,2013-12-20,151,151,4804,PURCHASE,,0.0,,,,False,,,False,False
+630166253,630166253,250.0,250.0,2016-12-06T22:03:48,9.14,Spotify,US,US,09,01,online_subscriptions,08/2026,2013-12-20,2013-12-20,151,151,4804,PURCHASE,,0.0,,,,False,,,False,False

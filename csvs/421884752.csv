@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+421884752,421884752,7500.0,7500.0,2016-01-02T17:28:44,451.11,apple.com,US,US,09,01,online_retail,06/2020,2014-09-09,2014-09-09,356,356,7456,PURCHASE,,0.0,,,,False,,,False,False
+421884752,421884752,7500.0,7048.89,2016-01-25T15:29:38,124.34,EZ Putt Putt #804489,US,US,05,01,entertainment,04/2033,2014-09-09,2014-09-09,356,356,7456,PURCHASE,,451.11,,,,True,,,False,False
+421884752,421884752,7500.0,7500.0,2016-02-02T16:57:23,63.67,oldnavy.com,US,US,05,01,online_retail,03/2020,2014-09-09,2014-09-09,356,356,7456,PURCHASE,,0.0,,,,False,,,False,False
+421884752,421884752,7500.0,7436.33,2016-02-11T11:03:48,124.34,EZ Putt Putt #804489,US,US,05,01,entertainment,04/2033,2014-09-09,2014-09-09,356,356,7456,REVERSAL,,63.67,,,,True,,,False,False
+421884752,421884752,7500.0,7500.0,2016-02-16T10:34:57,233.62,gap.com,US,US,05,01,online_retail,09/2020,2014-09-09,2014-09-09,639,639,3180,PURCHASE,,0.0,,,,False,,,False,False
+421884752,421884752,7500.0,7500.0,2016-05-30T12:04:45,12.18,apple.com,US,US,09,01,online_retail,06/2024,2014-09-09,2014-09-09,639,639,3180,PURCHASE,,0.0,,,,False,,,False,False
+421884752,421884752,7500.0,7500.0,2016-09-29T01:50:16,35.4,staples.com,US,US,05,01,online_retail,05/2024,2014-09-09,2014-09-09,356,356,7456,PURCHASE,,0.0,,,,False,,,False,False
+421884752,421884752,7500.0,7464.6,2016-09-29T01:53:02,35.4,staples.com,US,US,05,01,online_retail,05/2024,2014-09-09,2014-09-09,356,356,7456,REVERSAL,,35.4,,,,False,,,False,False
+421884752,421884752,7500.0,7500.0,2016-09-30T17:13:18,52.23,gap.com,US,US,02,01,online_retail,04/2020,2014-09-09,2014-09-09,639,639,3180,PURCHASE,,0.0,,,,False,,,False,False
+421884752,421884752,7500.0,7500.0,2016-10-16T21:59:54,101.56,discount.com,US,US,05,01,online_retail,07/2033,2014-09-09,2014-09-09,639,639,3180,PURCHASE,,0.0,,,,False,,,False,False

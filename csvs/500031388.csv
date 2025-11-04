@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+500031388,500031388,2500.0,2500.0,2016-01-03T23:55:38,19.42,Krispy Kreme #653472,US,US,05,01,fastfood,True,03/2024,2015-04-29,2015-04-29,245,245,9947,PURCHASE,,0.0,,,,,,False,False
+500031388,500031388,2500.0,2500.0,2016-03-10T23:53:03,9.44,sears.com,US,US,09,01,online_retail,False,09/2031,2015-04-29,2015-04-29,245,245,9947,PURCHASE,,0.0,,,,,,False,False
+500031388,500031388,2500.0,2500.0,2016-05-06T21:40:13,231.32,staples.com,US,US,02,01,online_retail,False,09/2025,2015-04-29,2015-04-29,116,116,4919,PURCHASE,,0.0,,,,,,False,False
+500031388,500031388,2500.0,2500.0,2016-08-06T22:27:01,50.79,Regal Cinemas #05791,US,US,05,01,entertainment,True,01/2026,2015-04-29,2015-04-29,116,116,4919,PURCHASE,,0.0,,,,,,False,False
+500031388,500031388,2500.0,2449.21,2016-08-24T22:41:13,70.66,Wendys #39414,US,US,05,01,fastfood,True,11/2031,2015-04-29,2015-04-29,116,116,4919,PURCHASE,,50.79,,,,,,False,False
+500031388,500031388,2500.0,2500.0,2016-10-06T20:10:23,51.07,Hardee's #661648,US,US,02,01,fastfood,True,02/2029,2015-04-29,2015-04-29,245,245,9947,PURCHASE,,0.0,,,,,,False,False
+500031388,500031388,2500.0,2448.93,2016-10-20T15:09:33,48.5,Domino's Pizza #760664,US,US,02,01,fastfood,True,06/2029,2015-04-29,2015-04-29,116,116,4919,PURCHASE,,51.07,,,,,,False,False
+500031388,500031388,2500.0,2400.43,2016-10-20T15:11:59,48.5,Domino's Pizza #760664,US,US,02,01,fastfood,True,06/2029,2015-04-29,2015-04-29,116,116,4919,REVERSAL,,99.57,,,,,,False,False
+500031388,500031388,2500.0,2448.93,2016-10-22T21:31:16,386.42,sears.com,US,US,05,01,online_retail,False,05/2027,2015-04-29,2015-04-29,116,116,4919,PURCHASE,,51.07,,,,,,False,False
+500031388,500031388,2500.0,2500.0,2016-12-11T00:02:16,136.9,Shake Shack #382381,US,US,09,01,fastfood,True,12/2021,2015-04-29,2015-04-29,245,245,9947,PURCHASE,,0.0,,,,,,False,False

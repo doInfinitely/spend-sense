@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+998706877,998706877,50000.0,50000.0,2016-01-29T16:56:39,64.61,Next Day Online Services,US,US,05,01,online_gifts,01/2023,2015-11-05,2015-11-05,521,521,5635,PURCHASE,,0.0,,,,False,,,False,False
+998706877,998706877,50000.0,50000.0,2016-02-12T02:22:52,120.9,Fresh eCards,US,US,09,01,online_gifts,12/2032,2015-11-05,2015-11-05,521,521,5635,PURCHASE,,0.0,,,,False,,,False,False
+998706877,998706877,50000.0,49879.1,2016-02-20T13:27:00,343.3,34th BBQ #493821,US,US,02,01,food,03/2030,2015-11-05,2015-11-05,521,521,5635,PURCHASE,,120.9,,,,True,,,False,False
+998706877,998706877,50000.0,50000.0,2016-03-18T20:04:24,133.17,34th BBQ #207369,US,US,05,08,food,12/2020,2015-11-05,2015-11-05,501,501,7274,PURCHASE,,0.0,,,,True,,,False,False
+998706877,998706877,50000.0,50000.0,2016-09-05T01:34:02,477.96,1st Sandwitch Bar #758805,US,US,09,01,food,06/2029,2015-11-05,2015-11-05,521,521,5635,PURCHASE,,0.0,,,,True,,,False,False
+998706877,998706877,50000.0,49522.04,2016-09-11T08:22:01,102.77,South Steakhouse #335249,US,US,09,01,food,12/2024,2015-11-05,2015-11-05,501,501,7274,PURCHASE,,477.96,,,,True,,,False,False
+998706877,998706877,50000.0,50000.0,2016-12-03T00:37:16,61.67,target.com,US,US,05,01,online_retail,10/2029,2015-11-05,2015-11-05,501,501,7274,PURCHASE,,0.0,,,,False,,,False,False
+998706877,998706877,50000.0,49938.33,2016-12-22T20:47:35,76.73,Blue Mountain eCards,US,US,05,01,online_gifts,05/2029,2015-11-05,2015-11-05,521,521,5635,PURCHASE,,61.67,,,,False,,,False,False

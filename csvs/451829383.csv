@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+451829383,451829383,20000.0,20000.0,2016-02-25T06:05:37,91.91,United Airlines,US,US,02,08,airline,True,05/2032,2011-02-19,2011-02-19,572,572,1013,PURCHASE,,0.0,,,,,,False,False
+451829383,451829383,20000.0,19933.09,2016-04-01T18:48:29,68.67,American Airlines,US,US,09,01,airline,False,02/2026,2011-02-19,2011-02-19,375,375,3491,PURCHASE,,66.91,,,,,,False,False
+451829383,451829383,20000.0,19889.42,2016-05-13T12:13:22,147.86,American Airlines,US,US,05,08,airline,False,10/2025,2011-02-19,2011-02-19,572,572,1013,PURCHASE,,110.58,,,,,,False,False
+451829383,451829383,20000.0,19766.56,2016-06-04T22:24:38,122.39,Icelandic Airlines,US,US,09,08,airline,False,10/2032,2011-02-19,2011-02-19,572,572,1013,PURCHASE,,233.44,,,,,,False,False
+451829383,451829383,20000.0,19669.17,2016-10-03T02:59:44,328.87,American Airlines,US,US,,01,airline,False,09/2020,2011-02-19,2011-02-19,572,572,1013,PURCHASE,,330.83,,,,,,False,False
+451829383,451829383,20000.0,19340.3,2016-10-14T13:43:07,108.31,American Airlines,US,US,09,01,airline,False,01/2021,2011-02-19,2011-02-19,572,572,1013,PURCHASE,,659.7,,,,,,False,False
+451829383,451829383,20000.0,19256.99,2016-11-18T23:02:36,0.0,Delta Airlines,US,US,09,01,airline,False,07/2030,2011-02-19,2011-02-19,375,375,3491,ADDRESS_VERIFICATION,,743.01,,,,,,False,False
+451829383,451829383,20000.0,19281.99,2016-12-14T02:20:37,31.18,Delta Airlines,US,US,02,01,airline,False,08/2023,2011-02-19,2011-02-19,572,572,1013,PURCHASE,,718.01,,,,,,False,False

@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+795134182,795134182,10000.0,10000.0,2016-01-05T18:56:24,325.72,discount.com,US,US,05,01,online_retail,03/2021,2012-06-10,2012-06-10,257,257,6052,PURCHASE,,0.0,,,,False,,,False,False
+795134182,795134182,10000.0,9699.28,2016-03-11T06:22:26,117.53,amazon.com,US,US,02,01,online_retail,09/2029,2012-06-10,2012-06-10,257,257,6052,PURCHASE,,300.72,,,,False,,,False,False
+795134182,795134182,10000.0,9606.75,2016-04-30T01:47:44,88.26,Rodeway Inn #829626,US,US,05,01,hotels,04/2031,2012-06-10,2012-06-10,967,967,2092,PURCHASE,,393.25,,,,True,,,False,False
+795134182,795134182,10000.0,9518.49,2016-04-30T04:38:31,257.77,Renaissance Hotel #896676,US,US,02,08,hotels,11/2020,2012-06-10,2012-06-10,257,257,6052,PURCHASE,,481.51,,,,True,,,False,False
+795134182,795134182,10000.0,9285.72,2016-05-27T03:04:39,88.26,Rodeway Inn #829626,US,US,05,01,hotels,04/2031,2012-06-10,2012-06-10,967,967,2092,REVERSAL,,714.28,,,,True,,,False,False

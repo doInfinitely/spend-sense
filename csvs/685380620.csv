@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+685380620,685380620,2500.0,2500.0,2016-06-02T14:51:46,28.07,McDonalds #764333,US,US,05,08,fastfood,True,02/2020,2015-06-10,2015-06-10,868,868,9788,PURCHASE,,0.0,,,,,,False,False
+685380620,685380620,2500.0,2500.0,2016-09-28T11:26:20,116.2,34th BBQ #493821,US,US,05,01,food,True,02/2031,2015-06-10,2015-06-10,257,257,3684,PURCHASE,,0.0,,,,,,False,False
+685380620,685380620,2500.0,2500.0,2016-12-16T05:11:31,30.29,Mobil Gas #281388,US,US,05,01,fuel,True,02/2027,2015-06-10,2015-06-10,257,257,3684,PURCHASE,,0.0,,,,,,False,False
+685380620,685380620,2500.0,2469.71,2016-12-29T07:39:31,36.97,Mobil Gas #281388,US,US,05,01,fuel,True,02/2027,2015-06-10,2015-06-10,257,257,3684,PURCHASE,,30.29,,,,,,False,False

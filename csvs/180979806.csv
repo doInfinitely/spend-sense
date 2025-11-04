@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+180979806,180979806,10000.0,10000.0,2016-06-25T22:37:01,167.99,oldnavy.com,US,US,05,01,online_retail,12/2021,2013-07-01,2013-07-01,494,494,9028,PURCHASE,,0.0,,,,False,,,False,False
+180979806,180979806,10000.0,10000.0,2016-08-12T23:40:18,88.7,amazon.com,US,US,09,01,online_retail,05/2021,2013-07-01,2013-07-01,494,494,9028,PURCHASE,,0.0,,,,False,,,False,False
+180979806,180979806,10000.0,10000.0,2016-10-22T15:57:29,24.13,Texas Gas #597673,US,US,05,01,fuel,06/2028,2013-07-01,2013-07-01,494,494,9028,PURCHASE,,0.0,,,,True,,,False,False
+180979806,180979806,10000.0,10000.0,2016-11-05T23:49:23,24.97,Texas Gas #597673,US,US,05,01,fuel,06/2028,2013-07-01,2013-07-01,494,494,9028,PURCHASE,,0.0,,,,True,,,False,False
+180979806,180979806,10000.0,9975.03,2016-11-08T16:19:58,144.36,sears.com,US,US,05,08,online_retail,08/2031,2013-07-01,2013-07-01,494,494,9028,PURCHASE,,24.97,,,,False,,,False,False
+180979806,180979806,10000.0,9830.67,2016-11-19T17:44:34,29.09,Texas Gas #597673,US,US,05,01,fuel,06/2028,2013-07-01,2013-07-01,494,494,9028,PURCHASE,,169.33,,,,True,,,False,False
+180979806,180979806,10000.0,10000.0,2016-12-03T00:49:51,25.12,Texas Gas #597673,US,US,05,01,fuel,06/2028,2013-07-01,2013-07-01,494,494,9028,PURCHASE,,0.0,,,,True,,,False,False
+180979806,180979806,10000.0,9974.88,2016-12-17T18:46:36,24.13,Texas Gas #597673,US,US,05,01,fuel,06/2028,2013-07-01,2013-07-01,494,494,9028,PURCHASE,,25.12,,,,True,,,False,False
+180979806,180979806,10000.0,9950.75,2016-12-28T04:40:24,8.5,Uber,US,US,05,01,rideshare,05/2033,2013-07-01,2013-07-01,494,749,9028,PURCHASE,,49.25,,,,False,,,False,False

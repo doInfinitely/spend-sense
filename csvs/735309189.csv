@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+735309189,735309189,15000.0,15000.0,2016-02-18T16:59:37,128.56,gap.com,US,US,05,08,online_retail,08/2022,2015-02-02,2015-02-02,203,203,6369,PURCHASE,,0.0,,,,False,,,False,False
+735309189,735309189,15000.0,14871.44,2016-02-19T18:57:40,74.89,ebay.com,US,US,05,01,online_retail,03/2022,2015-02-02,2015-02-02,119,119,4346,PURCHASE,,128.56,,,,False,,,False,False
+735309189,735309189,15000.0,15000.0,2016-03-05T03:47:32,167.07,apple.com,US,US,02,01,online_retail,12/2024,2015-02-02,2015-02-02,119,119,4346,PURCHASE,,0.0,,,,False,,,False,False
+735309189,735309189,15000.0,15000.0,2016-06-14T18:10:33,147.78,alibaba.com,US,US,05,01,online_retail,09/2021,2015-02-02,2015-02-02,203,203,6369,PURCHASE,,0.0,,,,False,,,False,False
+735309189,735309189,15000.0,14852.22,2016-06-19T01:45:49,13.08,walmart.com,US,US,05,08,online_retail,06/2020,2015-02-02,2015-02-02,119,119,4346,PURCHASE,,147.78,,,,False,,,False,False
+735309189,735309189,15000.0,15000.0,2016-07-13T14:52:23,249.8,apple.com,US,US,05,01,online_retail,07/2022,2015-02-02,2015-02-02,119,119,4346,PURCHASE,,0.0,,,,False,,,False,False
+735309189,735309189,15000.0,14750.2,2016-07-22T04:41:04,39.22,cheapfast.com,US,US,02,01,online_retail,03/2024,2015-02-02,2015-02-02,203,203,6369,PURCHASE,,249.8,,,,False,,,False,False
+735309189,735309189,15000.0,15000.0,2016-09-24T15:27:42,141.74,apple.com,US,US,05,01,online_retail,06/2025,2015-02-02,2015-02-02,203,203,6369,PURCHASE,,0.0,,,,False,,,False,False
+735309189,735309189,15000.0,15000.0,2016-11-14T01:56:53,18.52,netflix.com,US,US,09,01,online_subscriptions,01/2026,2015-02-02,2015-02-02,119,119,4346,PURCHASE,,0.0,,,,False,,,False,False
+735309189,735309189,15000.0,15000.0,2016-12-15T08:16:22,18.52,netflix.com,US,US,09,01,online_subscriptions,01/2026,2015-02-02,2015-02-02,119,119,4346,PURCHASE,,0.0,,,,False,,,False,False

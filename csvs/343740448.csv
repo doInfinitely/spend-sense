@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+343740448,343740448,10000.0,10000.0,2016-01-21T01:46:26,149.34,Rodeway Inn #129967,MEX,MEX,02,08,hotels,True,07/2025,2008-03-31,2008-03-31,802,802,3186,PURCHASE,,0.0,,,,,,False,False
+343740448,343740448,10000.0,9875.66,2016-07-10T16:53:56,509.26,Hyatt House #372646,US,US,05,01,hotels,True,12/2023,2008-03-31,2008-03-31,446,446,5543,PURCHASE,,124.34,,,,,,False,False
+343740448,343740448,10000.0,9366.4,2016-07-31T17:39:50,39.5,Hilton Hotels #195960,US,US,05,01,hotels,True,03/2026,2008-03-31,2008-03-31,446,446,5543,PURCHASE,,633.6,,,,,,False,False
+343740448,343740448,10000.0,9351.9,2016-08-08T00:48:17,27.83,Rodeway Inn #306166,US,US,02,01,hotels,True,12/2028,2008-03-31,2008-03-31,367,367,7747,PURCHASE,,648.1,,,,,,False,False
+343740448,343740448,10000.0,9349.07,2016-12-21T22:17:58,146.93,Hilton Hotels #119121,US,US,02,01,hotels,False,11/2025,2008-03-31,2008-03-31,802,802,3186,PURCHASE,,650.93,,,,,,False,False

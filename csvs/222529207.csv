@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+222529207,222529207,50000.0,50000.0,2016-02-21T08:26:19,10.82,Powerlifting #764704,US,US,09,01,health,05/2025,2012-08-26,2012-08-26,712,712,2636,PURCHASE,,0.0,,,,False,,,False,False
+222529207,222529207,50000.0,50000.0,2016-04-19T09:08:27,137.65,walmart.com,US,US,05,01,online_retail,02/2021,2012-08-26,2012-08-26,477,477,283,PURCHASE,,0.0,,,,False,,,False,False
+222529207,222529207,50000.0,50000.0,2016-09-22T20:38:26,76.18,KFC #210960,US,US,05,01,fastfood,02/2024,2012-08-26,2012-08-26,712,712,2636,PURCHASE,,0.0,,,,True,,,False,False

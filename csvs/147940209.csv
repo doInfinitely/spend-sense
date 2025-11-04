@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+147940209,147940209,250.0,250.0,2016-05-26T07:52:14,516.14,cheapfast.com,US,US,02,01,online_retail,10/2030,2015-06-10,2015-06-10,977,977,172,PURCHASE,,0.0,,,,False,,,False,False
+147940209,147940209,250.0,250.0,2016-05-31T10:11:19,151.61,34th BBQ #412895,US,US,05,01,food,01/2033,2015-06-10,2015-06-10,513,513,2404,PURCHASE,,0.0,,,,True,,,False,False
+147940209,147940209,250.0,250.0,2016-06-15T05:24:38,182.55,ebay.com,US,US,09,01,online_retail,04/2026,2015-06-10,2015-06-10,977,977,172,PURCHASE,,0.0,,,,False,,,False,False

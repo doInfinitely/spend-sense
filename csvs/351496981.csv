@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+351496981,351496981,2500.0,2500.0,2016-02-07T12:14:44,10.0,Hilton Hotels #89655,US,US,09,08,hotels,10/2027,2009-11-13,2009-11-13,199,199,9572,PURCHASE,,0.0,,,,False,,,False,False
+351496981,351496981,2500.0,2500.0,2016-03-22T20:43:22,421.24,Rodeway Inn #138502,US,US,09,01,hotels,10/2020,2009-11-13,2009-11-13,199,199,9572,PURCHASE,,0.0,,,,False,,,False,False
+351496981,351496981,2500.0,2103.76,2016-04-20T17:01:07,23.77,Hyatt House #551924,US,US,05,01,hotels,04/2020,2009-11-13,2009-11-13,199,199,9572,PURCHASE,,396.24,,,,True,,,False,False
+351496981,351496981,2500.0,2104.99,2016-06-21T08:37:59,65.0,gap.com,US,US,05,08,online_retail,02/2033,2009-11-13,2009-11-13,199,199,9572,PURCHASE,,395.01,,,,False,,,False,False
+351496981,351496981,2500.0,2064.99,2016-08-06T10:19:01,696.03,Hilton Hotels #698635,US,US,09,01,hotels,05/2026,2009-11-13,2009-11-13,199,199,9572,PURCHASE,,435.01,,,,False,,,False,False
+351496981,351496981,2500.0,1368.96,2016-08-24T19:14:02,58.37,Hilton Hotels #316622,US,US,90,01,hotels,11/2028,2009-11-13,2009-11-13,199,199,9572,PURCHASE,,1131.04,,,,True,,,False,False
+351496981,351496981,2500.0,1335.59,2016-11-21T04:39:56,128.57,Rodeway Inn #599249,US,US,05,01,hotels,12/2025,2009-11-13,2009-11-13,199,199,9572,PURCHASE,,1164.41,,,,True,,,False,False
+351496981,351496981,2500.0,1232.02,2016-12-19T18:17:01,128.57,Rodeway Inn #599249,US,US,05,01,hotels,12/2025,2009-11-13,2009-11-13,199,199,9572,REVERSAL,,1267.98,,,,True,,,False,False

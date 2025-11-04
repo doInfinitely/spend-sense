@@ -1,0 +1,12 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+255688255,255688255,15000.0,15000.0,2016-03-11T07:41:14,11.62,abc.com,US,US,05,01,online_subscriptions,10/2024,2015-07-29,2015-07-29,392,392,8496,PURCHASE,,0.0,,,,False,,,False,False
+255688255,255688255,15000.0,15000.0,2016-04-10T17:14:57,11.62,abc.com,US,US,05,01,online_subscriptions,10/2024,2015-07-29,2015-07-29,392,392,8496,PURCHASE,,0.0,,,,False,,,False,False
+255688255,255688255,15000.0,15000.0,2016-05-12T05:29:04,11.62,abc.com,US,US,05,01,online_subscriptions,10/2024,2015-07-29,2015-07-29,392,392,8496,PURCHASE,,0.0,,,,False,,,False,False
+255688255,255688255,15000.0,15000.0,2016-06-11T21:59:46,11.62,abc.com,US,US,05,01,online_subscriptions,10/2024,2015-07-29,2015-07-29,392,392,8496,PURCHASE,,0.0,,,,False,,,False,False
+255688255,255688255,15000.0,15000.0,2016-07-12T08:19:54,11.62,abc.com,US,US,05,01,online_subscriptions,10/2024,2015-07-29,2015-07-29,392,392,8496,PURCHASE,,0.0,,,,False,,,False,False
+255688255,255688255,15000.0,14988.38,2016-07-28T17:41:13,285.09,oldnavy.com,US,US,05,08,online_retail,04/2023,2015-07-29,2015-07-29,687,687,1405,PURCHASE,,11.62,,,,False,,,False,False
+255688255,255688255,15000.0,15000.0,2016-08-11T18:46:50,11.62,abc.com,US,US,05,01,online_subscriptions,10/2024,2015-07-29,2015-07-29,392,392,8496,PURCHASE,,0.0,,,,False,,,False,False
+255688255,255688255,15000.0,15000.0,2016-09-10T18:57:04,11.62,abc.com,US,US,05,01,online_subscriptions,10/2024,2015-07-29,2015-07-29,392,392,8496,PURCHASE,,0.0,,,,False,,,False,False
+255688255,255688255,15000.0,15000.0,2016-10-12T15:42:13,11.62,abc.com,US,US,05,01,online_subscriptions,10/2024,2015-07-29,2015-07-29,392,392,8496,PURCHASE,,0.0,,,,False,,,False,False
+255688255,255688255,15000.0,15000.0,2016-11-12T07:53:47,11.62,abc.com,US,US,05,01,online_subscriptions,10/2024,2015-07-29,2015-07-29,392,392,8496,PURCHASE,,0.0,,,,False,,,False,False
+255688255,255688255,15000.0,15000.0,2016-12-12T17:51:00,11.62,abc.com,US,US,05,01,online_subscriptions,10/2024,2015-07-29,2015-07-29,392,392,8496,PURCHASE,,0.0,,,,False,,,False,False

@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+347604064,347604064,15000.0,15000.0,2016-02-04T05:29:04,137.63,AMC #692956,US,US,09,01,entertainment,True,09/2020,2014-07-11,2014-07-11,916,916,2567,PURCHASE,,0.0,,,,,,False,False
+347604064,347604064,15000.0,14887.37,2016-03-30T05:28:43,226.42,AMC #724446,US,US,09,01,entertainment,True,02/2028,2014-07-11,2014-07-11,916,916,2567,PURCHASE,,112.63,,,,,,False,False
+347604064,347604064,15000.0,14685.95,2016-06-18T03:16:41,261.41,AMC #145832,US,US,02,01,entertainment,True,01/2024,2014-07-11,2014-07-11,916,916,2567,PURCHASE,,314.05,,,,,,False,False
+347604064,347604064,15000.0,14449.54,2016-07-16T05:13:15,4.5,Apple iTunes,US,US,02,01,mobileapps,False,10/2023,2014-07-11,2014-07-11,916,916,2567,PURCHASE,,550.46,,,,,,False,False
+347604064,347604064,15000.0,14470.04,2016-08-15T17:00:40,4.5,Apple iTunes,US,US,02,01,mobileapps,False,10/2023,2014-07-11,2014-07-11,916,916,2567,PURCHASE,,529.96,,,,,,False,False
+347604064,347604064,15000.0,14490.54,2016-09-14T19:27:50,4.5,Apple iTunes,US,US,02,01,mobileapps,False,10/2023,2014-07-11,2014-07-11,916,916,2567,PURCHASE,,509.46,,,,,,False,False
+347604064,347604064,15000.0,14511.04,2016-10-15T05:02:05,4.5,Apple iTunes,US,US,02,01,mobileapps,False,10/2023,2014-07-11,2014-07-11,916,916,2567,PURCHASE,,488.96,,,,,,False,False
+347604064,347604064,15000.0,14531.54,2016-11-15T09:48:50,4.5,Apple iTunes,US,US,02,01,mobileapps,False,10/2023,2014-07-11,2014-07-11,916,916,2567,PURCHASE,,468.46,,,,,,False,False
+347604064,347604064,15000.0,14552.04,2016-12-16T22:10:30,4.5,Apple iTunes,US,US,02,01,mobileapps,False,10/2023,2014-07-11,2014-07-11,916,916,2567,PURCHASE,,447.96,,,,,,False,False

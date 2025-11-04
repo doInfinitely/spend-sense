@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+890455271,890455271,10000.0,10000.0,2016-01-13T10:26:10,86.46,Washington Times,US,US,05,01,subscriptions,True,01/2032,2014-06-02,2014-06-02,744,744,8811,PURCHASE,,0.0,,,,,,False,False
+890455271,890455271,10000.0,10000.0,2016-02-02T04:48:51,9.45,34th Diner,US,US,02,01,food,True,10/2024,2014-06-02,2014-06-02,687,687,8471,PURCHASE,,0.0,,,,,,False,False
+890455271,890455271,10000.0,10000.0,2016-03-11T12:35:48,83.91,Dallas Journal,US,US,05,01,subscriptions,True,11/2028,2014-06-02,2014-06-02,744,744,8811,PURCHASE,,0.0,,,,,,False,False
+890455271,890455271,10000.0,10000.0,2016-04-07T00:33:30,0.84,San Francisco Post,US,US,02,01,subscriptions,False,06/2026,2014-06-02,2014-06-02,687,687,8471,PURCHASE,,0.0,,,,,,False,False
+890455271,890455271,10000.0,9999.16,2016-04-16T23:53:19,68.72,Renaissance Hotel #853621,US,US,05,01,hotels,True,05/2028,2014-06-02,2014-06-02,687,687,8471,PURCHASE,,0.84,,,,,,False,False
+890455271,890455271,10000.0,10000.0,2016-05-07T11:03:22,59.49,Seattle News,US,US,05,01,subscriptions,False,04/2030,2014-06-02,2014-06-02,687,687,8471,PURCHASE,,0.0,,,,,,False,False
+890455271,890455271,10000.0,10000.0,2016-06-25T11:52:55,15.06,Dinosaur Fries,US,US,02,08,food,True,05/2031,2014-06-02,2014-06-02,744,744,8811,PURCHASE,,0.0,,,,,,False,False
+890455271,890455271,10000.0,10000.0,2016-08-02T18:20:50,427.78,1st Sandwitch Bar #119707,US,US,02,08,food,True,12/2028,2014-06-02,2014-06-02,687,687,8471,PURCHASE,,0.0,,,,,,False,False
+890455271,890455271,10000.0,10000.0,2016-12-07T17:46:37,104.21,Oklahoma City Post,US,US,02,01,subscriptions,False,06/2021,2014-06-02,2014-06-02,687,687,8471,PURCHASE,,0.0,,,,,,False,False
+890455271,890455271,10000.0,9895.79,2016-12-19T14:38:37,34.73,Franks Pub #87366,US,US,02,01,food,True,10/2032,2014-06-02,2014-06-02,744,744,8811,PURCHASE,,104.21,,,,,,False,False

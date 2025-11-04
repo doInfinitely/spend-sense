@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+110625245,110625245,500.0,500.0,2016-03-25T08:06:04,141.65,oldnavy.com,US,US,02,01,online_retail,01/2023,2015-07-10,2015-07-10,990,990,448,PURCHASE,,0.0,,,,False,,,False,False
+110625245,110625245,500.0,500.0,2016-10-03T16:20:22,60.47,walmart.com,US,US,02,01,online_retail,12/2032,2015-07-10,2015-07-10,990,990,448,PURCHASE,,0.0,,,,False,,,False,False
+110625245,110625245,500.0,500.0,2016-11-02T23:06:54,81.99,amazon.com,US,US,05,08,online_retail,01/2025,2015-07-10,2015-07-10,990,990,448,PURCHASE,,0.0,,,,False,,,False,False

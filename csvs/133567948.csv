@@ -1,0 +1,14 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+133567948,133567948,500.0,500.0,2016-05-06T06:09:55,17.33,Spotify,US,US,09,08,online_subscriptions,10/2024,2013-11-17,2013-11-17,408,408,6586,PURCHASE,,0.0,,,,False,,,False,False
+133567948,133567948,500.0,500.0,2016-06-05T20:29:39,17.33,Spotify,US,US,09,08,online_subscriptions,10/2024,2013-11-17,2013-11-17,408,408,6586,PURCHASE,,0.0,,,,False,,,False,False
+133567948,133567948,500.0,500.0,2016-07-06T17:49:00,17.33,Spotify,US,US,09,08,online_subscriptions,10/2024,2013-11-17,2013-11-17,408,408,6586,PURCHASE,,0.0,,,,False,,,False,False
+133567948,133567948,500.0,482.67,2016-07-25T11:54:14,100.09,West End Beauty #560473,US,US,05,01,personal care,12/2025,2013-11-17,2013-11-17,408,408,6586,PURCHASE,,17.33,,,,True,,,False,False
+133567948,133567948,500.0,407.58,2016-08-07T13:23:01,17.33,Spotify,US,US,09,08,online_subscriptions,10/2024,2013-11-17,2013-11-17,408,408,6586,PURCHASE,,92.42,,,,False,,,False,False
+133567948,133567948,500.0,415.25,2016-09-08T01:42:01,17.33,Spotify,US,US,09,08,online_subscriptions,10/2024,2013-11-17,2013-11-17,408,408,6586,PURCHASE,,84.75,,,,False,,,False,False
+133567948,133567948,500.0,397.92,2016-09-09T08:46:15,62.26,Blue Mountain eCards,US,US,80,08,online_gifts,04/2024,2013-11-17,2013-11-17,408,408,6586,PURCHASE,,102.08,,,,False,,,False,False
+133567948,133567948,500.0,335.66,2016-09-29T09:13:41,20.28,Universe Massage #84171,US,US,05,01,personal care,03/2026,2013-11-17,2013-11-17,408,408,6586,PURCHASE,,164.34,,,,True,,,False,False
+133567948,133567948,500.0,340.38,2016-10-10T01:22:00,17.33,Spotify,US,US,09,08,online_subscriptions,10/2024,2013-11-17,2013-11-17,408,408,6586,PURCHASE,,159.62,,,,False,,,False,False
+133567948,133567948,500.0,323.05,2016-10-23T00:38:07,97.19,Universe Massage #524036,US,US,05,01,personal care,03/2026,2013-11-17,2013-11-17,851,851,6106,PURCHASE,,176.95,,,,True,,,False,False
+133567948,133567948,500.0,250.86,2016-11-09T13:14:31,17.33,Spotify,US,US,09,08,online_subscriptions,10/2024,2013-11-17,2013-11-17,408,408,6586,PURCHASE,,249.14,,,,False,,,False,False
+133567948,133567948,500.0,258.53,2016-12-11T00:28:09,17.33,Spotify,US,US,09,08,online_subscriptions,10/2024,2013-11-17,2013-11-17,408,408,6586,PURCHASE,,241.47,,,,False,,,False,False
+133567948,133567948,500.0,241.2,2016-12-13T19:27:15,178.73,Hilton Hotels #07414,US,US,05,01,hotels,09/2026,2013-11-17,2013-11-17,851,851,6106,PURCHASE,,258.8,,,,False,,,False,False

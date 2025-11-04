@@ -1,0 +1,3 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+952033154,952033154,7500.0,7500.0,2016-11-30T17:56:10,6.8,Apple iTunes,US,US,05,01,mobileapps,01/2029,2014-05-05,2014-05-05,743,743,2767,PURCHASE,,0.0,,,,False,,,False,False
+952033154,952033154,7500.0,7500.0,2016-12-30T18:12:54,6.8,Apple iTunes,US,US,05,01,mobileapps,01/2029,2014-05-05,2014-05-05,743,743,2767,PURCHASE,,0.0,,,,False,,,False,False

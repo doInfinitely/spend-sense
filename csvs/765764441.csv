@@ -1,0 +1,17 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+765764441,765764441,250.0,250.0,2016-01-01T08:03:08,93.26,Franks Pub #86033,US,US,09,01,food,True,05/2032,2014-11-01,2014-11-01,585,585,5420,PURCHASE,,0.0,,,,,,False,False
+765764441,765764441,250.0,156.74,2016-01-02T12:44:44,13.53,netflix.com,US,US,09,01,online_subscriptions,False,01/2028,2014-11-01,2014-11-01,585,585,5420,PURCHASE,,93.26,,,,,,False,False
+765764441,765764441,250.0,143.21,2016-01-23T00:08:18,494.86,EZ Putt Putt #551896,US,US,09,01,entertainment,True,03/2023,2014-11-01,2014-11-01,585,585,5420,PURCHASE,,106.79,,,,,,False,False
+765764441,765764441,250.0,68.66,2016-02-02T06:36:02,13.53,netflix.com,US,US,09,01,online_subscriptions,False,01/2028,2014-11-01,2014-11-01,585,585,5420,PURCHASE,,181.34,,,,,,False,False
+765764441,765764441,250.0,80.13,2016-03-04T22:59:06,13.53,netflix.com,US,US,09,01,online_subscriptions,False,01/2028,2014-11-01,2014-11-01,585,585,5420,PURCHASE,,169.87,,,,,,False,False
+765764441,765764441,250.0,66.6,2016-03-12T14:51:31,126.41,Annies Fries,US,US,02,01,food,True,06/2029,2014-11-01,2014-11-01,585,585,5420,PURCHASE,,183.4,,,,,,False,False
+765764441,765764441,250.0,108.75,2016-04-04T18:40:31,13.53,netflix.com,US,US,09,01,online_subscriptions,False,01/2028,2014-11-01,2014-11-01,585,585,5420,PURCHASE,,141.25,,,,,,False,False
+765764441,765764441,250.0,120.22,2016-05-05T07:24:03,13.53,netflix.com,US,US,09,01,online_subscriptions,False,01/2028,2014-11-01,2014-11-01,585,585,5420,PURCHASE,,129.78,,,,,,False,False
+765764441,765764441,250.0,131.69,2016-06-05T08:51:46,13.53,netflix.com,US,US,09,01,online_subscriptions,False,01/2028,2014-11-01,2014-11-01,585,585,5420,PURCHASE,,118.31,,,,,,False,False
+765764441,765764441,250.0,143.16,2016-07-07T04:51:22,13.53,netflix.com,US,US,09,01,online_subscriptions,False,01/2028,2014-11-01,2014-11-01,585,585,5420,PURCHASE,,106.84,,,,,,False,False
+765764441,765764441,250.0,154.63,2016-08-07T06:07:53,13.53,netflix.com,US,US,09,01,online_subscriptions,False,01/2028,2014-11-01,2014-11-01,585,585,5420,PURCHASE,,95.37,,,,,,False,False
+765764441,765764441,250.0,166.1,2016-09-08T05:23:59,13.53,netflix.com,US,US,09,01,online_subscriptions,False,01/2028,2014-11-01,2014-11-01,585,585,5420,PURCHASE,,83.9,,,,,,False,False
+765764441,765764441,250.0,177.57,2016-10-09T02:22:04,13.53,netflix.com,US,US,09,01,online_subscriptions,False,01/2028,2014-11-01,2014-11-01,585,585,5420,PURCHASE,,72.43,,,,,,False,False
+765764441,765764441,250.0,164.04,2016-10-22T16:05:24,183.16,Franks Pub #960098,US,US,05,01,food,True,04/2026,2014-11-01,2014-11-01,585,585,5420,PURCHASE,,85.96,,,,,,False,False
+765764441,765764441,250.0,250.0,2016-11-09T18:52:17,13.53,netflix.com,US,US,09,01,online_subscriptions,False,01/2028,2014-11-01,2014-11-01,585,585,5420,PURCHASE,,0.0,,,,,,False,False
+765764441,765764441,250.0,250.0,2016-12-11T04:11:13,13.53,netflix.com,US,US,09,01,online_subscriptions,False,01/2028,2014-11-01,2014-11-01,585,585,5420,PURCHASE,,0.0,,,,,,False,False

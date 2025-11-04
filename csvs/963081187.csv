@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+963081187,963081187,7500.0,7500.0,2016-05-24T21:11:43,3.72,Apple iTunes,US,US,05,08,mobileapps,01/2032,2013-11-21,2013-11-21,611,111,1011,PURCHASE,,0.0,,,,False,,,False,False
+963081187,963081187,7500.0,7500.0,2016-06-24T08:11:41,3.72,Apple iTunes,US,US,05,08,mobileapps,01/2032,2013-11-21,2013-11-21,611,111,1011,PURCHASE,,0.0,,,,False,,,False,False
+963081187,963081187,7500.0,7500.0,2016-07-26T00:54:11,3.72,Apple iTunes,US,US,05,08,mobileapps,01/2032,2013-11-21,2013-11-21,611,111,1011,PURCHASE,,0.0,,,,False,,,False,False
+963081187,963081187,7500.0,7500.0,2016-08-25T02:42:00,3.72,Apple iTunes,US,US,05,08,mobileapps,01/2032,2013-11-21,2013-11-21,611,111,1011,PURCHASE,,0.0,,,,False,,,False,False
+963081187,963081187,7500.0,7500.0,2016-09-26T01:36:06,3.72,Apple iTunes,US,US,05,08,mobileapps,01/2032,2013-11-21,2013-11-21,611,111,1011,PURCHASE,,0.0,,,,False,,,False,False
+963081187,963081187,7500.0,7500.0,2016-10-26T04:24:57,3.72,Apple iTunes,US,US,05,08,mobileapps,01/2032,2013-11-21,2013-11-21,611,111,1011,PURCHASE,,0.0,,,,False,,,False,False
+963081187,963081187,7500.0,7500.0,2016-11-25T16:04:07,3.72,Apple iTunes,US,US,05,08,mobileapps,01/2032,2013-11-21,2013-11-21,611,111,1011,PURCHASE,,0.0,,,,False,,,False,False
+963081187,963081187,7500.0,7500.0,2016-12-26T15:09:59,3.72,Apple iTunes,US,US,05,08,mobileapps,01/2032,2013-11-21,2013-11-21,611,111,1011,PURCHASE,,0.0,,,,False,,,False,False

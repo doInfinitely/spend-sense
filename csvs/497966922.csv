@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+497966922,497966922,500.0,500.0,2016-04-14T18:09:27,144.31,Renaissance Hotel #973058,US,US,05,08,hotels,True,07/2023,2010-09-14,2010-09-14,178,178,2002,PURCHASE,,0.0,,,,,,False,False
+497966922,497966922,500.0,380.69,2016-05-05T10:16:41,29.38,oldnavy.com,US,US,09,01,online_retail,False,08/2021,2010-09-14,2010-09-14,178,178,2002,PURCHASE,,119.31,,,,,,False,False
+497966922,497966922,500.0,376.31,2016-06-29T04:29:20,21.39,Spotify,US,US,02,01,online_subscriptions,False,01/2020,2010-09-14,2010-09-14,178,178,2002,PURCHASE,,123.69,,,,,,False,False
+497966922,497966922,500.0,379.92,2016-07-30T20:18:51,21.39,Spotify,US,US,02,01,online_subscriptions,False,01/2020,2010-09-14,2010-09-14,178,178,2002,PURCHASE,,120.08,,,,,,False,False
+497966922,497966922,500.0,383.53,2016-08-31T02:19:48,21.39,Spotify,US,US,02,01,online_subscriptions,False,01/2020,2010-09-14,2010-09-14,178,178,2002,PURCHASE,,116.47,,,,,,False,False
+497966922,497966922,500.0,387.14,2016-09-12T05:18:36,136.22,amazon.com,US,US,09,08,online_retail,False,01/2032,2010-09-14,2010-09-14,178,178,2002,PURCHASE,,112.86,,,,,,False,False
+497966922,497966922,500.0,250.92,2016-09-30T19:05:03,21.39,Spotify,US,US,02,01,online_subscriptions,False,01/2020,2010-09-14,2010-09-14,178,178,2002,PURCHASE,,249.08,,,,,,False,False
+497966922,497966922,500.0,254.53,2016-10-04T14:45:48,137.5,Renaissance Hotel #924524,US,US,02,08,hotels,True,01/2022,2010-09-14,2010-09-14,178,178,2002,PURCHASE,,245.47,,,,,,False,False
+497966922,497966922,500.0,117.03,2016-10-31T11:59:22,21.39,Spotify,US,US,02,01,online_subscriptions,False,01/2020,2010-09-14,2010-09-14,178,178,2002,PURCHASE,,382.97,,,,,,False,False
+497966922,497966922,500.0,120.64,2016-12-01T01:44:28,21.39,Spotify,US,US,02,01,online_subscriptions,False,01/2020,2010-09-14,2010-09-14,178,178,2002,PURCHASE,,379.36,,,,,,False,False

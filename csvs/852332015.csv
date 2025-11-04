@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+852332015,852332015,500.0,500.0,2016-01-08T23:45:07,132.03,Rodeway Inn #829626,US,US,02,01,hotels,True,01/2026,2015-01-06,2015-01-06,233,233,5271,PURCHASE,,0.0,,,,,,False,False
+852332015,852332015,500.0,392.97,2016-03-05T17:43:23,72.12,Hyatt House #161001,US,US,90,01,hotels,True,01/2021,2015-01-06,2015-01-06,233,233,5271,PURCHASE,,107.03,,,,,,False,False
+852332015,852332015,500.0,345.85,2016-10-14T14:44:11,252.48,Hilton Hotels #504414,US,US,90,01,hotels,True,01/2028,2015-01-06,2015-01-06,233,233,5271,PURCHASE,,154.15,,,,,,False,False
+852332015,852332015,500.0,118.37,2016-11-09T23:32:54,0.0,Renaissance Hotel #924524,US,US,09,01,hotels,False,10/2024,2015-01-06,2016-10-23,233,233,5271,ADDRESS_VERIFICATION,,381.63,,,,,,False,False
+852332015,852332015,500.0,118.37,2016-11-21T05:04:58,255.36,Hyatt House #649963,US,US,02,01,hotels,False,06/2030,2015-01-06,2016-10-23,233,233,5271,PURCHASE,,381.63,,,,,,False,False

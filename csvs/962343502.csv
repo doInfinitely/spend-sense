@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+962343502,962343502,20000.0,20000.0,2016-01-06T11:16:29,363.6,In-N-Out #950725,US,US,05,01,fastfood,True,10/2032,2014-07-23,2014-07-23,620,620,6446,PURCHASE,,0.0,,,,,,False,False
+962343502,962343502,20000.0,19636.4,2016-01-08T07:36:20,246.95,Burger King #968126,US,US,02,01,fastfood,True,07/2023,2014-07-23,2014-07-23,931,931,4699,PURCHASE,,363.6,,,,,,False,False
+962343502,962343502,20000.0,19414.45,2016-02-23T00:54:58,7.36,Subway #62915,US,US,02,01,fastfood,True,02/2023,2014-07-23,2014-07-23,931,931,4699,PURCHASE,,585.55,,,,,,False,False
+962343502,962343502,20000.0,19432.09,2016-05-16T13:41:46,147.84,Fresh Flowers,US,US,05,01,online_gifts,False,09/2027,2014-07-23,2014-07-23,620,620,6446,PURCHASE,,567.91,,,,,,False,False
+962343502,962343502,20000.0,19309.25,2016-09-08T07:08:59,20.74,McDonalds #699366,US,US,09,01,fastfood,True,04/2023,2014-07-23,2014-07-23,982,982,4055,PURCHASE,,690.75,,,,,,False,False
+962343502,962343502,20000.0,19313.51,2016-11-24T20:17:03,13.1,Mobile eCards,US,US,09,01,online_gifts,False,02/2030,2014-07-23,2014-07-23,982,982,4055,PURCHASE,,686.49,,,,,,False,False

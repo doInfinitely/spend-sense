@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+591467059,591467059,5000.0,5000.0,2016-04-07T23:33:53,108.3,Mobile eCards,US,US,05,08,online_gifts,05/2027,2014-08-09,2014-08-09,238,238,7697,PURCHASE,,0.0,,,,False,,,False,False
+591467059,591467059,5000.0,4916.7,2016-08-24T20:33:08,59.98,Chicago News,US,US,09,01,subscriptions,09/2032,2014-08-09,2014-08-09,238,238,7697,PURCHASE,,83.3,,,,False,,,False,False
+591467059,591467059,5000.0,4881.72,2016-11-23T14:08:01,579.66,Blue Mountain eCards,US,US,05,01,online_gifts,04/2024,2014-08-09,2014-08-09,238,238,7697,PURCHASE,,118.28,,,,False,,,False,False
+591467059,591467059,5000.0,4327.06,2016-12-17T12:15:58,8.64,Apple iTunes,US,US,05,01,mobileapps,05/2033,2014-08-09,2014-08-09,238,238,7697,PURCHASE,,672.94,,,,False,,,False,False

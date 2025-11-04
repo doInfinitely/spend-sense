@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+138536298,138536298,7500.0,7500.0,2016-06-18T05:19:37,71.97,Dunkin' Donuts #164240,US,US,09,01,fastfood,True,11/2023,2013-06-25,2013-06-25,905,905,419,PURCHASE,,0.0,,,,,,False,False
+138536298,138536298,7500.0,7453.03,2016-08-03T15:20:07,12.28,Icelandic Airlines,US,US,02,08,airline,False,01/2024,2013-06-25,2013-06-25,905,905,419,PURCHASE,,46.97,,,,,,False,False
+138536298,138536298,7500.0,7440.75,2016-08-23T07:11:39,12.28,Icelandic Airlines,US,US,02,08,airline,False,01/2024,2013-06-25,2013-06-25,905,905,419,REVERSAL,,59.25,,,,,,False,False
+138536298,138536298,7500.0,7478.03,2016-10-27T19:06:02,213.23,Subway #381627,US,US,05,01,fastfood,True,09/2023,2013-06-25,2013-06-25,905,905,419,PURCHASE,,21.97,,,,,,False,False

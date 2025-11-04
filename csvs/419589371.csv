@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+419589371,419589371,20000.0,20000.0,2016-01-28T07:38:32,52.37,San Francisco Post,US,US,09,01,subscriptions,05/2029,2015-01-29,2015-01-29,930,930,6662,PURCHASE,,0.0,,,,False,,,False,False
+419589371,419589371,20000.0,19972.63,2016-02-07T08:26:44,71.18,Seattle Times,US,US,05,01,subscriptions,08/2032,2015-01-29,2015-01-29,930,930,6662,PURCHASE,,27.37,,,,False,,,False,False
+419589371,419589371,20000.0,19926.45,2016-04-19T01:08:10,384.89,Washington Post,US,US,05,01,subscriptions,01/2028,2015-01-29,2015-01-29,930,930,6662,PURCHASE,,73.55,,,,True,,,False,False
+419589371,419589371,20000.0,19566.56,2016-05-14T11:13:24,17.72,Chicago News,US,US,09,08,subscriptions,10/2026,2015-01-29,2015-01-29,930,930,6662,PURCHASE,,433.44,,,,False,,,False,False
+419589371,419589371,20000.0,19573.84,2016-07-30T08:27:13,210.12,Dallas Journal,US,US,09,01,subscriptions,01/2028,2015-01-29,2015-01-29,930,930,6662,PURCHASE,,426.16,,,,False,,,False,False
+419589371,419589371,20000.0,19388.72,2016-09-07T05:47:49,63.89,cheapfast.com,US,US,02,01,online_retail,08/2031,2015-01-29,2015-01-29,930,930,6662,PURCHASE,,611.28,,,,False,,,False,False
+419589371,419589371,20000.0,19349.83,2016-10-20T07:03:21,3.64,Play Store,US,US,05,01,mobileapps,03/2023,2015-01-29,2015-01-29,930,930,6662,PURCHASE,,650.17,,,,False,,,False,False
+419589371,419589371,20000.0,19371.19,2016-11-21T06:33:26,3.64,Play Store,US,US,05,01,mobileapps,03/2023,2015-01-29,2015-01-29,930,930,6662,PURCHASE,,628.81,,,,False,,,False,False
+419589371,419589371,20000.0,19392.55,2016-12-02T03:12:57,1.41,NY News,US,US,90,01,subscriptions,07/2027,2015-01-29,2015-01-29,930,930,6662,PURCHASE,,607.45,,,,False,,,False,False
+419589371,419589371,20000.0,19391.14,2016-12-21T22:12:19,3.64,Play Store,US,US,05,01,mobileapps,03/2023,2015-01-29,2015-01-29,930,930,6662,PURCHASE,,608.86,,,,False,,,False,False

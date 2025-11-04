@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+536472154,536472154,1000.0,1000.0,2016-09-11T03:42:13,96.03,Universe Massage #84171,US,US,05,01,personal care,True,05/2027,2015-11-30,2015-11-30,454,454,487,PURCHASE,,0.0,,,,,,False,False
+536472154,536472154,1000.0,903.97,2016-09-12T21:23:03,9.58,abc.com,US,US,09,01,online_subscriptions,False,11/2028,2015-11-30,2015-11-30,454,454,487,PURCHASE,,96.03,,,,,,False,False
+536472154,536472154,1000.0,1000.0,2016-10-13T23:14:11,9.58,abc.com,US,US,09,01,online_subscriptions,False,11/2028,2015-11-30,2015-11-30,454,454,487,PURCHASE,,0.0,,,,,,False,False
+536472154,536472154,1000.0,1000.0,2016-11-14T14:18:30,9.58,abc.com,US,US,09,01,online_subscriptions,False,11/2028,2015-11-30,2015-11-30,454,454,487,PURCHASE,,0.0,,,,,,False,False
+536472154,536472154,1000.0,1000.0,2016-12-15T01:58:02,9.58,abc.com,US,US,09,01,online_subscriptions,False,11/2028,2015-11-30,2015-11-30,454,454,487,PURCHASE,,0.0,,,,,,False,False

@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+384492007,384492007,2500.0,2500.0,2016-09-15T04:58:56,124.05,cheapfast.com,US,US,05,01,online_retail,09/2028,2013-07-21,2013-07-21,102,102,5709,PURCHASE,,0.0,,,,False,,,False,False
+384492007,384492007,2500.0,2400.95,2016-10-08T06:56:24,88.56,ebay.com,US,US,05,08,online_retail,06/2030,2013-07-21,2016-10-01,102,102,5709,PURCHASE,,99.05,,,,False,,,False,False
+384492007,384492007,2500.0,2312.39,2016-10-08T06:58:28,88.56,ebay.com,US,US,05,08,online_retail,06/2030,2013-07-21,2016-10-01,102,102,5709,PURCHASE,,187.61,,,,False,,,False,False
+384492007,384492007,2500.0,2248.83,2016-11-10T14:12:33,5.28,Play Store,US,US,02,01,mobileapps,10/2028,2013-07-21,2016-10-01,102,102,5709,PURCHASE,,251.17,,,,False,,,False,False
+384492007,384492007,2500.0,2268.55,2016-12-10T17:09:46,5.28,Play Store,US,US,02,01,mobileapps,10/2028,2013-07-21,2016-10-01,102,102,5709,PURCHASE,,231.45,,,,False,,,False,False

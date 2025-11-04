@@ -1,0 +1,12 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,transactionAmount,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+552436080,552436080,20000.0,20000.0,2016-02-13T07:34:11,walmart.com,US,US,05,01,online_retail,05/2029,2015-04-20,2015-04-20,587,587,3050,ADDRESS_VERIFICATION,,0.0,0.0,,,,False,,,False,False
+552436080,552436080,20000.0,20000.0,2016-04-24T16:02:21,alibaba.com,US,US,02,01,online_retail,02/2033,2015-04-20,2015-04-20,587,587,3050,PURCHASE,,0.0,59.77,,,,False,,,False,False
+552436080,552436080,20000.0,19965.23,2016-06-19T21:55:00,Spotify,US,US,02,01,online_subscriptions,04/2025,2015-04-20,2015-04-20,587,587,3050,PURCHASE,,34.77,20.71,,,,False,,,False,False
+552436080,552436080,20000.0,19969.52,2016-07-21T19:08:46,Spotify,US,US,02,01,online_subscriptions,04/2025,2015-04-20,2015-04-20,587,587,3050,PURCHASE,,30.48,20.71,,,,False,,,False,False
+552436080,552436080,20000.0,19973.81,2016-08-19T08:51:50,target.com,US,US,05,01,online_retail,01/2028,2015-04-20,2015-04-20,587,587,3050,PURCHASE,,26.19,349.25,,,,False,,,False,False
+552436080,552436080,20000.0,19624.56,2016-08-20T19:35:08,Spotify,US,US,02,01,online_subscriptions,04/2025,2015-04-20,2015-04-20,587,587,3050,PURCHASE,,375.44,20.71,,,,False,,,False,False
+552436080,552436080,20000.0,19628.85,2016-09-19T21:52:34,Spotify,US,US,02,01,online_subscriptions,04/2025,2015-04-20,2015-04-20,587,587,3050,PURCHASE,,371.15,20.71,,,,False,,,False,False
+552436080,552436080,20000.0,19633.14,2016-10-21T18:35:27,Spotify,US,US,02,01,online_subscriptions,04/2025,2015-04-20,2015-04-20,587,587,3050,PURCHASE,,366.86,20.71,,,,False,,,False,False
+552436080,552436080,20000.0,19637.43,2016-11-21T10:03:23,Spotify,US,US,02,01,online_subscriptions,04/2025,2015-04-20,2015-04-20,587,587,3050,PURCHASE,,362.57,20.71,,,,False,,,False,False
+552436080,552436080,20000.0,19641.72,2016-12-23T03:17:34,Spotify,US,US,02,01,online_subscriptions,04/2025,2015-04-20,2015-04-20,587,587,3050,PURCHASE,,358.28,20.71,,,,False,,,False,False
+552436080,552436080,20000.0,19621.01,2016-12-28T08:19:07,Shell Auto Body,US,US,05,01,auto,10/2027,2015-04-20,2015-04-20,587,587,3050,PURCHASE,,378.99,154.23,,,,True,,,False,False

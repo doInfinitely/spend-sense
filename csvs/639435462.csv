@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+639435462,639435462,20000.0,20000.0,2016-03-17T14:54:56,249.36,Subway #338885,US,US,09,01,fastfood,True,10/2022,2015-04-22,2015-04-22,373,373,4933,PURCHASE,,0.0,,,,,,False,False
+639435462,639435462,20000.0,19750.64,2016-03-21T10:32:29,249.36,Subway #338885,US,US,09,01,fastfood,True,10/2022,2015-04-22,2015-04-22,373,373,4933,REVERSAL,,249.36,,,,,,False,False
+639435462,639435462,20000.0,20000.0,2016-06-11T09:34:43,211.82,Shake Shack #822962,US,US,05,01,fastfood,True,11/2027,2015-04-22,2015-04-22,373,373,4933,PURCHASE,,0.0,,,,,,False,False
+639435462,639435462,20000.0,19788.18,2016-06-15T16:43:03,6.33,Play Store,US,US,02,01,mobileapps,False,07/2029,2015-04-22,2015-04-22,373,373,4933,PURCHASE,,211.82,,,,,,False,False
+639435462,639435462,20000.0,20000.0,2016-07-16T23:55:55,6.33,Play Store,US,US,02,01,mobileapps,False,07/2029,2015-04-22,2015-04-22,373,373,4933,PURCHASE,,0.0,,,,,,False,False
+639435462,639435462,20000.0,20000.0,2016-08-17T13:40:58,6.33,Play Store,US,US,02,01,mobileapps,False,07/2029,2015-04-22,2015-04-22,373,373,4933,PURCHASE,,0.0,,,,,,False,False
+639435462,639435462,20000.0,20000.0,2016-09-17T13:43:41,6.33,Play Store,US,US,02,01,mobileapps,False,07/2029,2015-04-22,2015-04-22,373,373,4933,PURCHASE,,0.0,,,,,,False,False
+639435462,639435462,20000.0,20000.0,2016-10-18T10:40:58,6.33,Play Store,US,US,02,01,mobileapps,False,07/2029,2015-04-22,2015-04-22,373,373,4933,PURCHASE,,0.0,,,,,,False,False
+639435462,639435462,20000.0,20000.0,2016-11-17T21:04:21,6.33,Play Store,US,US,02,01,mobileapps,False,07/2029,2015-04-22,2015-04-22,373,373,4933,PURCHASE,,0.0,,,,,,False,False
+639435462,639435462,20000.0,20000.0,2016-12-18T22:30:11,6.33,Play Store,US,US,02,01,mobileapps,False,07/2029,2015-04-22,2015-04-22,373,373,4933,PURCHASE,,0.0,,,,,,False,False

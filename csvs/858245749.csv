@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+858245749,858245749,1000.0,1000.0,2016-05-04T11:05:26,5.8,Apple iTunes,US,US,02,01,mobileapps,04/2030,2015-10-15,2015-10-15,577,577,9981,PURCHASE,,0.0,,,,False,,,False,False
+858245749,858245749,1000.0,1000.0,2016-06-03T14:22:20,5.8,Apple iTunes,US,US,02,01,mobileapps,04/2030,2015-10-15,2015-10-15,577,577,9981,PURCHASE,,0.0,,,,False,,,False,False
+858245749,858245749,1000.0,1000.0,2016-07-03T17:30:28,5.8,Apple iTunes,US,US,02,01,mobileapps,04/2030,2015-10-15,2015-10-15,577,577,9981,PURCHASE,,0.0,,,,False,,,False,False
+858245749,858245749,1000.0,1000.0,2016-08-02T18:33:54,5.8,Apple iTunes,US,US,02,01,mobileapps,04/2030,2015-10-15,2015-10-15,577,577,9981,PURCHASE,,0.0,,,,False,,,False,False
+858245749,858245749,1000.0,1000.0,2016-09-01T19:10:26,5.8,Apple iTunes,US,US,02,01,mobileapps,04/2030,2015-10-15,2015-10-15,577,577,9981,PURCHASE,,0.0,,,,False,,,False,False
+858245749,858245749,1000.0,1000.0,2016-10-02T16:18:29,5.8,Apple iTunes,US,US,02,01,mobileapps,04/2030,2015-10-15,2015-10-15,577,577,9981,PURCHASE,,0.0,,,,False,,,False,False
+858245749,858245749,1000.0,994.2,2016-10-08T09:27:54,0.0,Wendys #878988,US,US,05,01,fastfood,08/2032,2015-10-15,2015-10-15,940,940,2063,ADDRESS_VERIFICATION,,5.8,,,,False,,,False,False
+858245749,858245749,1000.0,1000.0,2016-11-03T08:30:48,37.82,Dunkin' Donuts #83377,US,US,09,01,fastfood,07/2021,2015-10-15,2015-10-15,940,940,2063,PURCHASE,,0.0,,,,True,,,False,False
+858245749,858245749,1000.0,962.18,2016-11-03T10:38:38,5.8,Apple iTunes,US,US,02,01,mobileapps,04/2030,2015-10-15,2015-10-15,577,577,9981,PURCHASE,,37.82,,,,False,,,False,False
+858245749,858245749,1000.0,1000.0,2016-12-04T18:49:20,5.8,Apple iTunes,US,US,02,01,mobileapps,04/2030,2015-10-15,2015-10-15,577,577,9981,PURCHASE,,0.0,,,,False,,,False,False

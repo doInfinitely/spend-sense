@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+635066781,635066781,5000.0,5000.0,2016-10-29T17:09:09,8.66,Play Store,US,US,09,08,mobileapps,11/2024,2015-05-24,2015-05-24,930,930,7168,PURCHASE,,0.0,,,,False,,,False,False
+635066781,635066781,5000.0,5000.0,2016-11-29T18:25:38,8.66,Play Store,US,US,09,08,mobileapps,11/2024,2015-05-24,2015-05-24,930,930,7168,PURCHASE,,0.0,,,,False,,,False,False
+635066781,635066781,5000.0,5000.0,2016-12-29T20:46:12,8.66,Play Store,US,US,09,08,mobileapps,11/2024,2015-05-24,2015-05-24,930,930,7168,PURCHASE,,0.0,,,,False,,,False,False

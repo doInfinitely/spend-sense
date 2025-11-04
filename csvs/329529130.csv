@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+329529130,329529130,15000.0,15000.0,2016-02-28T05:44:17,57.24,Starbucks #164473,US,US,05,01,fastfood,True,03/2026,2015-02-27,2015-02-27,294,294,9946,PURCHASE,,0.0,,,,,,False,False
+329529130,329529130,15000.0,15000.0,2016-04-17T16:29:42,283.27,Arbys #384282,US,US,05,01,fastfood,True,08/2027,2015-02-27,2015-02-27,294,294,9946,PURCHASE,,0.0,,,,,,False,False
+329529130,329529130,15000.0,14716.73,2016-04-18T06:03:46,84.01,Domino's Pizza #774322,US,US,09,08,fastfood,True,08/2027,2015-02-27,2015-02-27,294,294,9946,PURCHASE,,283.27,,,,,,False,False
+329529130,329529130,15000.0,15000.0,2016-07-09T21:00:30,22.53,Auntie Anne's #410136,US,US,09,08,fastfood,True,12/2027,2015-02-27,2015-02-27,294,294,9946,PURCHASE,,0.0,,,,,,False,False
+329529130,329529130,15000.0,15000.0,2016-08-01T04:28:02,22.4,Pizza Hut #640086,US,US,09,01,fastfood,True,11/2020,2015-02-27,2015-02-27,294,294,9946,PURCHASE,,0.0,,,,,,False,False
+329529130,329529130,15000.0,15000.0,2016-10-02T13:00:54,99.43,34th Diner,US,US,05,01,food,True,04/2025,2015-02-27,2015-02-27,294,294,9946,PURCHASE,,0.0,,,,,,False,False
+329529130,329529130,15000.0,14900.57,2016-10-02T13:03:28,99.43,34th Diner,US,US,05,01,food,True,04/2025,2015-02-27,2015-02-27,294,294,9946,REVERSAL,,99.43,,,,,,False,False

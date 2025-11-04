@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+412983915,412983915,20000.0,20000.0,2016-03-06T18:26:30,26.82,Hilton Hotels #82579,US,US,05,01,hotels,True,10/2023,2011-09-26,2011-09-26,508,508,35,PURCHASE,,0.0,,,,,,False,False
+412983915,412983915,20000.0,19973.18,2016-03-07T05:38:07,127.31,Rodeway Inn #856238,US,US,09,01,hotels,True,09/2029,2011-09-26,2011-09-26,508,508,35,PURCHASE,,26.82,,,,,,False,False
+412983915,412983915,20000.0,19870.87,2016-04-06T22:12:00,486.96,Regal Cinemas #05791,US,US,02,01,entertainment,True,11/2023,2011-09-26,2011-09-26,508,508,35,PURCHASE,,129.13,,,,,,False,False
+412983915,412983915,20000.0,19383.91,2016-04-10T19:07:34,486.96,Regal Cinemas #05791,US,US,02,01,entertainment,True,11/2023,2011-09-26,2011-09-26,508,508,35,REVERSAL,,616.09,,,,,,False,False
+412983915,412983915,20000.0,19870.87,2016-04-14T16:48:14,169.05,AMC #191138,US,US,09,01,entertainment,True,12/2022,2011-09-26,2011-09-26,508,508,35,PURCHASE,,129.13,,,,,,False,False
+412983915,412983915,20000.0,19726.82,2016-05-05T17:01:16,126.59,Rodeway Inn #370519,US,US,05,08,hotels,True,06/2031,2011-09-26,2011-09-26,508,508,35,PURCHASE,,273.18,,,,,,False,False
+412983915,412983915,20000.0,19625.23,2016-06-23T03:40:01,34.85,AMC #145832,US,US,05,01,entertainment,True,10/2026,2011-09-26,2011-09-26,508,508,35,PURCHASE,,374.77,,,,,,False,False
+412983915,412983915,20000.0,19590.38,2016-06-24T20:49:35,149.06,AMC #128743,US,US,02,08,entertainment,True,01/2023,2011-09-26,2011-09-26,508,508,35,PURCHASE,,409.62,,,,,,False,False

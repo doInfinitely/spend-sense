@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+851740426,851740426,5000.0,5000.0,2016-10-14T22:04:06,13.19,abc.com,US,US,80,01,online_subscriptions,01/2023,2010-01-14,2010-01-14,209,209,2779,PURCHASE,,0.0,,,,False,,,False,False
+851740426,851740426,5000.0,5000.0,2016-11-14T21:27:58,13.19,abc.com,US,US,80,01,online_subscriptions,01/2023,2010-01-14,2010-01-14,209,209,2779,PURCHASE,,0.0,,,,False,,,False,False
+851740426,851740426,5000.0,5000.0,2016-12-15T08:49:18,13.19,abc.com,US,US,80,01,online_subscriptions,01/2023,2010-01-14,2010-01-14,209,209,2779,PURCHASE,,0.0,,,,False,,,False,False

@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+668535504,668535504,5000.0,5000.0,2016-02-23T16:38:23,95.14,Popeyes #342533,US,US,02,01,fastfood,True,05/2027,2015-11-21,2015-11-21,983,983,6118,PURCHASE,,0.0,,,,,,False,False
+668535504,668535504,5000.0,5000.0,2016-03-25T05:51:28,92.45,Next Day Online Services,US,US,02,01,online_gifts,False,02/2026,2015-11-21,2015-11-21,751,751,1713,PURCHASE,,0.0,,,,,,False,False
+668535504,668535504,5000.0,5000.0,2016-05-18T05:25:55,11.71,Uber,US,US,09,01,rideshare,False,05/2020,2015-11-21,2015-11-21,983,983,6118,PURCHASE,,0.0,,,,,,False,False
+668535504,668535504,5000.0,5000.0,2016-07-11T02:54:20,532.57,Uber,,,05,01,rideshare,False,07/2031,2015-11-21,2015-11-21,751,751,1713,PURCHASE,,0.0,,,,,,False,False
+668535504,668535504,5000.0,5000.0,2016-08-19T00:10:15,3.92,Fresh Flowers,US,US,02,01,online_gifts,False,05/2032,2015-11-21,2015-11-21,983,983,6118,PURCHASE,,0.0,,,,,,False,False
+668535504,668535504,5000.0,5000.0,2016-10-02T00:18:10,11.19,Fresh eCards,US,US,02,01,online_gifts,False,03/2028,2015-11-21,2015-11-21,751,751,1713,PURCHASE,,0.0,,,,,,False,False
+668535504,668535504,5000.0,4988.81,2016-10-26T04:36:27,32.31,Mobile eCards,US,US,09,01,online_gifts,False,12/2028,2015-11-21,2015-11-21,983,983,6118,PURCHASE,,11.19,,,,,,False,False

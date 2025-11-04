@@ -1,0 +1,15 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+624929621,624929621,5000.0,5000.0,2016-01-25T15:11:27,13.52,Spotify,US,US,02,01,online_subscriptions,11/2025,2004-08-19,2004-08-19,158,158,5190,PURCHASE,,0.0,,,,False,,,False,False
+624929621,624929621,5000.0,5000.0,2016-02-26T02:29:24,13.52,Spotify,US,US,02,01,online_subscriptions,11/2025,2004-08-19,2004-08-19,158,158,5190,PURCHASE,,0.0,,,,False,,,False,False
+624929621,624929621,5000.0,5000.0,2016-03-27T09:29:18,13.52,Spotify,US,US,02,01,online_subscriptions,11/2025,2004-08-19,2004-08-19,158,158,5190,PURCHASE,,0.0,,,,False,,,False,False
+624929621,624929621,5000.0,5000.0,2016-04-27T00:09:20,13.52,Spotify,US,US,02,01,online_subscriptions,11/2025,2004-08-19,2004-08-19,158,158,5190,PURCHASE,,0.0,,,,False,,,False,False
+624929621,624929621,5000.0,5000.0,2016-05-28T07:36:04,13.52,Spotify,US,US,02,01,online_subscriptions,11/2025,2004-08-19,2004-08-19,158,158,5190,PURCHASE,,0.0,,,,False,,,False,False
+624929621,624929621,5000.0,5000.0,2016-06-28T20:25:08,13.52,Spotify,US,US,02,01,online_subscriptions,11/2025,2004-08-19,2004-08-19,158,158,5190,PURCHASE,,0.0,,,,False,,,False,False
+624929621,624929621,5000.0,5000.0,2016-07-29T01:22:04,13.52,Spotify,US,US,02,01,online_subscriptions,11/2025,2004-08-19,2004-08-19,158,158,5190,PURCHASE,,0.0,,,,False,,,False,False
+624929621,624929621,5000.0,5000.0,2016-08-29T16:15:16,13.52,Spotify,US,US,02,01,online_subscriptions,11/2025,2004-08-19,2004-08-19,158,158,5190,PURCHASE,,0.0,,,,False,,,False,False
+624929621,624929621,5000.0,5000.0,2016-09-30T10:44:35,13.52,Spotify,US,US,02,01,online_subscriptions,11/2025,2004-08-19,2004-08-19,158,158,5190,PURCHASE,,0.0,,,,False,,,False,False
+624929621,624929621,5000.0,5000.0,2016-10-10T17:56:33,3.14,Play Store,US,US,02,01,mobileapps,11/2025,2004-08-19,2004-08-19,348,348,5157,PURCHASE,,0.0,,,,False,,,False,False
+624929621,624929621,5000.0,4996.86,2016-10-31T16:51:56,13.52,Spotify,US,US,02,01,online_subscriptions,11/2025,2004-08-19,2004-08-19,158,158,5190,PURCHASE,,3.14,,,,False,,,False,False
+624929621,624929621,5000.0,5000.0,2016-11-10T00:46:40,3.14,Play Store,US,US,02,01,mobileapps,11/2025,2004-08-19,2004-08-19,348,348,5157,PURCHASE,,0.0,,,,False,,,False,False
+624929621,624929621,5000.0,5000.0,2016-12-02T14:17:21,13.52,Spotify,US,US,02,01,online_subscriptions,11/2025,2004-08-19,2004-08-19,158,158,5190,PURCHASE,,0.0,,,,False,,,False,False
+624929621,624929621,5000.0,4986.48,2016-12-11T11:12:46,3.14,Play Store,US,US,02,01,mobileapps,11/2025,2004-08-19,2004-08-19,348,348,5157,PURCHASE,,13.52,,,,False,,,False,False

@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+882553261,882553261,7500.0,7500.0,2016-02-01T11:48:15,80.66,Quizno's #606013,US,US,09,01,fastfood,True,02/2031,2014-06-02,2014-06-02,751,751,2932,PURCHASE,,0.0,,,,,,False,False
+882553261,882553261,7500.0,7419.34,2016-02-15T23:33:46,353.94,Powerlifting #181956,US,US,05,08,health,False,05/2030,2014-06-02,2014-06-02,751,751,2932,PURCHASE,,80.66,,,,,,False,False
+882553261,882553261,7500.0,7090.4,2016-06-03T21:13:22,115.52,Powerlifting #202761,US,US,05,08,health,False,10/2023,2014-06-02,2014-06-02,751,751,2932,PURCHASE,,409.6,,,,,,False,False
+882553261,882553261,7500.0,6999.88,2016-09-04T04:57:52,48.62,Popeyes #772032,US,US,02,01,fastfood,True,12/2023,2014-06-02,2014-06-02,751,751,2932,PURCHASE,,500.12,,,,,,False,False
+882553261,882553261,7500.0,6951.26,2016-09-05T11:56:30,40.51,Popeyes #772032,US,US,02,01,fastfood,True,12/2023,2014-06-02,2014-06-02,751,751,2932,REVERSAL,,548.74,,,,,,False,False

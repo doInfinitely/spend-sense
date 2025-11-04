@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+876751006,876751006,20000.0,20000.0,2016-01-04T01:16:35,119.44,EZ Putt Putt #240241,US,US,02,01,entertainment,True,10/2032,2011-10-06,2011-10-06,244,244,5742,PURCHASE,,0.0,,,,,,False,False
+876751006,876751006,20000.0,19880.56,2016-01-05T19:21:48,3.56,Regal Cinemas #276341,US,US,02,99,entertainment,True,12/2020,2011-10-06,2011-10-06,244,244,5742,PURCHASE,,119.44,,,,,,False,False
+876751006,876751006,20000.0,20000.0,2016-03-25T10:39:44,100.1,Regal Cinemas #729464,US,US,09,01,entertainment,True,08/2032,2011-10-06,2011-10-06,179,179,2808,PURCHASE,,0.0,,,,,,False,False
+876751006,876751006,20000.0,20000.0,2016-09-19T04:00:02,131.49,EZ Putt Putt #69446,US,US,05,01,entertainment,True,04/2026,2011-10-06,2011-10-06,179,179,2808,PURCHASE,,0.0,,,,,,False,False
+876751006,876751006,20000.0,20000.0,2016-10-16T17:24:27,16.21,EZ Putt Putt #982199,US,US,05,08,entertainment,True,12/2026,2011-10-06,2011-10-06,244,244,5742,PURCHASE,,0.0,,,,,,False,False
+876751006,876751006,20000.0,20000.0,2016-12-16T14:11:34,585.2,EZ Putt Putt #755869,US,US,05,01,entertainment,True,02/2021,2011-10-06,2011-10-06,179,179,2808,PURCHASE,,0.0,,,,,,False,False
+876751006,876751006,20000.0,19414.8,2016-12-21T00:42:04,145.8,Regal Cinemas #729464,US,US,09,08,entertainment,True,11/2021,2011-10-06,2011-10-06,244,244,5742,PURCHASE,,585.2,,,,,,False,False

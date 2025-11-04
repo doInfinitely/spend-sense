@@ -1,0 +1,13 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+223037150,223037150,7500.0,7500.0,2016-04-03T01:21:21,19.29,hulu.com,US,US,05,01,online_subscriptions,01/2022,2011-05-16,2011-05-16,424,424,7917,PURCHASE,,0.0,,,,False,,,False,False
+223037150,223037150,7500.0,7500.0,2016-05-03T17:31:09,19.29,hulu.com,US,US,05,01,online_subscriptions,01/2022,2011-05-16,2011-05-16,424,424,7917,PURCHASE,,0.0,,,,False,,,False,False
+223037150,223037150,7500.0,7500.0,2016-06-03T14:16:04,19.29,hulu.com,US,US,05,01,online_subscriptions,01/2022,2011-05-16,2011-05-16,424,424,7917,PURCHASE,,0.0,,,,False,,,False,False
+223037150,223037150,7500.0,7480.71,2016-06-22T22:07:41,69.41,Uber,US,US,02,01,rideshare,10/2024,2011-05-16,2011-05-16,424,424,7917,PURCHASE,,19.29,,,,False,,,False,False
+223037150,223037150,7500.0,7436.3,2016-07-05T12:48:12,19.29,hulu.com,US,US,05,01,online_subscriptions,01/2022,2011-05-16,2011-05-16,424,424,7917,PURCHASE,,63.7,,,,False,,,False,False
+223037150,223037150,7500.0,7417.01,2016-07-08T23:18:51,1.07,amazon.com,US,US,02,08,online_retail,07/2025,2011-05-16,2011-05-16,424,424,7917,PURCHASE,,82.99,,,,False,,,False,False
+223037150,223037150,7500.0,7440.94,2016-08-06T12:17:48,19.29,hulu.com,US,US,05,01,online_subscriptions,01/2022,2011-05-16,2011-05-16,424,424,7917,PURCHASE,,59.06,,,,False,,,False,False
+223037150,223037150,7500.0,7446.65,2016-09-06T17:40:36,19.29,hulu.com,US,US,05,01,online_subscriptions,01/2022,2011-05-16,2011-05-16,424,424,7917,PURCHASE,,53.35,,,,False,,,False,False
+223037150,223037150,7500.0,7452.36,2016-10-07T15:54:47,19.29,hulu.com,US,US,05,01,online_subscriptions,01/2022,2011-05-16,2011-05-16,424,424,7917,PURCHASE,,47.64,,,,False,,,False,False
+223037150,223037150,7500.0,7433.07,2016-10-19T04:59:48,20.14,Lyft,US,US,09,01,rideshare,10/2025,2011-05-16,2011-05-16,424,424,7917,PURCHASE,,66.93,,,,False,,,False,False
+223037150,223037150,7500.0,7437.93,2016-11-07T07:50:39,19.29,hulu.com,US,US,05,01,online_subscriptions,01/2022,2011-05-16,2011-05-16,424,424,7917,PURCHASE,,62.07,,,,False,,,False,False
+223037150,223037150,7500.0,7443.64,2016-12-09T01:07:42,19.29,hulu.com,US,US,05,01,online_subscriptions,01/2022,2011-05-16,2011-05-16,424,424,7917,PURCHASE,,56.36,,,,False,,,False,False

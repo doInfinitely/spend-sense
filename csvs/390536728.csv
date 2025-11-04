@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+390536728,390536728,10000.0,10000.0,2016-01-19T08:01:13,252.23,Rodeway Inn #830050,US,US,09,01,hotels,True,02/2020,2015-12-03,2015-12-03,233,233,8048,PURCHASE,,0.0,,,,,,False,False
+390536728,390536728,10000.0,9772.77,2016-02-17T23:00:54,10.66,Marriott Hotels,US,US,02,01,hotels,True,10/2024,2015-12-03,2015-12-03,233,233,8048,PURCHASE,,227.23,,,,,,False,False
+390536728,390536728,10000.0,9787.11,2016-04-04T23:03:30,77.47,Hyatt House #686333,US,US,02,01,hotels,False,05/2024,2015-12-03,2015-12-03,233,233,8048,PURCHASE,,212.89,,,,,,False,False
+390536728,390536728,10000.0,9709.64,2016-04-26T16:45:14,52.88,Rodeway Inn #368799,US,US,05,08,hotels,True,07/2025,2015-12-03,2015-12-03,679,679,8862,PURCHASE,,290.36,,,,,,False,False
+390536728,390536728,10000.0,9681.76,2016-05-13T01:47:25,254.31,EZ Putt Putt #69446,US,US,05,01,entertainment,True,06/2020,2015-12-03,2015-12-03,233,233,8048,PURCHASE,,318.24,,,,,,False,False
+390536728,390536728,10000.0,9427.45,2016-05-13T01:49:10,254.31,EZ Putt Putt #69446,US,US,05,01,entertainment,True,06/2020,2015-12-03,2015-12-03,233,233,8048,REVERSAL,,572.55,,,,,,False,False
+390536728,390536728,10000.0,9706.76,2016-11-21T03:30:55,187.14,Lyft,US,US,09,01,rideshare,False,10/2028,2015-12-03,2015-12-03,233,233,8048,PURCHASE,,293.24,,,,,,False,False
+390536728,390536728,10000.0,9519.62,2016-11-25T00:14:06,13.67,Hyatt House #464602,US,US,09,01,hotels,True,09/2022,2015-12-03,2015-12-03,679,679,8862,PURCHASE,,480.38,,,,,,False,False

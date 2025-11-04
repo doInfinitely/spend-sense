@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+809345456,809345456,250.0,250.0,2016-01-30T02:01:46,60.95,walmart.com,US,US,05,08,online_retail,03/2026,2014-08-29,2014-08-29,606,606,2078,PURCHASE,,0.0,,,,False,,,False,False
+809345456,809345456,250.0,214.05,2016-04-07T07:47:47,6.06,discount.com,US,US,05,01,online_retail,11/2020,2014-08-29,2014-08-29,606,606,2078,PURCHASE,,35.95,,,,False,,,False,False
+809345456,809345456,250.0,207.99,2016-04-23T11:20:12,283.44,walmart.com,US,US,05,01,online_retail,03/2023,2014-08-29,2014-08-29,606,606,2078,PURCHASE,,42.01,,,,False,,,False,False
+809345456,809345456,250.0,58.36,2016-05-05T17:29:17,39.59,alibaba.com,US,US,09,01,online_retail,04/2022,2014-08-29,2014-08-29,606,606,2078,PURCHASE,,191.64,,,,False,,,False,False
+809345456,809345456,250.0,43.769999999999996,2016-08-05T01:21:38,130.74,gap.com,CAN,CAN,02,01,online_retail,11/2027,2014-08-29,2014-08-29,606,606,2078,PURCHASE,,206.23,,,,False,,,False,False
+809345456,809345456,250.0,250.0,2016-09-24T21:18:09,32.05,walmart.com,US,US,05,01,online_retail,07/2022,2014-08-29,2014-08-29,606,606,2078,PURCHASE,,0.0,,,,False,,,False,False

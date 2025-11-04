@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+781420126,781420126,1000.0,1000.0,2016-01-06T06:47:34,24.54,staples.com,US,US,09,01,online_retail,01/2028,2012-01-10,2012-01-10,269,269,8407,PURCHASE,,0.0,,,,False,,,False,False
+781420126,781420126,1000.0,1000.0,2016-02-03T04:58:08,20.43,staples.com,US,US,02,01,online_retail,05/2026,2012-01-10,2012-01-10,269,269,8407,PURCHASE,,0.0,,,,False,,,False,False
+781420126,781420126,1000.0,1000.0,2016-07-05T10:20:01,311.89,sears.com,US,US,09,01,online_retail,09/2022,2012-01-10,2012-01-10,269,269,8407,PURCHASE,,0.0,,,,False,,,False,False
+781420126,781420126,1000.0,688.11,2016-07-30T08:07:34,6.64,Apple iTunes,US,US,09,01,mobileapps,12/2019,2012-01-10,2012-01-10,269,269,8407,PURCHASE,,311.89,,,,False,,,False,False
+781420126,781420126,1000.0,706.47,2016-08-29T11:09:16,6.64,Apple iTunes,US,US,09,01,mobileapps,12/2019,2012-01-10,2012-01-10,269,269,8407,PURCHASE,,293.53,,,,False,,,False,False
+781420126,781420126,1000.0,724.83,2016-09-07T21:10:24,142.27,ebay.com,US,US,05,01,online_retail,08/2032,2012-01-10,2012-01-10,269,269,8407,PURCHASE,,275.17,,,,False,,,False,False
+781420126,781420126,1000.0,582.56,2016-09-28T18:57:43,6.64,Apple iTunes,US,US,09,01,mobileapps,12/2019,2012-01-10,2012-01-10,269,269,8407,PURCHASE,,417.44,,,,False,,,False,False
+781420126,781420126,1000.0,600.92,2016-10-28T22:46:56,6.64,Apple iTunes,US,US,09,01,mobileapps,12/2019,2012-01-10,2012-01-10,269,269,8407,PURCHASE,,399.08,,,,False,,,False,False
+781420126,781420126,1000.0,619.28,2016-11-29T16:49:02,6.64,Apple iTunes,US,US,09,01,mobileapps,12/2019,2012-01-10,2012-01-10,269,269,8407,PURCHASE,,380.72,,,,False,,,False,False

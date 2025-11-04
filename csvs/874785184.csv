@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+874785184,874785184,10000.0,10000.0,2016-03-21T08:28:10,246.35,Downtown Pub,US,US,02,01,food,True,11/2025,2015-09-21,2015-09-21,941,941,3587,PURCHASE,,0.0,,,,,,False,False
+874785184,874785184,10000.0,9778.65,2016-11-12T21:53:16,20.57,abc.com,US,US,09,01,online_subscriptions,False,03/2026,2015-09-21,2015-09-21,941,941,3587,PURCHASE,,221.35,,,,,,False,False
+874785184,874785184,10000.0,9783.08,2016-12-14T18:31:15,20.57,abc.com,US,US,09,01,online_subscriptions,False,03/2026,2015-09-21,2015-09-21,941,941,3587,PURCHASE,,216.92,,,,,,False,False

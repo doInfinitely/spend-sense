@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+170418514,170418514,10000.0,10000.0,2016-02-28T15:52:02,81.07,Popeyes #905148,US,US,09,01,fastfood,True,08/2021,2013-10-06,2013-10-06,648,648,7937,PURCHASE,,0.0,,,,,,False,False
+170418514,170418514,10000.0,10000.0,2016-03-07T00:20:05,16.14,Cinnabon #772670,US,US,09,01,fastfood,True,11/2030,2013-10-06,2013-10-06,648,648,7937,PURCHASE,,0.0,,,,,,False,False
+170418514,170418514,10000.0,10000.0,2016-05-18T10:03:39,10.53,walmart.com,US,US,02,01,online_retail,False,06/2022,2013-10-06,2013-10-06,648,648,7937,PURCHASE,,0.0,,,,,,False,False
+170418514,170418514,10000.0,10000.0,2016-07-30T10:43:00,2.13,gap.com,CAN,CAN,02,01,online_retail,False,10/2032,2013-10-06,2013-10-06,648,648,7937,PURCHASE,,0.0,,,,,,False,False
+170418514,170418514,10000.0,10000.0,2016-08-19T01:25:40,33.74,Dunkin' Donuts #55737,US,US,05,01,fastfood,True,05/2023,2013-10-06,2013-10-06,648,648,7937,PURCHASE,,0.0,,,,,,False,False
+170418514,170418514,10000.0,10000.0,2016-09-29T16:06:15,71.11,Arbys #332223,US,US,02,01,fastfood,True,05/2028,2013-10-06,2013-10-06,648,648,7937,PURCHASE,,0.0,,,,,,False,False
+170418514,170418514,10000.0,10000.0,2016-10-30T17:26:18,49.12,cheapfast.com,US,US,09,01,online_retail,False,11/2029,2013-10-06,2013-10-06,648,648,7937,PURCHASE,,0.0,,,,,,False,False
+170418514,170418514,10000.0,10000.0,2016-11-05T00:40:09,0.0,Play Store,US,US,05,01,mobileapps,False,04/2024,2013-10-06,2013-10-06,648,648,7937,PURCHASE,,0.0,,,,,,False,False
+170418514,170418514,10000.0,10000.0,2016-11-16T01:14:31,452.21,walmart.com,US,US,09,08,online_retail,False,04/2023,2013-10-06,2013-10-06,648,648,7937,PURCHASE,,0.0,,,,,,False,False
+170418514,170418514,10000.0,10000.0,2016-12-05T18:45:26,0.0,Play Store,US,US,05,01,mobileapps,False,04/2024,2013-10-06,2013-10-06,648,648,7937,PURCHASE,,0.0,,,,,,False,False

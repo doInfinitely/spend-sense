@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+256599666,256599666,7500.0,7500.0,2016-05-31T06:21:03,31.21,cheapfast.com,US,US,05,99,online_retail,12/2022,2014-12-22,2014-12-22,400,400,1578,PURCHASE,,0.0,,,,False,,,False,False
+256599666,256599666,7500.0,7500.0,2016-07-18T20:23:00,17.71,oldnavy.com,US,US,02,01,online_retail,11/2028,2014-12-22,2014-12-22,400,400,1578,PURCHASE,,0.0,,,,False,,,False,False
+256599666,256599666,7500.0,7500.0,2016-11-16T15:34:39,188.81,ebay.com,US,US,09,01,online_retail,10/2026,2014-12-22,2014-12-22,400,400,1578,PURCHASE,,0.0,,,,False,,,False,False
+256599666,256599666,7500.0,7500.0,2016-12-14T20:32:53,417.49,amazon.com,US,US,09,01,online_retail,01/2024,2014-12-22,2014-12-22,400,400,1578,PURCHASE,,0.0,,,,False,,,False,False

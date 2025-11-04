@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+281742952,281742952,7500.0,7500.0,2016-01-02T17:03:43,120.65,Ray's Fries #745083,US,US,02,01,food,True,11/2023,2014-04-03,2014-04-03,256,256,9170,PURCHASE,,0.0,,,,,,False,False
+281742952,281742952,7500.0,7404.35,2016-04-17T18:41:51,369.31,sears.com,US,US,90,08,online_retail,False,12/2030,2014-04-03,2014-04-03,256,256,9170,PURCHASE,,95.65,,,,,,False,False
+281742952,281742952,7500.0,7060.04,2016-05-30T08:27:55,16.56,discount.com,US,US,05,01,online_retail,False,07/2032,2014-04-03,2014-04-03,256,256,9170,PURCHASE,,439.96,,,,,,False,False
+281742952,281742952,7500.0,7068.48,2016-06-18T10:14:41,324.36,Uber,US,US,09,01,rideshare,False,01/2032,2014-04-03,2014-04-03,256,256,9170,PURCHASE,,431.52,,,,,,False,True
+281742952,281742952,7500.0,6744.12,2016-06-23T11:37:49,0.1,ebay.com,US,US,80,01,online_retail,False,01/2026,2014-04-03,2014-04-03,256,256,9170,PURCHASE,,755.88,,,,,,False,False
+281742952,281742952,7500.0,6769.02,2016-07-10T00:46:28,229.24,1st Sandwitch Bar #941288,US,US,05,01,food,True,01/2027,2014-04-03,2014-04-03,256,256,9170,PURCHASE,,730.98,,,,,,False,False
+281742952,281742952,7500.0,6564.78,2016-08-17T18:22:51,86.8,discount.com,,US,09,01,online_retail,False,03/2026,2014-04-03,2014-04-03,256,256,9170,PURCHASE,,935.22,,,,,,False,False
+281742952,281742952,7500.0,6502.98,2016-11-26T07:32:39,26.16,1st Sandwitch Bar #772439,US,US,09,01,food,True,11/2023,2014-04-03,2014-04-03,256,256,9170,PURCHASE,,997.02,,,,,,False,False

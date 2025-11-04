@@ -1,0 +1,21 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+637281723,637281723,500.0,500.0,2016-01-15T20:15:16,268.72,Fresh Flowers,US,US,09,01,online_gifts,08/2030,2014-04-27,2014-04-27,507,507,4352,PURCHASE,,0.0,,,,False,,,False,False
+637281723,637281723,500.0,231.28,2016-01-26T19:31:51,221.56,Wall Street News,US,US,02,01,subscriptions,11/2024,2014-04-27,2014-04-27,507,507,4352,PURCHASE,,268.72,,,,True,,,False,False
+637281723,637281723,500.0,413.21,2016-01-27T00:04:23,6.58,Raymour Flanigan,US,US,05,01,furniture,03/2025,2014-04-27,2014-04-27,415,415,9060,PURCHASE,,86.79,,,,True,,,False,False
+637281723,637281723,500.0,406.63,2016-01-28T09:37:13,9.52,netflix.com,US,US,05,08,online_subscriptions,07/2029,2014-04-27,2014-04-27,507,507,4352,PURCHASE,,93.37,,,,False,,,False,False
+637281723,637281723,500.0,500.0,2016-02-14T13:59:20,3.41,Raymour Flanigan,US,US,05,01,furniture,03/2025,2014-04-27,2014-04-27,415,415,9060,REVERSAL,,0.0,,,,True,,,False,False
+637281723,637281723,500.0,500.0,2016-02-29T00:28:32,9.52,netflix.com,US,US,05,08,online_subscriptions,07/2029,2014-04-27,2014-04-27,507,507,4352,PURCHASE,,0.0,,,,False,,,False,False
+637281723,637281723,500.0,500.0,2016-03-31T18:41:50,9.52,netflix.com,US,US,05,08,online_subscriptions,07/2029,2014-04-27,2014-04-27,507,507,4352,PURCHASE,,0.0,,,,False,,,False,False
+637281723,637281723,500.0,500.0,2016-04-10T19:45:07,81.61,Oklahoma City Post,US,US,05,01,subscriptions,12/2026,2014-04-27,2014-04-27,507,507,4352,PURCHASE,,0.0,,,,False,,,False,False
+637281723,637281723,500.0,418.39,2016-04-30T19:22:13,9.52,netflix.com,US,US,05,08,online_subscriptions,07/2029,2014-04-27,2014-04-27,507,507,4352,PURCHASE,,81.61,,,,False,,,False,False
+637281723,637281723,500.0,500.0,2016-05-31T23:01:49,9.52,netflix.com,US,US,05,08,online_subscriptions,07/2029,2014-04-27,2014-04-27,507,507,4352,PURCHASE,,0.0,,,,False,,,False,False
+637281723,637281723,500.0,500.0,2016-07-01T16:49:23,9.52,netflix.com,US,US,05,08,online_subscriptions,07/2029,2014-04-27,2014-04-27,507,507,4352,PURCHASE,,0.0,,,,False,,,False,False
+637281723,637281723,500.0,490.48,2016-07-04T09:53:30,65.3,walmart.com,US,US,09,01,online_retail,07/2026,2014-04-27,2014-04-27,261,261,5697,PURCHASE,,9.52,,,,False,,,False,False
+637281723,637281723,500.0,500.0,2016-08-02T08:26:16,9.52,netflix.com,US,US,05,08,online_subscriptions,07/2029,2014-04-27,2014-04-27,507,507,4352,PURCHASE,,0.0,,,,False,,,False,False
+637281723,637281723,500.0,500.0,2016-09-03T05:16:51,9.52,netflix.com,US,US,05,08,online_subscriptions,07/2029,2014-04-27,2014-04-27,507,507,4352,PURCHASE,,0.0,,,,False,,,False,False
+637281723,637281723,500.0,490.48,2016-09-17T02:16:29,64.35,San Francisco Post,US,US,05,08,subscriptions,02/2028,2014-04-27,2014-04-27,507,507,4352,PURCHASE,,9.52,,,,True,,,False,False
+637281723,637281723,500.0,500.0,2016-10-04T01:05:27,9.52,netflix.com,US,US,05,08,online_subscriptions,07/2029,2014-04-27,2014-04-27,507,507,4352,PURCHASE,,0.0,,,,False,,,False,False
+637281723,637281723,500.0,500.0,2016-11-03T14:26:44,9.52,netflix.com,US,US,05,08,online_subscriptions,07/2029,2014-04-27,2014-04-27,507,507,4352,PURCHASE,,0.0,,,,False,,,False,False
+637281723,637281723,500.0,490.48,2016-11-13T15:22:09,57.79,Minneapolis News,US,US,05,01,subscriptions,04/2033,2014-04-27,2014-04-27,261,261,5697,PURCHASE,,9.52,,,,False,,,False,False
+637281723,637281723,500.0,500.0,2016-12-04T19:17:04,9.52,netflix.com,US,US,05,08,online_subscriptions,07/2029,2014-04-27,2014-04-27,507,507,4352,PURCHASE,,0.0,,,,False,,,False,False
+637281723,637281723,500.0,490.48,2016-12-11T09:11:09,413.74,Blue Mountain eCards,US,US,09,01,online_gifts,11/2028,2014-04-27,2014-04-27,261,261,5697,PURCHASE,,9.52,,,,False,,,False,False

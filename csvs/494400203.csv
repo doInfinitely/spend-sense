@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+494400203,494400203,5000.0,5000.0,2016-01-17T05:30:09,80.25,Walgreens #549817,US,US,05,01,health,09/2022,2012-06-22,2012-06-22,827,827,1995,PURCHASE,,0.0,,,,False,,,False,False
+494400203,494400203,5000.0,5000.0,2016-02-29T02:37:30,120.61,gap.com,US,US,05,08,online_retail,11/2030,2012-06-22,2012-06-22,827,827,1995,PURCHASE,,0.0,,,,False,,,False,False
+494400203,494400203,5000.0,5000.0,2016-05-26T05:20:06,231.44,Lyft,US,US,05,01,rideshare,08/2022,2012-06-22,2012-06-22,647,647,5891,PURCHASE,,0.0,,,,False,,,False,True
+494400203,494400203,5000.0,4768.56,2016-05-31T15:46:52,78.7,Lyft,US,US,05,01,rideshare,08/2022,2012-06-22,2012-06-22,647,647,5891,REVERSAL,,231.44,,,,False,,,False,True

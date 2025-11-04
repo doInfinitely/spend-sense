@@ -1,0 +1,6 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+856576741,856576741,1000.0,1000.0,2016-03-18T16:31:37,93.97,Renaissance Hotel #200279,US,US,09,01,hotels,True,02/2031,2014-10-29,2014-10-29,134,134,2852,PURCHASE,,0.0,,,,,,False,False
+856576741,856576741,1000.0,931.03,2016-06-29T21:28:51,139.26,Lyft,US,US,05,01,rideshare,False,01/2024,2014-10-29,2014-10-29,134,134,2852,PURCHASE,,68.97,,,,,,False,False
+856576741,856576741,1000.0,816.77,2016-07-26T00:23:34,128.82,apple.com,US,US,05,01,online_retail,False,10/2025,2014-10-29,2014-10-29,134,134,2852,PURCHASE,,183.23,,,,,,False,False
+856576741,856576741,1000.0,712.95,2016-10-05T09:18:25,383.5,oldnavy.com,US,US,05,01,online_retail,False,09/2026,2014-10-29,2014-10-29,134,134,2852,PURCHASE,,287.05,,,,,,False,False
+856576741,856576741,1000.0,354.45,2016-11-16T20:13:16,21.52,Uber,US,US,05,01,rideshare,False,02/2027,2014-10-29,2016-10-31,134,134,2852,PURCHASE,,645.55,,,,,,False,False

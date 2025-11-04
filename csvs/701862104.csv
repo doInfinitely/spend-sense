@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+701862104,701862104,1000.0,1000.0,2016-01-09T21:23:52,349.2,Next Day Online Services,US,US,02,01,online_gifts,01/2020,2012-09-15,2012-09-15,149,149,4775,PURCHASE,,0.0,,,,False,,,False,False
+701862104,701862104,1000.0,1000.0,2016-03-19T00:55:56,197.27,Fresh Flowers,US,US,05,01,online_gifts,01/2026,2012-09-15,2012-09-15,783,783,3828,PURCHASE,,0.0,,,,False,,,False,False
+701862104,701862104,1000.0,802.73,2016-03-29T00:44:36,6.21,Rodeway Inn #436394,US,US,09,01,hotels,06/2033,2012-09-15,2012-09-15,149,149,4775,PURCHASE,,197.27,,,,False,,,False,False
+701862104,701862104,1000.0,1000.0,2016-05-05T08:49:10,41.73,AMC #724446,US,US,05,01,entertainment,09/2024,2012-09-15,2012-09-15,149,149,4775,PURCHASE,,0.0,,,,True,,,False,False
+701862104,701862104,1000.0,1000.0,2016-07-21T15:49:48,69.18,Hilton Hotels #330621,US,US,05,01,hotels,06/2021,2012-09-15,2012-09-15,149,149,4775,PURCHASE,,0.0,,,,True,,,False,False
+701862104,701862104,1000.0,1000.0,2016-09-22T21:35:03,43.18,Next Day Online Services,US,US,05,01,online_gifts,03/2030,2012-09-15,2012-09-15,783,783,3828,PURCHASE,,0.0,,,,False,,,False,False
+701862104,701862104,1000.0,956.82,2016-09-30T19:06:38,50.71,AMC #74121,US,US,09,01,entertainment,07/2024,2012-09-15,2012-09-15,149,149,4775,PURCHASE,,43.18,,,,True,,,False,False
+701862104,701862104,1000.0,1000.0,2016-11-02T14:29:34,231.69,Hyatt House #461673,US,US,05,01,hotels,09/2031,2012-09-15,2012-09-15,149,149,4775,PURCHASE,,0.0,,,,True,,,False,False
+701862104,701862104,1000.0,768.31,2016-11-03T12:45:39,224.1,AMC #74121,US,US,05,01,entertainment,08/2032,2012-09-15,2012-09-15,783,783,3828,PURCHASE,,231.69,,,,True,,,False,False
+701862104,701862104,1000.0,1000.0,2016-12-20T06:15:31,29.58,Blue Mountain eCards,US,US,09,01,online_gifts,04/2023,2012-09-15,2012-09-15,149,149,4775,PURCHASE,,0.0,,,,False,,,False,False

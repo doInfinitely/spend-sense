@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,isFraud,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch
+315352217,315352217,50000.0,50000.0,2016-02-27T11:53:32,266.73,sears.com,US,US,02,01,online_retail,04/2027,2015-01-14,2015-01-14,538,538,1920,PURCHASE,True,,0.0,,,,False,,,False
+315352217,315352217,50000.0,49758.27,2016-03-14T02:16:50,156.2,Universe Massage #357768,US,US,02,01,personal care,08/2028,2015-01-14,2015-01-14,538,538,1920,PURCHASE,False,,241.73,,,,True,,,False
+315352217,315352217,50000.0,49627.07,2016-04-02T15:11:28,115.71,South Steakhouse #335249,US,US,02,01,food,02/2027,2015-01-14,2015-01-14,538,538,1920,PURCHASE,False,,372.93,,,,True,,,False
+315352217,315352217,50000.0,49511.36,2016-04-13T11:13:53,407.28,1st Sandwitch Bar #801388,US,US,02,01,food,02/2027,2015-01-14,2015-01-14,538,538,1920,PURCHASE,False,,488.64,,,,True,,,False
+315352217,315352217,50000.0,49129.08,2016-06-24T22:34:22,189.31,34th BBQ #166379,US,US,05,01,food,01/2032,2015-01-14,2015-01-14,538,538,1920,PURCHASE,False,,870.92,,,,True,,,False
+315352217,315352217,50000.0,48964.77,2016-11-01T19:29:32,232.45,West End Massage,US,US,09,01,personal care,06/2029,2015-01-14,2015-01-14,538,538,1920,PURCHASE,False,,1035.23,,,,True,,,False

@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+301989624,301989624,2500.0,2500.0,2016-04-07T03:04:46,32.94,target.com,US,US,02,01,online_retail,11/2021,2012-01-20,2012-01-20,931,931,9770,PURCHASE,,0.0,,,,False,,,False,False
+301989624,301989624,2500.0,2492.06,2016-05-11T11:05:10,26.65,apple.com,US,US,09,08,online_retail,05/2023,2012-01-20,2012-01-20,931,931,9770,PURCHASE,,7.94,,,,False,,,False,False
+301989624,301989624,2500.0,2490.41,2016-08-23T13:51:10,86.97,target.com,US,US,05,01,online_retail,02/2026,2012-01-20,2012-01-20,931,931,9770,PURCHASE,,9.59,,,,False,,,False,False
+301989624,301989624,2500.0,2428.44,2016-10-18T20:48:39,87.08,AMC #74121,US,US,09,01,entertainment,03/2020,2012-01-20,2012-01-20,931,931,9770,PURCHASE,,71.56,,,,True,,,False,False
+301989624,301989624,2500.0,2341.36,2016-10-19T20:44:05,493.58,EZ Putt Putt #755869,US,US,05,01,entertainment,02/2031,2012-01-20,2012-01-20,931,931,9770,PURCHASE,,158.64,,,,True,,,False,False
+301989624,301989624,2500.0,1872.78,2016-11-27T23:26:10,181.83,EZ Putt Putt #982199,US,US,05,01,entertainment,01/2028,2012-01-20,2012-01-20,931,931,9770,PURCHASE,,627.22,,,,False,,,False,False

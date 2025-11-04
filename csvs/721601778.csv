@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+721601778,721601778,5000.0,5000.0,2016-07-25T09:33:08,383.75,gap.com,US,US,05,01,online_retail,11/2032,2015-08-10,2015-08-10,453,453,3458,PURCHASE,,0.0,,,,False,,,False,False
+721601778,721601778,5000.0,4641.25,2016-08-16T02:31:35,67.88,amazon.com,US,US,09,01,online_retail,11/2024,2015-08-10,2015-08-10,453,453,3458,PURCHASE,,358.75,,,,False,,,False,False
+721601778,721601778,5000.0,4598.37,2016-09-23T10:34:55,13.14,amazon.com,US,US,09,08,online_retail,08/2028,2015-08-10,2015-08-10,453,453,3458,PURCHASE,,401.63,,,,False,,,False,False

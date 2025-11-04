@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+653689523,653689523,10000.0,10000.0,2016-05-13T18:26:06,152.86,staples.com,US,US,02,01,online_retail,06/2020,2012-08-31,2012-08-31,604,604,9634,PURCHASE,,0.0,,,,False,,,False,False
+653689523,653689523,10000.0,9872.14,2016-09-22T08:03:40,17.25,discount.com,US,US,09,01,online_retail,03/2028,2012-08-31,2012-08-31,714,714,471,PURCHASE,,127.86,,,,False,,,False,False
+653689523,653689523,10000.0,9879.89,2016-11-24T14:53:42,95.1,target.com,US,US,02,01,online_retail,01/2033,2012-08-31,2012-08-31,604,604,9634,PURCHASE,,120.11,,,,False,,,False,False

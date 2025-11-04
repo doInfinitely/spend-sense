@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+131650557,131650557,50000.0,50000.0,2016-03-04T23:43:20,34.14,Ray's Fries #24425,US,US,05,01,food,True,12/2023,2015-07-25,2015-07-25,407,407,3250,PURCHASE,,0.0,,,,,,False,False
+131650557,131650557,50000.0,49965.86,2016-03-16T21:38:07,33.14,Fresh Online Services,US,US,09,08,online_gifts,False,03/2027,2015-07-25,2015-07-25,407,407,3250,PURCHASE,,34.14,,,,,,False,False
+131650557,131650557,50000.0,50000.0,2016-04-06T20:06:47,310.06,EZ Putt Putt #69446,US,US,05,01,entertainment,False,07/2026,2015-07-25,2015-07-25,407,407,3250,PURCHASE,,0.0,,,,,,False,False
+131650557,131650557,50000.0,50000.0,2016-06-12T00:09:15,117.95,Blue Mountain Online Services,US,US,02,01,online_gifts,False,03/2028,2015-07-25,2015-07-25,407,407,3250,PURCHASE,,0.0,,,,,,False,False
+131650557,131650557,50000.0,50000.0,2016-10-28T16:34:21,11.34,EZ Putt Putt #982199,US,US,02,01,entertainment,True,02/2025,2015-07-25,2015-07-25,407,407,3250,PURCHASE,,0.0,,,,,,False,False
+131650557,131650557,50000.0,50000.0,2016-11-12T01:26:40,3.22,Fresh Online Services,US,US,09,01,online_gifts,False,01/2020,2015-07-25,2015-07-25,407,407,3250,PURCHASE,,0.0,,,,,,False,False
+131650557,131650557,50000.0,49996.78,2016-11-15T02:51:38,30.88,Regal Cinemas #729464,US,US,05,08,entertainment,True,09/2024,2015-07-25,2015-07-25,407,407,3250,PURCHASE,,3.22,,,,,,False,False
+131650557,131650557,50000.0,49965.9,2016-11-24T05:04:42,504.8,Fresh Flowers,US,US,02,01,online_gifts,False,09/2021,2015-07-25,2015-07-25,407,407,3250,PURCHASE,,34.1,,,,,,False,False
+131650557,131650557,50000.0,50000.0,2016-12-04T06:13:34,3.2,Apple iTunes,US,US,09,01,mobileapps,False,02/2033,2015-07-25,2015-07-25,407,407,3250,PURCHASE,,0.0,,,,,,False,False

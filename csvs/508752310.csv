@@ -1,0 +1,11 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+508752310,508752310,250.0,250.0,2016-04-12T16:36:34,481.28,Fresh eCards,US,US,05,01,online_gifts,02/2033,2012-07-11,2012-07-11,425,425,9631,PURCHASE,,0.0,,,,False,,,False,False
+508752310,508752310,250.0,250.0,2016-04-16T21:01:13,82.97,Fresh eCards,US,US,02,01,online_gifts,09/2023,2012-07-11,2012-07-11,447,447,9933,PURCHASE,,0.0,,,,False,,,False,False
+508752310,508752310,250.0,167.03,2016-04-22T04:36:56,50.77,Next Day Online Services,US,US,09,01,online_gifts,09/2032,2012-07-11,2012-07-11,288,288,3643,PURCHASE,,82.97,,,,False,,,False,False
+508752310,508752310,250.0,116.26,2016-04-29T16:19:44,112.79,Fresh Online Services,US,US,05,01,online_gifts,07/2029,2012-07-11,2012-07-11,425,425,9631,PURCHASE,,133.74,,,,False,,,False,False
+508752310,508752310,250.0,141.22,2016-06-12T02:19:01,12.6,EZ Putt Putt #551896,US,US,05,01,entertainment,06/2020,2012-07-11,2012-07-11,597,597,4988,PURCHASE,,108.78,,,,True,,,False,False
+508752310,508752310,250.0,153.62,2016-07-06T08:25:35,263.65,EZ Putt Putt #755869,US,US,02,01,entertainment,04/2032,2012-07-11,2012-07-11,288,288,3643,PURCHASE,,96.38,,,,True,,,False,False
+508752310,508752310,250.0,66.96,2016-07-10T10:19:42,189.79,AMC #128743,US,US,02,01,entertainment,09/2031,2012-07-11,2012-07-11,447,447,9933,PURCHASE,,183.04,,,,False,,,False,False
+508752310,508752310,250.0,64.47,2016-08-03T07:40:13,4.5,AMC #706324,US,US,09,01,entertainment,11/2030,2012-07-11,2012-07-11,288,288,3643,PURCHASE,,185.53,,,,False,,,False,False
+508752310,508752310,250.0,84.97,2016-09-07T07:58:40,10.31,Regal Cinemas #276341,US,US,05,01,entertainment,12/2032,2012-07-11,2012-07-11,447,447,9933,PURCHASE,,165.03,,,,True,,,False,False
+508752310,508752310,250.0,99.66,2016-12-21T09:09:27,213.76,EZ Putt Putt #982199,US,US,05,01,entertainment,10/2021,2012-07-11,2012-07-11,425,425,9631,PURCHASE,,150.34,,,,True,,,False,False

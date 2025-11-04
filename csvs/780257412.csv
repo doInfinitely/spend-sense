@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+780257412,780257412,500.0,500.0,2016-04-29T20:16:57,50.34,Auntie Anne's #119237,US,US,05,01,fastfood,True,06/2029,2015-05-08,2015-05-08,987,987,404,PURCHASE,,0.0,,,,,,False,False
+780257412,780257412,500.0,474.66,2016-08-15T04:28:49,201.38,LES Pizza,US,US,90,01,food,True,02/2029,2015-05-08,2015-05-08,987,987,404,PURCHASE,,25.34,,,,,,False,False
+780257412,780257412,500.0,298.28,2016-09-02T07:43:44,6.63,Pizza Hut #288835,,,05,01,fastfood,True,06/2028,2015-05-08,2015-05-08,987,987,404,PURCHASE,,201.72,,,,,,False,False

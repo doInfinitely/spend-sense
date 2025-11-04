@@ -1,0 +1,5 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+828351889,828351889,7500.0,7500.0,2016-05-02T02:35:37,96.07,Icelandic Airlines,US,US,02,01,airline,08/2025,2015-12-03,2015-12-03,425,725,6018,PURCHASE,,0.0,,,,False,,,False,False
+828351889,828351889,7500.0,7500.0,2016-06-05T13:36:34,0.0,Oklahoma City Times,US,US,05,01,subscriptions,12/2031,2015-12-03,2015-12-03,425,425,6018,ADDRESS_VERIFICATION,,0.0,,,,False,,,False,False
+828351889,828351889,7500.0,7500.0,2016-07-01T09:03:38,128.58,Dallas Journal,US,US,09,01,subscriptions,08/2021,2015-12-03,2015-12-03,425,425,6018,PURCHASE,,0.0,,,,False,,,False,False
+828351889,828351889,7500.0,7371.42,2016-07-13T00:25:22,109.49,Franks Pub #86033,US,US,05,01,food,03/2022,2015-12-03,2015-12-03,425,425,6018,PURCHASE,,128.58,,,,True,,,False,False

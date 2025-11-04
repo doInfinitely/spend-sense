@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+468956635,468956635,1000.0,1000.0,2016-03-22T19:06:06,142.57,Arbys #979932,US,US,02,01,fastfood,True,07/2028,2014-02-04,2014-02-04,872,872,9291,PURCHASE,,0.0,,,,,,False,False
+468956635,468956635,1000.0,882.43,2016-07-01T09:06:54,267.7,Subway #12953,US,US,09,01,fastfood,True,10/2026,2014-02-04,2014-02-04,872,872,9291,PURCHASE,,117.57,,,,,,False,False
+468956635,468956635,1000.0,614.73,2016-07-08T09:12:12,123.99,Quizno's #696130,US,US,05,01,fastfood,True,09/2024,2014-02-04,2014-02-04,872,872,9291,PURCHASE,,385.27,,,,,,False,False
+468956635,468956635,1000.0,490.74,2016-07-18T17:29:09,106.65,Quizno's #923583,US,US,05,08,fastfood,True,04/2021,2014-02-04,2014-02-04,872,872,9291,PURCHASE,,509.26,,,,,,False,False
+468956635,468956635,1000.0,409.09,2016-08-09T13:26:41,40.8,Krispy Kreme #720032,US,US,09,08,fastfood,True,01/2033,2014-02-04,2014-02-04,872,872,9291,PURCHASE,,590.91,,,,,,False,False
+468956635,468956635,1000.0,393.29,2016-10-25T12:24:10,96.03,Dunkin' Donuts #727266,US,US,09,01,fastfood,True,08/2024,2014-02-04,2014-02-04,872,872,9291,PURCHASE,,606.71,,,,,,False,False
+468956635,468956635,1000.0,322.26,2016-11-12T03:29:26,257.35,Domino's Pizza #962710,US,US,05,08,fastfood,True,11/2025,2014-02-04,2014-02-04,872,872,9291,PURCHASE,,677.74,,,,,,False,False

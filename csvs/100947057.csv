@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+100947057,100947057,1000.0,1000.0,2016-07-15T14:28:10,749.8,Rodeway Inn #166841,US,US,05,01,hotels,07/2024,2013-10-07,2013-10-07,316,316,3216,PURCHASE,,0.0,,,,False,,,False,False
+100947057,100947057,1000.0,1000.0,2016-08-08T05:15:03,23.77,Renaissance Hotel #825471,US,US,02,08,hotels,08/2028,2013-10-07,2013-10-07,161,161,6659,PURCHASE,,0.0,,,,False,,,False,False
+100947057,100947057,1000.0,976.23,2016-08-21T10:08:57,50.06,Wendys #764236,US,US,09,01,fastfood,01/2025,2013-10-07,2013-10-07,161,161,6659,PURCHASE,,23.77,,,,True,,,False,False
+100947057,100947057,1000.0,1000.0,2016-10-19T13:52:42,220.57,Auntie Anne's #842100,US,US,05,01,fastfood,03/2032,2013-10-07,2013-10-07,161,161,6659,PURCHASE,,0.0,,,,True,,,False,False
+100947057,100947057,1000.0,779.43,2016-10-27T08:35:47,8.4,abc.com,US,US,05,01,online_subscriptions,07/2022,2013-10-07,2013-10-07,316,316,3216,PURCHASE,,220.57,,,,False,,,False,False
+100947057,100947057,1000.0,1000.0,2016-11-23T08:18:37,135.11,Hilton Hotels #627767,US,US,09,08,hotels,02/2025,2013-10-07,2013-10-07,316,316,3216,PURCHASE,,0.0,,,,True,,,False,False
+100947057,100947057,1000.0,864.89,2016-11-27T18:04:14,8.4,abc.com,US,US,05,01,online_subscriptions,07/2022,2013-10-07,2013-10-07,316,316,3216,PURCHASE,,135.11,,,,False,,,False,False
+100947057,100947057,1000.0,1000.0,2016-12-28T18:24:43,8.4,abc.com,US,US,05,01,online_subscriptions,07/2022,2013-10-07,2013-10-07,316,316,3216,PURCHASE,,0.0,,,,False,,,False,False

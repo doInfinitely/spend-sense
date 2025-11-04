@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+573900313,573900313,15000.0,15000.0,2016-02-02T01:11:06,24.77,Wendys #113668,US,US,02,01,fastfood,True,03/2033,2014-09-30,2014-09-30,868,868,6804,PURCHASE,,0.0,,,,,,False,False
+573900313,573900313,15000.0,14975.23,2016-02-14T10:39:05,72.61,apple.com,US,US,80,01,online_retail,False,08/2030,2014-09-30,2014-09-30,369,369,2071,PURCHASE,,24.77,,,,,,False,False
+573900313,573900313,15000.0,14902.62,2016-02-20T07:11:10,38.42,Cinnabon #342947,US,US,05,01,fastfood,True,01/2020,2014-09-30,2014-09-30,369,369,2071,PURCHASE,,97.38,,,,,,False,False
+573900313,573900313,15000.0,15000.0,2016-03-24T23:23:03,141.62,Subway #417840,US,US,05,08,fastfood,True,08/2026,2014-09-30,2014-09-30,369,369,2071,PURCHASE,,0.0,,,,,,False,True
+573900313,573900313,15000.0,15000.0,2016-04-22T16:23:11,25.04,cheapfast.com,US,US,05,08,online_retail,False,07/2026,2014-09-30,2014-09-30,369,369,2071,PURCHASE,,0.0,,,,,,False,False
+573900313,573900313,15000.0,15000.0,2016-05-06T13:54:55,235.17,McDonalds #339265,US,US,09,01,fastfood,True,11/2030,2014-09-30,2014-09-30,369,369,2071,PURCHASE,,0.0,,,,,,False,False
+573900313,573900313,15000.0,15000.0,2016-09-09T17:01:52,114.1,Hardee's #611074,US,US,02,01,fastfood,True,02/2023,2014-09-30,2014-09-30,868,868,6804,PURCHASE,,0.0,,,,,,False,False

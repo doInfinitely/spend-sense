@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+269992783,269992783,50000.0,50000.0,2016-06-26T19:31:27,23.25,discount.com,US,US,05,08,online_retail,12/2024,2015-06-20,2015-06-20,326,326,6833,PURCHASE,,0.0,,,,False,,,False,False
+269992783,269992783,50000.0,50000.0,2016-07-31T04:39:42,284.38,walmart.com,US,US,02,08,online_retail,06/2027,2015-06-20,2015-06-20,326,326,6833,PURCHASE,,0.0,,,,False,,,False,False
+269992783,269992783,50000.0,49740.62,2016-09-20T13:19:02,187.35,gap.com,US,US,05,01,online_retail,03/2021,2015-06-20,2015-06-20,326,326,6833,PURCHASE,,259.38,,,,False,,,False,False
+269992783,269992783,50000.0,49578.27,2016-10-15T07:28:31,10.53,netflix.com,US,US,02,08,online_subscriptions,06/2033,2015-06-20,2015-06-20,326,326,6833,PURCHASE,,421.73,,,,False,,,False,False
+269992783,269992783,50000.0,49592.74,2016-11-14T21:37:43,10.53,netflix.com,US,US,02,08,online_subscriptions,06/2033,2015-06-20,2015-06-20,326,326,6833,PURCHASE,,407.26,,,,False,,,False,False
+269992783,269992783,50000.0,49607.21,2016-12-15T03:20:46,10.53,netflix.com,US,US,02,08,online_subscriptions,06/2033,2015-06-20,2015-06-20,326,326,6833,PURCHASE,,392.79,,,,False,,,False,False

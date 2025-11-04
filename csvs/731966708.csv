@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+731966708,731966708,5000.0,5000.0,2016-04-06T17:28:44,31.76,AMC #692956,US,US,02,01,entertainment,True,07/2027,2013-10-07,2013-10-07,920,920,9869,PURCHASE,,0.0,,,,,,False,False
+731966708,731966708,5000.0,4968.24,2016-04-14T10:35:52,14.32,EZ Putt Putt #503815,US,US,09,01,entertainment,True,03/2025,2013-10-07,2013-10-07,920,920,9869,PURCHASE,,31.76,,,,,,False,False
+731966708,731966708,5000.0,4978.92,2016-10-23T22:40:31,1.5,EZ Putt Putt #755869,US,US,05,01,entertainment,True,05/2022,2013-10-07,2013-10-07,920,920,9869,PURCHASE,,21.08,,,,,,False,False
+731966708,731966708,5000.0,5000.0,2016-11-15T17:43:59,26.47,Mobil Gas #851671,US,US,05,08,fuel,True,10/2020,2013-10-07,2013-10-07,920,920,9869,PURCHASE,,0.0,,,,,,False,False
+731966708,731966708,5000.0,4973.53,2016-11-30T05:39:58,26.47,Mobil Gas #851671,US,US,05,08,fuel,True,10/2020,2013-10-07,2013-10-07,920,920,9869,PURCHASE,,26.47,,,,,,False,False
+731966708,731966708,5000.0,4972.06,2016-12-14T11:03:53,26.47,Mobil Gas #851671,US,US,05,08,fuel,True,10/2020,2013-10-07,2013-10-07,920,920,9869,PURCHASE,,27.94,,,,,,False,False
+731966708,731966708,5000.0,4945.59,2016-12-26T19:48:28,0.0,staples.com,US,US,05,01,online_retail,False,09/2031,2013-10-07,2013-10-07,920,920,9869,ADDRESS_VERIFICATION,,54.41,,,,,,False,False
+731966708,731966708,5000.0,4945.59,2016-12-28T14:25:00,26.47,Mobil Gas #851671,US,US,05,08,fuel,True,10/2020,2013-10-07,2013-10-07,920,920,9869,PURCHASE,,54.41,,,,,,False,False

@@ -1,0 +1,8 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,cardPresent,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+622101761,622101761,7500.0,7500.0,2016-02-27T20:09:29,315.63,Wendys #928763,US,US,05,01,fastfood,True,07/2028,2011-03-17,2011-03-17,564,564,2608,PURCHASE,,0.0,,,,,,False,False
+622101761,622101761,7500.0,7500.0,2016-08-20T11:59:09,82.84,Auntie Anne's #08360,,US,09,08,fastfood,True,12/2030,2011-03-17,2011-03-17,581,581,7096,PURCHASE,,0.0,,,,,,False,False
+622101761,622101761,7500.0,7417.16,2016-08-28T09:32:42,17.35,Auntie Anne's #518246,US,US,09,01,fastfood,True,12/2021,2011-03-17,2011-03-17,581,581,7096,PURCHASE,,82.84,,,,,,False,False
+622101761,622101761,7500.0,7500.0,2016-10-11T16:40:21,477.88,Taco Bell #470435,US,US,09,01,fastfood,True,08/2030,2011-03-17,2011-03-17,581,581,7096,PURCHASE,,0.0,,,,,,False,False
+622101761,622101761,7500.0,7500.0,2016-12-01T04:56:11,55.62,Shell Gas #451592,US,US,05,01,fuel,True,02/2032,2011-03-17,2011-03-17,564,564,2608,PURCHASE,,0.0,,,,,,False,False
+622101761,622101761,7500.0,7444.38,2016-12-15T19:59:22,59.87,Shell Gas #451592,US,US,05,01,fuel,True,02/2032,2011-03-17,2011-03-17,564,564,2608,PURCHASE,,55.62,,,,,,False,False
+622101761,622101761,7500.0,7384.51,2016-12-30T13:15:27,55.62,Shell Gas #451592,US,US,05,01,fuel,True,02/2032,2011-03-17,2011-03-17,564,564,2608,PURCHASE,,115.49,,,,,,False,False

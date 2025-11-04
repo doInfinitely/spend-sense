@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+862751274,862751274,15000.0,15000.0,2016-08-29T05:16:23,144.5,Fresh Flowers,US,US,05,01,online_gifts,10/2026,2015-11-13,2015-11-13,849,849,3756,PURCHASE,,0.0,,,,False,,,False,False
+862751274,862751274,15000.0,15000.0,2016-10-26T16:02:20,26.64,Mobil Gas #194289,US,US,02,08,fuel,05/2033,2015-11-13,2015-11-13,849,849,3756,PURCHASE,,0.0,,,,True,,,False,False
+862751274,862751274,15000.0,15000.0,2016-11-09T00:17:17,25.69,Mobil Gas #194289,US,US,02,08,fuel,05/2033,2015-11-13,2015-11-13,849,849,3756,PURCHASE,,0.0,,,,True,,,False,False
+862751274,862751274,15000.0,14974.31,2016-11-23T18:22:46,29.11,Mobil Gas #194289,US,US,02,08,fuel,05/2033,2015-11-13,2015-11-13,849,849,3756,PURCHASE,,25.69,,,,True,,,False,False
+862751274,862751274,15000.0,15000.0,2016-12-08T10:53:20,26.64,Mobil Gas #194289,US,US,02,08,fuel,05/2033,2015-11-13,2015-11-13,849,849,3756,PURCHASE,,0.0,,,,True,,,False,False
+862751274,862751274,15000.0,14973.36,2016-12-22T19:16:50,26.64,Mobil Gas #194289,US,US,02,08,fuel,05/2033,2015-11-13,2015-11-13,849,849,3756,PURCHASE,,26.64,,,,True,,,False,False

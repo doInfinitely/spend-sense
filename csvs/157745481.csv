@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+157745481,157745481,15000.0,15000.0,2016-08-15T06:37:53,15.52,abc.com,US,US,02,01,online_subscriptions,11/2027,2011-11-20,2011-11-20,697,697,3067,PURCHASE,,0.0,,,,False,,,False,False
+157745481,157745481,15000.0,15000.0,2016-09-10T02:32:15,426.21,Eazy Repair,US,US,05,01,auto,08/2032,2011-11-20,2011-11-20,697,697,3067,PURCHASE,,0.0,,,,False,,,False,False
+157745481,157745481,15000.0,14573.79,2016-09-14T09:40:13,15.52,abc.com,US,US,02,01,online_subscriptions,11/2027,2011-11-20,2011-11-20,697,697,3067,PURCHASE,,426.21,,,,False,,,False,False
+157745481,157745481,15000.0,14583.27,2016-10-16T01:28:42,15.52,abc.com,US,US,02,01,online_subscriptions,11/2027,2011-11-20,2011-11-20,697,697,3067,PURCHASE,,416.73,,,,False,,,False,False
+157745481,157745481,15000.0,14592.75,2016-11-15T05:41:55,15.52,abc.com,US,US,02,01,online_subscriptions,11/2027,2011-11-20,2011-11-20,697,697,3067,PURCHASE,,407.25,,,,False,,,False,False
+157745481,157745481,15000.0,14602.23,2016-12-16T15:02:12,15.52,abc.com,US,US,02,01,online_subscriptions,11/2027,2011-11-20,2011-11-20,697,697,3067,PURCHASE,,397.77,,,,False,,,False,False

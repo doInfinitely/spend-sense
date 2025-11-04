@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+719115770,719115770,50000.0,50000.0,2016-07-04T13:19:24,170.41,Icelandic Airlines,US,US,02,08,airline,04/2028,2012-03-27,2012-03-27,183,183,5272,PURCHASE,,0.0,,,,False,,,False,False
+719115770,719115770,50000.0,50000.0,2016-09-01T21:37:19,265.97,Delta Airlines,US,US,05,01,airline,02/2021,2012-03-27,2012-03-27,183,183,5272,PURCHASE,,0.0,,,,False,,,False,False
+719115770,719115770,50000.0,50000.0,2016-10-20T21:05:49,32.27,Shell Gas #494785,US,US,09,01,fuel,01/2020,2012-03-27,2012-03-27,493,493,2085,PURCHASE,,0.0,,,,True,,,False,False
+719115770,719115770,50000.0,50000.0,2016-11-04T04:01:55,27.64,Shell Gas #494785,US,US,09,01,fuel,01/2020,2012-03-27,2012-03-27,493,493,2085,PURCHASE,,0.0,,,,True,,,False,False
+719115770,719115770,50000.0,49972.36,2016-11-17T21:52:46,29.36,Shell Gas #494785,US,US,09,01,fuel,01/2020,2012-03-27,2012-03-27,493,493,2085,PURCHASE,,27.64,,,,True,,,False,False
+719115770,719115770,50000.0,50000.0,2016-12-02T14:13:19,29.34,Shell Gas #494785,US,US,09,01,fuel,01/2020,2012-03-27,2012-03-27,493,493,2085,PURCHASE,,0.0,,,,True,,,False,False
+719115770,719115770,50000.0,49970.66,2016-12-17T10:30:31,25.61,Shell Gas #494785,US,US,09,01,fuel,01/2020,2012-03-27,2012-03-27,493,493,2085,PURCHASE,,29.34,,,,True,,,False,False
+719115770,719115770,50000.0,49945.05,2016-12-30T14:34:10,25.61,Shell Gas #494785,US,US,09,01,fuel,01/2020,2012-03-27,2012-03-27,493,493,2085,PURCHASE,,54.95,,,,True,,,False,False

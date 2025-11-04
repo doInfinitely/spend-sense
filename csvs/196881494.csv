@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+196881494,196881494,20000.0,20000.0,2016-07-21T11:32:26,15.62,hulu.com,US,US,05,08,online_subscriptions,04/2031,2015-03-13,2015-03-13,675,675,5309,PURCHASE,,0.0,,,,False,,,False,False
+196881494,196881494,20000.0,20000.0,2016-08-21T11:53:39,15.62,hulu.com,US,US,05,08,online_subscriptions,04/2031,2015-03-13,2015-03-13,675,675,5309,PURCHASE,,0.0,,,,False,,,False,False
+196881494,196881494,20000.0,20000.0,2016-09-21T04:19:52,15.62,hulu.com,US,US,05,08,online_subscriptions,04/2031,2015-03-13,2015-03-13,675,675,5309,PURCHASE,,0.0,,,,False,,,False,False
+196881494,196881494,20000.0,20000.0,2016-10-21T10:42:15,117.01,Boost Mobile #518069,US,US,02,01,cable/phone,01/2033,2015-03-13,2015-03-13,675,675,5309,PURCHASE,,0.0,,,,False,,,False,False
+196881494,196881494,20000.0,19882.99,2016-10-21T17:51:31,15.62,hulu.com,US,US,05,08,online_subscriptions,04/2031,2015-03-13,2015-03-13,675,675,5309,PURCHASE,,117.01,,,,False,,,False,False
+196881494,196881494,20000.0,19892.37,2016-11-20T07:24:45,117.01,Boost Mobile #518069,US,US,02,01,cable/phone,01/2033,2015-03-13,2015-03-13,675,675,5309,PURCHASE,,107.63,,,,False,,,False,False
+196881494,196881494,20000.0,19775.36,2016-11-21T02:14:01,15.62,hulu.com,US,US,05,08,online_subscriptions,04/2031,2015-03-13,2015-03-13,675,675,5309,PURCHASE,,224.64,,,,False,,,False,False
+196881494,196881494,20000.0,19784.74,2016-12-20T23:10:13,142.9,Boost Mobile #518069,US,US,02,01,cable/phone,01/2033,2015-03-13,2015-03-13,675,675,5309,PURCHASE,,215.26,,,,False,,,False,False
+196881494,196881494,20000.0,19641.84,2016-12-22T15:17:43,15.62,hulu.com,US,US,05,08,online_subscriptions,04/2031,2015-03-13,2015-03-13,675,675,5309,PURCHASE,,358.16,,,,False,,,False,False

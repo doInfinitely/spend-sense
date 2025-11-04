@@ -1,0 +1,13 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+636381059,636381059,5000.0,5000.0,2016-04-26T01:41:47,5.45,Apple iTunes,US,US,02,01,mobileapps,01/2030,2014-12-16,2014-12-16,797,797,9596,PURCHASE,,0.0,,,,False,,,False,False
+636381059,636381059,5000.0,5000.0,2016-05-26T14:47:46,16.13,San Francisco Post,US,US,02,99,subscriptions,04/2023,2014-12-16,2014-12-16,797,797,9596,PURCHASE,,0.0,,,,False,,,False,False
+636381059,636381059,5000.0,4983.87,2016-05-27T08:49:50,5.45,Apple iTunes,US,US,02,01,mobileapps,01/2030,2014-12-16,2014-12-16,797,797,9596,PURCHASE,,16.13,,,,False,,,False,False
+636381059,636381059,5000.0,5000.0,2016-06-19T06:52:15,247.5,Dallas Journal,US,US,09,08,subscriptions,01/2027,2014-12-16,2014-12-16,797,797,9596,PURCHASE,,0.0,,,,False,,,False,False
+636381059,636381059,5000.0,4752.5,2016-06-28T08:20:00,5.45,Apple iTunes,US,US,02,01,mobileapps,01/2030,2014-12-16,2014-12-16,797,797,9596,PURCHASE,,247.5,,,,False,,,False,False
+636381059,636381059,5000.0,4747.05,2016-06-29T06:51:07,128.22,Oklahoma City Post,US,US,02,01,subscriptions,08/2025,2014-12-16,2014-12-16,797,797,9596,PURCHASE,,252.95,,,,False,,,False,False
+636381059,636381059,5000.0,4643.83,2016-07-29T19:36:30,5.45,Apple iTunes,US,US,02,01,mobileapps,01/2030,2014-12-16,2014-12-16,797,797,9596,PURCHASE,,356.17,,,,False,,,False,False
+636381059,636381059,5000.0,4663.38,2016-08-30T02:27:21,5.45,Apple iTunes,US,US,02,01,mobileapps,01/2030,2014-12-16,2014-12-16,797,797,9596,PURCHASE,,336.62,,,,False,,,False,False
+636381059,636381059,5000.0,4682.93,2016-09-29T16:06:40,5.45,Apple iTunes,US,US,02,01,mobileapps,01/2030,2014-12-16,2014-12-16,797,797,9596,PURCHASE,,317.07,,,,False,,,False,False
+636381059,636381059,5000.0,4702.48,2016-10-29T23:06:46,5.45,Apple iTunes,US,US,02,01,mobileapps,01/2030,2014-12-16,2014-12-16,797,797,9596,PURCHASE,,297.52,,,,False,,,False,False
+636381059,636381059,5000.0,4722.03,2016-11-29T20:11:41,5.45,Apple iTunes,US,US,02,01,mobileapps,01/2030,2014-12-16,2014-12-16,797,797,9596,PURCHASE,,277.97,,,,False,,,False,False
+636381059,636381059,5000.0,4741.58,2016-12-30T10:48:13,5.45,Apple iTunes,US,US,02,01,mobileapps,01/2030,2014-12-16,2014-12-16,797,797,9596,PURCHASE,,258.42,,,,False,,,False,False

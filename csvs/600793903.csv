@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,transactionAmount,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+600793903,600793903,7500.0,7500.0,2016-03-28T14:05:04,NY Deli,US,US,02,08,food,07/2030,2011-12-15,2011-12-15,127,127,8909,ADDRESS_VERIFICATION,,0.0,0.0,,,,False,,,False,False
+600793903,600793903,7500.0,7500.0,2016-04-18T14:18:00,Next Day eCards,US,US,05,01,online_gifts,05/2031,2011-12-15,2011-12-15,127,127,8909,PURCHASE,,0.0,604.9,,,,False,,,False,False
+600793903,600793903,7500.0,7500.0,2016-07-10T10:56:49,Boston Pub,US,US,02,01,food,08/2031,2011-12-15,2011-12-15,127,127,8909,PURCHASE,,0.0,122.39,,,,True,,,False,False
+600793903,600793903,7500.0,7500.0,2016-08-04T03:23:40,AMC #552863,US,US,02,01,entertainment,01/2020,2011-12-15,2011-12-15,127,127,8909,PURCHASE,,0.0,8.9,,,,True,,,False,False
+600793903,600793903,7500.0,7491.1,2016-08-08T09:47:54,1st Pub,US,US,09,01,food,04/2022,2011-12-15,2011-12-15,127,127,8909,PURCHASE,,8.9,95.26,,,,True,,,False,False
+600793903,600793903,7500.0,7500.0,2016-11-07T07:47:38,Blue Mountain Online Services,US,US,05,01,online_gifts,06/2023,2011-12-15,2011-12-15,127,127,8909,PURCHASE,,0.0,808.14,,,,False,,,False,False
+600793903,600793903,7500.0,6691.86,2016-11-30T05:56:23,alibaba.com,US,US,09,01,online_retail,11/2024,2011-12-15,2011-12-15,127,127,8909,PURCHASE,,808.14,53.94,,,,False,,,False,False
+600793903,600793903,7500.0,7500.0,2016-12-19T21:02:32,Franks Pub #934222,US,US,02,01,food,03/2027,2011-12-15,2011-12-15,127,127,8909,PURCHASE,,0.0,57.94,,,,True,,,False,False

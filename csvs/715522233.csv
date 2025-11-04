@@ -1,0 +1,12 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+715522233,715522233,50000.0,50000.0,2016-04-28T07:46:18,686.91,staples.com,US,US,05,01,online_retail,01/2022,2013-07-31,2013-07-31,874,874,7090,PURCHASE,,0.0,,,,False,,,False,False
+715522233,715522233,50000.0,49338.09,2016-06-07T10:12:19,5.87,Play Store,US,US,02,01,mobileapps,09/2032,2013-07-31,2013-07-31,874,874,7090,PURCHASE,,661.91,,,,False,,,False,False
+715522233,715522233,50000.0,49357.22,2016-07-07T11:03:01,5.87,Play Store,US,US,02,01,mobileapps,09/2032,2013-07-31,2013-07-31,874,874,7090,PURCHASE,,642.78,,,,False,,,False,False
+715522233,715522233,50000.0,49376.35,2016-08-06T13:51:37,5.87,Play Store,US,US,02,01,mobileapps,09/2032,2013-07-31,2013-07-31,874,874,7090,PURCHASE,,623.65,,,,False,,,False,False
+715522233,715522233,50000.0,49395.48,2016-09-05T20:34:36,5.87,Play Store,US,US,02,01,mobileapps,09/2032,2013-07-31,2013-07-31,874,874,7090,PURCHASE,,604.52,,,,False,,,False,False
+715522233,715522233,50000.0,49389.61,2016-09-07T01:00:46,1.86,discount.com,US,US,05,08,online_retail,08/2030,2013-07-31,2013-07-31,941,941,547,PURCHASE,,610.39,,,,False,,,False,False
+715522233,715522233,50000.0,49412.75,2016-10-07T03:14:52,5.87,Play Store,US,US,02,01,mobileapps,09/2032,2013-07-31,2013-07-31,874,874,7090,PURCHASE,,587.25,,,,False,,,False,False
+715522233,715522233,50000.0,49431.88,2016-11-07T03:58:33,5.87,Play Store,US,US,02,01,mobileapps,09/2032,2013-07-31,2013-07-31,874,874,7090,PURCHASE,,568.12,,,,False,,,False,False
+715522233,715522233,50000.0,49426.01,2016-11-13T22:43:20,15.53,Spotify,US,US,90,08,online_subscriptions,03/2030,2013-07-31,2013-07-31,874,874,7090,PURCHASE,,573.99,,,,False,,,False,False
+715522233,715522233,50000.0,49435.48,2016-12-07T17:36:03,5.87,Play Store,US,US,02,01,mobileapps,09/2032,2013-07-31,2013-07-31,874,874,7090,PURCHASE,,564.52,,,,False,,,False,False
+715522233,715522233,50000.0,49429.61,2016-12-15T15:13:16,15.53,Spotify,US,US,90,08,online_subscriptions,03/2030,2013-07-31,2013-07-31,874,874,7090,PURCHASE,,570.39,,,,False,,,False,False

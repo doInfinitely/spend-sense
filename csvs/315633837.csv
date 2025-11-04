@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+315633837,315633837,5000.0,5000.0,2016-08-04T08:09:10,6.18,Play Store,US,US,09,01,mobileapps,10/2028,2015-04-06,2015-04-06,823,823,1976,PURCHASE,,0.0,,,,False,,,False,False
+315633837,315633837,5000.0,5000.0,2016-09-05T04:53:27,6.18,Play Store,US,US,09,01,mobileapps,10/2028,2015-04-06,2015-04-06,823,823,1976,PURCHASE,,0.0,,,,False,,,False,False
+315633837,315633837,5000.0,4993.82,2016-09-10T04:38:08,144.41,Next Day Online Services,US,US,05,01,online_gifts,07/2026,2015-04-06,2016-09-08,823,823,1976,PURCHASE,,6.18,,,,False,,,False,False
+315633837,315633837,5000.0,5000.0,2016-10-07T00:47:28,6.18,Play Store,US,US,09,01,mobileapps,10/2028,2015-04-06,2016-09-08,823,823,1976,PURCHASE,,0.0,,,,False,,,False,False
+315633837,315633837,5000.0,5000.0,2016-11-07T09:24:31,6.18,Play Store,US,US,09,01,mobileapps,10/2028,2015-04-06,2016-09-08,823,823,1976,PURCHASE,,0.0,,,,False,,,False,False
+315633837,315633837,5000.0,5000.0,2016-12-07T18:59:11,6.18,Play Store,US,US,09,01,mobileapps,10/2028,2015-04-06,2016-09-08,823,823,1976,PURCHASE,,0.0,,,,False,,,False,False

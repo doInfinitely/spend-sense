@@ -1,0 +1,13 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+450317825,450317825,5000.0,5000.0,2016-01-09T23:28:40,203.89,Fresh eCards,US,US,09,01,online_gifts,05/2026,2014-01-21,2014-01-21,364,364,8226,PURCHASE,,0.0,,,,False,,,False,False
+450317825,450317825,5000.0,4821.11,2016-04-26T20:44:00,10.1,hulu.com,US,US,09,01,online_subscriptions,12/2027,2014-01-21,2014-01-21,364,364,8226,PURCHASE,,178.89,,,,False,,,False,False
+450317825,450317825,5000.0,4836.01,2016-05-28T14:49:12,10.1,hulu.com,US,US,09,01,online_subscriptions,12/2027,2014-01-21,2014-01-21,364,364,8226,PURCHASE,,163.99,,,,False,,,False,False
+450317825,450317825,5000.0,4850.91,2016-06-28T15:07:29,10.1,hulu.com,US,US,09,01,online_subscriptions,12/2027,2014-01-21,2014-01-21,364,364,8226,PURCHASE,,149.09,,,,False,,,False,False
+450317825,450317825,5000.0,4865.81,2016-07-28T23:06:40,10.1,hulu.com,US,US,09,01,online_subscriptions,12/2027,2014-01-21,2014-01-21,364,364,8226,PURCHASE,,134.19,,,,False,,,False,False
+450317825,450317825,5000.0,4880.71,2016-08-28T08:34:04,10.1,hulu.com,US,US,09,01,online_subscriptions,12/2027,2014-01-21,2014-01-21,364,364,8226,PURCHASE,,119.29,,,,False,,,False,False
+450317825,450317825,5000.0,4895.61,2016-09-28T20:41:04,10.1,hulu.com,US,US,09,01,online_subscriptions,12/2027,2014-01-21,2014-01-21,364,364,8226,PURCHASE,,104.39,,,,False,,,False,False
+450317825,450317825,5000.0,4910.51,2016-10-29T12:03:33,10.1,hulu.com,US,US,09,01,online_subscriptions,12/2027,2014-01-21,2014-01-21,364,364,8226,PURCHASE,,89.49,,,,False,,,False,False
+450317825,450317825,5000.0,4925.41,2016-11-14T15:23:45,5.9,Apple iTunes,US,US,02,08,mobileapps,08/2023,2014-01-21,2014-01-21,364,364,8226,PURCHASE,,74.59,,,,False,,,False,False
+450317825,450317825,5000.0,4919.51,2016-11-28T23:24:57,10.1,hulu.com,US,US,09,01,online_subscriptions,12/2027,2014-01-21,2014-01-21,364,364,8226,PURCHASE,,80.49,,,,False,,,False,False
+450317825,450317825,5000.0,4934.41,2016-12-15T05:19:22,5.9,Apple iTunes,US,US,02,08,mobileapps,08/2023,2014-01-21,2014-01-21,364,364,8226,PURCHASE,,65.59,,,,False,,,False,False
+450317825,450317825,5000.0,4928.51,2016-12-30T08:01:39,10.1,hulu.com,US,US,09,01,online_subscriptions,12/2027,2014-01-21,2014-01-21,364,364,8226,PURCHASE,,71.49,,,,False,,,False,False

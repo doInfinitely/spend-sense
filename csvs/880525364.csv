@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+880525364,880525364,20000.0,20000.0,2016-01-16T03:49:49,433.73,sears.com,US,US,02,01,online_retail,01/2030,2015-04-09,2015-04-09,545,545,9106,PURCHASE,,0.0,,,,False,,,False,False
+880525364,880525364,20000.0,19591.27,2016-02-06T16:26:36,342.32,Lyft,US,US,09,01,rideshare,01/2021,2015-04-09,2015-04-09,830,830,7958,PURCHASE,,408.73,,,,False,,,False,False
+880525364,880525364,20000.0,19273.95,2016-04-26T01:20:33,59.45,Lyft,US,US,05,01,rideshare,03/2033,2015-04-09,2015-04-09,830,830,7958,PURCHASE,,726.05,,,,False,,,False,False
+880525364,880525364,20000.0,19239.5,2016-07-15T14:27:47,50.19,Lyft,MEX,MEX,09,01,rideshare,11/2028,2015-04-09,2015-04-09,830,830,7958,PURCHASE,,760.5,,,,False,,,False,False
+880525364,880525364,20000.0,19214.31,2016-10-30T15:20:20,54.26,sears.com,US,US,05,01,online_retail,10/2022,2015-04-09,2015-04-09,545,545,9106,PURCHASE,,785.69,,,,False,,,False,False
+880525364,880525364,20000.0,19185.05,2016-11-21T21:07:38,63.37,walmart.com,US,US,02,01,online_retail,06/2028,2015-04-09,2015-04-09,830,830,7958,PURCHASE,,814.95,,,,False,,,False,False

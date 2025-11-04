@@ -1,0 +1,12 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+118650256,118650256,10000.0,10000.0,2016-03-03T10:36:12,4.57,Next Day Online Services,US,US,90,01,online_gifts,03/2029,2013-02-16,2013-02-16,831,831,4890,PURCHASE,,0.0,,,,False,,,False,False
+118650256,118650256,10000.0,10000.0,2016-04-10T21:48:44,6.82,Play Store,US,US,05,08,mobileapps,03/2021,2013-02-16,2013-02-16,831,831,4890,PURCHASE,,0.0,,,,False,,,False,False
+118650256,118650256,10000.0,10000.0,2016-05-11T16:53:04,6.82,Play Store,US,US,05,08,mobileapps,03/2021,2013-02-16,2013-02-16,831,831,4890,PURCHASE,,0.0,,,,False,,,False,False
+118650256,118650256,10000.0,10000.0,2016-06-12T14:47:01,6.82,Play Store,US,US,05,08,mobileapps,03/2021,2013-02-16,2013-02-16,831,831,4890,PURCHASE,,0.0,,,,False,,,False,False
+118650256,118650256,10000.0,10000.0,2016-07-13T13:38:52,6.82,Play Store,US,US,05,08,mobileapps,03/2021,2013-02-16,2013-02-16,831,831,4890,PURCHASE,,0.0,,,,False,,,False,False
+118650256,118650256,10000.0,10000.0,2016-08-14T06:12:25,6.82,Play Store,US,US,05,08,mobileapps,03/2021,2013-02-16,2013-02-16,831,831,4890,PURCHASE,,0.0,,,,False,,,False,False
+118650256,118650256,10000.0,10000.0,2016-09-14T04:00:30,6.82,Play Store,US,US,05,08,mobileapps,03/2021,2013-02-16,2013-02-16,831,831,4890,PURCHASE,,0.0,,,,False,,,False,False
+118650256,118650256,10000.0,10000.0,2016-10-15T22:34:59,6.82,Play Store,US,US,05,08,mobileapps,03/2021,2013-02-16,2013-02-16,831,831,4890,PURCHASE,,0.0,,,,False,,,False,False
+118650256,118650256,10000.0,10000.0,2016-11-15T20:04:55,6.82,Play Store,US,US,05,08,mobileapps,03/2021,2013-02-16,2013-02-16,831,831,4890,PURCHASE,,0.0,,,,False,,,False,False
+118650256,118650256,10000.0,10000.0,2016-12-17T15:11:52,6.82,Play Store,US,US,05,08,mobileapps,03/2021,2013-02-16,2013-02-16,831,831,4890,PURCHASE,,0.0,,,,False,,,False,False
+118650256,118650256,10000.0,9993.18,2016-12-20T16:05:57,175.04,Fresh eCards,US,US,02,01,online_gifts,05/2022,2013-02-16,2013-02-16,831,831,4890,PURCHASE,,6.82,,,,False,,,False,False

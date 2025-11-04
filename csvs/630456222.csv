@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,isFraud,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch
+630456222,630456222,250.0,250.0,2016-04-28T06:55:36,701.84,Uber,US,US,05,01,rideshare,03/2030,2012-11-13,2012-11-13,566,566,3008,PURCHASE,True,,0.0,,,,False,,,False
+630456222,630456222,250.0,69.86,2016-06-07T08:58:55,89.17,apple.com,US,US,05,01,online_retail,07/2032,2012-11-13,2012-11-13,566,566,3008,PURCHASE,False,,180.14,,,,False,,,False
+630456222,630456222,250.0,186.34,2016-06-09T16:31:41,11.62,abc.com,US,US,09,01,online_subscriptions,05/2030,2012-11-13,2012-11-13,566,566,3008,PURCHASE,False,,63.66,,,,False,,,False
+630456222,630456222,250.0,199.72,2016-07-11T10:35:03,11.62,abc.com,US,US,09,01,online_subscriptions,05/2030,2012-11-13,2012-11-13,566,566,3008,PURCHASE,False,,50.28,,,,False,,,False
+630456222,630456222,250.0,213.1,2016-08-11T05:38:20,11.62,abc.com,US,US,09,01,online_subscriptions,05/2030,2012-11-13,2012-11-13,566,566,3008,PURCHASE,False,,36.9,,,,False,,,False
+630456222,630456222,250.0,226.48,2016-09-11T20:24:22,11.62,abc.com,US,US,09,01,online_subscriptions,05/2030,2012-11-13,2012-11-13,566,566,3008,PURCHASE,False,,23.52,,,,False,,,False
+630456222,630456222,250.0,239.86,2016-10-12T11:44:25,11.62,abc.com,US,US,09,01,online_subscriptions,05/2030,2012-11-13,2012-11-13,566,566,3008,PURCHASE,False,,10.14,,,,False,,,False
+630456222,630456222,250.0,250.0,2016-11-13T03:50:30,11.62,abc.com,US,US,09,01,online_subscriptions,05/2030,2012-11-13,2012-11-13,566,566,3008,PURCHASE,False,,0.0,,,,False,,,False
+630456222,630456222,250.0,250.0,2016-12-14T10:53:57,11.62,abc.com,US,US,09,01,online_subscriptions,05/2030,2012-11-13,2012-11-13,566,566,3008,PURCHASE,False,,0.0,,,,False,,,False

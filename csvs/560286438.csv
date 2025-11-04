@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+560286438,560286438,500.0,500.0,2016-08-05T07:47:22,131.9,Chicago News,US,US,09,01,subscriptions,03/2027,2014-08-12,2014-08-12,756,756,7371,PURCHASE,,0.0,,,,False,,,False,False
+560286438,560286438,500.0,368.1,2016-08-08T19:30:14,4.69,Play Store,US,US,02,01,mobileapps,06/2021,2014-08-12,2014-08-12,981,981,3321,PURCHASE,,131.9,,,,False,,,False,False
+560286438,560286438,500.0,500.0,2016-09-08T14:36:26,4.69,Play Store,US,US,02,01,mobileapps,06/2021,2014-08-12,2014-08-12,981,981,3321,PURCHASE,,0.0,,,,False,,,False,False
+560286438,560286438,500.0,500.0,2016-10-09T02:26:21,4.69,Play Store,US,US,02,01,mobileapps,06/2021,2014-08-12,2014-08-12,981,981,3321,PURCHASE,,0.0,,,,False,,,False,False
+560286438,560286438,500.0,500.0,2016-11-08T02:47:29,4.69,Play Store,US,US,02,01,mobileapps,06/2021,2014-08-12,2014-08-12,981,981,3321,PURCHASE,,0.0,,,,False,,,False,False
+560286438,560286438,500.0,500.0,2016-12-08T23:32:32,4.69,Play Store,US,US,02,01,mobileapps,06/2021,2014-08-12,2014-08-12,981,981,3321,PURCHASE,,0.0,,,,False,,,False,False

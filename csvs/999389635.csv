@@ -1,0 +1,10 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+999389635,999389635,5000.0,5000.0,2016-02-09T14:23:41,101.46,target.com,US,US,05,01,online_retail,12/2019,2015-10-09,2015-10-09,140,140,3991,PURCHASE,,0.0,,,,False,,,False,False
+999389635,999389635,5000.0,4923.54,2016-07-22T01:28:10,4.62,Play Store,US,US,05,01,mobileapps,04/2033,2015-10-09,2015-10-09,140,140,3991,PURCHASE,,76.46,,,,False,,,False,False
+999389635,999389635,5000.0,4943.92,2016-08-04T20:27:36,42.98,oldnavy.com,US,US,09,01,online_retail,07/2023,2015-10-09,2015-10-09,140,140,3991,PURCHASE,,56.08,,,,False,,,False,False
+999389635,999389635,5000.0,4900.94,2016-08-22T11:42:48,4.62,Play Store,US,US,05,01,mobileapps,04/2033,2015-10-09,2015-10-09,140,140,3991,PURCHASE,,99.06,,,,False,,,False,False
+999389635,999389635,5000.0,4921.32,2016-09-16T15:35:24,267.62,Franks Pub #680641,US,US,09,01,food,02/2032,2015-10-09,2015-10-09,140,140,3991,PURCHASE,,78.68,,,,True,,,False,False
+999389635,999389635,5000.0,4653.7,2016-09-22T13:58:30,4.62,Play Store,US,US,05,01,mobileapps,04/2033,2015-10-09,2015-10-09,140,140,3991,PURCHASE,,346.3,,,,False,,,False,False
+999389635,999389635,5000.0,4674.08,2016-10-23T16:47:41,4.62,Play Store,US,US,05,01,mobileapps,04/2033,2015-10-09,2015-10-09,140,140,3991,PURCHASE,,325.92,,,,False,,,False,False
+999389635,999389635,5000.0,4694.46,2016-11-24T00:21:46,4.62,Play Store,US,US,05,01,mobileapps,04/2033,2015-10-09,2015-10-09,140,140,3991,PURCHASE,,305.54,,,,False,,,False,False
+999389635,999389635,5000.0,4714.84,2016-12-24T05:19:30,4.62,Play Store,US,US,05,01,mobileapps,04/2033,2015-10-09,2015-10-09,140,140,3991,PURCHASE,,285.16,,,,False,,,False,False

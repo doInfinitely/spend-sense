@@ -1,0 +1,9 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+440712360,440712360,5000.0,5000.0,2016-01-31T08:36:28,21.67,gap.com,US,US,02,01,online_retail,01/2027,2014-07-20,2014-07-20,853,853,2136,PURCHASE,,0.0,,,,False,,,False,False
+440712360,440712360,5000.0,5000.0,2016-09-30T09:37:48,98.21,gap.com,US,US,09,01,online_retail,08/2025,2014-07-20,2014-07-20,111,111,4932,PURCHASE,,0.0,,,,False,,,False,False
+440712360,440712360,5000.0,4926.79,2016-10-17T16:42:23,57.35,Cinnabon #311153,US,US,02,01,fastfood,01/2032,2014-07-20,2014-07-20,111,111,4932,PURCHASE,,73.21,,,,True,,,False,False
+440712360,440712360,5000.0,4869.44,2016-10-29T07:45:07,5.3,Apple iTunes,US,US,09,01,mobileapps,09/2022,2014-07-20,2014-07-20,853,853,2136,PURCHASE,,130.56,,,,False,,,False,False
+440712360,440712360,5000.0,4889.14,2016-11-05T12:58:00,149.11,walmart.com,US,US,09,08,online_retail,06/2026,2014-07-20,2014-07-20,853,853,2136,PURCHASE,,110.86,,,,False,,,False,False
+440712360,440712360,5000.0,4740.03,2016-11-30T05:26:55,5.3,Apple iTunes,US,US,09,01,mobileapps,09/2022,2014-07-20,2014-07-20,853,853,2136,PURCHASE,,259.97,,,,False,,,False,False
+440712360,440712360,5000.0,4759.73,2016-12-10T16:51:43,126.5,Quizno's #473808,US,US,09,08,fastfood,09/2022,2014-07-20,2014-07-20,934,934,6542,PURCHASE,,240.27,,,,True,,,False,False
+440712360,440712360,5000.0,4633.23,2016-12-30T10:01:04,5.3,Apple iTunes,US,US,09,01,mobileapps,09/2022,2014-07-20,2014-07-20,853,853,2136,PURCHASE,,366.77,,,,False,,,False,False

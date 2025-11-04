@@ -1,0 +1,7 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+182243248,182243248,7500.0,7500.0,2016-01-01T10:20:33,307.21,Delta Airlines,US,US,02,01,airline,07/2032,2015-06-23,2015-06-23,215,215,2416,PURCHASE,,0.0,,,,False,,,False,False
+182243248,182243248,7500.0,7217.79,2016-02-01T17:22:55,198.77,American Airlines,US,US,09,01,airline,01/2022,2015-06-23,2015-06-23,215,215,2416,PURCHASE,,282.21,,,,False,,,False,False
+182243248,182243248,7500.0,7044.02,2016-05-16T17:54:14,312.44,Virgin Airlines,US,US,05,01,airline,07/2020,2015-06-23,2015-06-23,215,215,2416,PURCHASE,,455.98,,,,False,,,False,False
+182243248,182243248,7500.0,6756.58,2016-06-23T11:08:04,213.63,Delta Airlines,US,US,05,01,airline,05/2027,2015-06-23,2015-06-23,215,215,2416,PURCHASE,,743.42,,,,False,,,False,False
+182243248,182243248,7500.0,6567.95,2016-08-21T05:11:18,191.34,Virgin Airlines,US,US,05,08,airline,01/2029,2015-06-23,2015-06-23,384,384,8167,PURCHASE,,932.05,,,,True,,,False,False
+182243248,182243248,7500.0,6401.61,2016-12-26T23:34:46,210.86,American Airlines,US,US,05,01,airline,05/2020,2015-06-23,2015-06-23,215,215,2416,PURCHASE,,1098.39,,,,False,,,False,False

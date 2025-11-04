@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+282174991,282174991,2500.0,2500.0,2016-09-28T10:24:38,86.14,staples.com,US,US,02,08,online_retail,02/2030,2013-05-06,2013-05-06,772,772,5019,PURCHASE,,0.0,,,,False,,,False,False
+282174991,282174991,2500.0,2438.86,2016-12-16T07:19:19,167.3,oldnavy.com,US,US,05,01,online_retail,12/2025,2013-05-06,2013-05-06,967,967,4786,PURCHASE,,61.14,,,,False,,,False,False
+282174991,282174991,2500.0,2271.56,2016-12-29T14:51:25,167.3,oldnavy.com,US,US,05,01,online_retail,12/2025,2013-05-06,2013-05-06,967,967,4786,REVERSAL,,228.44,,,,False,,,False,False

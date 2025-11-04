@@ -1,0 +1,4 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+658619957,658619957,7500.0,7500.0,2016-04-09T09:25:25,56.86,NYSC #74293,US,US,09,08,health,12/2027,2015-05-23,2015-05-23,647,647,5281,PURCHASE,,0.0,,,,False,,,False,False
+658619957,658619957,7500.0,7468.14,2016-07-04T15:34:24,196.12,target.com,US,US,09,01,online_retail,07/2024,2015-05-23,2015-05-23,647,647,5281,PURCHASE,,31.86,,,,False,,,False,False
+658619957,658619957,7500.0,7297.02,2016-12-24T16:06:39,19.8,hulu.com,US,US,05,01,online_subscriptions,04/2020,2015-05-23,2015-05-23,647,647,5281,PURCHASE,,202.98,,,,False,,,False,False

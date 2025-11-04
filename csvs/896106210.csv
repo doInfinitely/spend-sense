@@ -1,0 +1,13 @@
+accountNumber,customerId,creditLimit,availableMoney,transactionDateTime,transactionAmount,merchantName,acqCountry,merchantCountryCode,posEntryMode,posConditionCode,merchantCategoryCode,currentExpDate,accountOpenDate,dateOfLastAddressChange,cardCVV,enteredCVV,cardLast4Digits,transactionType,echoBuffer,currentBalance,merchantCity,merchantState,merchantZip,cardPresent,posOnPremises,recurringAuthInd,expirationDateKeyInMatch,isFraud
+896106210,896106210,10000.0,10000.0,2016-04-23T10:03:48,11.23,Spotify,US,US,09,01,online_subscriptions,09/2026,2014-11-22,2014-11-22,528,528,2332,PURCHASE,,0.0,,,,False,,,False,False
+896106210,896106210,10000.0,10000.0,2016-05-24T02:25:50,11.23,Spotify,US,US,09,01,online_subscriptions,09/2026,2014-11-22,2014-11-22,528,528,2332,PURCHASE,,0.0,,,,False,,,False,False
+896106210,896106210,10000.0,10000.0,2016-06-09T20:39:08,12.73,Uptown Diner,US,US,09,01,food,08/2023,2014-11-22,2014-11-22,528,528,2332,PURCHASE,,0.0,,,,True,,,False,False
+896106210,896106210,10000.0,9987.27,2016-06-25T02:22:26,11.23,Spotify,US,US,09,01,online_subscriptions,09/2026,2014-11-22,2014-11-22,528,528,2332,PURCHASE,,12.73,,,,False,,,False,False
+896106210,896106210,10000.0,10000.0,2016-07-25T16:14:52,11.23,Spotify,US,US,09,01,online_subscriptions,09/2026,2014-11-22,2014-11-22,528,528,2332,PURCHASE,,0.0,,,,False,,,False,False
+896106210,896106210,10000.0,10000.0,2016-08-17T11:33:31,21.84,EZ Putt Putt #982199,US,US,02,01,entertainment,12/2026,2014-11-22,2014-11-22,528,528,2332,PURCHASE,,0.0,,,,True,,,False,False
+896106210,896106210,10000.0,9978.16,2016-08-24T17:40:49,11.23,Spotify,US,US,09,01,online_subscriptions,09/2026,2014-11-22,2014-11-22,528,528,2332,PURCHASE,,21.84,,,,False,,,False,False
+896106210,896106210,10000.0,9966.93,2016-08-28T09:18:43,1.75,Ray's Fries #745083,US,US,05,01,food,11/2023,2014-11-22,2014-11-22,528,528,2332,PURCHASE,,33.07,,,,True,,,False,False
+896106210,896106210,10000.0,9990.18,2016-09-24T06:06:49,11.23,Spotify,US,US,09,01,online_subscriptions,09/2026,2014-11-22,2014-11-22,528,528,2332,PURCHASE,,9.82,,,,False,,,False,False
+896106210,896106210,10000.0,10000.0,2016-10-24T15:31:29,11.23,Spotify,US,US,09,01,online_subscriptions,09/2026,2014-11-22,2014-11-22,528,528,2332,PURCHASE,,0.0,,,,False,,,False,False
+896106210,896106210,10000.0,10000.0,2016-11-24T14:46:26,11.23,Spotify,US,US,09,01,online_subscriptions,09/2026,2014-11-22,2014-11-22,528,528,2332,PURCHASE,,0.0,,,,False,,,False,False
+896106210,896106210,10000.0,10000.0,2016-12-25T23:53:33,11.23,Spotify,US,US,09,01,online_subscriptions,09/2026,2014-11-22,2014-11-22,528,528,2332,PURCHASE,,0.0,,,,False,,,False,False
